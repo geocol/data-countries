@@ -1,0 +1,20 @@
+data-countries
+~~~~~~~~~~~~~~
+
+* Files
+
+  JSON data file: data/{file_name}.json
+  Documentation:  doc/{file_name}.txt
+
+There is following file:
+
+  country-names   Names and identifiers of the country.
+
+* Author
+
+These files are maintained by Wakaba <wakaba@suikawiki.org>.
+
+* License
+
+You are granted a license to use, reproduce, and create derivative
+works of these files.  See also documents in the |doc/| directory.

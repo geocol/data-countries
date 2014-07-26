@@ -1,0 +1,12 @@
+Data types
+~~~~~~~~~~
+
+See
+<https://github.com/manakai/data-web-defs/blob/master/doc/data-types.txt>
+and
+<https://github.com/geocol/data-jp-transport/blob/master/doc/datatypes.txt>.
+
+The data type "latlon" represents a JSON array with two "number"
+items, where the first number is the latitude and the second number is
+the longitude.  They identifies a WGS84 geographical position on the
+Earth.

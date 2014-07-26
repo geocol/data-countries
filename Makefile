@@ -1,4 +1,4 @@
-all:
+all: deps all-data
 
 WGET = wget
 CURL = curl
@@ -40,6 +40,8 @@ local/perl-latest/pm/lib/perl5/JSON/PS.pm:
 
 ## ------ Generation ------
 
+all-data: data/country-names.json
+
 local/geonlp/geonlp_world_country/geonlp_world_country_20130912_u.csv:
 	mkdir -p local/geonlp
 	$(WGET) -O local/geonlp/geonlp_world_country.zip https://geonlp.ex.nii.ac.jp/dictionary/geonlp/world_country/geonlp_world_country_20130912_u.zip
@@ -51,6 +53,8 @@ local/geonlp/geonlp_world_country.json: \
 local/geonlp/countries.json: local/geonlp/geonlp_world_country.json \
     bin/geonlp-countries.pl
 	$(PERL) bin/geonlp-countries.pl $< > $@
+data/country-names.json: local/geonlp/countries.json bin/country-names.pl
+	$(PERL) bin/country-names.pl > $@
 
 ## ------ Tests ------
 
