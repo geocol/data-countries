@@ -2,6 +2,7 @@ use strict;
 use warnings;
 use Path::Tiny;
 use lib path (__FILE__)->parent->parent->child ('lib')->stringify;
+use CountryCodes;
 use IDs;
 use JSON::PS;
 
@@ -16,15 +17,6 @@ sub _n ($) {
   $s =~ s/ $//;
   return $s;
 }
-
-sub check_code ($) {
-  return not {
-    #AC => 1, CP => 1, DG => 1, EA => 1, IC => 1, TA => 1,
-    EU => 1, FX => 1, SU => 1, UK => 1,
-    AN => 1, BU => 1, CS => 1, NT => 1, SF => 1, TP => 1, YU => 1, ZR => 1,
-    XK => 1,
-  }->{uc shift};
-} # check_code
 
 ## Names by UK government
 {
@@ -95,7 +87,7 @@ sub check_code ($) {
 
     my $desc = $json->{region}->{$code}->{Description}->[0];
     next if $desc eq 'Private use';
-    next unless check_code uc $code;
+    next unless CountryCodes::check_code uc $code;
 
     my $code = uc $code;
     my $id = IDs::get_id_by_string 'countries', $code;
@@ -112,7 +104,7 @@ sub check_code ($) {
   my $json = json_bytes2perl $path->slurp;
   
   for my $data (@$json) {
-    next unless check_code $data->{cca2};
+    next unless CountryCodes::check_code $data->{cca2};
     my $id = IDs::get_id_by_string 'countries', $data->{cca2};
     my $d = $Data->{areas}->{$id} ||= {};
     for (
@@ -124,6 +116,51 @@ sub check_code ($) {
     ) {
       $d->{$_->[0]} ||= _n $data->{$_->[1]}
           if defined $data->{$_->[1]} and length $data->{$_->[1]};
+    }
+
+    if (defined $data->{region} and length $data->{region}) {
+      if (my $code = {
+        Africa => '002',
+        Americas => '019',
+        Asia => '142',
+        Europe => '150',
+        Oceania => '009',
+      }->{$data->{region}}) {
+        $d->{macroregion} = $code;
+      } else {
+        warn "Unknown region |$data->{region}|";
+      }
+    }
+
+    if (defined $data->{subregion} and length $data->{subregion}) {
+      if (my $code = {
+        'Eastern Africa' => '014',
+        'Middle Africa' => '017',
+        'Northern Africa' => '015',
+        'Southern Africa' => '018',
+        'Western Africa' => '011',
+        'Caribbean' => '029',
+        'Central America' => '013',
+        'Northern America' => '021',
+        'South America' => '005',
+        'Central Asia' => '143',
+        'Eastern Asia' => '030',
+        'South-Eastern Asia' => '035',
+        'Southern Asia' => '034',
+        'Western Asia' => '145',
+        'Eastern Europe' => '151',
+        'Northern Europe' => '154',
+        'Southern Europe' => '039',
+        'Western Europe' => '155',
+        'Australia and New Zealand' => '053',
+        'Melanesia' => '054',
+        'Micronesia' => '057',
+        'Polynesia' => '061',
+      }->{$data->{subregion}}) {
+        $d->{submacroregion} = $code;
+      } else {
+        warn "Unknown subregion |$data->{subregion}|";
+      }
     }
   }
 }

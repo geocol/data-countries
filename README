@@ -9,6 +9,7 @@ data-countries
 There is following file:
 
   country-names   Names and identifiers of the country.
+  macroregions    Macroregions (continents).
 
 * Author
 

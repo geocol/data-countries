@@ -40,7 +40,7 @@ local/perl-latest/pm/lib/perl5/JSON/PS.pm:
 
 ## ------ Generation ------
 
-all-data: data/country-names.json
+all-data: data/country-names.json data/macroregions.json
 clean-data:
 	rm -fr local/geonlp/*.zip local/geonlp/*.csv
 	rm -fr local/geouk/*.html local/countries.json
@@ -82,6 +82,9 @@ data/country-names.json: intermediate/geonlp/countries.json \
     local/countries.json \
     bin/country-names.pl
 	$(PERL) bin/country-names.pl > $@
+
+data/macroregions.json: bin/macroregions.pl
+	$(PERL) bin/macroregions.pl > $@
 
 ## ------ Tests ------
 

@@ -46,6 +46,12 @@ areas [object]
       contain suffix such as "共和国" (republic) where unambiguous),
       if known.
 
+    macroregion [number?]
+
+      The ID of the macroregion to which the country belongs, if
+      known.  This should be the continent-level macroregion (i.e. a
+      subregion of the World macroregion).  See |macroregion.json|.
+
     position [latlon?]
 
       The geographical location of somewhere in the country (typically
@@ -59,6 +65,12 @@ areas [object]
       Value [string]:
         "country" - recognized as an independent country
         "other"   - other regions
+
+    submacroregion [number?]
+
+      The ID of the submacroregion to which the country belongs, if
+      known.  This is a subregion of the macroregion shown in the
+      |macroregion| field.  See |macroregion.json|.
 
 * Sources
 

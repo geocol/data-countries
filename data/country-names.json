@@ -8,6 +8,7 @@
          "iso3166_numeric" : "028",
          "ja_name" : "アンティグア・バーブーダ",
          "ja_short_name" : "アンティグア・バーブーダ",
+         "macroregion" : "019",
          "position" : [
             "17.12",
             "-61.85"
@@ -15,7 +16,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "029"
       },
       "10" : {
          "code" : "QA",
@@ -25,6 +27,7 @@
          "iso3166_numeric" : "634",
          "ja_name" : "カタール国",
          "ja_short_name" : "カタール",
+         "macroregion" : "142",
          "position" : [
             "25.28",
             "51.52"
@@ -32,7 +35,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "100" : {
          "code" : "RS",
@@ -42,6 +46,7 @@
          "iso3166_numeric" : "688",
          "ja_name" : "セルビア共和国",
          "ja_short_name" : "セルビア",
+         "macroregion" : "150",
          "position" : [
             "44.8",
             "20.48"
@@ -49,7 +54,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "101" : {
          "code" : "UZ",
@@ -59,6 +65,7 @@
          "iso3166_numeric" : "860",
          "ja_name" : "ウズベキスタン共和国",
          "ja_short_name" : "ウズベキスタン",
+         "macroregion" : "142",
          "position" : [
             "41.31",
             "69.27"
@@ -66,7 +73,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "143"
       },
       "102" : {
          "code" : "NI",
@@ -76,6 +84,7 @@
          "iso3166_numeric" : "558",
          "ja_name" : "ニカラグア共和国",
          "ja_short_name" : "ニカラグア",
+         "macroregion" : "019",
          "position" : [
             "12.15",
             "-86.27"
@@ -83,7 +92,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "013"
       },
       "103" : {
          "code" : "CM",
@@ -93,6 +103,7 @@
          "iso3166_numeric" : "120",
          "ja_name" : "カメルーン共和国",
          "ja_short_name" : "カメルーン",
+         "macroregion" : "002",
          "position" : [
             "3.87",
             "11.52"
@@ -100,7 +111,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "017"
       },
       "104" : {
          "code" : "ZM",
@@ -110,6 +122,7 @@
          "iso3166_numeric" : "894",
          "ja_name" : "ザンビア共和国",
          "ja_short_name" : "ザンビア",
+         "macroregion" : "002",
          "position" : [
             "-15.41",
             "28.29"
@@ -117,7 +130,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "105" : {
          "code" : "MT",
@@ -127,6 +141,7 @@
          "iso3166_numeric" : "470",
          "ja_name" : "マルタ共和国",
          "ja_short_name" : "マルタ",
+         "macroregion" : "150",
          "position" : [
             "35.9",
             "14.52"
@@ -134,7 +149,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "106" : {
          "code" : "SY",
@@ -144,6 +160,7 @@
          "iso3166_numeric" : "760",
          "ja_name" : "シリア・アラブ共和国",
          "ja_short_name" : "シリア",
+         "macroregion" : "142",
          "position" : [
             "33.52",
             "36.31"
@@ -151,7 +168,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "107" : {
          "code" : "PT",
@@ -161,6 +179,7 @@
          "iso3166_numeric" : "620",
          "ja_name" : "ポルトガル共和国",
          "ja_short_name" : "ポルトガル",
+         "macroregion" : "150",
          "position" : [
             "38.71",
             "-9.14"
@@ -168,7 +187,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "108" : {
          "code" : "TN",
@@ -178,6 +198,7 @@
          "iso3166_numeric" : "788",
          "ja_name" : "チュニジア共和国",
          "ja_short_name" : "チュニジア",
+         "macroregion" : "002",
          "position" : [
             "36.82",
             "10.17"
@@ -185,7 +206,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "015"
       },
       "109" : {
          "code" : "LB",
@@ -195,6 +217,7 @@
          "iso3166_numeric" : "422",
          "ja_name" : "レバノン共和国",
          "ja_short_name" : "レバノン",
+         "macroregion" : "142",
          "position" : [
             "33.89",
             "35.51"
@@ -202,7 +225,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "11" : {
          "code" : "VN",
@@ -212,6 +236,7 @@
          "iso3166_numeric" : "704",
          "ja_name" : "ベトナム社会主義共和国",
          "ja_short_name" : "ベトナム",
+         "macroregion" : "142",
          "position" : [
             "21.02",
             "105.85"
@@ -219,7 +244,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "035"
       },
       "110" : {
          "code" : "PW",
@@ -229,6 +255,7 @@
          "iso3166_numeric" : "585",
          "ja_name" : "パラオ共和国",
          "ja_short_name" : "パラオ",
+         "macroregion" : "009",
          "position" : [
             "7.34",
             "134.48"
@@ -236,7 +263,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "057"
       },
       "111" : {
          "code" : "MC",
@@ -246,6 +274,7 @@
          "iso3166_numeric" : "492",
          "ja_name" : "モナコ公国",
          "ja_short_name" : "モナコ",
+         "macroregion" : "150",
          "position" : [
             "43.75",
             "7.42"
@@ -253,7 +282,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "155"
       },
       "112" : {
          "code" : "CO",
@@ -263,6 +293,7 @@
          "iso3166_numeric" : "170",
          "ja_name" : "コロンビア共和国",
          "ja_short_name" : "コロンビア",
+         "macroregion" : "019",
          "position" : [
             "4.61",
             "-74.08"
@@ -270,7 +301,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "005"
       },
       "113" : {
          "code" : "CN",
@@ -280,6 +312,7 @@
          "iso3166_numeric" : "156",
          "ja_name" : "中華人民共和国",
          "ja_short_name" : "中国",
+         "macroregion" : "142",
          "position" : [
             "39.91",
             "116.4"
@@ -287,7 +320,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "030"
       },
       "114" : {
          "code" : "LA",
@@ -297,6 +331,7 @@
          "iso3166_numeric" : "418",
          "ja_name" : "ラオス人民民主共和国",
          "ja_short_name" : "ラオス",
+         "macroregion" : "142",
          "position" : [
             "17.96",
             "102.61"
@@ -304,7 +339,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "035"
       },
       "115" : {
          "code" : "CY",
@@ -314,6 +350,7 @@
          "iso3166_numeric" : "196",
          "ja_name" : "キプロス共和国",
          "ja_short_name" : "キプロス",
+         "macroregion" : "150",
          "position" : [
             "35.17",
             "33.37"
@@ -321,7 +358,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "151"
       },
       "116" : {
          "code" : "SB",
@@ -331,6 +369,7 @@
          "iso3166_numeric" : "090",
          "ja_name" : "ソロモン諸島",
          "ja_short_name" : "ソロモン諸島",
+         "macroregion" : "009",
          "position" : [
             "-9.43",
             "159.95"
@@ -338,7 +377,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "054"
       },
       "117" : {
          "code" : "AU",
@@ -348,6 +388,7 @@
          "iso3166_numeric" : "036",
          "ja_name" : "オーストラリア連邦",
          "ja_short_name" : "オーストラリア",
+         "macroregion" : "009",
          "position" : [
             "-35.33",
             "149.08"
@@ -355,7 +396,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "053"
       },
       "118" : {
          "code" : "SC",
@@ -365,6 +407,7 @@
          "iso3166_numeric" : "690",
          "ja_name" : "セーシェル共和国",
          "ja_short_name" : "セーシェル",
+         "macroregion" : "002",
          "position" : [
             "-4.61",
             "55.44"
@@ -372,7 +415,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "119" : {
          "code" : "SG",
@@ -382,6 +426,7 @@
          "iso3166_numeric" : "702",
          "ja_name" : "シンガポール共和国",
          "ja_short_name" : "シンガポール",
+         "macroregion" : "142",
          "position" : [
             "1.29",
             "103.85"
@@ -389,7 +434,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "035"
       },
       "12" : {
          "code" : "ME",
@@ -399,6 +445,7 @@
          "iso3166_numeric" : "499",
          "ja_name" : "モンテネグロ",
          "ja_short_name" : "モンテネグロ",
+         "macroregion" : "150",
          "position" : [
             "42.44",
             "19.27"
@@ -406,7 +453,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "120" : {
          "code" : "UA",
@@ -416,6 +464,7 @@
          "iso3166_numeric" : "804",
          "ja_name" : "ウクライナ",
          "ja_short_name" : "ウクライナ",
+         "macroregion" : "150",
          "position" : [
             "50.45",
             "30.5"
@@ -423,7 +472,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "151"
       },
       "121" : {
          "code" : "BO",
@@ -433,6 +483,7 @@
          "iso3166_numeric" : "068",
          "ja_name" : "ボリビア民族国",
          "ja_short_name" : "ボリビア",
+         "macroregion" : "019",
          "position" : [
             "-16.5",
             "-68.15"
@@ -440,7 +491,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "005"
       },
       "122" : {
          "code" : "HK",
@@ -450,13 +502,15 @@
          "iso3166_numeric" : "344",
          "ja_name" : "香港",
          "ja_short_name" : "香港",
+         "macroregion" : "142",
          "position" : [
             "22.38",
             "114.16"
          ],
          "status" : {
             "jp" : "other"
-         }
+         },
+         "submacroregion" : "030"
       },
       "123" : {
          "code" : "NA",
@@ -466,6 +520,7 @@
          "iso3166_numeric" : "516",
          "ja_name" : "ナミビア共和国",
          "ja_short_name" : "ナミビア",
+         "macroregion" : "002",
          "position" : [
             "-22.57",
             "17.07"
@@ -473,7 +528,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "018"
       },
       "124" : {
          "code" : "FM",
@@ -483,6 +539,7 @@
          "iso3166_numeric" : "583",
          "ja_name" : "ミクロネシア連邦",
          "ja_short_name" : "ミクロネシア",
+         "macroregion" : "009",
          "position" : [
             "6.92",
             "158.19"
@@ -490,7 +547,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "057"
       },
       "125" : {
          "code" : "HU",
@@ -500,6 +558,7 @@
          "iso3166_numeric" : "348",
          "ja_name" : "ハンガリー",
          "ja_short_name" : "ハンガリー",
+         "macroregion" : "150",
          "position" : [
             "47.5",
             "19.04"
@@ -507,7 +566,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "151"
       },
       "126" : {
          "code" : "ID",
@@ -517,6 +577,7 @@
          "iso3166_numeric" : "360",
          "ja_name" : "インドネシア共和国",
          "ja_short_name" : "インドネシア",
+         "macroregion" : "142",
          "position" : [
             "-6.21",
             "106.85"
@@ -524,7 +585,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "035"
       },
       "127" : {
          "code" : "PS",
@@ -534,6 +596,7 @@
          "iso3166_numeric" : "275",
          "ja_name" : "パレスチナ自治政府",
          "ja_short_name" : "パレスチナ",
+         "macroregion" : "142",
          "position" : [
             "31.93",
             "34.87"
@@ -541,7 +604,8 @@
          "status" : {
             "gb" : "other",
             "jp" : "other"
-         }
+         },
+         "submacroregion" : "145"
       },
       "128" : {
          "code" : "BA",
@@ -551,6 +615,7 @@
          "iso3166_numeric" : "070",
          "ja_name" : "ボスニア・ヘルツェゴビナ",
          "ja_short_name" : "ボスニア・ヘルツェゴビナ",
+         "macroregion" : "150",
          "position" : [
             "43.86",
             "18.41"
@@ -558,7 +623,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "129" : {
          "code" : "NP",
@@ -568,6 +634,7 @@
          "iso3166_numeric" : "524",
          "ja_name" : "ネパール連邦民主共和国",
          "ja_short_name" : "ネパール",
+         "macroregion" : "142",
          "position" : [
             "27.7",
             "85.32"
@@ -575,7 +642,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "034"
       },
       "13" : {
          "code" : "VA",
@@ -585,6 +653,7 @@
          "iso3166_numeric" : "336",
          "ja_name" : "バチカン市国",
          "ja_short_name" : "バチカン",
+         "macroregion" : "150",
          "position" : [
             "41.9",
             "12.45"
@@ -592,7 +661,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "130" : {
          "code" : "MK",
@@ -602,6 +672,7 @@
          "iso3166_numeric" : "807",
          "ja_name" : "マケドニア旧ユーゴスラビア共和国",
          "ja_short_name" : "マケドニア",
+         "macroregion" : "150",
          "position" : [
             "42",
             "21.45"
@@ -609,7 +680,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "131" : {
          "code" : "SM",
@@ -619,6 +691,7 @@
          "iso3166_numeric" : "674",
          "ja_name" : "サンマリノ共和国",
          "ja_short_name" : "サンマリノ",
+         "macroregion" : "150",
          "position" : [
             "43.96",
             "12.46"
@@ -626,7 +699,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "132" : {
          "code" : "MR",
@@ -636,6 +710,7 @@
          "iso3166_numeric" : "478",
          "ja_name" : "モーリタニア・イスラム共和国",
          "ja_short_name" : "モーリタニア",
+         "macroregion" : "002",
          "position" : [
             "18.08",
             "-15.98"
@@ -643,7 +718,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "133" : {
          "code" : "GN",
@@ -653,6 +729,7 @@
          "iso3166_numeric" : "324",
          "ja_name" : "ギニア共和国",
          "ja_short_name" : "ギニア",
+         "macroregion" : "002",
          "position" : [
             "9.54",
             "-13.68"
@@ -660,7 +737,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "134" : {
          "code" : "CV",
@@ -670,6 +748,7 @@
          "iso3166_numeric" : "132",
          "ja_name" : "カーボヴェルデ共和国",
          "ja_short_name" : "カーボヴェルデ",
+         "macroregion" : "002",
          "position" : [
             "14.92",
             "-23.52"
@@ -677,7 +756,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "135" : {
          "code" : "SS",
@@ -687,6 +767,7 @@
          "iso3166_numeric" : "728",
          "ja_name" : "南スーダン共和国",
          "ja_short_name" : "南スーダン",
+         "macroregion" : "002",
          "position" : [
             "4.85",
             "31.60"
@@ -694,7 +775,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "017"
       },
       "136" : {
          "code" : "PY",
@@ -704,6 +786,7 @@
          "iso3166_numeric" : "600",
          "ja_name" : "パラグアイ共和国",
          "ja_short_name" : "パラグアイ",
+         "macroregion" : "019",
          "position" : [
             "-25.3",
             "-57.64"
@@ -711,7 +794,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "005"
       },
       "137" : {
          "code" : "HR",
@@ -721,6 +805,7 @@
          "iso3166_numeric" : "191",
          "ja_name" : "クロアチア共和国",
          "ja_short_name" : "クロアチア",
+         "macroregion" : "150",
          "position" : [
             "45.81",
             "15.96"
@@ -728,7 +813,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "138" : {
          "code" : "DZ",
@@ -738,6 +824,7 @@
          "iso3166_numeric" : "012",
          "ja_name" : "アルジェリア民主人民共和国",
          "ja_short_name" : "アルジェリア",
+         "macroregion" : "002",
          "position" : [
             "36.75",
             "3.04"
@@ -745,7 +832,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "015"
       },
       "139" : {
          "code" : "JO",
@@ -755,6 +843,7 @@
          "iso3166_numeric" : "400",
          "ja_name" : "ヨルダン・ハシェミット王国",
          "ja_short_name" : "ヨルダン",
+         "macroregion" : "142",
          "position" : [
             "31.95",
             "35.93"
@@ -762,7 +851,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "14" : {
          "code" : "JM",
@@ -772,6 +862,7 @@
          "iso3166_numeric" : "388",
          "ja_name" : "ジャマイカ",
          "ja_short_name" : "ジャマイカ",
+         "macroregion" : "019",
          "position" : [
             "17.98",
             "-76.8"
@@ -779,7 +870,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "029"
       },
       "140" : {
          "en_name" : "The Republic of Kosovo",
@@ -803,6 +895,7 @@
          "iso3166_numeric" : "768",
          "ja_name" : "トーゴ共和国",
          "ja_short_name" : "トーゴ",
+         "macroregion" : "002",
          "position" : [
             "6.12",
             "1.23"
@@ -810,7 +903,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "142" : {
          "code" : "PG",
@@ -820,6 +914,7 @@
          "iso3166_numeric" : "598",
          "ja_name" : "パプアニューギニア独立国",
          "ja_short_name" : "パプアニューギニア",
+         "macroregion" : "009",
          "position" : [
             "-9.48",
             "147.19"
@@ -827,7 +922,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "054"
       },
       "143" : {
          "code" : "AO",
@@ -837,6 +933,7 @@
          "iso3166_numeric" : "024",
          "ja_name" : "アンゴラ共和国",
          "ja_short_name" : "アンゴラ",
+         "macroregion" : "002",
          "position" : [
             "-8.81",
             "13.24"
@@ -844,7 +941,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "017"
       },
       "144" : {
          "code" : "BI",
@@ -854,6 +952,7 @@
          "iso3166_numeric" : "108",
          "ja_name" : "ブルンジ共和国",
          "ja_short_name" : "ブルンジ",
+         "macroregion" : "002",
          "position" : [
             "-3.38",
             "29.36"
@@ -861,7 +960,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "145" : {
          "code" : "LR",
@@ -871,6 +971,7 @@
          "iso3166_numeric" : "430",
          "ja_name" : "リベリア共和国",
          "ja_short_name" : "リベリア",
+         "macroregion" : "002",
          "position" : [
             "6.3",
             "-10.8"
@@ -878,7 +979,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "146" : {
          "code" : "RU",
@@ -888,6 +990,7 @@
          "iso3166_numeric" : "643",
          "ja_name" : "ロシア連邦",
          "ja_short_name" : "ロシア",
+         "macroregion" : "150",
          "position" : [
             "55.76",
             "37.62"
@@ -895,7 +998,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "151"
       },
       "147" : {
          "code" : "DK",
@@ -905,6 +1009,7 @@
          "iso3166_numeric" : "208",
          "ja_name" : "デンマーク王国",
          "ja_short_name" : "デンマーク",
+         "macroregion" : "150",
          "position" : [
             "55.68",
             "12.57"
@@ -912,7 +1017,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "154"
       },
       "148" : {
          "code" : "BD",
@@ -922,6 +1028,7 @@
          "iso3166_numeric" : "050",
          "ja_name" : "バングラデシュ人民共和国",
          "ja_short_name" : "バングラデシュ",
+         "macroregion" : "142",
          "position" : [
             "23.71",
             "90.41"
@@ -929,7 +1036,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "034"
       },
       "149" : {
          "code" : "IR",
@@ -939,6 +1047,7 @@
          "iso3166_numeric" : "364",
          "ja_name" : "イラン・イスラム共和国",
          "ja_short_name" : "イラン",
+         "macroregion" : "142",
          "position" : [
             "35.7",
             "51.42"
@@ -946,7 +1055,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "034"
       },
       "15" : {
          "code" : "LV",
@@ -956,6 +1066,7 @@
          "iso3166_numeric" : "428",
          "ja_name" : "ラトビア共和国",
          "ja_short_name" : "ラトビア",
+         "macroregion" : "150",
          "position" : [
             "56.95",
             "24.09"
@@ -963,7 +1074,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "154"
       },
       "150" : {
          "code" : "LS",
@@ -973,6 +1085,7 @@
          "iso3166_numeric" : "426",
          "ja_name" : "レソト王国",
          "ja_short_name" : "レソト",
+         "macroregion" : "002",
          "position" : [
             "-29.31",
             "27.49"
@@ -980,7 +1093,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "018"
       },
       "151" : {
          "code" : "MZ",
@@ -990,6 +1104,7 @@
          "iso3166_numeric" : "508",
          "ja_name" : "モザンビーク共和国",
          "ja_short_name" : "モザンビーク",
+         "macroregion" : "002",
          "position" : [
             "-25.97",
             "32.57"
@@ -997,7 +1112,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "152" : {
          "code" : "ZA",
@@ -1007,6 +1123,7 @@
          "iso3166_numeric" : "710",
          "ja_name" : "南アフリカ共和国",
          "ja_short_name" : "南アフリカ",
+         "macroregion" : "002",
          "position" : [
             "-25.73",
             "28.22"
@@ -1014,7 +1131,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "018"
       },
       "153" : {
          "code" : "MU",
@@ -1024,6 +1142,7 @@
          "iso3166_numeric" : "480",
          "ja_name" : "モーリシャス共和国",
          "ja_short_name" : "モーリシャス",
+         "macroregion" : "002",
          "position" : [
             "-20.17",
             "57.5"
@@ -1031,7 +1150,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "154" : {
          "code" : "AD",
@@ -1041,6 +1161,7 @@
          "iso3166_numeric" : "020",
          "ja_name" : "アンドラ公国",
          "ja_short_name" : "アンドラ",
+         "macroregion" : "150",
          "position" : [
             "42.5",
             "1.52"
@@ -1048,7 +1169,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "155" : {
          "code" : "AR",
@@ -1058,6 +1180,7 @@
          "iso3166_numeric" : "032",
          "ja_name" : "アルゼンチン共和国",
          "ja_short_name" : "アルゼンチン",
+         "macroregion" : "019",
          "position" : [
             "-34.61",
             "-58.42"
@@ -1065,7 +1188,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "005"
       },
       "156" : {
          "code" : "VE",
@@ -1075,6 +1199,7 @@
          "iso3166_numeric" : "862",
          "ja_name" : "ベネズエラ・ボリバル共和国",
          "ja_short_name" : "ベネズエラ",
+         "macroregion" : "019",
          "position" : [
             "10.49",
             "-66.9"
@@ -1082,7 +1207,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "005"
       },
       "157" : {
          "code" : "LT",
@@ -1092,6 +1218,7 @@
          "iso3166_numeric" : "440",
          "ja_name" : "リトアニア共和国",
          "ja_short_name" : "リトアニア",
+         "macroregion" : "150",
          "position" : [
             "54.68",
             "25.28"
@@ -1099,7 +1226,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "154"
       },
       "158" : {
          "code" : "MY",
@@ -1109,6 +1237,7 @@
          "iso3166_numeric" : "458",
          "ja_name" : "マレーシア",
          "ja_short_name" : "マレーシア",
+         "macroregion" : "142",
          "position" : [
             "3.15",
             "101.71"
@@ -1116,7 +1245,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "035"
       },
       "159" : {
          "code" : "KI",
@@ -1126,6 +1256,7 @@
          "iso3166_numeric" : "296",
          "ja_name" : "キリバス共和国",
          "ja_short_name" : "キリバス",
+         "macroregion" : "009",
          "position" : [
             "1.47",
             "173.03"
@@ -1133,7 +1264,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "057"
       },
       "16" : {
          "code" : "SA",
@@ -1143,6 +1275,7 @@
          "iso3166_numeric" : "682",
          "ja_name" : "サウジアラビア王国",
          "ja_short_name" : "サウジアラビア",
+         "macroregion" : "142",
          "position" : [
             "24.64",
             "46.72"
@@ -1150,7 +1283,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "160" : {
          "code" : "GB",
@@ -1160,6 +1294,7 @@
          "iso3166_numeric" : "826",
          "ja_name" : "グレートブリテン及び北アイルランド連合王国",
          "ja_short_name" : "英国",
+         "macroregion" : "150",
          "position" : [
             "51.5",
             "-0.13"
@@ -1167,7 +1302,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "154"
       },
       "161" : {
          "code" : "EC",
@@ -1177,6 +1313,7 @@
          "iso3166_numeric" : "218",
          "ja_name" : "エクアドル共和国",
          "ja_short_name" : "エクアドル",
+         "macroregion" : "019",
          "position" : [
             "-0.15",
             "-78.35"
@@ -1184,7 +1321,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "005"
       },
       "162" : {
          "code" : "NE",
@@ -1194,6 +1332,7 @@
          "iso3166_numeric" : "562",
          "ja_name" : "ニジェール共和国",
          "ja_short_name" : "ニジェール",
+         "macroregion" : "002",
          "position" : [
             "13.52",
             "2.12"
@@ -1201,7 +1340,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "163" : {
          "code" : "YE",
@@ -1211,6 +1351,7 @@
          "iso3166_numeric" : "887",
          "ja_name" : "イエメン共和国",
          "ja_short_name" : "イエメン",
+         "macroregion" : "142",
          "position" : [
             "15.8",
             "47.9"
@@ -1218,7 +1359,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "164" : {
          "code" : "MV",
@@ -1228,6 +1370,7 @@
          "iso3166_numeric" : "462",
          "ja_name" : "モルディブ共和国",
          "ja_short_name" : "モルディブ",
+         "macroregion" : "142",
          "position" : [
             "4.17",
             "73.51"
@@ -1235,7 +1378,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "034"
       },
       "165" : {
          "code" : "ER",
@@ -1245,6 +1389,7 @@
          "iso3166_numeric" : "232",
          "ja_name" : "エリトリア国",
          "ja_short_name" : "エリトリア",
+         "macroregion" : "002",
          "position" : [
             "15.33",
             "38.93"
@@ -1252,7 +1397,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "166" : {
          "code" : "TW",
@@ -1262,6 +1408,7 @@
          "iso3166_numeric" : "158",
          "ja_name" : "中華民国",
          "ja_short_name" : "台湾",
+         "macroregion" : "142",
          "position" : [
             "25.04",
             "121.50"
@@ -1269,7 +1416,8 @@
          "status" : {
             "gb" : "other",
             "jp" : "other"
-         }
+         },
+         "submacroregion" : "030"
       },
       "167" : {
          "code" : "IS",
@@ -1279,6 +1427,7 @@
          "iso3166_numeric" : "352",
          "ja_name" : "アイスランド共和国",
          "ja_short_name" : "アイスランド",
+         "macroregion" : "150",
          "position" : [
             "64.14",
             "-21.9"
@@ -1286,7 +1435,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "154"
       },
       "168" : {
          "code" : "BG",
@@ -1296,6 +1446,7 @@
          "iso3166_numeric" : "100",
          "ja_name" : "ブルガリア共和国",
          "ja_short_name" : "ブルガリア",
+         "macroregion" : "150",
          "position" : [
             "42.71",
             "23.32"
@@ -1303,7 +1454,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "151"
       },
       "169" : {
          "code" : "DO",
@@ -1313,6 +1465,7 @@
          "iso3166_numeric" : "214",
          "ja_name" : "ドミニカ共和国",
          "ja_short_name" : "ドミニカ共和国",
+         "macroregion" : "019",
          "position" : [
             "18.48",
             "-69.92"
@@ -1320,7 +1473,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "029"
       },
       "17" : {
          "code" : "TV",
@@ -1330,6 +1484,7 @@
          "iso3166_numeric" : "798",
          "ja_name" : "ツバル",
          "ja_short_name" : "ツバル",
+         "macroregion" : "009",
          "position" : [
             "-8.51",
             "179.18"
@@ -1337,7 +1492,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "061"
       },
       "170" : {
          "code" : "US",
@@ -1347,6 +1503,7 @@
          "iso3166_numeric" : "840",
          "ja_name" : "アメリカ合衆国",
          "ja_short_name" : "アメリカ",
+         "macroregion" : "019",
          "position" : [
             "38.88",
             "-77.03"
@@ -1354,7 +1511,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "021"
       },
       "171" : {
          "code" : "BT",
@@ -1364,6 +1522,7 @@
          "iso3166_numeric" : "064",
          "ja_name" : "ブータン王国",
          "ja_short_name" : "ブータン",
+         "macroregion" : "142",
          "position" : [
             "27.44",
             "89.67"
@@ -1371,7 +1530,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "034"
       },
       "172" : {
          "code" : "EE",
@@ -1381,6 +1541,7 @@
          "iso3166_numeric" : "233",
          "ja_name" : "エストニア共和国",
          "ja_short_name" : "エストニア",
+         "macroregion" : "150",
          "position" : [
             "59.43",
             "24.73"
@@ -1388,7 +1549,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "154"
       },
       "173" : {
          "code" : "UG",
@@ -1398,6 +1560,7 @@
          "iso3166_numeric" : "800",
          "ja_name" : "ウガンダ共和国",
          "ja_short_name" : "ウガンダ",
+         "macroregion" : "002",
          "position" : [
             "0.31",
             "32.57"
@@ -1405,7 +1568,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "174" : {
          "code" : "CI",
@@ -1415,6 +1579,7 @@
          "iso3166_numeric" : "384",
          "ja_name" : "コートジボワール共和国",
          "ja_short_name" : "コートジボワール",
+         "macroregion" : "002",
          "position" : [
             "6.82",
             "-5.28"
@@ -1422,7 +1587,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "175" : {
          "code" : "MO",
@@ -1432,13 +1598,15 @@
          "iso3166_numeric" : "446",
          "ja_name" : "マカオ",
          "ja_short_name" : "マカオ",
+         "macroregion" : "142",
          "position" : [
             "22.19",
             "113.54"
          ],
          "status" : {
             "jp" : "other"
-         }
+         },
+         "submacroregion" : "030"
       },
       "176" : {
          "code" : "AM",
@@ -1448,6 +1616,7 @@
          "iso3166_numeric" : "051",
          "ja_name" : "アルメニア共和国",
          "ja_short_name" : "アルメニア",
+         "macroregion" : "142",
          "position" : [
             "40.16",
             "44.51"
@@ -1455,7 +1624,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "177" : {
          "code" : "PK",
@@ -1465,6 +1635,7 @@
          "iso3166_numeric" : "586",
          "ja_name" : "パキスタン・イスラム共和国",
          "ja_short_name" : "パキスタン",
+         "macroregion" : "142",
          "position" : [
             "33.72",
             "73.06"
@@ -1472,7 +1643,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "034"
       },
       "178" : {
          "code" : "AL",
@@ -1482,6 +1654,7 @@
          "iso3166_numeric" : "008",
          "ja_name" : "アルバニア共和国",
          "ja_short_name" : "アルバニア",
+         "macroregion" : "150",
          "position" : [
             "41.33",
             "19.83"
@@ -1489,7 +1662,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "179" : {
          "code" : "FI",
@@ -1499,6 +1673,7 @@
          "iso3166_numeric" : "246",
          "ja_name" : "フィンランド共和国",
          "ja_short_name" : "フィンランド",
+         "macroregion" : "150",
          "position" : [
             "60.16",
             "24.95"
@@ -1506,7 +1681,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "154"
       },
       "18" : {
          "code" : "BJ",
@@ -1516,6 +1692,7 @@
          "iso3166_numeric" : "204",
          "ja_name" : "ベナン共和国",
          "ja_short_name" : "ベナン",
+         "macroregion" : "002",
          "position" : [
             "6.48",
             "2.63"
@@ -1523,7 +1700,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "180" : {
          "code" : "LY",
@@ -1533,6 +1711,7 @@
          "iso3166_numeric" : "434",
          "ja_name" : "リビア",
          "ja_short_name" : "リビア",
+         "macroregion" : "002",
          "position" : [
             "32.88",
             "13.19"
@@ -1540,7 +1719,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "015"
       },
       "181" : {
          "code" : "DE",
@@ -1550,6 +1730,7 @@
          "iso3166_numeric" : "276",
          "ja_name" : "ドイツ連邦共和国",
          "ja_short_name" : "ドイツ",
+         "macroregion" : "150",
          "position" : [
             "52.52",
             "13.41"
@@ -1557,7 +1738,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "155"
       },
       "182" : {
          "code" : "NR",
@@ -1567,6 +1749,7 @@
          "iso3166_numeric" : "520",
          "ja_name" : "ナウル共和国",
          "ja_short_name" : "ナウル",
+         "macroregion" : "009",
          "position" : [
             "-0.53",
             "166.92"
@@ -1574,7 +1757,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "057"
       },
       "183" : {
          "code" : "KN",
@@ -1584,6 +1768,7 @@
          "iso3166_numeric" : "659",
          "ja_name" : "セントクリストファー・ネーヴィス",
          "ja_short_name" : "セントクリストファー・ネーヴィス",
+         "macroregion" : "019",
          "position" : [
             "17.3",
             "-62.73"
@@ -1591,7 +1776,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "029"
       },
       "184" : {
          "code" : "NZ",
@@ -1601,6 +1787,7 @@
          "iso3166_numeric" : "554",
          "ja_name" : "ニュージーランド",
          "ja_short_name" : "ニュージーランド",
+         "macroregion" : "009",
          "position" : [
             "-41.32",
             "174.78"
@@ -1608,7 +1795,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "053"
       },
       "185" : {
          "code" : "BN",
@@ -1618,6 +1806,7 @@
          "iso3166_numeric" : "096",
          "ja_name" : "ブルネイ・ダルサラーム国",
          "ja_short_name" : "ブルネイ",
+         "macroregion" : "142",
          "position" : [
             "4.94",
             "114.95"
@@ -1625,7 +1814,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "035"
       },
       "186" : {
          "code" : "GT",
@@ -1635,6 +1825,7 @@
          "iso3166_numeric" : "320",
          "ja_name" : "グアテマラ共和国",
          "ja_short_name" : "グアテマラ",
+         "macroregion" : "019",
          "position" : [
             "14.63",
             "-90.5"
@@ -1642,7 +1833,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "013"
       },
       "187" : {
          "code" : "BS",
@@ -1652,6 +1844,7 @@
          "iso3166_numeric" : "044",
          "ja_name" : "バハマ国",
          "ja_short_name" : "バハマ",
+         "macroregion" : "019",
          "position" : [
             "25.07",
             "-77.34"
@@ -1659,7 +1852,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "029"
       },
       "188" : {
          "code" : "MM",
@@ -1669,6 +1863,7 @@
          "iso3166_numeric" : "104",
          "ja_name" : "ミャンマー連邦共和国",
          "ja_short_name" : "ミャンマー",
+         "macroregion" : "142",
          "position" : [
             "16.78",
             "96.16"
@@ -1676,7 +1871,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "035"
       },
       "189" : {
          "code" : "ST",
@@ -1686,6 +1882,7 @@
          "iso3166_numeric" : "678",
          "ja_name" : "サントメ・プリンシペ民主共和国",
          "ja_short_name" : "サントメ・プリンシペ",
+         "macroregion" : "002",
          "position" : [
             "0.34",
             "6.73"
@@ -1693,7 +1890,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "017"
       },
       "19" : {
          "code" : "NL",
@@ -1703,6 +1901,7 @@
          "iso3166_numeric" : "528",
          "ja_name" : "オランダ王国",
          "ja_short_name" : "オランダ",
+         "macroregion" : "150",
          "position" : [
             "52.37",
             "4.89"
@@ -1710,7 +1909,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "155"
       },
       "190" : {
          "code" : "MN",
@@ -1720,6 +1920,7 @@
          "iso3166_numeric" : "496",
          "ja_name" : "モンゴル国",
          "ja_short_name" : "モンゴル",
+         "macroregion" : "142",
          "position" : [
             "47.9",
             "106.92"
@@ -1727,7 +1928,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "030"
       },
       "191" : {
          "code" : "TO",
@@ -1737,6 +1939,7 @@
          "iso3166_numeric" : "776",
          "ja_name" : "トンガ王国",
          "ja_short_name" : "トンガ",
+         "macroregion" : "009",
          "position" : [
             "-21.14",
             "-175.22"
@@ -1744,7 +1947,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "061"
       },
       "192" : {
          "code" : "SE",
@@ -1754,6 +1958,7 @@
          "iso3166_numeric" : "752",
          "ja_name" : "スウェーデン王国",
          "ja_short_name" : "スウェーデン",
+         "macroregion" : "150",
          "position" : [
             "59.33",
             "18.06"
@@ -1761,7 +1966,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "154"
       },
       "193" : {
          "code" : "GQ",
@@ -1771,6 +1977,7 @@
          "iso3166_numeric" : "226",
          "ja_name" : "赤道ギニア共和国",
          "ja_short_name" : "赤道ギニア",
+         "macroregion" : "002",
          "position" : [
             "3.75",
             "8.78"
@@ -1778,7 +1985,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "017"
       },
       "194" : {
          "code" : "SN",
@@ -1788,6 +1996,7 @@
          "iso3166_numeric" : "686",
          "ja_name" : "セネガル共和国",
          "ja_short_name" : "セネガル",
+         "macroregion" : "002",
          "position" : [
             "14.69",
             "-17.45"
@@ -1795,7 +2004,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "195" : {
          "code" : "NG",
@@ -1805,6 +2015,7 @@
          "iso3166_numeric" : "566",
          "ja_name" : "ナイジェリア連邦共和国",
          "ja_short_name" : "ナイジェリア",
+         "macroregion" : "002",
          "position" : [
             "9.19",
             "7.18"
@@ -1812,7 +2023,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "196" : {
          "code" : "GR",
@@ -1822,6 +2034,7 @@
          "iso3166_numeric" : "300",
          "ja_name" : "ギリシャ共和国",
          "ja_short_name" : "ギリシャ",
+         "macroregion" : "150",
          "position" : [
             "37.98",
             "23.72"
@@ -1829,7 +2042,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "197" : {
          "code" : "OM",
@@ -1839,6 +2053,7 @@
          "iso3166_numeric" : "512",
          "ja_name" : "オマーン国",
          "ja_short_name" : "オマーン",
+         "macroregion" : "142",
          "position" : [
             "23.61",
             "58.59"
@@ -1846,7 +2061,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "198" : {
          "code" : "SL",
@@ -1856,6 +2072,7 @@
          "iso3166_numeric" : "694",
          "ja_name" : "シエラレオネ共和国",
          "ja_short_name" : "シエラレオネ",
+         "macroregion" : "002",
          "position" : [
             "8.48",
             "-13.23"
@@ -1863,7 +2080,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "199" : {
          "code" : "AE",
@@ -1873,6 +2091,7 @@
          "iso3166_numeric" : "784",
          "ja_name" : "アラブ首長国連邦",
          "ja_short_name" : "アラブ首長国連邦",
+         "macroregion" : "142",
          "position" : [
             "24.48",
             "54.37"
@@ -1880,7 +2099,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "2" : {
          "code" : "KG",
@@ -1890,6 +2110,7 @@
          "iso3166_numeric" : "417",
          "ja_name" : "キルギス共和国",
          "ja_short_name" : "キルギス",
+         "macroregion" : "142",
          "position" : [
             "42.87",
             "74.59"
@@ -1897,7 +2118,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "143"
       },
       "20" : {
          "code" : "BE",
@@ -1907,6 +2129,7 @@
          "iso3166_numeric" : "056",
          "ja_name" : "ベルギー王国",
          "ja_short_name" : "ベルギー",
+         "macroregion" : "150",
          "position" : [
             "50.84",
             "4.37"
@@ -1914,7 +2137,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "155"
       },
       "200" : {
          "code" : "ES",
@@ -1924,6 +2148,7 @@
          "iso3166_numeric" : "724",
          "ja_name" : "スペイン",
          "ja_short_name" : "スペイン",
+         "macroregion" : "150",
          "position" : [
             "40.42",
             "-3.7"
@@ -1931,7 +2156,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "201" : {
          "code" : "KP",
@@ -1941,6 +2167,7 @@
          "iso3166_numeric" : "408",
          "ja_name" : "朝鮮民主主義人民共和国",
          "ja_short_name" : "北朝鮮",
+         "macroregion" : "142",
          "position" : [
             "39.03",
             "125.75"
@@ -1948,7 +2175,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "other"
-         }
+         },
+         "submacroregion" : "030"
       },
       "205" : {
          "code" : "AI",
@@ -1956,9 +2184,11 @@
          "en_name" : "Anguilla",
          "en_short_name" : "Anguilla",
          "iso3166_numeric" : "660",
+         "macroregion" : "019",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "submacroregion" : "029"
       },
       "206" : {
          "code" : "BM",
@@ -1966,9 +2196,11 @@
          "en_name" : "Bermuda",
          "en_short_name" : "Bermuda",
          "iso3166_numeric" : "060",
+         "macroregion" : "019",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "submacroregion" : "021"
       },
       "207" : {
          "code" : "IO",
@@ -1976,9 +2208,11 @@
          "en_name" : "The British Indian Ocean Territory",
          "en_short_name" : "British Indian Ocean Territory",
          "iso3166_numeric" : "086",
+         "macroregion" : "002",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "submacroregion" : "014"
       },
       "208" : {
          "code" : "VG",
@@ -1986,9 +2220,11 @@
          "en_name" : "The Virgin Islands",
          "en_short_name" : "British Virgin Islands",
          "iso3166_numeric" : "092",
+         "macroregion" : "019",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "submacroregion" : "029"
       },
       "209" : {
          "code" : "KY",
@@ -1996,9 +2232,11 @@
          "en_name" : "Cayman Islands",
          "en_short_name" : "Cayman Islands",
          "iso3166_numeric" : "136",
+         "macroregion" : "019",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "submacroregion" : "029"
       },
       "21" : {
          "code" : "AF",
@@ -2008,6 +2246,7 @@
          "iso3166_numeric" : "004",
          "ja_name" : "アフガニスタン・イスラム共和国",
          "ja_short_name" : "アフガニスタン",
+         "macroregion" : "142",
          "position" : [
             "34.53",
             "69.17"
@@ -2015,7 +2254,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "034"
       },
       "210" : {
          "code" : "FK",
@@ -2023,9 +2263,11 @@
          "en_name" : "Falkland Islands",
          "en_short_name" : "Falkland Islands",
          "iso3166_numeric" : "238",
+         "macroregion" : "019",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "submacroregion" : "005"
       },
       "211" : {
          "code" : "GI",
@@ -2033,9 +2275,11 @@
          "en_name" : "Gibraltar",
          "en_short_name" : "Gibraltar",
          "iso3166_numeric" : "292",
+         "macroregion" : "150",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "submacroregion" : "039"
       },
       "212" : {
          "code" : "MS",
@@ -2043,9 +2287,11 @@
          "en_name" : "Montserrat",
          "en_short_name" : "Montserrat",
          "iso3166_numeric" : "500",
+         "macroregion" : "019",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "submacroregion" : "029"
       },
       "213" : {
          "code" : "PN",
@@ -2053,9 +2299,11 @@
          "en_name" : "Pitcairn, Henderson, Ducie and Oeno Islands",
          "en_short_name" : "Pitcairn, Henderson, Ducie and Oeno Islands",
          "iso3166_numeric" : "612",
+         "macroregion" : "009",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "submacroregion" : "061"
       },
       "214" : {
          "code" : "SH",
@@ -2063,9 +2311,11 @@
          "en_name" : "St Helena, Ascension and Tristan da Cunha",
          "en_short_name" : "St Helena, Ascension and Tristan da Cunha",
          "iso3166_numeric" : "654",
+         "macroregion" : "002",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "submacroregion" : "011"
       },
       "215" : {
          "code" : "GS",
@@ -2073,9 +2323,11 @@
          "en_name" : "South Georgia and the South Sandwich Islands",
          "en_short_name" : "South Georgia and South Sandwich Islands",
          "iso3166_numeric" : "239",
+         "macroregion" : "019",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "submacroregion" : "005"
       },
       "216" : {
          "code" : "TC",
@@ -2083,9 +2335,11 @@
          "en_name" : "Turks and Caicos Islands",
          "en_short_name" : "Turks and Caicos Islands",
          "iso3166_numeric" : "796",
+         "macroregion" : "019",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "submacroregion" : "029"
       },
       "218" : {
          "en_name" : "Akrotiri",
@@ -2109,6 +2363,7 @@
          "iso3166_numeric" : "854",
          "ja_name" : "ブルキナファソ",
          "ja_short_name" : "ブルキナファソ",
+         "macroregion" : "002",
          "position" : [
             "12.36",
             "-1.54"
@@ -2116,7 +2371,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "220" : {
          "en_name" : "Dhekelia",
@@ -2130,21 +2386,27 @@
          "code3" : "GGY",
          "en_name" : "Guernsey",
          "en_short_name" : "Guernsey",
-         "iso3166_numeric" : "831"
+         "iso3166_numeric" : "831",
+         "macroregion" : "150",
+         "submacroregion" : "154"
       },
       "223" : {
          "code" : "SJ",
          "code3" : "SJM",
          "en_name" : "Svalbard and Jan Mayen",
          "en_short_name" : "Svalbard and Jan Mayen",
-         "iso3166_numeric" : "744"
+         "iso3166_numeric" : "744",
+         "macroregion" : "150",
+         "submacroregion" : "154"
       },
       "224" : {
          "code" : "GL",
          "code3" : "GRL",
          "en_name" : "Greenland",
          "en_short_name" : "Greenland",
-         "iso3166_numeric" : "304"
+         "iso3166_numeric" : "304",
+         "macroregion" : "019",
+         "submacroregion" : "021"
       },
       "226" : {
          "code" : "BV",
@@ -2158,7 +2420,9 @@
          "code3" : "MTQ",
          "en_name" : "Martinique",
          "en_short_name" : "Martinique",
-         "iso3166_numeric" : "474"
+         "iso3166_numeric" : "474",
+         "macroregion" : "019",
+         "submacroregion" : "029"
       },
       "23" : {
          "code" : "CA",
@@ -2168,6 +2432,7 @@
          "iso3166_numeric" : "124",
          "ja_name" : "カナダ",
          "ja_short_name" : "カナダ",
+         "macroregion" : "019",
          "position" : [
             "45.42",
             "-75.69"
@@ -2175,7 +2440,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "021"
       },
       "232" : {
          "code" : "TF",
@@ -2189,7 +2455,9 @@
          "code3" : "REU",
          "en_name" : "Réunion",
          "en_short_name" : "Réunion",
-         "iso3166_numeric" : "638"
+         "iso3166_numeric" : "638",
+         "macroregion" : "002",
+         "submacroregion" : "014"
       },
       "237" : {
          "code" : "CP",
@@ -2201,7 +2469,9 @@
          "code3" : "ASM",
          "en_name" : "American Samoa",
          "en_short_name" : "American Samoa",
-         "iso3166_numeric" : "016"
+         "iso3166_numeric" : "016",
+         "macroregion" : "009",
+         "submacroregion" : "061"
       },
       "24" : {
          "code" : "GM",
@@ -2211,6 +2481,7 @@
          "iso3166_numeric" : "270",
          "ja_name" : "ガンビア共和国",
          "ja_short_name" : "ガンビア",
+         "macroregion" : "002",
          "position" : [
             "13.45",
             "-16.59"
@@ -2218,42 +2489,53 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "240" : {
          "code" : "CX",
          "code3" : "CXR",
          "en_name" : "Christmas Island",
          "en_short_name" : "Christmas Island",
-         "iso3166_numeric" : "162"
+         "iso3166_numeric" : "162",
+         "macroregion" : "009",
+         "submacroregion" : "053"
       },
       "242" : {
          "code" : "VI",
          "code3" : "VIR",
          "en_name" : "U.S. Virgin Islands",
          "en_short_name" : "U.S. Virgin Islands",
-         "iso3166_numeric" : "850"
+         "iso3166_numeric" : "850",
+         "macroregion" : "019",
+         "submacroregion" : "029"
       },
       "244" : {
          "code" : "GF",
          "code3" : "GUF",
          "en_name" : "French Guiana",
          "en_short_name" : "French Guiana",
-         "iso3166_numeric" : "254"
+         "iso3166_numeric" : "254",
+         "macroregion" : "019",
+         "submacroregion" : "005"
       },
       "245" : {
          "code" : "EH",
          "code3" : "ESH",
          "en_name" : "Western Sahara",
          "en_short_name" : "Western Sahara",
-         "iso3166_numeric" : "732"
+         "iso3166_numeric" : "732",
+         "macroregion" : "002",
+         "submacroregion" : "015"
       },
       "246" : {
          "code" : "CW",
          "code3" : "CUW",
          "en_name" : "Curaçao",
          "en_short_name" : "Curaçao",
-         "iso3166_numeric" : "531"
+         "iso3166_numeric" : "531",
+         "macroregion" : "019",
+         "submacroregion" : "029"
       },
       "247" : {
          "code" : "EA",
@@ -2268,6 +2550,7 @@
          "iso3166_numeric" : "222",
          "ja_name" : "エルサルバドル共和国",
          "ja_short_name" : "エルサルバドル",
+         "macroregion" : "019",
          "position" : [
             "13.71",
             "-89.2"
@@ -2275,21 +2558,26 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "013"
       },
       "250" : {
          "code" : "GU",
          "code3" : "GUM",
          "en_name" : "Guam",
          "en_short_name" : "Guam",
-         "iso3166_numeric" : "316"
+         "iso3166_numeric" : "316",
+         "macroregion" : "009",
+         "submacroregion" : "057"
       },
       "252" : {
          "code" : "AW",
          "code3" : "ABW",
          "en_name" : "Aruba",
          "en_short_name" : "Aruba",
-         "iso3166_numeric" : "533"
+         "iso3166_numeric" : "533",
+         "macroregion" : "019",
+         "submacroregion" : "029"
       },
       "253" : {
          "code" : "AC",
@@ -2306,7 +2594,9 @@
          "code3" : "ALA",
          "en_name" : "Åland Islands",
          "en_short_name" : "Åland Islands",
-         "iso3166_numeric" : "248"
+         "iso3166_numeric" : "248",
+         "macroregion" : "150",
+         "submacroregion" : "154"
       },
       "26" : {
          "code" : "BW",
@@ -2316,6 +2606,7 @@
          "iso3166_numeric" : "072",
          "ja_name" : "ボツワナ共和国",
          "ja_short_name" : "ボツワナ",
+         "macroregion" : "002",
          "position" : [
             "-24.67",
             "25.92"
@@ -2323,35 +2614,44 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "018"
       },
       "261" : {
          "code" : "IM",
          "code3" : "IMN",
          "en_name" : "Isle of Man",
          "en_short_name" : "Isle of Man",
-         "iso3166_numeric" : "833"
+         "iso3166_numeric" : "833",
+         "macroregion" : "150",
+         "submacroregion" : "154"
       },
       "263" : {
          "code" : "SX",
          "code3" : "SXM",
          "en_name" : "Sint Maarten (Dutch part)",
          "en_short_name" : "Sint Maarten (Dutch part)",
-         "iso3166_numeric" : "534"
+         "iso3166_numeric" : "534",
+         "macroregion" : "019",
+         "submacroregion" : "029"
       },
       "264" : {
          "code" : "GP",
          "code3" : "GLP",
          "en_name" : "Guadeloupe",
          "en_short_name" : "Guadeloupe",
-         "iso3166_numeric" : "312"
+         "iso3166_numeric" : "312",
+         "macroregion" : "019",
+         "submacroregion" : "029"
       },
       "266" : {
          "code" : "BL",
          "code3" : "BLM",
          "en_name" : "Saint Barthélemy",
          "en_short_name" : "Saint Barthélemy",
-         "iso3166_numeric" : "652"
+         "iso3166_numeric" : "652",
+         "macroregion" : "019",
+         "submacroregion" : "029"
       },
       "269" : {
          "code" : "TA",
@@ -2366,6 +2666,7 @@
          "iso3166_numeric" : "548",
          "ja_name" : "バヌアツ共和国",
          "ja_short_name" : "バヌアツ",
+         "macroregion" : "009",
          "position" : [
             "-17.74",
             "168.32"
@@ -2373,14 +2674,17 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "054"
       },
       "270" : {
          "code" : "NC",
          "code3" : "NCL",
          "en_name" : "New Caledonia",
          "en_short_name" : "New Caledonia",
-         "iso3166_numeric" : "540"
+         "iso3166_numeric" : "540",
+         "macroregion" : "009",
+         "submacroregion" : "054"
       },
       "271" : {
          "code" : "AQ",
@@ -2401,14 +2705,18 @@
          "code3" : "WLF",
          "en_name" : "Wallis and Futuna",
          "en_short_name" : "Wallis and Futuna",
-         "iso3166_numeric" : "876"
+         "iso3166_numeric" : "876",
+         "macroregion" : "009",
+         "submacroregion" : "061"
       },
       "279" : {
          "code" : "PF",
          "code3" : "PYF",
          "en_name" : "French Polynesia",
          "en_short_name" : "French Polynesia",
-         "iso3166_numeric" : "258"
+         "iso3166_numeric" : "258",
+         "macroregion" : "009",
+         "submacroregion" : "061"
       },
       "28" : {
          "code" : "FJ",
@@ -2418,6 +2726,7 @@
          "iso3166_numeric" : "242",
          "ja_name" : "フィジー共和国",
          "ja_short_name" : "フィジー",
+         "macroregion" : "009",
          "position" : [
             "-18.14",
             "178.43"
@@ -2425,14 +2734,17 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "054"
       },
       "280" : {
          "code" : "UM",
          "code3" : "UMI",
          "en_name" : "United States Minor Outlying Islands",
          "en_short_name" : "United States Minor Outlying Islands",
-         "iso3166_numeric" : "581"
+         "iso3166_numeric" : "581",
+         "macroregion" : "019",
+         "submacroregion" : "021"
       },
       "281" : {
          "code" : "IC",
@@ -2444,21 +2756,27 @@
          "code3" : "SPM",
          "en_name" : "Saint Pierre and Miquelon",
          "en_short_name" : "Saint Pierre and Miquelon",
-         "iso3166_numeric" : "666"
+         "iso3166_numeric" : "666",
+         "macroregion" : "019",
+         "submacroregion" : "021"
       },
       "286" : {
          "code" : "BQ",
          "code3" : "BES",
          "en_name" : "Bonaire, Sint Eustatius and Saba",
          "en_short_name" : "Bonaire, Sint Eustatius and Saba",
-         "iso3166_numeric" : "535"
+         "iso3166_numeric" : "535",
+         "macroregion" : "019",
+         "submacroregion" : "029"
       },
       "288" : {
          "code" : "TK",
          "code3" : "TKL",
          "en_name" : "Tokelau",
          "en_short_name" : "Tokelau",
-         "iso3166_numeric" : "772"
+         "iso3166_numeric" : "772",
+         "macroregion" : "009",
+         "submacroregion" : "061"
       },
       "29" : {
          "code" : "BR",
@@ -2468,6 +2786,7 @@
          "iso3166_numeric" : "076",
          "ja_name" : "ブラジル連邦共和国",
          "ja_short_name" : "ブラジル",
+         "macroregion" : "019",
          "position" : [
             "-15.79",
             "-47.9"
@@ -2475,35 +2794,44 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "005"
       },
       "292" : {
          "code" : "MF",
          "code3" : "MAF",
          "en_name" : "Saint Martin (French part)",
          "en_short_name" : "Saint Martin (French part)",
-         "iso3166_numeric" : "663"
+         "iso3166_numeric" : "663",
+         "macroregion" : "019",
+         "submacroregion" : "029"
       },
       "294" : {
          "code" : "PR",
          "code3" : "PRI",
          "en_name" : "Puerto Rico",
          "en_short_name" : "Puerto Rico",
-         "iso3166_numeric" : "630"
+         "iso3166_numeric" : "630",
+         "macroregion" : "019",
+         "submacroregion" : "029"
       },
       "295" : {
          "code" : "NF",
          "code3" : "NFK",
          "en_name" : "Norfolk Island",
          "en_short_name" : "Norfolk Island",
-         "iso3166_numeric" : "574"
+         "iso3166_numeric" : "574",
+         "macroregion" : "009",
+         "submacroregion" : "053"
       },
       "296" : {
          "code" : "MP",
          "code3" : "MNP",
          "en_name" : "Northern Mariana Islands",
          "en_short_name" : "Northern Mariana Islands",
-         "iso3166_numeric" : "580"
+         "iso3166_numeric" : "580",
+         "macroregion" : "009",
+         "submacroregion" : "057"
       },
       "3" : {
          "code" : "CU",
@@ -2513,6 +2841,7 @@
          "iso3166_numeric" : "192",
          "ja_name" : "キューバ共和国",
          "ja_short_name" : "キューバ",
+         "macroregion" : "019",
          "position" : [
             "23.12",
             "-82.39"
@@ -2520,7 +2849,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "029"
       },
       "30" : {
          "code" : "RW",
@@ -2530,6 +2860,7 @@
          "iso3166_numeric" : "646",
          "ja_name" : "ルワンダ共和国",
          "ja_short_name" : "ルワンダ",
+         "macroregion" : "002",
          "position" : [
             "-1.95",
             "30.06"
@@ -2537,35 +2868,44 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "300" : {
          "code" : "JE",
          "code3" : "JEY",
          "en_name" : "Jersey",
          "en_short_name" : "Jersey",
-         "iso3166_numeric" : "832"
+         "iso3166_numeric" : "832",
+         "macroregion" : "150",
+         "submacroregion" : "154"
       },
       "301" : {
          "code" : "FO",
          "code3" : "FRO",
          "en_name" : "Faroe Islands",
          "en_short_name" : "Faroe Islands",
-         "iso3166_numeric" : "234"
+         "iso3166_numeric" : "234",
+         "macroregion" : "150",
+         "submacroregion" : "154"
       },
       "302" : {
          "code" : "YT",
          "code3" : "MYT",
          "en_name" : "Mayotte",
          "en_short_name" : "Mayotte",
-         "iso3166_numeric" : "175"
+         "iso3166_numeric" : "175",
+         "macroregion" : "002",
+         "submacroregion" : "014"
       },
       "303" : {
          "code" : "CC",
          "code3" : "CCK",
          "en_name" : "Cocos (Keeling) Islands",
          "en_short_name" : "Cocos (Keeling) Islands",
-         "iso3166_numeric" : "166"
+         "iso3166_numeric" : "166",
+         "macroregion" : "009",
+         "submacroregion" : "053"
       },
       "31" : {
          "code" : "ET",
@@ -2575,6 +2915,7 @@
          "iso3166_numeric" : "231",
          "ja_name" : "エチオピア連邦民主共和国",
          "ja_short_name" : "エチオピア",
+         "macroregion" : "002",
          "position" : [
             "9.02",
             "38.75"
@@ -2582,7 +2923,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "32" : {
          "code" : "FR",
@@ -2592,6 +2934,7 @@
          "iso3166_numeric" : "250",
          "ja_name" : "フランス共和国",
          "ja_short_name" : "フランス",
+         "macroregion" : "150",
          "position" : [
             "48.86",
             "2.35"
@@ -2599,7 +2942,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "155"
       },
       "33" : {
          "code" : "MD",
@@ -2609,6 +2953,7 @@
          "iso3166_numeric" : "498",
          "ja_name" : "モルドバ共和国",
          "ja_short_name" : "モルドバ",
+         "macroregion" : "150",
          "position" : [
             "47",
             "28.92"
@@ -2616,7 +2961,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "151"
       },
       "34" : {
          "code" : "MH",
@@ -2626,6 +2972,7 @@
          "iso3166_numeric" : "584",
          "ja_name" : "マーシャル諸島共和国",
          "ja_short_name" : "マーシャル諸島",
+         "macroregion" : "009",
          "position" : [
             "7.12",
             "171.07"
@@ -2633,7 +2980,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "057"
       },
       "35" : {
          "code" : "NO",
@@ -2643,6 +2991,7 @@
          "iso3166_numeric" : "578",
          "ja_name" : "ノルウェー王国",
          "ja_short_name" : "ノルウェー",
+         "macroregion" : "150",
          "position" : [
             "59.91",
             "10.74"
@@ -2650,7 +2999,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "154"
       },
       "36" : {
          "code" : "SI",
@@ -2660,6 +3010,7 @@
          "iso3166_numeric" : "705",
          "ja_name" : "スロベニア共和国",
          "ja_short_name" : "スロベニア",
+         "macroregion" : "150",
          "position" : [
             "46.06",
             "14.5"
@@ -2667,7 +3018,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "37" : {
          "code" : "IQ",
@@ -2677,6 +3029,7 @@
          "iso3166_numeric" : "368",
          "ja_name" : "イラク共和国",
          "ja_short_name" : "イラク",
+         "macroregion" : "142",
          "position" : [
             "33.33",
             "44.42"
@@ -2684,7 +3037,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "38" : {
          "code" : "DJ",
@@ -2694,6 +3048,7 @@
          "iso3166_numeric" : "262",
          "ja_name" : "ジブチ共和国",
          "ja_short_name" : "ジブチ",
+         "macroregion" : "002",
          "position" : [
             "11.99",
             "42.52"
@@ -2701,7 +3056,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "39" : {
          "code" : "IT",
@@ -2711,6 +3067,7 @@
          "iso3166_numeric" : "380",
          "ja_name" : "イタリア共和国",
          "ja_short_name" : "イタリア",
+         "macroregion" : "150",
          "position" : [
             "41.9",
             "12.48"
@@ -2718,7 +3075,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "039"
       },
       "4" : {
          "code" : "ML",
@@ -2728,6 +3086,7 @@
          "iso3166_numeric" : "466",
          "ja_name" : "マリ共和国",
          "ja_short_name" : "マリ",
+         "macroregion" : "002",
          "position" : [
             "12.65",
             "-7.99"
@@ -2735,7 +3094,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "40" : {
          "code" : "UY",
@@ -2745,6 +3105,7 @@
          "iso3166_numeric" : "858",
          "ja_name" : "ウルグアイ東方共和国",
          "ja_short_name" : "ウルグアイ",
+         "macroregion" : "019",
          "position" : [
             "-34.89",
             "-56.16"
@@ -2752,7 +3113,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "005"
       },
       "41" : {
          "code" : "SD",
@@ -2762,6 +3124,7 @@
          "iso3166_numeric" : "729",
          "ja_name" : "スーダン共和国",
          "ja_short_name" : "スーダン",
+         "macroregion" : "002",
          "position" : [
             "15.55",
             "32.53"
@@ -2769,7 +3132,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "015"
       },
       "42" : {
          "code" : "TH",
@@ -2779,6 +3143,7 @@
          "iso3166_numeric" : "764",
          "ja_name" : "タイ王国",
          "ja_short_name" : "タイ",
+         "macroregion" : "142",
          "position" : [
             "13.73",
             "100.52"
@@ -2786,7 +3151,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "035"
       },
       "43" : {
          "code" : "DM",
@@ -2796,6 +3162,7 @@
          "iso3166_numeric" : "212",
          "ja_name" : "ドミニカ国",
          "ja_short_name" : "ドミニカ国",
+         "macroregion" : "019",
          "position" : [
             "15.3",
             "-61.39"
@@ -2803,7 +3170,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "029"
       },
       "44" : {
          "code" : "IN",
@@ -2813,6 +3181,7 @@
          "iso3166_numeric" : "356",
          "ja_name" : "インド",
          "ja_short_name" : "インド",
+         "macroregion" : "142",
          "position" : [
             "28.61",
             "77.18"
@@ -2820,7 +3189,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "034"
       },
       "45" : {
          "code" : "CK",
@@ -2830,13 +3200,15 @@
          "iso3166_numeric" : "184",
          "ja_name" : "クック諸島",
          "ja_short_name" : "クック諸島",
+         "macroregion" : "009",
          "position" : [
             "-21.20",
             "-159.77"
          ],
          "status" : {
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "061"
       },
       "46" : {
          "code" : "TM",
@@ -2846,6 +3218,7 @@
          "iso3166_numeric" : "795",
          "ja_name" : "トルクメニスタン",
          "ja_short_name" : "トルクメニスタン",
+         "macroregion" : "142",
          "position" : [
             "37.97",
             "58.33"
@@ -2853,7 +3226,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "143"
       },
       "47" : {
          "code" : "CF",
@@ -2863,6 +3237,7 @@
          "iso3166_numeric" : "140",
          "ja_name" : "中央アフリカ共和国",
          "ja_short_name" : "中央アフリカ",
+         "macroregion" : "002",
          "position" : [
             "4.36",
             "18.56"
@@ -2870,7 +3245,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "017"
       },
       "48" : {
          "code" : "EG",
@@ -2880,6 +3256,7 @@
          "iso3166_numeric" : "818",
          "ja_name" : "エジプト・アラブ共和国",
          "ja_short_name" : "エジプト",
+         "macroregion" : "002",
          "position" : [
             "30.06",
             "31.25"
@@ -2887,7 +3264,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "015"
       },
       "49" : {
          "code" : "PH",
@@ -2897,6 +3275,7 @@
          "iso3166_numeric" : "608",
          "ja_name" : "フィリピン共和国",
          "ja_short_name" : "フィリピン",
+         "macroregion" : "142",
          "position" : [
             "14.6",
             "120.98"
@@ -2904,7 +3283,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "035"
       },
       "5" : {
          "code" : "PL",
@@ -2914,6 +3294,7 @@
          "iso3166_numeric" : "616",
          "ja_name" : "ポーランド共和国",
          "ja_short_name" : "ポーランド",
+         "macroregion" : "150",
          "position" : [
             "52.24",
             "21.01"
@@ -2921,7 +3302,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "151"
       },
       "50" : {
          "code" : "LC",
@@ -2931,6 +3313,7 @@
          "iso3166_numeric" : "662",
          "ja_name" : "セントルシア",
          "ja_short_name" : "セントルシア",
+         "macroregion" : "019",
          "position" : [
             "14",
             "-60.98"
@@ -2938,7 +3321,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "029"
       },
       "51" : {
          "code" : "TZ",
@@ -2948,6 +3332,7 @@
          "iso3166_numeric" : "834",
          "ja_name" : "タンザニア連合共和国",
          "ja_short_name" : "タンザニア",
+         "macroregion" : "002",
          "position" : [
             "-6.82",
             "39.27"
@@ -2955,7 +3340,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "52" : {
          "code" : "KM",
@@ -2965,6 +3351,7 @@
          "iso3166_numeric" : "174",
          "ja_name" : "コモロ連合",
          "ja_short_name" : "コモロ",
+         "macroregion" : "002",
          "position" : [
             "-11.7",
             "43.24"
@@ -2972,7 +3359,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "53" : {
          "code" : "GD",
@@ -2982,6 +3370,7 @@
          "iso3166_numeric" : "308",
          "ja_name" : "グレナダ",
          "ja_short_name" : "グレナダ",
+         "macroregion" : "019",
          "position" : [
             "12.07",
             "-61.74"
@@ -2989,7 +3378,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "029"
       },
       "54" : {
          "code" : "KE",
@@ -2999,6 +3389,7 @@
          "iso3166_numeric" : "404",
          "ja_name" : "ケニア共和国",
          "ja_short_name" : "ケニア",
+         "macroregion" : "002",
          "position" : [
             "-1.27",
             "36.81"
@@ -3006,7 +3397,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "55" : {
          "code" : "MA",
@@ -3016,6 +3408,7 @@
          "iso3166_numeric" : "504",
          "ja_name" : "モロッコ王国",
          "ja_short_name" : "モロッコ",
+         "macroregion" : "002",
          "position" : [
             "34.02",
             "-6.83"
@@ -3023,7 +3416,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "015"
       },
       "56" : {
          "code" : "BZ",
@@ -3033,6 +3427,7 @@
          "iso3166_numeric" : "084",
          "ja_name" : "ベリーズ",
          "ja_short_name" : "ベリーズ",
+         "macroregion" : "019",
          "position" : [
             "17.26",
             "-88.78"
@@ -3040,7 +3435,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "013"
       },
       "57" : {
          "code" : "JP",
@@ -3050,6 +3446,7 @@
          "iso3166_numeric" : "392",
          "ja_name" : "日本国",
          "ja_short_name" : "日本",
+         "macroregion" : "142",
          "position" : [
             "35.69",
             "139.65"
@@ -3057,7 +3454,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "030"
       },
       "58" : {
          "code" : "CL",
@@ -3067,6 +3465,7 @@
          "iso3166_numeric" : "152",
          "ja_name" : "チリ共和国",
          "ja_short_name" : "チリ",
+         "macroregion" : "019",
          "position" : [
             "-33.47",
             "-70.64"
@@ -3074,7 +3473,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "005"
       },
       "59" : {
          "code" : "IL",
@@ -3084,6 +3484,7 @@
          "iso3166_numeric" : "376",
          "ja_name" : "イスラエル国",
          "ja_short_name" : "イスラエル",
+         "macroregion" : "142",
          "position" : [
             "31.77",
             "35.23"
@@ -3091,7 +3492,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "6" : {
          "code" : "MG",
@@ -3101,6 +3503,7 @@
          "iso3166_numeric" : "450",
          "ja_name" : "マダガスカル共和国",
          "ja_short_name" : "マダガスカル",
+         "macroregion" : "002",
          "position" : [
             "-18.91",
             "47.53"
@@ -3108,7 +3511,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "60" : {
          "code" : "KR",
@@ -3118,6 +3522,7 @@
          "iso3166_numeric" : "410",
          "ja_name" : "大韓民国",
          "ja_short_name" : "韓国",
+         "macroregion" : "142",
          "position" : [
             "37.53",
             "126.96"
@@ -3125,7 +3530,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "030"
       },
       "61" : {
          "code" : "KH",
@@ -3135,6 +3541,7 @@
          "iso3166_numeric" : "116",
          "ja_name" : "カンボジア王国",
          "ja_short_name" : "カンボジア",
+         "macroregion" : "142",
          "position" : [
             "11.56",
             "104.92"
@@ -3142,7 +3549,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "035"
       },
       "62" : {
          "code" : "GE",
@@ -3152,6 +3560,7 @@
          "iso3166_numeric" : "268",
          "ja_name" : "グルジア",
          "ja_short_name" : "グルジア",
+         "macroregion" : "142",
          "position" : [
             "41.71",
             "44.79"
@@ -3159,7 +3568,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "63" : {
          "code" : "IE",
@@ -3169,6 +3579,7 @@
          "iso3166_numeric" : "372",
          "ja_name" : "アイルランド",
          "ja_short_name" : "アイルランド",
+         "macroregion" : "150",
          "position" : [
             "53.34",
             "-6.27"
@@ -3176,7 +3587,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "154"
       },
       "64" : {
          "code" : "LK",
@@ -3186,6 +3598,7 @@
          "iso3166_numeric" : "144",
          "ja_name" : "スリランカ民主社会主義共和国",
          "ja_short_name" : "スリランカ",
+         "macroregion" : "142",
          "position" : [
             "6.9",
             "79.9"
@@ -3193,7 +3606,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "034"
       },
       "65" : {
          "code" : "PE",
@@ -3203,6 +3617,7 @@
          "iso3166_numeric" : "604",
          "ja_name" : "ペルー共和国",
          "ja_short_name" : "ペルー",
+         "macroregion" : "019",
          "position" : [
             "-12.09",
             "-77.05"
@@ -3210,7 +3625,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "005"
       },
       "66" : {
          "code" : "TT",
@@ -3220,6 +3636,7 @@
          "iso3166_numeric" : "780",
          "ja_name" : "トリニダード・トバゴ共和国",
          "ja_short_name" : "トリニダード・トバゴ",
+         "macroregion" : "019",
          "position" : [
             "10.66",
             "-61.48"
@@ -3227,7 +3644,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "029"
       },
       "67" : {
          "code" : "VC",
@@ -3237,6 +3655,7 @@
          "iso3166_numeric" : "670",
          "ja_name" : "セントビンセント及びグレナディーン諸島",
          "ja_short_name" : "セントビンセント及びグレナディーン諸島",
+         "macroregion" : "019",
          "position" : [
             "13.2",
             "-61.27"
@@ -3244,7 +3663,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "029"
       },
       "68" : {
          "code" : "MW",
@@ -3254,6 +3674,7 @@
          "iso3166_numeric" : "454",
          "ja_name" : "マラウイ共和国",
          "ja_short_name" : "マラウイ",
+         "macroregion" : "002",
          "position" : [
             "-13.98",
             "33.77"
@@ -3261,7 +3682,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "69" : {
          "code" : "CD",
@@ -3271,6 +3693,7 @@
          "iso3166_numeric" : "180",
          "ja_name" : "コンゴ民主共和国",
          "ja_short_name" : "コンゴ民主共和国",
+         "macroregion" : "002",
          "position" : [
             "-4.33",
             "15.32"
@@ -3278,7 +3701,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "017"
       },
       "7" : {
          "code" : "TR",
@@ -3288,6 +3712,7 @@
          "iso3166_numeric" : "792",
          "ja_name" : "トルコ共和国",
          "ja_short_name" : "トルコ",
+         "macroregion" : "142",
          "position" : [
             "39.94",
             "32.85"
@@ -3295,7 +3720,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "70" : {
          "code" : "SZ",
@@ -3305,6 +3731,7 @@
          "iso3166_numeric" : "748",
          "ja_name" : "スワジランド王国",
          "ja_short_name" : "スワジランド",
+         "macroregion" : "002",
          "position" : [
             "-26.32",
             "31.14"
@@ -3312,7 +3739,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "018"
       },
       "71" : {
          "code" : "GA",
@@ -3322,6 +3750,7 @@
          "iso3166_numeric" : "266",
          "ja_name" : "ガボン共和国",
          "ja_short_name" : "ガボン",
+         "macroregion" : "002",
          "position" : [
             "0.39",
             "9.45"
@@ -3329,7 +3758,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "017"
       },
       "72" : {
          "code" : "GY",
@@ -3339,6 +3769,7 @@
          "iso3166_numeric" : "328",
          "ja_name" : "ガイアナ共和国",
          "ja_short_name" : "ガイアナ",
+         "macroregion" : "019",
          "position" : [
             "6.8",
             "-58.15"
@@ -3346,7 +3777,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "005"
       },
       "73" : {
          "code" : "LU",
@@ -3356,6 +3788,7 @@
          "iso3166_numeric" : "442",
          "ja_name" : "ルクセンブルク大公国",
          "ja_short_name" : "ルクセンブルク",
+         "macroregion" : "150",
          "position" : [
             "49.83",
             "6.06"
@@ -3363,7 +3796,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "155"
       },
       "74" : {
          "code" : "BH",
@@ -3373,6 +3807,7 @@
          "iso3166_numeric" : "048",
          "ja_name" : "バーレーン王国",
          "ja_short_name" : "バーレーン",
+         "macroregion" : "142",
          "position" : [
             "26.22",
             "50.58"
@@ -3380,7 +3815,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "75" : {
          "code" : "MX",
@@ -3390,6 +3826,7 @@
          "iso3166_numeric" : "484",
          "ja_name" : "メキシコ合衆国",
          "ja_short_name" : "メキシコ",
+         "macroregion" : "019",
          "position" : [
             "19.41",
             "-99.13"
@@ -3397,7 +3834,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "013"
       },
       "76" : {
          "code" : "CH",
@@ -3407,6 +3845,7 @@
          "iso3166_numeric" : "756",
          "ja_name" : "スイス連邦",
          "ja_short_name" : "スイス",
+         "macroregion" : "150",
          "position" : [
             "46.95",
             "7.45"
@@ -3414,7 +3853,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "155"
       },
       "77" : {
          "code" : "HN",
@@ -3424,6 +3864,7 @@
          "iso3166_numeric" : "340",
          "ja_name" : "ホンジュラス共和国",
          "ja_short_name" : "ホンジュラス",
+         "macroregion" : "019",
          "position" : [
             "14.1",
             "-87.21"
@@ -3431,7 +3872,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "013"
       },
       "78" : {
          "code" : "HT",
@@ -3441,6 +3883,7 @@
          "iso3166_numeric" : "332",
          "ja_name" : "ハイチ共和国",
          "ja_short_name" : "ハイチ",
+         "macroregion" : "019",
          "position" : [
             "18.54",
             "-72.33"
@@ -3448,7 +3891,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "029"
       },
       "79" : {
          "code" : "WS",
@@ -3458,6 +3902,7 @@
          "iso3166_numeric" : "882",
          "ja_name" : "サモア独立国",
          "ja_short_name" : "サモア",
+         "macroregion" : "009",
          "position" : [
             "-13.83",
             "-171.75"
@@ -3465,7 +3910,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "061"
       },
       "8" : {
          "code" : "KW",
@@ -3475,6 +3921,7 @@
          "iso3166_numeric" : "414",
          "ja_name" : "クウェート国",
          "ja_short_name" : "クウェート",
+         "macroregion" : "142",
          "position" : [
             "29.66",
             "47.55"
@@ -3482,7 +3929,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "80" : {
          "code" : "SK",
@@ -3492,6 +3940,7 @@
          "iso3166_numeric" : "703",
          "ja_name" : "スロバキア共和国",
          "ja_short_name" : "スロバキア",
+         "macroregion" : "150",
          "position" : [
             "48.15",
             "17.13"
@@ -3499,7 +3948,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "151"
       },
       "81" : {
          "code" : "CG",
@@ -3509,6 +3959,7 @@
          "iso3166_numeric" : "178",
          "ja_name" : "コンゴ共和国",
          "ja_short_name" : "コンゴ共和国",
+         "macroregion" : "002",
          "position" : [
             "-4.27",
             "15.28"
@@ -3516,7 +3967,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "017"
       },
       "82" : {
          "code" : "CZ",
@@ -3526,6 +3978,7 @@
          "iso3166_numeric" : "203",
          "ja_name" : "チェコ共和国",
          "ja_short_name" : "チェコ",
+         "macroregion" : "150",
          "position" : [
             "50.08",
             "14.44"
@@ -3533,7 +3986,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "151"
       },
       "83" : {
          "code" : "AT",
@@ -3543,6 +3997,7 @@
          "iso3166_numeric" : "040",
          "ja_name" : "オーストリア共和国",
          "ja_short_name" : "オーストリア",
+         "macroregion" : "150",
          "position" : [
             "48.2",
             "16.36"
@@ -3550,7 +4005,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "155"
       },
       "84" : {
          "code" : "ZW",
@@ -3560,6 +4016,7 @@
          "iso3166_numeric" : "716",
          "ja_name" : "ジンバブエ共和国",
          "ja_short_name" : "ジンバブエ",
+         "macroregion" : "002",
          "position" : [
             "-17.83",
             "31.05"
@@ -3567,7 +4024,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "85" : {
          "code" : "RO",
@@ -3577,6 +4035,7 @@
          "iso3166_numeric" : "642",
          "ja_name" : "ルーマニア",
          "ja_short_name" : "ルーマニア",
+         "macroregion" : "150",
          "position" : [
             "44.45",
             "26.1"
@@ -3584,7 +4043,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "151"
       },
       "86" : {
          "code" : "TJ",
@@ -3594,6 +4054,7 @@
          "iso3166_numeric" : "762",
          "ja_name" : "タジキスタン共和国",
          "ja_short_name" : "タジキスタン",
+         "macroregion" : "142",
          "position" : [
             "38.57",
             "68.78"
@@ -3601,7 +4062,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "143"
       },
       "87" : {
          "code" : "AZ",
@@ -3611,6 +4073,7 @@
          "iso3166_numeric" : "031",
          "ja_name" : "アゼルバイジャン共和国",
          "ja_short_name" : "アゼルバイジャン",
+         "macroregion" : "142",
          "position" : [
             "40.38",
             "49.89"
@@ -3618,7 +4081,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "145"
       },
       "88" : {
          "code" : "KZ",
@@ -3628,6 +4092,7 @@
          "iso3166_numeric" : "398",
          "ja_name" : "カザフスタン共和国",
          "ja_short_name" : "カザフスタン",
+         "macroregion" : "142",
          "position" : [
             "51.18",
             "71.45"
@@ -3635,7 +4100,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "143"
       },
       "89" : {
          "code" : "TD",
@@ -3645,6 +4111,7 @@
          "iso3166_numeric" : "148",
          "ja_name" : "チャド共和国",
          "ja_short_name" : "チャド",
+         "macroregion" : "002",
          "position" : [
             "12.1",
             "15.03"
@@ -3652,7 +4119,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "017"
       },
       "9" : {
          "code" : "PA",
@@ -3662,6 +4130,7 @@
          "iso3166_numeric" : "591",
          "ja_name" : "パナマ共和国",
          "ja_short_name" : "パナマ",
+         "macroregion" : "019",
          "position" : [
             "8.97",
             "-79.53"
@@ -3669,7 +4138,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "013"
       },
       "90" : {
          "code" : "NU",
@@ -3679,13 +4149,15 @@
          "iso3166_numeric" : "570",
          "ja_name" : "ニウェ",
          "ja_short_name" : "ニウェ",
+         "macroregion" : "009",
          "position" : [
             "-19.01",
             "-169.92"
          ],
          "status" : {
             "jp" : "other"
-         }
+         },
+         "submacroregion" : "061"
       },
       "91" : {
          "code" : "SR",
@@ -3695,6 +4167,7 @@
          "iso3166_numeric" : "740",
          "ja_name" : "スリナム共和国",
          "ja_short_name" : "スリナム",
+         "macroregion" : "019",
          "position" : [
             "5.82",
             "-55.17"
@@ -3702,7 +4175,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "005"
       },
       "92" : {
          "code" : "GH",
@@ -3712,6 +4186,7 @@
          "iso3166_numeric" : "288",
          "ja_name" : "ガーナ共和国",
          "ja_short_name" : "ガーナ",
+         "macroregion" : "002",
          "position" : [
             "5.56",
             "-0.2"
@@ -3719,7 +4194,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "93" : {
          "code" : "BY",
@@ -3729,6 +4205,7 @@
          "iso3166_numeric" : "112",
          "ja_name" : "ベラルーシ共和国",
          "ja_short_name" : "ベラルーシ",
+         "macroregion" : "150",
          "position" : [
             "53.9",
             "27.58"
@@ -3736,7 +4213,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "151"
       },
       "94" : {
          "code" : "GW",
@@ -3746,6 +4224,7 @@
          "iso3166_numeric" : "624",
          "ja_name" : "ギニアビサウ共和国",
          "ja_short_name" : "ギニアビサウ",
+         "macroregion" : "002",
          "position" : [
             "11.86",
             "-15.6"
@@ -3753,7 +4232,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "011"
       },
       "95" : {
          "code" : "BB",
@@ -3763,6 +4243,7 @@
          "iso3166_numeric" : "052",
          "ja_name" : "バルバドス",
          "ja_short_name" : "バルバドス",
+         "macroregion" : "019",
          "position" : [
             "13.09",
             "-59.61"
@@ -3770,7 +4251,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "029"
       },
       "96" : {
          "code" : "SO",
@@ -3780,6 +4262,7 @@
          "iso3166_numeric" : "706",
          "ja_name" : "ソマリア共和国",
          "ja_short_name" : "ソマリア",
+         "macroregion" : "002",
          "position" : [
             "2.08",
             "45.33"
@@ -3787,7 +4270,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "014"
       },
       "97" : {
          "code" : "CR",
@@ -3797,6 +4281,7 @@
          "iso3166_numeric" : "188",
          "ja_name" : "コスタリカ共和国",
          "ja_short_name" : "コスタリカ",
+         "macroregion" : "019",
          "position" : [
             "9.93",
             "-84.08"
@@ -3804,7 +4289,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "013"
       },
       "98" : {
          "code" : "LI",
@@ -3814,6 +4300,7 @@
          "iso3166_numeric" : "438",
          "ja_name" : "リヒテンシュタイン公国",
          "ja_short_name" : "リヒテンシュタイン",
+         "macroregion" : "150",
          "position" : [
             "47.15",
             "9.53"
@@ -3821,7 +4308,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "155"
       },
       "99" : {
          "code" : "TL",
@@ -3831,6 +4319,7 @@
          "iso3166_numeric" : "626",
          "ja_name" : "東ティモール民主共和国",
          "ja_short_name" : "東ティモール",
+         "macroregion" : "142",
          "position" : [
             "-8.57",
             "125.57"
@@ -3838,7 +4327,8 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "submacroregion" : "035"
       }
    }
 }

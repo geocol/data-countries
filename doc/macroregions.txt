@@ -1,0 +1,60 @@
+macroregions
+~~~~~~~~~~~~
+
+* Data structure
+
+See |datatypes.txt| for description of data types.
+
+areas [object]
+
+  Name [number]: Macroregion (continent) ID which is unique in this data file.
+  Value [object]:
+
+    code [string?]
+
+      The UN M.49 three-digit code, if assigned.
+
+    countries [object?]
+
+      Known countries in this region (or subregions of this region).
+
+      Name [number]: Country ID.  See |country-names.json|.
+      Value [boolean]: A true value.
+
+    en_name [string?]
+
+      Region name in English, if known.  It is the name in the UN M.49
+      list, if possible.
+
+    subregions [object?]
+
+      Known subregions that is part of this region but is not a proper
+      subregion of another subregion in this region.
+
+      Name [number]: Macroregion ID of the subregion.
+      Value [boolean]: A true value.
+
+* Sources
+
+Composition of macro geographical (continental) regions, geographical
+sub-regions, and selected economic and other groupings
+<http://unstats.un.org/unsd/methods/m49/m49regin.htm>.
+
+Territory Containment (UN M.49)
+<http://www.unicode.org/cldr/charts/latest/supplemental/territory_containment_un_m_49.html>.
+
+World countries in JSON, CSV and XML
+<https://github.com/mledoze/countries>.
+
+* License
+
+You are granted a license to use, reproduce, and create derivative
+works of this JSON file.
+
+This JSON file contains data extracted from World countries in JSON,
+CSV and XML, whose license
+<https://github.com/mledoze/countries/blob/master/LICENSE> is: "This
+dataset is made available under the Open Database License:
+<http://opendatacommons.org/licenses/odbl/1.0/>; Any rights in
+individual contents of the database are licensed under the Database
+Contents License: <http://opendatacommons.org/licenses/dbcl/1.0/>".
