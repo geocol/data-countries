@@ -44,6 +44,7 @@ all-data: data/country-names.json
 clean-data:
 	rm -fr local/geonlp/*.zip local/geonlp/*.csv
 	rm -fr local/geouk/*.html
+	rm -fr local/iana-langtags.json
 
 local/geonlp/geonlp_world_country/geonlp_world_country_20130912_u.csv:
 	mkdir -p local/geonlp
@@ -68,8 +69,18 @@ local/govuk/names/all.json: local/govuk/names-index.html \
 	$(PERL) bin/extract-csv-urls.pl "https://www.gov.uk" "local/govuk/names" $< | sh
 	$(PERL) bin/csv2json.pl local/govuk/names/*.csv > $@
 
+local/iana-langtags.json:
+	mkdir -p local
+	$(WGET) -O $@ https://raw.githubusercontent.com/manakai/data-web-defs/master/data/langtags.json
+
+local/fips2iso.csv:
+	mkdir -p local
+	$(WGET) -O $@ http://opengeocode.org/download/fips2iso.txt
+local/fips2iso.json: local/fips2iso.csv bin/csv2json.pl
+	$(PERL) bin/csv2json.pl $< > $@
+
 data/country-names.json: intermediate/geonlp/countries.json \
-    local/govuk/names/all.json \
+    local/govuk/names/all.json local/iana-langtags.json \
     bin/country-names.pl
 	$(PERL) bin/country-names.pl > $@
 

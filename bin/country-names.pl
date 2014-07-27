@@ -17,6 +17,15 @@ sub _n ($) {
   return $s;
 }
 
+sub check_code ($) {
+  return not {
+    #AC => 1, CP => 1, DG => 1, EA => 1, IC => 1, TA => 1,
+    EU => 1, FX => 1, SU => 1, UK => 1,
+    AN => 1, BU => 1, CS => 1, NT => 1, SF => 1, TP => 1, YU => 1, ZR => 1,
+    XK => 1,
+  }->{uc shift};
+} # check_code
+
 ## Names by UK government
 {
   my $path = $root_path->child ('local/govuk/names/all.json');
@@ -71,6 +80,49 @@ sub _n ($) {
 
     if (defined $data->{jp_status}) {
       $Data->{areas}->{$id}->{status}->{jp} = $data->{jp_status};
+    }
+  }
+}
+
+{
+  my $path = $root_path->child ('local/iana-langtags.json');
+  my $json = json_bytes2perl $path->slurp;
+
+  for my $code (keys %{$json->{region}}) {
+    next unless $code =~ /\A[a-z]{2}\z/;
+    next unless $json->{region}->{$code}->{_registry}->{iana};
+    next if $json->{region}->{$code}->{_deprecated};
+
+    my $desc = $json->{region}->{$code}->{Description}->[0];
+    next if $desc eq 'Private use';
+    next unless check_code uc $code;
+
+    my $code = uc $code;
+    my $id = IDs::get_id_by_string 'countries', $code;
+    $Data->{areas}->{$id}->{code} = $code;
+    if (defined $desc and length $desc) {
+      $Data->{areas}->{$id}->{en_name} //= $desc;
+      $Data->{areas}->{$id}->{en_short_name} //= $desc;
+    }
+  }
+}
+
+{
+  my $path = $root_path->child ('local/fips2iso.json');
+  my $json = json_bytes2perl $path->slurp;
+
+  for my $data (@$json) {
+    next unless length $data->{'ISO 3166-1 A2'};
+    next unless check_code $data->{'ISO 3166-1 A2'};
+    my $id = IDs::get_id_by_string 'countries', $data->{'ISO 3166-1 A2'};
+    my $d = $Data->{areas}->{$id} ||= {};
+    for (
+      [code => 'ISO 3166-1 A2'],
+      [code3 => 'ISO 3166-1 A3'],
+      [iso3166_numeric => 'ISO 3166-1 N3'],
+    ) {
+      $d->{$_->[0]} ||= _n $data->{$_->[1]}
+          if defined $data->{$_->[1]} and length $data->{$_->[1]};
     }
   }
 }

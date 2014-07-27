@@ -10,6 +10,8 @@ my @file_name = @ARGV or die "No file name";
 for my $file_name (@file_name) {
   my @data;
   for (split /\x0D?\x0A/, path ($file_name)->slurp_utf8) {
+    next if /^#/;
+    next if /^$/;
     my @line;
     while (length) {
       if (s/^((?>[^,"]+|"[^"]*"?)+)//) {
@@ -30,6 +32,11 @@ for my $file_name (@file_name) {
   }
 
   my $header = shift @data;
+  for (@$header) {
+    s/\s+/ /g;
+    s/^ //;
+    s/ $//;
+  }
   $file_name =~ m{([^/]+)$};
   my $f = $1;
 

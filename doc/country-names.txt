@@ -30,6 +30,10 @@ areas [object]
       Country name in English, in shorter form (which does not contain
       suffix such as "Republic" where unambiguous), if known.
 
+    iso3166_numeric [string?]
+
+      The ISO 3166-1 three-digit country code, if assigned.
+
     ja_name [string?]
 
       Country name in Japanese, if known.  This is the name used by
@@ -66,6 +70,12 @@ FCO Geographical Names Index
 世界の国・地域(2013年9月)
 <https://geonlp.ex.nii.ac.jp/dictionary/geonlp/world_country>.
 
+IANA Language Subtag Registry
+<http://www.iana.org/assignments/language-subtag-registry>.
+
+Americas Open Geocode (AOG) database - FIPS 10-4 to ISO 3166-1 Country
+Codes mapping <http://opengeocode.org/download.php#fips2iso>.
+
 * License
 
 You are granted a license to use, reproduce, and create derivative
@@ -77,3 +87,6 @@ Index, which is available under the Open Government Licence v2.0
 
 This JSON file contains data extracted from 世界の国・地域(2013年9月),
 whose license is CC0.
+
+This JSON file contains data extracted from Americas Open Geocode
+(AOG) database, which is in the public domain.
