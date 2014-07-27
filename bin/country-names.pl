@@ -108,18 +108,19 @@ sub check_code ($) {
 }
 
 {
-  my $path = $root_path->child ('local/fips2iso.json');
+  my $path = $root_path->child ('local/countries.json');
   my $json = json_bytes2perl $path->slurp;
-
+  
   for my $data (@$json) {
-    next unless length $data->{'ISO 3166-1 A2'};
-    next unless check_code $data->{'ISO 3166-1 A2'};
-    my $id = IDs::get_id_by_string 'countries', $data->{'ISO 3166-1 A2'};
+    next unless check_code $data->{cca2};
+    my $id = IDs::get_id_by_string 'countries', $data->{cca2};
     my $d = $Data->{areas}->{$id} ||= {};
     for (
-      [code => 'ISO 3166-1 A2'],
-      [code3 => 'ISO 3166-1 A3'],
-      [iso3166_numeric => 'ISO 3166-1 N3'],
+      [code => 'cca2'],
+      [code3 => 'cca3'],
+      [iso3166_numeric => 'ccn3'],
+      [en_name => 'name'],
+      [en_short_name => 'name'],
     ) {
       $d->{$_->[0]} ||= _n $data->{$_->[1]}
           if defined $data->{$_->[1]} and length $data->{$_->[1]};

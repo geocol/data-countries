@@ -817,7 +817,7 @@
          "code3" : "PNG",
          "en_name" : "The Independent State of Papua New Guinea",
          "en_short_name" : "Papua New Guinea",
-         "iso3166_numeric" : "592",
+         "iso3166_numeric" : "598",
          "ja_name" : "パプアニューギニア独立国",
          "ja_short_name" : "パプアニューギニア",
          "position" : [
@@ -2303,8 +2303,10 @@
       },
       "257" : {
          "code" : "AX",
+         "code3" : "ALA",
          "en_name" : "Åland Islands",
-         "en_short_name" : "Åland Islands"
+         "en_short_name" : "Åland Islands",
+         "iso3166_numeric" : "248"
       },
       "26" : {
          "code" : "BW",
@@ -2446,8 +2448,10 @@
       },
       "286" : {
          "code" : "BQ",
+         "code3" : "BES",
          "en_name" : "Bonaire, Sint Eustatius and Saba",
-         "en_short_name" : "Bonaire, Sint Eustatius and Saba"
+         "en_short_name" : "Bonaire, Sint Eustatius and Saba",
+         "iso3166_numeric" : "535"
       },
       "288" : {
          "code" : "TK",
