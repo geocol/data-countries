@@ -41,6 +41,9 @@ local/perl-latest/pm/lib/perl5/JSON/PS.pm:
 ## ------ Generation ------
 
 all-data: data/country-names.json
+clean-data:
+	rm -fr local/geonlp/*.zip local/geonlp/*.csv
+	rm -fr local/geouk/*.html
 
 local/geonlp/geonlp_world_country/geonlp_world_country_20130912_u.csv:
 	mkdir -p local/geonlp
@@ -53,7 +56,21 @@ local/geonlp/geonlp_world_country.json: \
 local/geonlp/countries.json: local/geonlp/geonlp_world_country.json \
     bin/geonlp-countries.pl
 	$(PERL) bin/geonlp-countries.pl $< > $@
-data/country-names.json: local/geonlp/countries.json bin/country-names.pl
+	mkdir -p intermediate/geonlp
+	cp local/geonlp/countries.json intermediate/geonlp/countries.json
+
+local/govuk/names-index.html:
+	mkdir -p local/govuk
+	$(WGET) -O $@ https://www.gov.uk/government/publications/geographical-names-and-information
+local/govuk/names/all.json: local/govuk/names-index.html \
+    bin/extract-csv-urls.pl bin/csv2json.pl
+	mkdir -p local/govuk/names
+	$(PERL) bin/extract-csv-urls.pl "https://www.gov.uk" "local/govuk/names" $< | sh
+	$(PERL) bin/csv2json.pl local/govuk/names/*.csv > $@
+
+data/country-names.json: intermediate/geonlp/countries.json \
+    local/govuk/names/all.json \
+    bin/country-names.pl
 	$(PERL) bin/country-names.pl > $@
 
 ## ------ Tests ------

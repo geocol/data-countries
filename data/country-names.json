@@ -1,212 +1,420 @@
 {
    "areas" : {
       "1" : {
+         "code" : "AG",
+         "code3" : "ATG",
+         "en_name" : "Antigua and Barbuda",
+         "en_short_name" : "Antigua and Barbuda",
          "ja_name" : "アンティグア・バーブーダ",
          "ja_short_name" : "アンティグア・バーブーダ",
          "position" : [
             "17.12",
             "-61.85"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "10" : {
+         "code" : "QA",
+         "code3" : "QAT",
+         "en_name" : "The State of Qatar",
+         "en_short_name" : "Qatar",
          "ja_name" : "カタール国",
          "ja_short_name" : "カタール",
          "position" : [
             "25.28",
             "51.52"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "100" : {
+         "code" : "RS",
+         "code3" : "SRB",
+         "en_name" : "The Republic of Serbia",
+         "en_short_name" : "Serbia",
          "ja_name" : "セルビア共和国",
          "ja_short_name" : "セルビア",
          "position" : [
             "44.8",
             "20.48"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "101" : {
+         "code" : "UZ",
+         "code3" : "UZB",
+         "en_name" : "The Republic of Uzbekistan",
+         "en_short_name" : "Uzbekistan",
          "ja_name" : "ウズベキスタン共和国",
          "ja_short_name" : "ウズベキスタン",
          "position" : [
             "41.31",
             "69.27"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "102" : {
+         "code" : "NI",
+         "code3" : "NIC",
+         "en_name" : "The Republic of Nicaragua",
+         "en_short_name" : "Nicaragua",
          "ja_name" : "ニカラグア共和国",
          "ja_short_name" : "ニカラグア",
          "position" : [
             "12.15",
             "-86.27"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "103" : {
+         "code" : "CM",
+         "code3" : "CMR",
+         "en_name" : "The Republic of Cameroon",
+         "en_short_name" : "Cameroon",
          "ja_name" : "カメルーン共和国",
          "ja_short_name" : "カメルーン",
          "position" : [
             "3.87",
             "11.52"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "104" : {
+         "code" : "ZM",
+         "code3" : "ZMB",
+         "en_name" : "The Republic of Zambia",
+         "en_short_name" : "Zambia",
          "ja_name" : "ザンビア共和国",
          "ja_short_name" : "ザンビア",
          "position" : [
             "-15.41",
             "28.29"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "105" : {
+         "code" : "MT",
+         "code3" : "MLT",
+         "en_name" : "The Republic of Malta",
+         "en_short_name" : "Malta",
          "ja_name" : "マルタ共和国",
          "ja_short_name" : "マルタ",
          "position" : [
             "35.9",
             "14.52"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "106" : {
+         "code" : "SY",
+         "code3" : "SYR",
+         "en_name" : "The Syrian Arab Republic",
+         "en_short_name" : "Syria",
          "ja_name" : "シリア・アラブ共和国",
          "ja_short_name" : "シリア",
          "position" : [
             "33.52",
             "36.31"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "107" : {
+         "code" : "PT",
+         "code3" : "PRT",
+         "en_name" : "The Portuguese Republic",
+         "en_short_name" : "Portugal",
          "ja_name" : "ポルトガル共和国",
          "ja_short_name" : "ポルトガル",
          "position" : [
             "38.71",
             "-9.14"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "108" : {
+         "code" : "TN",
+         "code3" : "TUN",
+         "en_name" : "The Tunisian Republic",
+         "en_short_name" : "Tunisia",
          "ja_name" : "チュニジア共和国",
          "ja_short_name" : "チュニジア",
          "position" : [
             "36.82",
             "10.17"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "109" : {
+         "code" : "LB",
+         "code3" : "LBN",
+         "en_name" : "The Lebanese Republic",
+         "en_short_name" : "Lebanon",
          "ja_name" : "レバノン共和国",
          "ja_short_name" : "レバノン",
          "position" : [
             "33.89",
             "35.51"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "11" : {
+         "code" : "VN",
+         "code3" : "VNM",
+         "en_name" : "The Socialist Republic of Vietnam",
+         "en_short_name" : "Vietnam",
          "ja_name" : "ベトナム社会主義共和国",
          "ja_short_name" : "ベトナム",
          "position" : [
             "21.02",
             "105.85"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "110" : {
+         "code" : "PW",
+         "code3" : "PLW",
+         "en_name" : "The Republic of Palau",
+         "en_short_name" : "Palau",
          "ja_name" : "パラオ共和国",
          "ja_short_name" : "パラオ",
          "position" : [
             "7.34",
             "134.48"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "111" : {
+         "code" : "MC",
+         "code3" : "MCO",
+         "en_name" : "The Principality of Monaco",
+         "en_short_name" : "Monaco",
          "ja_name" : "モナコ公国",
          "ja_short_name" : "モナコ",
          "position" : [
             "43.75",
             "7.42"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "112" : {
+         "code" : "CO",
+         "code3" : "COL",
+         "en_name" : "The Republic of Colombia",
+         "en_short_name" : "Colombia",
          "ja_name" : "コロンビア共和国",
          "ja_short_name" : "コロンビア",
          "position" : [
             "4.61",
             "-74.08"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "113" : {
+         "code" : "CN",
+         "code3" : "CHN",
+         "en_name" : "The People's Republic of China",
+         "en_short_name" : "China",
          "ja_name" : "中華人民共和国",
          "ja_short_name" : "中国",
          "position" : [
             "39.91",
             "116.4"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "114" : {
+         "code" : "LA",
+         "code3" : "LAO",
+         "en_name" : "The Lao People's Democratic Republic",
+         "en_short_name" : "Laos",
          "ja_name" : "ラオス人民民主共和国",
          "ja_short_name" : "ラオス",
          "position" : [
             "17.96",
             "102.61"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "115" : {
+         "code" : "CY",
+         "code3" : "CYP",
+         "en_name" : "The Republic of Cyprus",
+         "en_short_name" : "Cyprus",
          "ja_name" : "キプロス共和国",
          "ja_short_name" : "キプロス",
          "position" : [
             "35.17",
             "33.37"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "116" : {
+         "code" : "SB",
+         "code3" : "SLB",
+         "en_name" : "Solomon Islands",
+         "en_short_name" : "Solomon Islands",
          "ja_name" : "ソロモン諸島",
          "ja_short_name" : "ソロモン諸島",
          "position" : [
             "-9.43",
             "159.95"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "117" : {
+         "code" : "AU",
+         "code3" : "AUS",
+         "en_name" : "The Commonwealth of Australia",
+         "en_short_name" : "Australia",
          "ja_name" : "オーストラリア連邦",
          "ja_short_name" : "オーストラリア",
          "position" : [
             "-35.33",
             "149.08"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "118" : {
+         "code" : "SC",
+         "code3" : "SYC",
+         "en_name" : "The Republic of Seychelles",
+         "en_short_name" : "Seychelles",
          "ja_name" : "セーシェル共和国",
          "ja_short_name" : "セーシェル",
          "position" : [
             "-4.61",
             "55.44"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "119" : {
+         "code" : "SG",
+         "code3" : "SGP",
+         "en_name" : "The Republic of Singapore",
+         "en_short_name" : "Singapore",
          "ja_name" : "シンガポール共和国",
          "ja_short_name" : "シンガポール",
          "position" : [
             "1.29",
             "103.85"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "12" : {
+         "code" : "ME",
+         "code3" : "MNE",
+         "en_name" : "Montenegro",
+         "en_short_name" : "Montenegro",
          "ja_name" : "モンテネグロ",
          "ja_short_name" : "モンテネグロ",
          "position" : [
             "42.44",
             "19.27"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "120" : {
+         "code" : "UA",
+         "code3" : "UKR",
+         "en_name" : "Ukraine",
+         "en_short_name" : "Ukraine",
          "ja_name" : "ウクライナ",
          "ja_short_name" : "ウクライナ",
          "position" : [
             "50.45",
             "30.5"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "121" : {
+         "code" : "BO",
+         "code3" : "BOL",
+         "en_name" : "The Plurinational State of Bolivia",
+         "en_short_name" : "Bolivia",
          "ja_name" : "ボリビア民族国",
          "ja_short_name" : "ボリビア",
          "position" : [
             "-16.5",
             "-68.15"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "122" : {
          "ja_name" : "香港",
@@ -214,463 +422,920 @@
          "position" : [
             "22.38",
             "114.16"
-         ]
+         ],
+         "status" : {
+            "jp" : "other"
+         }
       },
       "123" : {
+         "code" : "NA",
+         "code3" : "NAM",
+         "en_name" : "The Republic of Namibia",
+         "en_short_name" : "Namibia",
          "ja_name" : "ナミビア共和国",
          "ja_short_name" : "ナミビア",
          "position" : [
             "-22.57",
             "17.07"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "124" : {
+         "code" : "FM",
+         "code3" : "FSM",
+         "en_name" : "The Federated States of Micronesia",
+         "en_short_name" : "Micronesia",
          "ja_name" : "ミクロネシア連邦",
          "ja_short_name" : "ミクロネシア",
          "position" : [
             "6.92",
             "158.19"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "125" : {
+         "code" : "HU",
+         "code3" : "HUN",
+         "en_name" : "Hungary",
+         "en_short_name" : "Hungary",
          "ja_name" : "ハンガリー",
          "ja_short_name" : "ハンガリー",
          "position" : [
             "47.5",
             "19.04"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "126" : {
+         "code" : "ID",
+         "code3" : "IDN",
+         "en_name" : "The Republic of Indonesia",
+         "en_short_name" : "Indonesia",
          "ja_name" : "インドネシア共和国",
          "ja_short_name" : "インドネシア",
          "position" : [
             "-6.21",
             "106.85"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "127" : {
+         "code" : "PS",
+         "code3" : "PSE",
+         "en_name" : "The Occupied Palestinian Territories",
+         "en_short_name" : "Occupied Palestinian Territories",
          "ja_name" : "パレスチナ自治政府",
          "ja_short_name" : "パレスチナ",
          "position" : [
             "31.93",
             "34.87"
-         ]
+         ],
+         "status" : {
+            "gb" : "other",
+            "jp" : "other"
+         }
       },
       "128" : {
+         "code" : "BA",
+         "code3" : "BIH",
+         "en_name" : "Bosnia and Herzegovina",
+         "en_short_name" : "Bosnia and Herzegovina",
          "ja_name" : "ボスニア・ヘルツェゴビナ",
          "ja_short_name" : "ボスニア・ヘルツェゴビナ",
          "position" : [
             "43.86",
             "18.41"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "129" : {
+         "code" : "NP",
+         "code3" : "NPL",
+         "en_name" : "The Federal Democratic Republic of Nepal",
+         "en_short_name" : "Nepal",
          "ja_name" : "ネパール連邦民主共和国",
          "ja_short_name" : "ネパール",
          "position" : [
             "27.7",
             "85.32"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "13" : {
+         "code" : "VA",
+         "code3" : "VAT",
+         "en_name" : "The Vatican City",
+         "en_short_name" : "Vatican City",
          "ja_name" : "バチカン市国",
          "ja_short_name" : "バチカン",
          "position" : [
             "41.9",
             "12.45"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "130" : {
+         "code" : "MK",
+         "code3" : "MKD",
+         "en_name" : "The Republic of Macedonia",
+         "en_short_name" : "Macedonia",
          "ja_name" : "マケドニア旧ユーゴスラビア共和国",
          "ja_short_name" : "マケドニア",
          "position" : [
             "42",
             "21.45"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "131" : {
+         "code" : "SM",
+         "code3" : "SMR",
+         "en_name" : "The Republic of San Marino",
+         "en_short_name" : "San Marino",
          "ja_name" : "サンマリノ共和国",
          "ja_short_name" : "サンマリノ",
          "position" : [
             "43.96",
             "12.46"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "132" : {
+         "code" : "MR",
+         "code3" : "MRT",
+         "en_name" : "The Islamic Republic of Mauritania",
+         "en_short_name" : "Mauritania",
          "ja_name" : "モーリタニア・イスラム共和国",
          "ja_short_name" : "モーリタニア",
          "position" : [
             "18.08",
             "-15.98"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "133" : {
+         "code" : "GN",
+         "code3" : "GIN",
+         "en_name" : "The Republic of Guinea",
+         "en_short_name" : "Guinea",
          "ja_name" : "ギニア共和国",
          "ja_short_name" : "ギニア",
          "position" : [
             "9.54",
             "-13.68"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "134" : {
+         "code" : "CV",
+         "code3" : "CPV",
+         "en_name" : "The Republic of Cabo Verde",
+         "en_short_name" : "Cape Verde",
          "ja_name" : "カーボヴェルデ共和国",
          "ja_short_name" : "カーボヴェルデ",
          "position" : [
             "14.92",
             "-23.52"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "135" : {
+         "code" : "SS",
+         "code3" : "SSD",
+         "en_name" : "The Republic of South Sudan",
+         "en_short_name" : "South Sudan",
          "ja_name" : "南スーダン共和国",
          "ja_short_name" : "南スーダン",
          "position" : [
             "4.85",
             "31.60"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "136" : {
+         "code" : "PY",
+         "code3" : "PRY",
+         "en_name" : "The Republic of Paraguay",
+         "en_short_name" : "Paraguay",
          "ja_name" : "パラグアイ共和国",
          "ja_short_name" : "パラグアイ",
          "position" : [
             "-25.3",
             "-57.64"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "137" : {
+         "code" : "HR",
+         "code3" : "HRV",
+         "en_name" : "The Republic of Croatia",
+         "en_short_name" : "Croatia",
          "ja_name" : "クロアチア共和国",
          "ja_short_name" : "クロアチア",
          "position" : [
             "45.81",
             "15.96"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "138" : {
+         "code" : "DZ",
+         "code3" : "DZA",
+         "en_name" : "The People's Democratic Republic of Algeria",
+         "en_short_name" : "Algeria",
          "ja_name" : "アルジェリア民主人民共和国",
          "ja_short_name" : "アルジェリア",
          "position" : [
             "36.75",
             "3.04"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "139" : {
+         "code" : "JO",
+         "code3" : "JOR",
+         "en_name" : "The Hashemite Kingdom of Jordan",
+         "en_short_name" : "Jordan",
          "ja_name" : "ヨルダン・ハシェミット王国",
          "ja_short_name" : "ヨルダン",
          "position" : [
             "31.95",
             "35.93"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "14" : {
+         "code" : "JM",
+         "code3" : "JAM",
+         "en_name" : "Jamaica",
+         "en_short_name" : "Jamaica",
          "ja_name" : "ジャマイカ",
          "ja_short_name" : "ジャマイカ",
          "position" : [
             "17.98",
             "-76.8"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "140" : {
+         "en_name" : "The Republic of Kosovo",
+         "en_short_name" : "Kosovo",
          "ja_name" : "コソボ共和国",
          "ja_short_name" : "コソボ",
          "position" : [
             "42.65",
             "21.17"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "141" : {
+         "code" : "TG",
+         "code3" : "TGO",
+         "en_name" : "The Togolese Republic",
+         "en_short_name" : "Togo",
          "ja_name" : "トーゴ共和国",
          "ja_short_name" : "トーゴ",
          "position" : [
             "6.12",
             "1.23"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "142" : {
+         "code" : "PG",
+         "code3" : "PNG",
+         "en_name" : "The Independent State of Papua New Guinea",
+         "en_short_name" : "Papua New Guinea",
          "ja_name" : "パプアニューギニア独立国",
          "ja_short_name" : "パプアニューギニア",
          "position" : [
             "-9.48",
             "147.19"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "143" : {
+         "code" : "AO",
+         "code3" : "AGO",
+         "en_name" : "The Republic of Angola",
+         "en_short_name" : "Angola",
          "ja_name" : "アンゴラ共和国",
          "ja_short_name" : "アンゴラ",
          "position" : [
             "-8.81",
             "13.24"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "144" : {
+         "code" : "BI",
+         "code3" : "BDI",
+         "en_name" : "The Republic of Burundi",
+         "en_short_name" : "Burundi",
          "ja_name" : "ブルンジ共和国",
          "ja_short_name" : "ブルンジ",
          "position" : [
             "-3.38",
             "29.36"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "145" : {
+         "code" : "LR",
+         "code3" : "LBR",
+         "en_name" : "The Republic of Liberia",
+         "en_short_name" : "Liberia",
          "ja_name" : "リベリア共和国",
          "ja_short_name" : "リベリア",
          "position" : [
             "6.3",
             "-10.8"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "146" : {
+         "code" : "RU",
+         "code3" : "RUS",
+         "en_name" : "The Russian Federation",
+         "en_short_name" : "Russia",
          "ja_name" : "ロシア連邦",
          "ja_short_name" : "ロシア",
          "position" : [
             "55.76",
             "37.62"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "147" : {
+         "code" : "DK",
+         "code3" : "DNK",
+         "en_name" : "The Kingdom of Denmark",
+         "en_short_name" : "Denmark",
          "ja_name" : "デンマーク王国",
          "ja_short_name" : "デンマーク",
          "position" : [
             "55.68",
             "12.57"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "148" : {
+         "code" : "BD",
+         "code3" : "BGD",
+         "en_name" : "The People's Republic of Bangladesh",
+         "en_short_name" : "Bangladesh",
          "ja_name" : "バングラデシュ人民共和国",
          "ja_short_name" : "バングラデシュ",
          "position" : [
             "23.71",
             "90.41"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "149" : {
+         "code" : "IR",
+         "code3" : "IRN",
+         "en_name" : "The Islamic Republic of Iran",
+         "en_short_name" : "Iran",
          "ja_name" : "イラン・イスラム共和国",
          "ja_short_name" : "イラン",
          "position" : [
             "35.7",
             "51.42"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "15" : {
+         "code" : "LV",
+         "code3" : "LVA",
+         "en_name" : "The Republic of Latvia",
+         "en_short_name" : "Latvia",
          "ja_name" : "ラトビア共和国",
          "ja_short_name" : "ラトビア",
          "position" : [
             "56.95",
             "24.09"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "150" : {
+         "code" : "LS",
+         "code3" : "LSO",
+         "en_name" : "The Kingdom of Lesotho",
+         "en_short_name" : "Lesotho",
          "ja_name" : "レソト王国",
          "ja_short_name" : "レソト",
          "position" : [
             "-29.31",
             "27.49"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "151" : {
+         "code" : "MZ",
+         "code3" : "MOZ",
+         "en_name" : "The Republic of Mozambique",
+         "en_short_name" : "Mozambique",
          "ja_name" : "モザンビーク共和国",
          "ja_short_name" : "モザンビーク",
          "position" : [
             "-25.97",
             "32.57"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "152" : {
+         "code" : "ZA",
+         "code3" : "ZAF",
+         "en_name" : "The Republic of South Africa",
+         "en_short_name" : "South Africa",
          "ja_name" : "南アフリカ共和国",
          "ja_short_name" : "南アフリカ",
          "position" : [
             "-25.73",
             "28.22"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "153" : {
+         "code" : "MU",
+         "code3" : "MUS",
+         "en_name" : "The Republic of Mauritius",
+         "en_short_name" : "Mauritius",
          "ja_name" : "モーリシャス共和国",
          "ja_short_name" : "モーリシャス",
          "position" : [
             "-20.17",
             "57.5"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "154" : {
+         "code" : "AD",
+         "code3" : "AND",
+         "en_name" : "The Principality of Andorra",
+         "en_short_name" : "Andorra",
          "ja_name" : "アンドラ公国",
          "ja_short_name" : "アンドラ",
          "position" : [
             "42.5",
             "1.52"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "155" : {
+         "code" : "AR",
+         "code3" : "ARG",
+         "en_name" : "The Argentine Republic",
+         "en_short_name" : "Argentina",
          "ja_name" : "アルゼンチン共和国",
          "ja_short_name" : "アルゼンチン",
          "position" : [
             "-34.61",
             "-58.42"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "156" : {
+         "code" : "VE",
+         "code3" : "VEN",
+         "en_name" : "The Bolivarian Republic of Venezuela",
+         "en_short_name" : "Venezuela",
          "ja_name" : "ベネズエラ・ボリバル共和国",
          "ja_short_name" : "ベネズエラ",
          "position" : [
             "10.49",
             "-66.9"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "157" : {
+         "code" : "LT",
+         "code3" : "LTU",
+         "en_name" : "The Republic of Lithuania",
+         "en_short_name" : "Lithuania",
          "ja_name" : "リトアニア共和国",
          "ja_short_name" : "リトアニア",
          "position" : [
             "54.68",
             "25.28"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "158" : {
+         "code" : "MY",
+         "code3" : "MYS",
+         "en_name" : "Malaysia",
+         "en_short_name" : "Malaysia",
          "ja_name" : "マレーシア",
          "ja_short_name" : "マレーシア",
          "position" : [
             "3.15",
             "101.71"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "159" : {
+         "code" : "KI",
+         "code3" : "KIR",
+         "en_name" : "The Republic of Kiribati",
+         "en_short_name" : "Kiribati",
          "ja_name" : "キリバス共和国",
          "ja_short_name" : "キリバス",
          "position" : [
             "1.47",
             "173.03"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "16" : {
+         "code" : "SA",
+         "code3" : "SAU",
+         "en_name" : "The Kingdom of Saudi Arabia",
+         "en_short_name" : "Saudi Arabia",
          "ja_name" : "サウジアラビア王国",
          "ja_short_name" : "サウジアラビア",
          "position" : [
             "24.64",
             "46.72"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "160" : {
+         "code" : "GB",
+         "code3" : "GBR",
+         "en_name" : "The United Kingdom of Great Britain and Northern Ireland",
+         "en_short_name" : "United Kingdom",
          "ja_name" : "グレートブリテン及び北アイルランド連合王国",
-         "ja_short_name" : "グレートブリテン及び北アイルランド",
+         "ja_short_name" : "英国",
          "position" : [
             "51.5",
             "-0.13"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "161" : {
+         "code" : "EC",
+         "code3" : "ECU",
+         "en_name" : "The Republic of Ecuador",
+         "en_short_name" : "Ecuador",
          "ja_name" : "エクアドル共和国",
          "ja_short_name" : "エクアドル",
          "position" : [
             "-0.15",
             "-78.35"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "162" : {
+         "code" : "NE",
+         "code3" : "NER",
+         "en_name" : "The Republic of Niger",
+         "en_short_name" : "Niger",
          "ja_name" : "ニジェール共和国",
          "ja_short_name" : "ニジェール",
          "position" : [
             "13.52",
             "2.12"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "163" : {
+         "code" : "YE",
+         "code3" : "YEM",
+         "en_name" : "The Republic of Yemen",
+         "en_short_name" : "Yemen",
          "ja_name" : "イエメン共和国",
          "ja_short_name" : "イエメン",
          "position" : [
             "15.8",
             "47.9"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "164" : {
+         "code" : "MV",
+         "code3" : "MDV",
+         "en_name" : "The Republic of Maldives",
+         "en_short_name" : "Maldives",
          "ja_name" : "モルディブ共和国",
          "ja_short_name" : "モルディブ",
          "position" : [
             "4.17",
             "73.51"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "165" : {
+         "code" : "ER",
+         "code3" : "ERI",
+         "en_name" : "The State of Eritrea",
+         "en_short_name" : "Eritrea",
          "ja_name" : "エリトリア国",
          "ja_short_name" : "エリトリア",
          "position" : [
             "15.33",
             "38.93"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "166" : {
+         "code" : "TW",
+         "code3" : "TWN",
+         "en_name" : "The Republic of China",
+         "en_short_name" : "Taiwan",
          "ja_name" : "中華民国",
          "ja_short_name" : "台湾",
          "position" : [
             "25.04",
             "121.50"
-         ]
+         ],
+         "status" : {
+            "gb" : "other",
+            "jp" : "other"
+         }
       },
       "167" : {
+         "code" : "IS",
+         "code3" : "ISL",
+         "en_name" : "The Republic of Iceland",
+         "en_short_name" : "Iceland",
          "ja_name" : "アイスランド共和国",
          "ja_short_name" : "アイスランド",
          "position" : [
             "64.14",
             "-21.9"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "168" : {
+         "code" : "BG",
+         "code3" : "BGR",
+         "en_name" : "The Republic of Bulgaria",
+         "en_short_name" : "Bulgaria",
          "ja_name" : "ブルガリア共和国",
          "ja_short_name" : "ブルガリア",
          "position" : [
             "42.71",
             "23.32"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "169" : {
+         "code" : "DO",
+         "code3" : "DOM",
+         "en_name" : "The Dominican Republic",
+         "en_short_name" : "Dominican Republic",
          "ja_name" : "ドミニカ共和国",
          "ja_short_name" : "ドミニカ共和国",
          "position" : [
             "18.48",
             "-69.92"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "17" : {
+         "code" : "TV",
+         "code3" : "TUV",
+         "en_name" : "Tuvalu",
+         "en_short_name" : "Tuvalu",
          "ja_name" : "ツバル",
          "ja_short_name" : "ツバル",
          "position" : [
             "-8.51",
             "179.18"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "170" : {
+         "code" : "US",
+         "code3" : "USA",
+         "en_name" : "The United States of America",
+         "en_short_name" : "United States",
          "ja_name" : "アメリカ合衆国",
          "ja_short_name" : "アメリカ",
          "position" : [
             "38.88",
             "-77.03"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "171" : {
+         "code" : "BT",
+         "code3" : "BTN",
+         "en_name" : "The Kingdom of Bhutan",
+         "en_short_name" : "Bhutan",
          "ja_name" : "ブータン王国",
          "ja_short_name" : "ブータン",
          "position" : [
             "27.44",
             "89.67"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "172" : {
+         "code" : "EE",
+         "code3" : "EST",
+         "en_name" : "The Republic of Estonia",
+         "en_short_name" : "Estonia",
          "ja_name" : "エストニア共和国",
          "ja_short_name" : "エストニア",
          "position" : [
             "59.43",
             "24.73"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "173" : {
+         "code" : "UG",
+         "code3" : "UGA",
+         "en_name" : "The Republic of Uganda",
+         "en_short_name" : "Uganda",
          "ja_name" : "ウガンダ共和国",
          "ja_short_name" : "ウガンダ",
          "position" : [
             "0.31",
             "32.57"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "174" : {
+         "code" : "CI",
+         "code3" : "CIV",
+         "en_name" : "The Republic of Cote D'Ivoire",
+         "en_short_name" : "Ivory Coast",
          "ja_name" : "コートジボワール共和国",
          "ja_short_name" : "コートジボワール",
          "position" : [
             "6.82",
             "-5.28"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "175" : {
          "ja_name" : "マカオ",
@@ -678,455 +1343,1035 @@
          "position" : [
             "22.19",
             "113.54"
-         ]
+         ],
+         "status" : {
+            "jp" : "other"
+         }
       },
       "176" : {
+         "code" : "AM",
+         "code3" : "ARM",
+         "en_name" : "The Republic of Armenia",
+         "en_short_name" : "Armenia",
          "ja_name" : "アルメニア共和国",
          "ja_short_name" : "アルメニア",
          "position" : [
             "40.16",
             "44.51"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "177" : {
+         "code" : "PK",
+         "code3" : "PAK",
+         "en_name" : "The Islamic Republic of Pakistan",
+         "en_short_name" : "Pakistan",
          "ja_name" : "パキスタン・イスラム共和国",
          "ja_short_name" : "パキスタン",
          "position" : [
             "33.72",
             "73.06"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "178" : {
+         "code" : "AL",
+         "code3" : "ALB",
+         "en_name" : "The Republic of Albania",
+         "en_short_name" : "Albania",
          "ja_name" : "アルバニア共和国",
          "ja_short_name" : "アルバニア",
          "position" : [
             "41.33",
             "19.83"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "179" : {
+         "code" : "FI",
+         "code3" : "FIN",
+         "en_name" : "The Republic of Finland",
+         "en_short_name" : "Finland",
          "ja_name" : "フィンランド共和国",
          "ja_short_name" : "フィンランド",
          "position" : [
             "60.16",
             "24.95"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "18" : {
+         "code" : "BJ",
+         "code3" : "BEN",
+         "en_name" : "The Republic of Benin",
+         "en_short_name" : "Benin",
          "ja_name" : "ベナン共和国",
          "ja_short_name" : "ベナン",
          "position" : [
             "6.48",
             "2.63"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "180" : {
+         "code" : "LY",
+         "code3" : "LBY",
+         "en_name" : "Libya",
+         "en_short_name" : "Libya",
          "ja_name" : "リビア",
          "ja_short_name" : "リビア",
          "position" : [
             "32.88",
             "13.19"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "181" : {
+         "code" : "DE",
+         "code3" : "DEU",
+         "en_name" : "The Federal Republic of Germany",
+         "en_short_name" : "Germany",
          "ja_name" : "ドイツ連邦共和国",
          "ja_short_name" : "ドイツ",
          "position" : [
             "52.52",
             "13.41"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "182" : {
+         "code" : "NR",
+         "code3" : "NRU",
+         "en_name" : "The Republic of Nauru",
+         "en_short_name" : "Nauru",
          "ja_name" : "ナウル共和国",
          "ja_short_name" : "ナウル",
          "position" : [
             "-0.53",
             "166.92"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "183" : {
+         "code" : "KN",
+         "code3" : "KNA",
+         "en_name" : "The Federation of Saint Christopher and Nevis",
+         "en_short_name" : "St Kitts and Nevis",
          "ja_name" : "セントクリストファー・ネーヴィス",
          "ja_short_name" : "セントクリストファー・ネーヴィス",
          "position" : [
             "17.3",
             "-62.73"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "184" : {
+         "code" : "NZ",
+         "code3" : "NZL",
+         "en_name" : "New Zealand",
+         "en_short_name" : "New Zealand",
          "ja_name" : "ニュージーランド",
          "ja_short_name" : "ニュージーランド",
          "position" : [
             "-41.32",
             "174.78"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "185" : {
+         "code" : "BN",
+         "code3" : "BRN",
+         "en_name" : "Brunei Darussalam",
+         "en_short_name" : "Brunei",
          "ja_name" : "ブルネイ・ダルサラーム国",
          "ja_short_name" : "ブルネイ",
          "position" : [
             "4.94",
             "114.95"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "186" : {
+         "code" : "GT",
+         "code3" : "GTM",
+         "en_name" : "The Republic of Guatemala",
+         "en_short_name" : "Guatemala",
          "ja_name" : "グアテマラ共和国",
          "ja_short_name" : "グアテマラ",
          "position" : [
             "14.63",
             "-90.5"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "187" : {
+         "code" : "BS",
+         "code3" : "BHS",
+         "en_name" : "The Commonwealth of The Bahamas",
+         "en_short_name" : "Bahamas, The",
          "ja_name" : "バハマ国",
          "ja_short_name" : "バハマ",
          "position" : [
             "25.07",
             "-77.34"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "188" : {
+         "code" : "MM",
+         "code3" : "MMR",
+         "en_name" : "The Republic of the Union of Myanmar",
+         "en_short_name" : "Burma",
          "ja_name" : "ミャンマー連邦共和国",
          "ja_short_name" : "ミャンマー",
          "position" : [
             "16.78",
             "96.16"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "189" : {
+         "code" : "ST",
+         "code3" : "STP",
+         "en_name" : "The Democratic Republic of Sao Tome and Principe",
+         "en_short_name" : "Sao Tome and Principe",
          "ja_name" : "サントメ・プリンシペ民主共和国",
          "ja_short_name" : "サントメ・プリンシペ",
          "position" : [
             "0.34",
             "6.73"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "19" : {
+         "code" : "NL",
+         "code3" : "NLD",
+         "en_name" : "The Kingdom of the Netherlands",
+         "en_short_name" : "Netherlands",
          "ja_name" : "オランダ王国",
          "ja_short_name" : "オランダ",
          "position" : [
             "52.37",
             "4.89"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "190" : {
+         "code" : "MN",
+         "code3" : "MNG",
+         "en_name" : "Mongolia",
+         "en_short_name" : "Mongolia",
          "ja_name" : "モンゴル国",
          "ja_short_name" : "モンゴル",
          "position" : [
             "47.9",
             "106.92"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "191" : {
+         "code" : "TO",
+         "code3" : "TON",
+         "en_name" : "The Kingdom of Tonga",
+         "en_short_name" : "Tonga",
          "ja_name" : "トンガ王国",
          "ja_short_name" : "トンガ",
          "position" : [
             "-21.14",
             "-175.22"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "192" : {
+         "code" : "SE",
+         "code3" : "SWE",
+         "en_name" : "The Kingdom of Sweden",
+         "en_short_name" : "Sweden",
          "ja_name" : "スウェーデン王国",
          "ja_short_name" : "スウェーデン",
          "position" : [
             "59.33",
             "18.06"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "193" : {
+         "code" : "GQ",
+         "code3" : "GNQ",
+         "en_name" : "The Republic of Equatorial Guinea",
+         "en_short_name" : "Equatorial Guinea",
          "ja_name" : "赤道ギニア共和国",
          "ja_short_name" : "赤道ギニア",
          "position" : [
             "3.75",
             "8.78"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "194" : {
+         "code" : "SN",
+         "code3" : "SEN",
+         "en_name" : "The Republic of Senegal",
+         "en_short_name" : "Senegal",
          "ja_name" : "セネガル共和国",
          "ja_short_name" : "セネガル",
          "position" : [
             "14.69",
             "-17.45"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "195" : {
+         "code" : "NG",
+         "code3" : "NGA",
+         "en_name" : "The Federal Republic of Nigeria",
+         "en_short_name" : "Nigerian",
          "ja_name" : "ナイジェリア連邦共和国",
          "ja_short_name" : "ナイジェリア",
          "position" : [
             "9.19",
             "7.18"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "196" : {
+         "code" : "GR",
+         "code3" : "GRC",
+         "en_name" : "The Hellenic Republic",
+         "en_short_name" : "Greece",
          "ja_name" : "ギリシャ共和国",
          "ja_short_name" : "ギリシャ",
          "position" : [
             "37.98",
             "23.72"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "197" : {
+         "code" : "OM",
+         "code3" : "OMN",
+         "en_name" : "The Sultanate of Oman",
+         "en_short_name" : "Oman",
          "ja_name" : "オマーン国",
          "ja_short_name" : "オマーン",
          "position" : [
             "23.61",
             "58.59"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "198" : {
+         "code" : "SL",
+         "code3" : "SLE",
+         "en_name" : "The Republic of Sierra Leone",
+         "en_short_name" : "Sierra Leone",
          "ja_name" : "シエラレオネ共和国",
          "ja_short_name" : "シエラレオネ",
          "position" : [
             "8.48",
             "-13.23"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "199" : {
+         "code" : "AE",
+         "code3" : "ARE",
+         "en_name" : "The United Arab Emirates",
+         "en_short_name" : "United Arab Emirates",
          "ja_name" : "アラブ首長国連邦",
          "ja_short_name" : "アラブ首長国連邦",
          "position" : [
             "24.48",
             "54.37"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "2" : {
+         "code" : "KG",
+         "code3" : "KGZ",
+         "en_name" : "The Kyrgyz Republic",
+         "en_short_name" : "Kyrgyzstan",
          "ja_name" : "キルギス共和国",
          "ja_short_name" : "キルギス",
          "position" : [
             "42.87",
             "74.59"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "20" : {
+         "code" : "BE",
+         "code3" : "BEL",
+         "en_name" : "The Kingdom of Belgium",
+         "en_short_name" : "Belgium",
          "ja_name" : "ベルギー王国",
          "ja_short_name" : "ベルギー",
          "position" : [
             "50.84",
             "4.37"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "200" : {
+         "code" : "ES",
+         "code3" : "ESP",
+         "en_name" : "The Kingdom of Spain",
+         "en_short_name" : "Spain",
          "ja_name" : "スペイン",
          "ja_short_name" : "スペイン",
          "position" : [
             "40.42",
             "-3.7"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "201" : {
+         "code" : "KP",
+         "code3" : "PRK",
+         "en_name" : "The Democratic People's Republic of Korea",
+         "en_short_name" : "Korea (North)",
          "ja_name" : "朝鮮民主主義人民共和国",
          "ja_short_name" : "北朝鮮",
          "position" : [
             "39.03",
             "125.75"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "other"
+         }
+      },
+      "205" : {
+         "code" : "AI",
+         "code3" : "AIA",
+         "en_name" : "Anguilla",
+         "en_short_name" : "Anguilla",
+         "status" : {
+            "gb" : "other"
+         }
+      },
+      "206" : {
+         "code" : "BM",
+         "code3" : "BMU",
+         "en_name" : "Bermuda",
+         "en_short_name" : "Bermuda",
+         "status" : {
+            "gb" : "other"
+         }
+      },
+      "207" : {
+         "code" : "IO",
+         "code3" : "IOT",
+         "en_name" : "The British Indian Ocean Territory",
+         "en_short_name" : "British Indian Ocean Territory",
+         "status" : {
+            "gb" : "other"
+         }
+      },
+      "208" : {
+         "code" : "VG",
+         "code3" : "VGB",
+         "en_name" : "The Virgin Islands",
+         "en_short_name" : "British Virgin Islands",
+         "status" : {
+            "gb" : "other"
+         }
+      },
+      "209" : {
+         "code" : "KY",
+         "code3" : "CYM",
+         "en_name" : "Cayman Islands",
+         "en_short_name" : "Cayman Islands",
+         "status" : {
+            "gb" : "other"
+         }
       },
       "21" : {
+         "code" : "AF",
+         "code3" : "AFG",
+         "en_name" : "The Islamic Republic of Afghanistan",
+         "en_short_name" : "Afghanistan",
          "ja_name" : "アフガニスタン・イスラム共和国",
          "ja_short_name" : "アフガニスタン",
          "position" : [
             "34.53",
             "69.17"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
+      },
+      "210" : {
+         "code" : "FK",
+         "code3" : "FLK",
+         "en_name" : "Falkland Islands",
+         "en_short_name" : "Falkland Islands",
+         "status" : {
+            "gb" : "other"
+         }
+      },
+      "211" : {
+         "code" : "GI",
+         "code3" : "GIB",
+         "en_name" : "Gibraltar",
+         "en_short_name" : "Gibraltar",
+         "status" : {
+            "gb" : "other"
+         }
+      },
+      "212" : {
+         "code" : "MS",
+         "code3" : "MSR",
+         "en_name" : "Montserrat",
+         "en_short_name" : "Montserrat",
+         "status" : {
+            "gb" : "other"
+         }
+      },
+      "213" : {
+         "code" : "PN",
+         "code3" : "PCN",
+         "en_name" : "Pitcairn, Henderson, Ducie and Oeno Islands",
+         "en_short_name" : "Pitcairn, Henderson, Ducie and Oeno Islands",
+         "status" : {
+            "gb" : "other"
+         }
+      },
+      "214" : {
+         "code" : "SH",
+         "code3" : "SHN",
+         "en_name" : "St Helena, Ascension and Tristan da Cunha",
+         "en_short_name" : "St Helena, Ascension and Tristan da Cunha",
+         "status" : {
+            "gb" : "other"
+         }
+      },
+      "215" : {
+         "code" : "GS",
+         "code3" : "SGS",
+         "en_name" : "South Georgia and the South Sandwich Islands",
+         "en_short_name" : "South Georgia and South Sandwich Islands",
+         "status" : {
+            "gb" : "other"
+         }
+      },
+      "216" : {
+         "code" : "TC",
+         "code3" : "TCA",
+         "en_name" : "Turks and Caicos Islands",
+         "en_short_name" : "Turks and Caicos Islands",
+         "status" : {
+            "gb" : "other"
+         }
+      },
+      "218" : {
+         "en_name" : "Akrotiri",
+         "en_short_name" : "Akrotiri",
+         "status" : {
+            "gb" : "other"
+         }
+      },
+      "219" : {
+         "en_name" : "British Antarctic Territory",
+         "en_short_name" : "British Antarctic Territory",
+         "status" : {
+            "gb" : "other"
+         }
       },
       "22" : {
+         "code" : "BF",
+         "code3" : "BFA",
+         "en_name" : "Burkina Faso",
+         "en_short_name" : "Burkina",
          "ja_name" : "ブルキナファソ",
          "ja_short_name" : "ブルキナファソ",
          "position" : [
             "12.36",
             "-1.54"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
+      },
+      "220" : {
+         "en_name" : "Dhekelia",
+         "en_short_name" : "Dhekelia",
+         "status" : {
+            "gb" : "other"
+         }
       },
       "23" : {
+         "code" : "CA",
+         "code3" : "CAN",
+         "en_name" : "Canada",
+         "en_short_name" : "Canada",
          "ja_name" : "カナダ",
          "ja_short_name" : "カナダ",
          "position" : [
             "45.42",
             "-75.69"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "24" : {
+         "code" : "GM",
+         "code3" : "GMB",
+         "en_name" : "The Republic of the Gambia",
+         "en_short_name" : "Gambia, The",
          "ja_name" : "ガンビア共和国",
          "ja_short_name" : "ガンビア",
          "position" : [
             "13.45",
             "-16.59"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "25" : {
+         "code" : "SV",
+         "code3" : "SLV",
+         "en_name" : "The Republic of El Salvador",
+         "en_short_name" : "El Salvador",
          "ja_name" : "エルサルバドル共和国",
          "ja_short_name" : "エルサルバドル",
          "position" : [
             "13.71",
             "-89.2"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "26" : {
+         "code" : "BW",
+         "code3" : "BWA",
+         "en_name" : "The Republic of Botswana",
+         "en_short_name" : "Botswana",
          "ja_name" : "ボツワナ共和国",
          "ja_short_name" : "ボツワナ",
          "position" : [
             "-24.67",
             "25.92"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "27" : {
+         "code" : "VU",
+         "code3" : "VUT",
+         "en_name" : "The Republic of Vanuatu",
+         "en_short_name" : "Vanuatu",
          "ja_name" : "バヌアツ共和国",
          "ja_short_name" : "バヌアツ",
          "position" : [
             "-17.74",
             "168.32"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "28" : {
+         "code" : "FJ",
+         "code3" : "FJI",
+         "en_name" : "The Republic of Fiji",
+         "en_short_name" : "Fiji",
          "ja_name" : "フィジー共和国",
          "ja_short_name" : "フィジー",
          "position" : [
             "-18.14",
             "178.43"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "29" : {
+         "code" : "BR",
+         "code3" : "BRA",
+         "en_name" : "The Federative Republic of Brazil",
+         "en_short_name" : "Brazil",
          "ja_name" : "ブラジル連邦共和国",
          "ja_short_name" : "ブラジル",
          "position" : [
             "-15.79",
             "-47.9"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "3" : {
+         "code" : "CU",
+         "code3" : "CUB",
+         "en_name" : "The Republic of Cuba",
+         "en_short_name" : "Cuba",
          "ja_name" : "キューバ共和国",
          "ja_short_name" : "キューバ",
          "position" : [
             "23.12",
             "-82.39"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "30" : {
+         "code" : "RW",
+         "code3" : "RWA",
+         "en_name" : "The Republic of Rwanda",
+         "en_short_name" : "Rwanda",
          "ja_name" : "ルワンダ共和国",
          "ja_short_name" : "ルワンダ",
          "position" : [
             "-1.95",
             "30.06"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "31" : {
+         "code" : "ET",
+         "code3" : "ETH",
+         "en_name" : "The Federal Democratic Republic of Ethiopia",
+         "en_short_name" : "Ethiopia",
          "ja_name" : "エチオピア連邦民主共和国",
          "ja_short_name" : "エチオピア",
          "position" : [
             "9.02",
             "38.75"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "32" : {
+         "code" : "FR",
+         "code3" : "FRA",
+         "en_name" : "The French Republic",
+         "en_short_name" : "France",
          "ja_name" : "フランス共和国",
          "ja_short_name" : "フランス",
          "position" : [
             "48.86",
             "2.35"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "33" : {
+         "code" : "MD",
+         "code3" : "MDA",
+         "en_name" : "The Republic of Moldova",
+         "en_short_name" : "Moldova",
          "ja_name" : "モルドバ共和国",
          "ja_short_name" : "モルドバ",
          "position" : [
             "47",
             "28.92"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "34" : {
+         "code" : "MH",
+         "code3" : "MHL",
+         "en_name" : "The Republic of the Marshall Islands",
+         "en_short_name" : "Marshall Islands",
          "ja_name" : "マーシャル諸島共和国",
-         "ja_short_name" : "マーシャル",
+         "ja_short_name" : "マーシャル諸島",
          "position" : [
             "7.12",
             "171.07"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "35" : {
+         "code" : "NO",
+         "code3" : "NOR",
+         "en_name" : "The Kingdom of Norway",
+         "en_short_name" : "Norway",
          "ja_name" : "ノルウェー王国",
          "ja_short_name" : "ノルウェー",
          "position" : [
             "59.91",
             "10.74"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "36" : {
+         "code" : "SI",
+         "code3" : "SVN",
+         "en_name" : "The Republic of Slovenia",
+         "en_short_name" : "Slovenia",
          "ja_name" : "スロベニア共和国",
          "ja_short_name" : "スロベニア",
          "position" : [
             "46.06",
             "14.5"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "37" : {
+         "code" : "IQ",
+         "code3" : "IRQ",
+         "en_name" : "The Republic of Iraq",
+         "en_short_name" : "Iraq",
          "ja_name" : "イラク共和国",
          "ja_short_name" : "イラク",
          "position" : [
             "33.33",
             "44.42"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "38" : {
+         "code" : "DJ",
+         "code3" : "DJI",
+         "en_name" : "The Republic of Djibouti",
+         "en_short_name" : "Djibouti",
          "ja_name" : "ジブチ共和国",
          "ja_short_name" : "ジブチ",
          "position" : [
             "11.99",
             "42.52"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "39" : {
+         "code" : "IT",
+         "code3" : "ITA",
+         "en_name" : "The Italian Republic",
+         "en_short_name" : "Italy",
          "ja_name" : "イタリア共和国",
          "ja_short_name" : "イタリア",
          "position" : [
             "41.9",
             "12.48"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "4" : {
+         "code" : "ML",
+         "code3" : "MLI",
+         "en_name" : "The Republic of Mali",
+         "en_short_name" : "Mali",
          "ja_name" : "マリ共和国",
          "ja_short_name" : "マリ",
          "position" : [
             "12.65",
             "-7.99"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "40" : {
+         "code" : "UY",
+         "code3" : "URY",
+         "en_name" : "The Oriental Republic of Uruguay",
+         "en_short_name" : "Uruguay",
          "ja_name" : "ウルグアイ東方共和国",
          "ja_short_name" : "ウルグアイ",
          "position" : [
             "-34.89",
             "-56.16"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "41" : {
+         "code" : "SD",
+         "code3" : "SDN",
+         "en_name" : "The Republic of the Sudan",
+         "en_short_name" : "Sudan",
          "ja_name" : "スーダン共和国",
          "ja_short_name" : "スーダン",
          "position" : [
             "15.55",
             "32.53"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "42" : {
+         "code" : "TH",
+         "code3" : "THA",
+         "en_name" : "The Kingdom of Thailand",
+         "en_short_name" : "Thailand",
          "ja_name" : "タイ王国",
          "ja_short_name" : "タイ",
          "position" : [
             "13.73",
             "100.52"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "43" : {
+         "code" : "DM",
+         "code3" : "DMA",
+         "en_name" : "The Commonwealth of Dominica",
+         "en_short_name" : "Dominica",
          "ja_name" : "ドミニカ国",
          "ja_short_name" : "ドミニカ国",
          "position" : [
             "15.3",
             "-61.39"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "44" : {
+         "code" : "IN",
+         "code3" : "IND",
+         "en_name" : "The Republic of India",
+         "en_short_name" : "India",
          "ja_name" : "インド",
          "ja_short_name" : "インド",
          "position" : [
             "28.61",
             "77.18"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "45" : {
          "ja_name" : "クック諸島",
@@ -1134,399 +2379,794 @@
          "position" : [
             "-21.20",
             "-159.77"
-         ]
+         ],
+         "status" : {
+            "jp" : "country"
+         }
       },
       "46" : {
+         "code" : "TM",
+         "code3" : "TKM",
+         "en_name" : "Turkmenistan",
+         "en_short_name" : "Turkmenistan",
          "ja_name" : "トルクメニスタン",
          "ja_short_name" : "トルクメニスタン",
          "position" : [
             "37.97",
             "58.33"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "47" : {
+         "code" : "CF",
+         "code3" : "CAF",
+         "en_name" : "The Central African Republic",
+         "en_short_name" : "Central African Republic",
          "ja_name" : "中央アフリカ共和国",
          "ja_short_name" : "中央アフリカ",
          "position" : [
             "4.36",
             "18.56"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "48" : {
+         "code" : "EG",
+         "code3" : "EGY",
+         "en_name" : "The Arab Republic of Egypt",
+         "en_short_name" : "Egypt",
          "ja_name" : "エジプト・アラブ共和国",
          "ja_short_name" : "エジプト",
          "position" : [
             "30.06",
             "31.25"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "49" : {
+         "code" : "PH",
+         "code3" : "PHL",
+         "en_name" : "The Republic of the Philippines",
+         "en_short_name" : "Philippines",
          "ja_name" : "フィリピン共和国",
          "ja_short_name" : "フィリピン",
          "position" : [
             "14.6",
             "120.98"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "5" : {
+         "code" : "PL",
+         "code3" : "POL",
+         "en_name" : "The Republic of Poland",
+         "en_short_name" : "Poland",
          "ja_name" : "ポーランド共和国",
          "ja_short_name" : "ポーランド",
          "position" : [
             "52.24",
             "21.01"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "50" : {
+         "code" : "LC",
+         "code3" : "LCA",
+         "en_name" : "Saint Lucia",
+         "en_short_name" : "St Lucia",
          "ja_name" : "セントルシア",
          "ja_short_name" : "セントルシア",
          "position" : [
             "14",
             "-60.98"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "51" : {
+         "code" : "TZ",
+         "code3" : "TZA",
+         "en_name" : "The United Republic of Tanzania",
+         "en_short_name" : "Tanzania",
          "ja_name" : "タンザニア連合共和国",
          "ja_short_name" : "タンザニア",
          "position" : [
             "-6.82",
             "39.27"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "52" : {
+         "code" : "KM",
+         "code3" : "COM",
+         "en_name" : "The Union of the Comoros",
+         "en_short_name" : "Comoros",
          "ja_name" : "コモロ連合",
          "ja_short_name" : "コモロ",
          "position" : [
             "-11.7",
             "43.24"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "53" : {
+         "code" : "GD",
+         "code3" : "GRD",
+         "en_name" : "Grenada",
+         "en_short_name" : "Grenada",
          "ja_name" : "グレナダ",
          "ja_short_name" : "グレナダ",
          "position" : [
             "12.07",
             "-61.74"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "54" : {
+         "code" : "KE",
+         "code3" : "KEN",
+         "en_name" : "The Republic of Kenya",
+         "en_short_name" : "Kenya",
          "ja_name" : "ケニア共和国",
          "ja_short_name" : "ケニア",
          "position" : [
             "-1.27",
             "36.81"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "55" : {
+         "code" : "MA",
+         "code3" : "MAR",
+         "en_name" : "The Kingdom of Morocco",
+         "en_short_name" : "Morocco",
          "ja_name" : "モロッコ王国",
          "ja_short_name" : "モロッコ",
          "position" : [
             "34.02",
             "-6.83"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "56" : {
+         "code" : "BZ",
+         "code3" : "BLZ",
+         "en_name" : "Belize",
+         "en_short_name" : "Belize",
          "ja_name" : "ベリーズ",
          "ja_short_name" : "ベリーズ",
          "position" : [
             "17.26",
             "-88.78"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "57" : {
+         "code" : "JP",
+         "code3" : "JPN",
+         "en_name" : "Japan",
+         "en_short_name" : "Japan",
          "ja_name" : "日本国",
          "ja_short_name" : "日本",
          "position" : [
             "35.69",
             "139.65"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "58" : {
+         "code" : "CL",
+         "code3" : "CHL",
+         "en_name" : "The Republic of Chile",
+         "en_short_name" : "Chile",
          "ja_name" : "チリ共和国",
          "ja_short_name" : "チリ",
          "position" : [
             "-33.47",
             "-70.64"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "59" : {
+         "code" : "IL",
+         "code3" : "ISR",
+         "en_name" : "The State of Israel",
+         "en_short_name" : "Israel",
          "ja_name" : "イスラエル国",
          "ja_short_name" : "イスラエル",
          "position" : [
             "31.77",
             "35.23"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "6" : {
+         "code" : "MG",
+         "code3" : "MDG",
+         "en_name" : "The Republic of Madagascar",
+         "en_short_name" : "Madagascar",
          "ja_name" : "マダガスカル共和国",
          "ja_short_name" : "マダガスカル",
          "position" : [
             "-18.91",
             "47.53"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "60" : {
+         "code" : "KR",
+         "code3" : "KOR",
+         "en_name" : "The Republic of Korea",
+         "en_short_name" : "Korea (South)",
          "ja_name" : "大韓民国",
          "ja_short_name" : "韓国",
          "position" : [
             "37.53",
             "126.96"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "61" : {
+         "code" : "KH",
+         "code3" : "KHM",
+         "en_name" : "The Kingdom of Cambodia",
+         "en_short_name" : "Cambodia",
          "ja_name" : "カンボジア王国",
          "ja_short_name" : "カンボジア",
          "position" : [
             "11.56",
             "104.92"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "62" : {
+         "code" : "GE",
+         "code3" : "GEO",
+         "en_name" : "Georgia",
+         "en_short_name" : "Georgia",
          "ja_name" : "グルジア",
          "ja_short_name" : "グルジア",
          "position" : [
             "41.71",
             "44.79"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "63" : {
+         "code" : "IE",
+         "code3" : "IRL",
+         "en_name" : "Ireland",
+         "en_short_name" : "Ireland",
          "ja_name" : "アイルランド",
          "ja_short_name" : "アイルランド",
          "position" : [
             "53.34",
             "-6.27"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "64" : {
+         "code" : "LK",
+         "code3" : "LKA",
+         "en_name" : "The Democratic Socialist Republic of Sri Lanka",
+         "en_short_name" : "Sri Lanka",
          "ja_name" : "スリランカ民主社会主義共和国",
          "ja_short_name" : "スリランカ",
          "position" : [
             "6.9",
             "79.9"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "65" : {
+         "code" : "PE",
+         "code3" : "PER",
+         "en_name" : "The Republic of Peru",
+         "en_short_name" : "Peru",
          "ja_name" : "ペルー共和国",
          "ja_short_name" : "ペルー",
          "position" : [
             "-12.09",
             "-77.05"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "66" : {
+         "code" : "TT",
+         "code3" : "TTO",
+         "en_name" : "The Republic of Trinidad and Tobago",
+         "en_short_name" : "Trinidad and Tobago",
          "ja_name" : "トリニダード・トバゴ共和国",
          "ja_short_name" : "トリニダード・トバゴ",
          "position" : [
             "10.66",
             "-61.48"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "67" : {
+         "code" : "VC",
+         "code3" : "VCT",
+         "en_name" : "Saint Vincent and the Grenadines",
+         "en_short_name" : "St Vincent",
          "ja_name" : "セントビンセント及びグレナディーン諸島",
          "ja_short_name" : "セントビンセント及びグレナディーン諸島",
          "position" : [
             "13.2",
             "-61.27"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "68" : {
+         "code" : "MW",
+         "code3" : "MWI",
+         "en_name" : "The Republic of Malawi",
+         "en_short_name" : "Malawi",
          "ja_name" : "マラウイ共和国",
          "ja_short_name" : "マラウイ",
          "position" : [
             "-13.98",
             "33.77"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "69" : {
+         "code" : "CD",
+         "code3" : "COD",
+         "en_name" : "The Democratic Republic of the Congo",
+         "en_short_name" : "Congo (Democratic Republic)",
          "ja_name" : "コンゴ民主共和国",
          "ja_short_name" : "コンゴ民主共和国",
          "position" : [
             "-4.33",
             "15.32"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "7" : {
+         "code" : "TR",
+         "code3" : "TUR",
+         "en_name" : "The Republic of Turkey",
+         "en_short_name" : "Turkey",
          "ja_name" : "トルコ共和国",
          "ja_short_name" : "トルコ",
          "position" : [
             "39.94",
             "32.85"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "70" : {
+         "code" : "SZ",
+         "code3" : "SWZ",
+         "en_name" : "The Kingdom of Swaziland",
+         "en_short_name" : "Swaziland",
          "ja_name" : "スワジランド王国",
          "ja_short_name" : "スワジランド",
          "position" : [
             "-26.32",
             "31.14"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "71" : {
+         "code" : "GA",
+         "code3" : "GAB",
+         "en_name" : "The Gabonese Republic",
+         "en_short_name" : "Gabon",
          "ja_name" : "ガボン共和国",
          "ja_short_name" : "ガボン",
          "position" : [
             "0.39",
             "9.45"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "72" : {
+         "code" : "GY",
+         "code3" : "GUY",
+         "en_name" : "The Co-operative Republic of Guyana",
+         "en_short_name" : "Guyana",
          "ja_name" : "ガイアナ共和国",
          "ja_short_name" : "ガイアナ",
          "position" : [
             "6.8",
             "-58.15"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "73" : {
+         "code" : "LU",
+         "code3" : "LUX",
+         "en_name" : "The Grand Duchy of Luxembourg",
+         "en_short_name" : "Luxembourg",
          "ja_name" : "ルクセンブルク大公国",
          "ja_short_name" : "ルクセンブルク",
          "position" : [
             "49.83",
             "6.06"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "74" : {
+         "code" : "BH",
+         "code3" : "BHR",
+         "en_name" : "The Kingdom of Bahrain",
+         "en_short_name" : "Bahrain",
          "ja_name" : "バーレーン王国",
          "ja_short_name" : "バーレーン",
          "position" : [
             "26.22",
             "50.58"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "75" : {
+         "code" : "MX",
+         "code3" : "MEX",
+         "en_name" : "The United Mexican States",
+         "en_short_name" : "Mexico",
          "ja_name" : "メキシコ合衆国",
          "ja_short_name" : "メキシコ",
          "position" : [
             "19.41",
             "-99.13"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "76" : {
+         "code" : "CH",
+         "code3" : "CHE",
+         "en_name" : "The Swiss Confederation",
+         "en_short_name" : "Switzerland",
          "ja_name" : "スイス連邦",
          "ja_short_name" : "スイス",
          "position" : [
             "46.95",
             "7.45"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "77" : {
+         "code" : "HN",
+         "code3" : "HND",
+         "en_name" : "The Republic of Honduras",
+         "en_short_name" : "Honduras",
          "ja_name" : "ホンジュラス共和国",
          "ja_short_name" : "ホンジュラス",
          "position" : [
             "14.1",
             "-87.21"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "78" : {
+         "code" : "HT",
+         "code3" : "HTI",
+         "en_name" : "The Republic of Haiti",
+         "en_short_name" : "Haiti",
          "ja_name" : "ハイチ共和国",
          "ja_short_name" : "ハイチ",
          "position" : [
             "18.54",
             "-72.33"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "79" : {
+         "code" : "WS",
+         "code3" : "WSM",
+         "en_name" : "The Independent State of Samoa",
+         "en_short_name" : "Samoa",
          "ja_name" : "サモア独立国",
          "ja_short_name" : "サモア",
          "position" : [
             "-13.83",
             "-171.75"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "8" : {
+         "code" : "KW",
+         "code3" : "KWT",
+         "en_name" : "The State of Kuwait",
+         "en_short_name" : "Kuwait",
          "ja_name" : "クウェート国",
          "ja_short_name" : "クウェート",
          "position" : [
             "29.66",
             "47.55"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "80" : {
+         "code" : "SK",
+         "code3" : "SVK",
+         "en_name" : "The Slovak Republic",
+         "en_short_name" : "Slovakia",
          "ja_name" : "スロバキア共和国",
          "ja_short_name" : "スロバキア",
          "position" : [
             "48.15",
             "17.13"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "81" : {
+         "code" : "CG",
+         "code3" : "COG",
+         "en_name" : "The Republic of the Congo",
+         "en_short_name" : "Congo",
          "ja_name" : "コンゴ共和国",
          "ja_short_name" : "コンゴ共和国",
          "position" : [
             "-4.27",
             "15.28"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "82" : {
+         "code" : "CZ",
+         "code3" : "CZE",
+         "en_name" : "The Czech Republic",
+         "en_short_name" : "Czech Republic",
          "ja_name" : "チェコ共和国",
          "ja_short_name" : "チェコ",
          "position" : [
             "50.08",
             "14.44"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "83" : {
+         "code" : "AT",
+         "code3" : "AUT",
+         "en_name" : "The Republic of Austria",
+         "en_short_name" : "Austria",
          "ja_name" : "オーストリア共和国",
          "ja_short_name" : "オーストリア",
          "position" : [
             "48.2",
             "16.36"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "84" : {
+         "code" : "ZW",
+         "code3" : "ZWE",
+         "en_name" : "The Republic of Zimbabwe",
+         "en_short_name" : "Zimbabwe",
          "ja_name" : "ジンバブエ共和国",
          "ja_short_name" : "ジンバブエ",
          "position" : [
             "-17.83",
             "31.05"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "85" : {
+         "code" : "RO",
+         "code3" : "ROU",
+         "en_name" : "Romania",
+         "en_short_name" : "Romania",
          "ja_name" : "ルーマニア",
          "ja_short_name" : "ルーマニア",
          "position" : [
             "44.45",
             "26.1"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "86" : {
+         "code" : "TJ",
+         "code3" : "TJK",
+         "en_name" : "The Republic of Tajikistan",
+         "en_short_name" : "Tajikistan",
          "ja_name" : "タジキスタン共和国",
          "ja_short_name" : "タジキスタン",
          "position" : [
             "38.57",
             "68.78"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "87" : {
+         "code" : "AZ",
+         "code3" : "AZE",
+         "en_name" : "The Republic of Azerbaijan",
+         "en_short_name" : "Azerbaijan",
          "ja_name" : "アゼルバイジャン共和国",
          "ja_short_name" : "アゼルバイジャン",
          "position" : [
             "40.38",
             "49.89"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "88" : {
+         "code" : "KZ",
+         "code3" : "KAZ",
+         "en_name" : "The Republic of Kazakhstan",
+         "en_short_name" : "Kazakhstan",
          "ja_name" : "カザフスタン共和国",
          "ja_short_name" : "カザフスタン",
          "position" : [
             "51.18",
             "71.45"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "89" : {
+         "code" : "TD",
+         "code3" : "TCD",
+         "en_name" : "The Republic of Chad",
+         "en_short_name" : "Chad",
          "ja_name" : "チャド共和国",
          "ja_short_name" : "チャド",
          "position" : [
             "12.1",
             "15.03"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "9" : {
+         "code" : "PA",
+         "code3" : "PAN",
+         "en_name" : "The Republic of Panama",
+         "en_short_name" : "Panama",
          "ja_name" : "パナマ共和国",
          "ja_short_name" : "パナマ",
          "position" : [
             "8.97",
             "-79.53"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "90" : {
          "ja_name" : "ニウェ",
@@ -1534,79 +3174,154 @@
          "position" : [
             "-19.01",
             "-169.92"
-         ]
+         ],
+         "status" : {
+            "jp" : "other"
+         }
       },
       "91" : {
+         "code" : "SR",
+         "code3" : "SUR",
+         "en_name" : "The Republic of Suriname",
+         "en_short_name" : "Suriname",
          "ja_name" : "スリナム共和国",
          "ja_short_name" : "スリナム",
          "position" : [
             "5.82",
             "-55.17"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "92" : {
+         "code" : "GH",
+         "code3" : "GHA",
+         "en_name" : "The Republic of Ghana",
+         "en_short_name" : "Ghana",
          "ja_name" : "ガーナ共和国",
          "ja_short_name" : "ガーナ",
          "position" : [
             "5.56",
             "-0.2"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "93" : {
+         "code" : "BY",
+         "code3" : "BLR",
+         "en_name" : "The Republic of Belarus",
+         "en_short_name" : "Belarus",
          "ja_name" : "ベラルーシ共和国",
          "ja_short_name" : "ベラルーシ",
          "position" : [
             "53.9",
             "27.58"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "94" : {
+         "code" : "GW",
+         "code3" : "GNB",
+         "en_name" : "The Republic of Guinea-Bissau",
+         "en_short_name" : "Guinea-Bissau",
          "ja_name" : "ギニアビサウ共和国",
          "ja_short_name" : "ギニアビサウ",
          "position" : [
             "11.86",
             "-15.6"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "95" : {
+         "code" : "BB",
+         "code3" : "BRB",
+         "en_name" : "Barbados",
+         "en_short_name" : "Barbados",
          "ja_name" : "バルバドス",
          "ja_short_name" : "バルバドス",
          "position" : [
             "13.09",
             "-59.61"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "96" : {
+         "code" : "SO",
+         "code3" : "SOM",
+         "en_name" : "Federal Republic of Somalia",
+         "en_short_name" : "Somalia",
          "ja_name" : "ソマリア共和国",
          "ja_short_name" : "ソマリア",
          "position" : [
             "2.08",
             "45.33"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "97" : {
+         "code" : "CR",
+         "code3" : "CRI",
+         "en_name" : "The Republic of Costa Rica",
+         "en_short_name" : "Costa Rica",
          "ja_name" : "コスタリカ共和国",
          "ja_short_name" : "コスタリカ",
          "position" : [
             "9.93",
             "-84.08"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "98" : {
+         "code" : "LI",
+         "code3" : "LIE",
+         "en_name" : "The Principality of Liechtenstein",
+         "en_short_name" : "Liechtenstein",
          "ja_name" : "リヒテンシュタイン公国",
          "ja_short_name" : "リヒテンシュタイン",
          "position" : [
             "47.15",
             "9.53"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       },
       "99" : {
+         "code" : "TL",
+         "code3" : "TLS",
+         "en_name" : "The Democratic Republic of Timor-Leste",
+         "en_short_name" : "East Timor",
          "ja_name" : "東ティモール民主共和国",
          "ja_short_name" : "東ティモール",
          "position" : [
             "-8.57",
             "125.57"
-         ]
+         ],
+         "status" : {
+            "gb" : "country",
+            "jp" : "country"
+         }
       }
    }
 }

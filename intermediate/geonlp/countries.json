@@ -1,0 +1,1813 @@
+{
+   "areas" : {
+      "-0.15 -78.35" : {
+         "ja_name" : "エクアドル共和国",
+         "ja_short_name" : "エクアドル",
+         "jp_status" : "country",
+         "position" : [
+            "-0.15",
+            "-78.35"
+         ]
+      },
+      "-0.53 166.92" : {
+         "ja_name" : "ナウル共和国",
+         "ja_short_name" : "ナウル",
+         "jp_status" : "country",
+         "position" : [
+            "-0.53",
+            "166.92"
+         ]
+      },
+      "-1.27 36.81" : {
+         "ja_name" : "ケニア共和国",
+         "ja_short_name" : "ケニア",
+         "jp_status" : "country",
+         "position" : [
+            "-1.27",
+            "36.81"
+         ]
+      },
+      "-1.95 30.06" : {
+         "ja_name" : "ルワンダ共和国",
+         "ja_short_name" : "ルワンダ",
+         "jp_status" : "country",
+         "position" : [
+            "-1.95",
+            "30.06"
+         ]
+      },
+      "-11.7 43.24" : {
+         "ja_name" : "コモロ連合",
+         "ja_short_name" : "コモロ",
+         "jp_status" : "country",
+         "position" : [
+            "-11.7",
+            "43.24"
+         ]
+      },
+      "-12.09 -77.05" : {
+         "ja_name" : "ペルー共和国",
+         "ja_short_name" : "ペルー",
+         "jp_status" : "country",
+         "position" : [
+            "-12.09",
+            "-77.05"
+         ]
+      },
+      "-13.83 -171.75" : {
+         "ja_name" : "サモア独立国",
+         "ja_short_name" : "サモア",
+         "jp_status" : "country",
+         "position" : [
+            "-13.83",
+            "-171.75"
+         ]
+      },
+      "-13.98 33.77" : {
+         "ja_name" : "マラウイ共和国",
+         "ja_short_name" : "マラウイ",
+         "jp_status" : "country",
+         "position" : [
+            "-13.98",
+            "33.77"
+         ]
+      },
+      "-15.41 28.29" : {
+         "ja_name" : "ザンビア共和国",
+         "ja_short_name" : "ザンビア",
+         "jp_status" : "country",
+         "position" : [
+            "-15.41",
+            "28.29"
+         ]
+      },
+      "-15.79 -47.9" : {
+         "ja_name" : "ブラジル連邦共和国",
+         "ja_short_name" : "ブラジル",
+         "jp_status" : "country",
+         "position" : [
+            "-15.79",
+            "-47.9"
+         ]
+      },
+      "-16.5 -68.15" : {
+         "ja_name" : "ボリビア民族国",
+         "ja_short_name" : "ボリビア",
+         "jp_status" : "country",
+         "position" : [
+            "-16.5",
+            "-68.15"
+         ]
+      },
+      "-17.74 168.32" : {
+         "ja_name" : "バヌアツ共和国",
+         "ja_short_name" : "バヌアツ",
+         "jp_status" : "country",
+         "position" : [
+            "-17.74",
+            "168.32"
+         ]
+      },
+      "-17.83 31.05" : {
+         "ja_name" : "ジンバブエ共和国",
+         "ja_short_name" : "ジンバブエ",
+         "jp_status" : "country",
+         "position" : [
+            "-17.83",
+            "31.05"
+         ]
+      },
+      "-18.14 178.43" : {
+         "ja_name" : "フィジー共和国",
+         "ja_short_name" : "フィジー",
+         "jp_status" : "country",
+         "position" : [
+            "-18.14",
+            "178.43"
+         ]
+      },
+      "-18.91 47.53" : {
+         "ja_name" : "マダガスカル共和国",
+         "ja_short_name" : "マダガスカル",
+         "jp_status" : "country",
+         "position" : [
+            "-18.91",
+            "47.53"
+         ]
+      },
+      "-19.01 -169.92" : {
+         "ja_name" : "ニウェ",
+         "ja_short_name" : "ニウェ",
+         "jp_status" : "other",
+         "position" : [
+            "-19.01",
+            "-169.92"
+         ]
+      },
+      "-20.17 57.5" : {
+         "ja_name" : "モーリシャス共和国",
+         "ja_short_name" : "モーリシャス",
+         "jp_status" : "country",
+         "position" : [
+            "-20.17",
+            "57.5"
+         ]
+      },
+      "-21.14 -175.22" : {
+         "ja_name" : "トンガ王国",
+         "ja_short_name" : "トンガ",
+         "jp_status" : "country",
+         "position" : [
+            "-21.14",
+            "-175.22"
+         ]
+      },
+      "-21.20 -159.77" : {
+         "ja_name" : "クック諸島",
+         "ja_short_name" : "クック諸島",
+         "jp_status" : "country",
+         "position" : [
+            "-21.20",
+            "-159.77"
+         ]
+      },
+      "-22.57 17.07" : {
+         "ja_name" : "ナミビア共和国",
+         "ja_short_name" : "ナミビア",
+         "jp_status" : "country",
+         "position" : [
+            "-22.57",
+            "17.07"
+         ]
+      },
+      "-24.67 25.92" : {
+         "ja_name" : "ボツワナ共和国",
+         "ja_short_name" : "ボツワナ",
+         "jp_status" : "country",
+         "position" : [
+            "-24.67",
+            "25.92"
+         ]
+      },
+      "-25.3 -57.64" : {
+         "ja_name" : "パラグアイ共和国",
+         "ja_short_name" : "パラグアイ",
+         "jp_status" : "country",
+         "position" : [
+            "-25.3",
+            "-57.64"
+         ]
+      },
+      "-25.73 28.22" : {
+         "ja_name" : "南アフリカ共和国",
+         "ja_short_name" : "南アフリカ",
+         "jp_status" : "country",
+         "position" : [
+            "-25.73",
+            "28.22"
+         ]
+      },
+      "-25.97 32.57" : {
+         "ja_name" : "モザンビーク共和国",
+         "ja_short_name" : "モザンビーク",
+         "jp_status" : "country",
+         "position" : [
+            "-25.97",
+            "32.57"
+         ]
+      },
+      "-26.32 31.14" : {
+         "ja_name" : "スワジランド王国",
+         "ja_short_name" : "スワジランド",
+         "jp_status" : "country",
+         "position" : [
+            "-26.32",
+            "31.14"
+         ]
+      },
+      "-29.31 27.49" : {
+         "ja_name" : "レソト王国",
+         "ja_short_name" : "レソト",
+         "jp_status" : "country",
+         "position" : [
+            "-29.31",
+            "27.49"
+         ]
+      },
+      "-3.38 29.36" : {
+         "ja_name" : "ブルンジ共和国",
+         "ja_short_name" : "ブルンジ",
+         "jp_status" : "country",
+         "position" : [
+            "-3.38",
+            "29.36"
+         ]
+      },
+      "-33.47 -70.64" : {
+         "ja_name" : "チリ共和国",
+         "ja_short_name" : "チリ",
+         "jp_status" : "country",
+         "position" : [
+            "-33.47",
+            "-70.64"
+         ]
+      },
+      "-34.61 -58.42" : {
+         "ja_name" : "アルゼンチン共和国",
+         "ja_short_name" : "アルゼンチン",
+         "jp_status" : "country",
+         "position" : [
+            "-34.61",
+            "-58.42"
+         ]
+      },
+      "-34.89 -56.16" : {
+         "ja_name" : "ウルグアイ東方共和国",
+         "ja_short_name" : "ウルグアイ",
+         "jp_status" : "country",
+         "position" : [
+            "-34.89",
+            "-56.16"
+         ]
+      },
+      "-35.33 149.08" : {
+         "ja_name" : "オーストラリア連邦",
+         "ja_short_name" : "オーストラリア",
+         "jp_status" : "country",
+         "position" : [
+            "-35.33",
+            "149.08"
+         ]
+      },
+      "-4.27 15.28" : {
+         "ja_name" : "コンゴ共和国",
+         "ja_short_name" : "コンゴ共和国",
+         "jp_status" : "country",
+         "position" : [
+            "-4.27",
+            "15.28"
+         ]
+      },
+      "-4.33 15.32" : {
+         "ja_name" : "コンゴ民主共和国",
+         "ja_short_name" : "コンゴ民主共和国",
+         "jp_status" : "country",
+         "position" : [
+            "-4.33",
+            "15.32"
+         ]
+      },
+      "-4.61 55.44" : {
+         "ja_name" : "セーシェル共和国",
+         "ja_short_name" : "セーシェル",
+         "jp_status" : "country",
+         "position" : [
+            "-4.61",
+            "55.44"
+         ]
+      },
+      "-41.32 174.78" : {
+         "ja_name" : "ニュージーランド",
+         "ja_short_name" : "ニュージーランド",
+         "jp_status" : "country",
+         "position" : [
+            "-41.32",
+            "174.78"
+         ]
+      },
+      "-6.21 106.85" : {
+         "ja_name" : "インドネシア共和国",
+         "ja_short_name" : "インドネシア",
+         "jp_status" : "country",
+         "position" : [
+            "-6.21",
+            "106.85"
+         ]
+      },
+      "-6.82 39.27" : {
+         "ja_name" : "タンザニア連合共和国",
+         "ja_short_name" : "タンザニア",
+         "jp_status" : "country",
+         "position" : [
+            "-6.82",
+            "39.27"
+         ]
+      },
+      "-8.51 179.18" : {
+         "ja_name" : "ツバル",
+         "ja_short_name" : "ツバル",
+         "jp_status" : "country",
+         "position" : [
+            "-8.51",
+            "179.18"
+         ]
+      },
+      "-8.57 125.57" : {
+         "ja_name" : "東ティモール民主共和国",
+         "ja_short_name" : "東ティモール",
+         "jp_status" : "country",
+         "position" : [
+            "-8.57",
+            "125.57"
+         ]
+      },
+      "-8.81 13.24" : {
+         "ja_name" : "アンゴラ共和国",
+         "ja_short_name" : "アンゴラ",
+         "jp_status" : "country",
+         "position" : [
+            "-8.81",
+            "13.24"
+         ]
+      },
+      "-9.43 159.95" : {
+         "ja_name" : "ソロモン諸島",
+         "ja_short_name" : "ソロモン諸島",
+         "jp_status" : "country",
+         "position" : [
+            "-9.43",
+            "159.95"
+         ]
+      },
+      "-9.48 147.19" : {
+         "ja_name" : "パプアニューギニア独立国",
+         "ja_short_name" : "パプアニューギニア",
+         "jp_status" : "country",
+         "position" : [
+            "-9.48",
+            "147.19"
+         ]
+      },
+      "0.31 32.57" : {
+         "ja_name" : "ウガンダ共和国",
+         "ja_short_name" : "ウガンダ",
+         "jp_status" : "country",
+         "position" : [
+            "0.31",
+            "32.57"
+         ]
+      },
+      "0.34 6.73" : {
+         "ja_name" : "サントメ・プリンシペ民主共和国",
+         "ja_short_name" : "サントメ・プリンシペ",
+         "jp_status" : "country",
+         "position" : [
+            "0.34",
+            "6.73"
+         ]
+      },
+      "0.39 9.45" : {
+         "ja_name" : "ガボン共和国",
+         "ja_short_name" : "ガボン",
+         "jp_status" : "country",
+         "position" : [
+            "0.39",
+            "9.45"
+         ]
+      },
+      "1.29 103.85" : {
+         "ja_name" : "シンガポール共和国",
+         "ja_short_name" : "シンガポール",
+         "jp_status" : "country",
+         "position" : [
+            "1.29",
+            "103.85"
+         ]
+      },
+      "1.47 173.03" : {
+         "ja_name" : "キリバス共和国",
+         "ja_short_name" : "キリバス",
+         "jp_status" : "country",
+         "position" : [
+            "1.47",
+            "173.03"
+         ]
+      },
+      "10.49 -66.9" : {
+         "ja_name" : "ベネズエラ・ボリバル共和国",
+         "ja_short_name" : "ベネズエラ",
+         "jp_status" : "country",
+         "position" : [
+            "10.49",
+            "-66.9"
+         ]
+      },
+      "10.66 -61.48" : {
+         "ja_name" : "トリニダード・トバゴ共和国",
+         "ja_short_name" : "トリニダード・トバゴ",
+         "jp_status" : "country",
+         "position" : [
+            "10.66",
+            "-61.48"
+         ]
+      },
+      "11.56 104.92" : {
+         "ja_name" : "カンボジア王国",
+         "ja_short_name" : "カンボジア",
+         "jp_status" : "country",
+         "position" : [
+            "11.56",
+            "104.92"
+         ]
+      },
+      "11.86 -15.6" : {
+         "ja_name" : "ギニアビサウ共和国",
+         "ja_short_name" : "ギニアビサウ",
+         "jp_status" : "country",
+         "position" : [
+            "11.86",
+            "-15.6"
+         ]
+      },
+      "11.99 42.52" : {
+         "ja_name" : "ジブチ共和国",
+         "ja_short_name" : "ジブチ",
+         "jp_status" : "country",
+         "position" : [
+            "11.99",
+            "42.52"
+         ]
+      },
+      "12.07 -61.74" : {
+         "ja_name" : "グレナダ",
+         "ja_short_name" : "グレナダ",
+         "jp_status" : "country",
+         "position" : [
+            "12.07",
+            "-61.74"
+         ]
+      },
+      "12.1 15.03" : {
+         "ja_name" : "チャド共和国",
+         "ja_short_name" : "チャド",
+         "jp_status" : "country",
+         "position" : [
+            "12.1",
+            "15.03"
+         ]
+      },
+      "12.15 -86.27" : {
+         "ja_name" : "ニカラグア共和国",
+         "ja_short_name" : "ニカラグア",
+         "jp_status" : "country",
+         "position" : [
+            "12.15",
+            "-86.27"
+         ]
+      },
+      "12.36 -1.54" : {
+         "ja_name" : "ブルキナファソ",
+         "ja_short_name" : "ブルキナファソ",
+         "jp_status" : "country",
+         "position" : [
+            "12.36",
+            "-1.54"
+         ]
+      },
+      "12.65 -7.99" : {
+         "ja_name" : "マリ共和国",
+         "ja_short_name" : "マリ",
+         "jp_status" : "country",
+         "position" : [
+            "12.65",
+            "-7.99"
+         ]
+      },
+      "13.09 -59.61" : {
+         "ja_name" : "バルバドス",
+         "ja_short_name" : "バルバドス",
+         "jp_status" : "country",
+         "position" : [
+            "13.09",
+            "-59.61"
+         ]
+      },
+      "13.2 -61.27" : {
+         "ja_name" : "セントビンセント及びグレナディーン諸島",
+         "ja_short_name" : "セントビンセント及びグレナディーン諸島",
+         "jp_status" : "country",
+         "position" : [
+            "13.2",
+            "-61.27"
+         ]
+      },
+      "13.45 -16.59" : {
+         "ja_name" : "ガンビア共和国",
+         "ja_short_name" : "ガンビア",
+         "jp_status" : "country",
+         "position" : [
+            "13.45",
+            "-16.59"
+         ]
+      },
+      "13.52 2.12" : {
+         "ja_name" : "ニジェール共和国",
+         "ja_short_name" : "ニジェール",
+         "jp_status" : "country",
+         "position" : [
+            "13.52",
+            "2.12"
+         ]
+      },
+      "13.71 -89.2" : {
+         "ja_name" : "エルサルバドル共和国",
+         "ja_short_name" : "エルサルバドル",
+         "jp_status" : "country",
+         "position" : [
+            "13.71",
+            "-89.2"
+         ]
+      },
+      "13.73 100.52" : {
+         "ja_name" : "タイ王国",
+         "ja_short_name" : "タイ",
+         "jp_status" : "country",
+         "position" : [
+            "13.73",
+            "100.52"
+         ]
+      },
+      "14 -60.98" : {
+         "ja_name" : "セントルシア",
+         "ja_short_name" : "セントルシア",
+         "jp_status" : "country",
+         "position" : [
+            "14",
+            "-60.98"
+         ]
+      },
+      "14.1 -87.21" : {
+         "ja_name" : "ホンジュラス共和国",
+         "ja_short_name" : "ホンジュラス",
+         "jp_status" : "country",
+         "position" : [
+            "14.1",
+            "-87.21"
+         ]
+      },
+      "14.6 120.98" : {
+         "ja_name" : "フィリピン共和国",
+         "ja_short_name" : "フィリピン",
+         "jp_status" : "country",
+         "position" : [
+            "14.6",
+            "120.98"
+         ]
+      },
+      "14.63 -90.5" : {
+         "ja_name" : "グアテマラ共和国",
+         "ja_short_name" : "グアテマラ",
+         "jp_status" : "country",
+         "position" : [
+            "14.63",
+            "-90.5"
+         ]
+      },
+      "14.69 -17.45" : {
+         "ja_name" : "セネガル共和国",
+         "ja_short_name" : "セネガル",
+         "jp_status" : "country",
+         "position" : [
+            "14.69",
+            "-17.45"
+         ]
+      },
+      "14.92 -23.52" : {
+         "ja_name" : "カーボヴェルデ共和国",
+         "ja_short_name" : "カーボヴェルデ",
+         "jp_status" : "country",
+         "position" : [
+            "14.92",
+            "-23.52"
+         ]
+      },
+      "15.3 -61.39" : {
+         "ja_name" : "ドミニカ国",
+         "ja_short_name" : "ドミニカ国",
+         "jp_status" : "country",
+         "position" : [
+            "15.3",
+            "-61.39"
+         ]
+      },
+      "15.33 38.93" : {
+         "ja_name" : "エリトリア国",
+         "ja_short_name" : "エリトリア",
+         "jp_status" : "country",
+         "position" : [
+            "15.33",
+            "38.93"
+         ]
+      },
+      "15.55 32.53" : {
+         "ja_name" : "スーダン共和国",
+         "ja_short_name" : "スーダン",
+         "jp_status" : "country",
+         "position" : [
+            "15.55",
+            "32.53"
+         ]
+      },
+      "15.8 47.9" : {
+         "ja_name" : "イエメン共和国",
+         "ja_short_name" : "イエメン",
+         "jp_status" : "country",
+         "position" : [
+            "15.8",
+            "47.9"
+         ]
+      },
+      "16.78 96.16" : {
+         "ja_name" : "ミャンマー連邦共和国",
+         "ja_short_name" : "ミャンマー",
+         "jp_status" : "country",
+         "position" : [
+            "16.78",
+            "96.16"
+         ]
+      },
+      "17.12 -61.85" : {
+         "ja_name" : "アンティグア・バーブーダ",
+         "ja_short_name" : "アンティグア・バーブーダ",
+         "jp_status" : "country",
+         "position" : [
+            "17.12",
+            "-61.85"
+         ]
+      },
+      "17.26 -88.78" : {
+         "ja_name" : "ベリーズ",
+         "ja_short_name" : "ベリーズ",
+         "jp_status" : "country",
+         "position" : [
+            "17.26",
+            "-88.78"
+         ]
+      },
+      "17.3 -62.73" : {
+         "ja_name" : "セントクリストファー・ネーヴィス",
+         "ja_short_name" : "セントクリストファー・ネーヴィス",
+         "jp_status" : "country",
+         "position" : [
+            "17.3",
+            "-62.73"
+         ]
+      },
+      "17.96 102.61" : {
+         "ja_name" : "ラオス人民民主共和国",
+         "ja_short_name" : "ラオス",
+         "jp_status" : "country",
+         "position" : [
+            "17.96",
+            "102.61"
+         ]
+      },
+      "17.98 -76.8" : {
+         "ja_name" : "ジャマイカ",
+         "ja_short_name" : "ジャマイカ",
+         "jp_status" : "country",
+         "position" : [
+            "17.98",
+            "-76.8"
+         ]
+      },
+      "18.08 -15.98" : {
+         "ja_name" : "モーリタニア・イスラム共和国",
+         "ja_short_name" : "モーリタニア",
+         "jp_status" : "country",
+         "position" : [
+            "18.08",
+            "-15.98"
+         ]
+      },
+      "18.48 -69.92" : {
+         "ja_name" : "ドミニカ共和国",
+         "ja_short_name" : "ドミニカ共和国",
+         "jp_status" : "country",
+         "position" : [
+            "18.48",
+            "-69.92"
+         ]
+      },
+      "18.54 -72.33" : {
+         "ja_name" : "ハイチ共和国",
+         "ja_short_name" : "ハイチ",
+         "jp_status" : "country",
+         "position" : [
+            "18.54",
+            "-72.33"
+         ]
+      },
+      "19.41 -99.13" : {
+         "ja_name" : "メキシコ合衆国",
+         "ja_short_name" : "メキシコ",
+         "jp_status" : "country",
+         "position" : [
+            "19.41",
+            "-99.13"
+         ]
+      },
+      "2.08 45.33" : {
+         "ja_name" : "ソマリア共和国",
+         "ja_short_name" : "ソマリア",
+         "jp_status" : "country",
+         "position" : [
+            "2.08",
+            "45.33"
+         ]
+      },
+      "21.02 105.85" : {
+         "ja_name" : "ベトナム社会主義共和国",
+         "ja_short_name" : "ベトナム",
+         "jp_status" : "country",
+         "position" : [
+            "21.02",
+            "105.85"
+         ]
+      },
+      "22.19 113.54" : {
+         "ja_name" : "マカオ",
+         "ja_short_name" : "マカオ",
+         "jp_status" : "other",
+         "position" : [
+            "22.19",
+            "113.54"
+         ]
+      },
+      "22.38 114.16" : {
+         "ja_name" : "香港",
+         "ja_short_name" : "香港",
+         "jp_status" : "other",
+         "position" : [
+            "22.38",
+            "114.16"
+         ]
+      },
+      "23.12 -82.39" : {
+         "ja_name" : "キューバ共和国",
+         "ja_short_name" : "キューバ",
+         "jp_status" : "country",
+         "position" : [
+            "23.12",
+            "-82.39"
+         ]
+      },
+      "23.61 58.59" : {
+         "ja_name" : "オマーン国",
+         "ja_short_name" : "オマーン",
+         "jp_status" : "country",
+         "position" : [
+            "23.61",
+            "58.59"
+         ]
+      },
+      "23.71 90.41" : {
+         "ja_name" : "バングラデシュ人民共和国",
+         "ja_short_name" : "バングラデシュ",
+         "jp_status" : "country",
+         "position" : [
+            "23.71",
+            "90.41"
+         ]
+      },
+      "24.48 54.37" : {
+         "ja_name" : "アラブ首長国連邦",
+         "ja_short_name" : "アラブ首長国連邦",
+         "jp_status" : "country",
+         "position" : [
+            "24.48",
+            "54.37"
+         ]
+      },
+      "24.64 46.72" : {
+         "ja_name" : "サウジアラビア王国",
+         "ja_short_name" : "サウジアラビア",
+         "jp_status" : "country",
+         "position" : [
+            "24.64",
+            "46.72"
+         ]
+      },
+      "25.04 121.50" : {
+         "ja_name" : "中華民国",
+         "ja_short_name" : "台湾",
+         "jp_status" : "other",
+         "position" : [
+            "25.04",
+            "121.50"
+         ]
+      },
+      "25.07 -77.34" : {
+         "ja_name" : "バハマ国",
+         "ja_short_name" : "バハマ",
+         "jp_status" : "country",
+         "position" : [
+            "25.07",
+            "-77.34"
+         ]
+      },
+      "25.28 51.52" : {
+         "ja_name" : "カタール国",
+         "ja_short_name" : "カタール",
+         "jp_status" : "country",
+         "position" : [
+            "25.28",
+            "51.52"
+         ]
+      },
+      "26.22 50.58" : {
+         "ja_name" : "バーレーン王国",
+         "ja_short_name" : "バーレーン",
+         "jp_status" : "country",
+         "position" : [
+            "26.22",
+            "50.58"
+         ]
+      },
+      "27.44 89.67" : {
+         "ja_name" : "ブータン王国",
+         "ja_short_name" : "ブータン",
+         "jp_status" : "country",
+         "position" : [
+            "27.44",
+            "89.67"
+         ]
+      },
+      "27.7 85.32" : {
+         "ja_name" : "ネパール連邦民主共和国",
+         "ja_short_name" : "ネパール",
+         "jp_status" : "country",
+         "position" : [
+            "27.7",
+            "85.32"
+         ]
+      },
+      "28.61 77.18" : {
+         "ja_name" : "インド",
+         "ja_short_name" : "インド",
+         "jp_status" : "country",
+         "position" : [
+            "28.61",
+            "77.18"
+         ]
+      },
+      "29.66 47.55" : {
+         "ja_name" : "クウェート国",
+         "ja_short_name" : "クウェート",
+         "jp_status" : "country",
+         "position" : [
+            "29.66",
+            "47.55"
+         ]
+      },
+      "3.15 101.71" : {
+         "ja_name" : "マレーシア",
+         "ja_short_name" : "マレーシア",
+         "jp_status" : "country",
+         "position" : [
+            "3.15",
+            "101.71"
+         ]
+      },
+      "3.75 8.78" : {
+         "ja_name" : "赤道ギニア共和国",
+         "ja_short_name" : "赤道ギニア",
+         "jp_status" : "country",
+         "position" : [
+            "3.75",
+            "8.78"
+         ]
+      },
+      "3.87 11.52" : {
+         "ja_name" : "カメルーン共和国",
+         "ja_short_name" : "カメルーン",
+         "jp_status" : "country",
+         "position" : [
+            "3.87",
+            "11.52"
+         ]
+      },
+      "30.06 31.25" : {
+         "ja_name" : "エジプト・アラブ共和国",
+         "ja_short_name" : "エジプト",
+         "jp_status" : "country",
+         "position" : [
+            "30.06",
+            "31.25"
+         ]
+      },
+      "31.77 35.23" : {
+         "ja_name" : "イスラエル国",
+         "ja_short_name" : "イスラエル",
+         "jp_status" : "country",
+         "position" : [
+            "31.77",
+            "35.23"
+         ]
+      },
+      "31.93 34.87" : {
+         "ja_name" : "パレスチナ自治政府",
+         "ja_short_name" : "パレスチナ",
+         "jp_status" : "other",
+         "position" : [
+            "31.93",
+            "34.87"
+         ]
+      },
+      "31.95 35.93" : {
+         "ja_name" : "ヨルダン・ハシェミット王国",
+         "ja_short_name" : "ヨルダン",
+         "jp_status" : "country",
+         "position" : [
+            "31.95",
+            "35.93"
+         ]
+      },
+      "32.88 13.19" : {
+         "ja_name" : "リビア",
+         "ja_short_name" : "リビア",
+         "jp_status" : "country",
+         "position" : [
+            "32.88",
+            "13.19"
+         ]
+      },
+      "33.33 44.42" : {
+         "ja_name" : "イラク共和国",
+         "ja_short_name" : "イラク",
+         "jp_status" : "country",
+         "position" : [
+            "33.33",
+            "44.42"
+         ]
+      },
+      "33.52 36.31" : {
+         "ja_name" : "シリア・アラブ共和国",
+         "ja_short_name" : "シリア",
+         "jp_status" : "country",
+         "position" : [
+            "33.52",
+            "36.31"
+         ]
+      },
+      "33.72 73.06" : {
+         "ja_name" : "パキスタン・イスラム共和国",
+         "ja_short_name" : "パキスタン",
+         "jp_status" : "country",
+         "position" : [
+            "33.72",
+            "73.06"
+         ]
+      },
+      "33.89 35.51" : {
+         "ja_name" : "レバノン共和国",
+         "ja_short_name" : "レバノン",
+         "jp_status" : "country",
+         "position" : [
+            "33.89",
+            "35.51"
+         ]
+      },
+      "34.02 -6.83" : {
+         "ja_name" : "モロッコ王国",
+         "ja_short_name" : "モロッコ",
+         "jp_status" : "country",
+         "position" : [
+            "34.02",
+            "-6.83"
+         ]
+      },
+      "34.53 69.17" : {
+         "ja_name" : "アフガニスタン・イスラム共和国",
+         "ja_short_name" : "アフガニスタン",
+         "jp_status" : "country",
+         "position" : [
+            "34.53",
+            "69.17"
+         ]
+      },
+      "35.17 33.37" : {
+         "ja_name" : "キプロス共和国",
+         "ja_short_name" : "キプロス",
+         "jp_status" : "country",
+         "position" : [
+            "35.17",
+            "33.37"
+         ]
+      },
+      "35.69 139.65" : {
+         "ja_name" : "日本国",
+         "ja_short_name" : "日本",
+         "jp_status" : "country",
+         "position" : [
+            "35.69",
+            "139.65"
+         ]
+      },
+      "35.7 51.42" : {
+         "ja_name" : "イラン・イスラム共和国",
+         "ja_short_name" : "イラン",
+         "jp_status" : "country",
+         "position" : [
+            "35.7",
+            "51.42"
+         ]
+      },
+      "35.9 14.52" : {
+         "ja_name" : "マルタ共和国",
+         "ja_short_name" : "マルタ",
+         "jp_status" : "country",
+         "position" : [
+            "35.9",
+            "14.52"
+         ]
+      },
+      "36.75 3.04" : {
+         "ja_name" : "アルジェリア民主人民共和国",
+         "ja_short_name" : "アルジェリア",
+         "jp_status" : "country",
+         "position" : [
+            "36.75",
+            "3.04"
+         ]
+      },
+      "36.82 10.17" : {
+         "ja_name" : "チュニジア共和国",
+         "ja_short_name" : "チュニジア",
+         "jp_status" : "country",
+         "position" : [
+            "36.82",
+            "10.17"
+         ]
+      },
+      "37.53 126.96" : {
+         "ja_name" : "大韓民国",
+         "ja_short_name" : "韓国",
+         "jp_status" : "country",
+         "position" : [
+            "37.53",
+            "126.96"
+         ]
+      },
+      "37.97 58.33" : {
+         "ja_name" : "トルクメニスタン",
+         "ja_short_name" : "トルクメニスタン",
+         "jp_status" : "country",
+         "position" : [
+            "37.97",
+            "58.33"
+         ]
+      },
+      "37.98 23.72" : {
+         "ja_name" : "ギリシャ共和国",
+         "ja_short_name" : "ギリシャ",
+         "jp_status" : "country",
+         "position" : [
+            "37.98",
+            "23.72"
+         ]
+      },
+      "38.57 68.78" : {
+         "ja_name" : "タジキスタン共和国",
+         "ja_short_name" : "タジキスタン",
+         "jp_status" : "country",
+         "position" : [
+            "38.57",
+            "68.78"
+         ]
+      },
+      "38.71 -9.14" : {
+         "ja_name" : "ポルトガル共和国",
+         "ja_short_name" : "ポルトガル",
+         "jp_status" : "country",
+         "position" : [
+            "38.71",
+            "-9.14"
+         ]
+      },
+      "38.88 -77.03" : {
+         "ja_name" : "アメリカ合衆国",
+         "ja_short_name" : "アメリカ",
+         "jp_status" : "country",
+         "position" : [
+            "38.88",
+            "-77.03"
+         ]
+      },
+      "39.03 125.75" : {
+         "ja_name" : "朝鮮民主主義人民共和国",
+         "ja_short_name" : "北朝鮮",
+         "jp_status" : "other",
+         "position" : [
+            "39.03",
+            "125.75"
+         ]
+      },
+      "39.91 116.4" : {
+         "ja_name" : "中華人民共和国",
+         "ja_short_name" : "中国",
+         "jp_status" : "country",
+         "position" : [
+            "39.91",
+            "116.4"
+         ]
+      },
+      "39.94 32.85" : {
+         "ja_name" : "トルコ共和国",
+         "ja_short_name" : "トルコ",
+         "jp_status" : "country",
+         "position" : [
+            "39.94",
+            "32.85"
+         ]
+      },
+      "4.17 73.51" : {
+         "ja_name" : "モルディブ共和国",
+         "ja_short_name" : "モルディブ",
+         "jp_status" : "country",
+         "position" : [
+            "4.17",
+            "73.51"
+         ]
+      },
+      "4.36 18.56" : {
+         "ja_name" : "中央アフリカ共和国",
+         "ja_short_name" : "中央アフリカ",
+         "jp_status" : "country",
+         "position" : [
+            "4.36",
+            "18.56"
+         ]
+      },
+      "4.61 -74.08" : {
+         "ja_name" : "コロンビア共和国",
+         "ja_short_name" : "コロンビア",
+         "jp_status" : "country",
+         "position" : [
+            "4.61",
+            "-74.08"
+         ]
+      },
+      "4.85 31.60" : {
+         "ja_name" : "南スーダン共和国",
+         "ja_short_name" : "南スーダン",
+         "jp_status" : "country",
+         "position" : [
+            "4.85",
+            "31.60"
+         ]
+      },
+      "4.94 114.95" : {
+         "ja_name" : "ブルネイ・ダルサラーム国",
+         "ja_short_name" : "ブルネイ",
+         "jp_status" : "country",
+         "position" : [
+            "4.94",
+            "114.95"
+         ]
+      },
+      "40.16 44.51" : {
+         "ja_name" : "アルメニア共和国",
+         "ja_short_name" : "アルメニア",
+         "jp_status" : "country",
+         "position" : [
+            "40.16",
+            "44.51"
+         ]
+      },
+      "40.38 49.89" : {
+         "ja_name" : "アゼルバイジャン共和国",
+         "ja_short_name" : "アゼルバイジャン",
+         "jp_status" : "country",
+         "position" : [
+            "40.38",
+            "49.89"
+         ]
+      },
+      "40.42 -3.7" : {
+         "ja_name" : "スペイン",
+         "ja_short_name" : "スペイン",
+         "jp_status" : "country",
+         "position" : [
+            "40.42",
+            "-3.7"
+         ]
+      },
+      "41.31 69.27" : {
+         "ja_name" : "ウズベキスタン共和国",
+         "ja_short_name" : "ウズベキスタン",
+         "jp_status" : "country",
+         "position" : [
+            "41.31",
+            "69.27"
+         ]
+      },
+      "41.33 19.83" : {
+         "ja_name" : "アルバニア共和国",
+         "ja_short_name" : "アルバニア",
+         "jp_status" : "country",
+         "position" : [
+            "41.33",
+            "19.83"
+         ]
+      },
+      "41.71 44.79" : {
+         "ja_name" : "グルジア",
+         "ja_short_name" : "グルジア",
+         "jp_status" : "country",
+         "position" : [
+            "41.71",
+            "44.79"
+         ]
+      },
+      "41.9 12.45" : {
+         "ja_name" : "バチカン市国",
+         "ja_short_name" : "バチカン",
+         "jp_status" : "country",
+         "position" : [
+            "41.9",
+            "12.45"
+         ]
+      },
+      "41.9 12.48" : {
+         "ja_name" : "イタリア共和国",
+         "ja_short_name" : "イタリア",
+         "jp_status" : "country",
+         "position" : [
+            "41.9",
+            "12.48"
+         ]
+      },
+      "42 21.45" : {
+         "ja_name" : "マケドニア旧ユーゴスラビア共和国",
+         "ja_short_name" : "マケドニア",
+         "jp_status" : "country",
+         "position" : [
+            "42",
+            "21.45"
+         ]
+      },
+      "42.44 19.27" : {
+         "ja_name" : "モンテネグロ",
+         "ja_short_name" : "モンテネグロ",
+         "jp_status" : "country",
+         "position" : [
+            "42.44",
+            "19.27"
+         ]
+      },
+      "42.5 1.52" : {
+         "ja_name" : "アンドラ公国",
+         "ja_short_name" : "アンドラ",
+         "jp_status" : "country",
+         "position" : [
+            "42.5",
+            "1.52"
+         ]
+      },
+      "42.65 21.17" : {
+         "ja_name" : "コソボ共和国",
+         "ja_short_name" : "コソボ",
+         "jp_status" : "country",
+         "position" : [
+            "42.65",
+            "21.17"
+         ]
+      },
+      "42.71 23.32" : {
+         "ja_name" : "ブルガリア共和国",
+         "ja_short_name" : "ブルガリア",
+         "jp_status" : "country",
+         "position" : [
+            "42.71",
+            "23.32"
+         ]
+      },
+      "42.87 74.59" : {
+         "ja_name" : "キルギス共和国",
+         "ja_short_name" : "キルギス",
+         "jp_status" : "country",
+         "position" : [
+            "42.87",
+            "74.59"
+         ]
+      },
+      "43.75 7.42" : {
+         "ja_name" : "モナコ公国",
+         "ja_short_name" : "モナコ",
+         "jp_status" : "country",
+         "position" : [
+            "43.75",
+            "7.42"
+         ]
+      },
+      "43.86 18.41" : {
+         "ja_name" : "ボスニア・ヘルツェゴビナ",
+         "ja_short_name" : "ボスニア・ヘルツェゴビナ",
+         "jp_status" : "country",
+         "position" : [
+            "43.86",
+            "18.41"
+         ]
+      },
+      "43.96 12.46" : {
+         "ja_name" : "サンマリノ共和国",
+         "ja_short_name" : "サンマリノ",
+         "jp_status" : "country",
+         "position" : [
+            "43.96",
+            "12.46"
+         ]
+      },
+      "44.45 26.1" : {
+         "ja_name" : "ルーマニア",
+         "ja_short_name" : "ルーマニア",
+         "jp_status" : "country",
+         "position" : [
+            "44.45",
+            "26.1"
+         ]
+      },
+      "44.8 20.48" : {
+         "ja_name" : "セルビア共和国",
+         "ja_short_name" : "セルビア",
+         "jp_status" : "country",
+         "position" : [
+            "44.8",
+            "20.48"
+         ]
+      },
+      "45.42 -75.69" : {
+         "ja_name" : "カナダ",
+         "ja_short_name" : "カナダ",
+         "jp_status" : "country",
+         "position" : [
+            "45.42",
+            "-75.69"
+         ]
+      },
+      "45.81 15.96" : {
+         "ja_name" : "クロアチア共和国",
+         "ja_short_name" : "クロアチア",
+         "jp_status" : "country",
+         "position" : [
+            "45.81",
+            "15.96"
+         ]
+      },
+      "46.06 14.5" : {
+         "ja_name" : "スロベニア共和国",
+         "ja_short_name" : "スロベニア",
+         "jp_status" : "country",
+         "position" : [
+            "46.06",
+            "14.5"
+         ]
+      },
+      "46.95 7.45" : {
+         "ja_name" : "スイス連邦",
+         "ja_short_name" : "スイス",
+         "jp_status" : "country",
+         "position" : [
+            "46.95",
+            "7.45"
+         ]
+      },
+      "47 28.92" : {
+         "ja_name" : "モルドバ共和国",
+         "ja_short_name" : "モルドバ",
+         "jp_status" : "country",
+         "position" : [
+            "47",
+            "28.92"
+         ]
+      },
+      "47.15 9.53" : {
+         "ja_name" : "リヒテンシュタイン公国",
+         "ja_short_name" : "リヒテンシュタイン",
+         "jp_status" : "country",
+         "position" : [
+            "47.15",
+            "9.53"
+         ]
+      },
+      "47.5 19.04" : {
+         "ja_name" : "ハンガリー",
+         "ja_short_name" : "ハンガリー",
+         "jp_status" : "country",
+         "position" : [
+            "47.5",
+            "19.04"
+         ]
+      },
+      "47.9 106.92" : {
+         "ja_name" : "モンゴル国",
+         "ja_short_name" : "モンゴル",
+         "jp_status" : "country",
+         "position" : [
+            "47.9",
+            "106.92"
+         ]
+      },
+      "48.15 17.13" : {
+         "ja_name" : "スロバキア共和国",
+         "ja_short_name" : "スロバキア",
+         "jp_status" : "country",
+         "position" : [
+            "48.15",
+            "17.13"
+         ]
+      },
+      "48.2 16.36" : {
+         "ja_name" : "オーストリア共和国",
+         "ja_short_name" : "オーストリア",
+         "jp_status" : "country",
+         "position" : [
+            "48.2",
+            "16.36"
+         ]
+      },
+      "48.86 2.35" : {
+         "ja_name" : "フランス共和国",
+         "ja_short_name" : "フランス",
+         "jp_status" : "country",
+         "position" : [
+            "48.86",
+            "2.35"
+         ]
+      },
+      "49.83 6.06" : {
+         "ja_name" : "ルクセンブルク大公国",
+         "ja_short_name" : "ルクセンブルク",
+         "jp_status" : "country",
+         "position" : [
+            "49.83",
+            "6.06"
+         ]
+      },
+      "5.56 -0.2" : {
+         "ja_name" : "ガーナ共和国",
+         "ja_short_name" : "ガーナ",
+         "jp_status" : "country",
+         "position" : [
+            "5.56",
+            "-0.2"
+         ]
+      },
+      "5.82 -55.17" : {
+         "ja_name" : "スリナム共和国",
+         "ja_short_name" : "スリナム",
+         "jp_status" : "country",
+         "position" : [
+            "5.82",
+            "-55.17"
+         ]
+      },
+      "50.08 14.44" : {
+         "ja_name" : "チェコ共和国",
+         "ja_short_name" : "チェコ",
+         "jp_status" : "country",
+         "position" : [
+            "50.08",
+            "14.44"
+         ]
+      },
+      "50.45 30.5" : {
+         "ja_name" : "ウクライナ",
+         "ja_short_name" : "ウクライナ",
+         "jp_status" : "country",
+         "position" : [
+            "50.45",
+            "30.5"
+         ]
+      },
+      "50.84 4.37" : {
+         "ja_name" : "ベルギー王国",
+         "ja_short_name" : "ベルギー",
+         "jp_status" : "country",
+         "position" : [
+            "50.84",
+            "4.37"
+         ]
+      },
+      "51.18 71.45" : {
+         "ja_name" : "カザフスタン共和国",
+         "ja_short_name" : "カザフスタン",
+         "jp_status" : "country",
+         "position" : [
+            "51.18",
+            "71.45"
+         ]
+      },
+      "51.5 -0.13" : {
+         "ja_name" : "グレートブリテン及び北アイルランド連合王国",
+         "ja_short_name" : "英国",
+         "jp_status" : "country",
+         "position" : [
+            "51.5",
+            "-0.13"
+         ]
+      },
+      "52.24 21.01" : {
+         "ja_name" : "ポーランド共和国",
+         "ja_short_name" : "ポーランド",
+         "jp_status" : "country",
+         "position" : [
+            "52.24",
+            "21.01"
+         ]
+      },
+      "52.37 4.89" : {
+         "ja_name" : "オランダ王国",
+         "ja_short_name" : "オランダ",
+         "jp_status" : "country",
+         "position" : [
+            "52.37",
+            "4.89"
+         ]
+      },
+      "52.52 13.41" : {
+         "ja_name" : "ドイツ連邦共和国",
+         "ja_short_name" : "ドイツ",
+         "jp_status" : "country",
+         "position" : [
+            "52.52",
+            "13.41"
+         ]
+      },
+      "53.34 -6.27" : {
+         "ja_name" : "アイルランド",
+         "ja_short_name" : "アイルランド",
+         "jp_status" : "country",
+         "position" : [
+            "53.34",
+            "-6.27"
+         ]
+      },
+      "53.9 27.58" : {
+         "ja_name" : "ベラルーシ共和国",
+         "ja_short_name" : "ベラルーシ",
+         "jp_status" : "country",
+         "position" : [
+            "53.9",
+            "27.58"
+         ]
+      },
+      "54.68 25.28" : {
+         "ja_name" : "リトアニア共和国",
+         "ja_short_name" : "リトアニア",
+         "jp_status" : "country",
+         "position" : [
+            "54.68",
+            "25.28"
+         ]
+      },
+      "55.68 12.57" : {
+         "ja_name" : "デンマーク王国",
+         "ja_short_name" : "デンマーク",
+         "jp_status" : "country",
+         "position" : [
+            "55.68",
+            "12.57"
+         ]
+      },
+      "55.76 37.62" : {
+         "ja_name" : "ロシア連邦",
+         "ja_short_name" : "ロシア",
+         "jp_status" : "country",
+         "position" : [
+            "55.76",
+            "37.62"
+         ]
+      },
+      "56.95 24.09" : {
+         "ja_name" : "ラトビア共和国",
+         "ja_short_name" : "ラトビア",
+         "jp_status" : "country",
+         "position" : [
+            "56.95",
+            "24.09"
+         ]
+      },
+      "59.33 18.06" : {
+         "ja_name" : "スウェーデン王国",
+         "ja_short_name" : "スウェーデン",
+         "jp_status" : "country",
+         "position" : [
+            "59.33",
+            "18.06"
+         ]
+      },
+      "59.43 24.73" : {
+         "ja_name" : "エストニア共和国",
+         "ja_short_name" : "エストニア",
+         "jp_status" : "country",
+         "position" : [
+            "59.43",
+            "24.73"
+         ]
+      },
+      "59.91 10.74" : {
+         "ja_name" : "ノルウェー王国",
+         "ja_short_name" : "ノルウェー",
+         "jp_status" : "country",
+         "position" : [
+            "59.91",
+            "10.74"
+         ]
+      },
+      "6.12 1.23" : {
+         "ja_name" : "トーゴ共和国",
+         "ja_short_name" : "トーゴ",
+         "jp_status" : "country",
+         "position" : [
+            "6.12",
+            "1.23"
+         ]
+      },
+      "6.3 -10.8" : {
+         "ja_name" : "リベリア共和国",
+         "ja_short_name" : "リベリア",
+         "jp_status" : "country",
+         "position" : [
+            "6.3",
+            "-10.8"
+         ]
+      },
+      "6.48 2.63" : {
+         "ja_name" : "ベナン共和国",
+         "ja_short_name" : "ベナン",
+         "jp_status" : "country",
+         "position" : [
+            "6.48",
+            "2.63"
+         ]
+      },
+      "6.8 -58.15" : {
+         "ja_name" : "ガイアナ共和国",
+         "ja_short_name" : "ガイアナ",
+         "jp_status" : "country",
+         "position" : [
+            "6.8",
+            "-58.15"
+         ]
+      },
+      "6.82 -5.28" : {
+         "ja_name" : "コートジボワール共和国",
+         "ja_short_name" : "コートジボワール",
+         "jp_status" : "country",
+         "position" : [
+            "6.82",
+            "-5.28"
+         ]
+      },
+      "6.9 79.9" : {
+         "ja_name" : "スリランカ民主社会主義共和国",
+         "ja_short_name" : "スリランカ",
+         "jp_status" : "country",
+         "position" : [
+            "6.9",
+            "79.9"
+         ]
+      },
+      "6.92 158.19" : {
+         "ja_name" : "ミクロネシア連邦",
+         "ja_short_name" : "ミクロネシア",
+         "jp_status" : "country",
+         "position" : [
+            "6.92",
+            "158.19"
+         ]
+      },
+      "60.16 24.95" : {
+         "ja_name" : "フィンランド共和国",
+         "ja_short_name" : "フィンランド",
+         "jp_status" : "country",
+         "position" : [
+            "60.16",
+            "24.95"
+         ]
+      },
+      "64.14 -21.9" : {
+         "ja_name" : "アイスランド共和国",
+         "ja_short_name" : "アイスランド",
+         "jp_status" : "country",
+         "position" : [
+            "64.14",
+            "-21.9"
+         ]
+      },
+      "7.12 171.07" : {
+         "ja_name" : "マーシャル諸島共和国",
+         "ja_short_name" : "マーシャル諸島",
+         "jp_status" : "country",
+         "position" : [
+            "7.12",
+            "171.07"
+         ]
+      },
+      "7.34 134.48" : {
+         "ja_name" : "パラオ共和国",
+         "ja_short_name" : "パラオ",
+         "jp_status" : "country",
+         "position" : [
+            "7.34",
+            "134.48"
+         ]
+      },
+      "8.48 -13.23" : {
+         "ja_name" : "シエラレオネ共和国",
+         "ja_short_name" : "シエラレオネ",
+         "jp_status" : "country",
+         "position" : [
+            "8.48",
+            "-13.23"
+         ]
+      },
+      "8.97 -79.53" : {
+         "ja_name" : "パナマ共和国",
+         "ja_short_name" : "パナマ",
+         "jp_status" : "country",
+         "position" : [
+            "8.97",
+            "-79.53"
+         ]
+      },
+      "9.02 38.75" : {
+         "ja_name" : "エチオピア連邦民主共和国",
+         "ja_short_name" : "エチオピア",
+         "jp_status" : "country",
+         "position" : [
+            "9.02",
+            "38.75"
+         ]
+      },
+      "9.19 7.18" : {
+         "ja_name" : "ナイジェリア連邦共和国",
+         "ja_short_name" : "ナイジェリア",
+         "jp_status" : "country",
+         "position" : [
+            "9.19",
+            "7.18"
+         ]
+      },
+      "9.54 -13.68" : {
+         "ja_name" : "ギニア共和国",
+         "ja_short_name" : "ギニア",
+         "jp_status" : "country",
+         "position" : [
+            "9.54",
+            "-13.68"
+         ]
+      },
+      "9.93 -84.08" : {
+         "ja_name" : "コスタリカ共和国",
+         "ja_short_name" : "コスタリカ",
+         "jp_status" : "country",
+         "position" : [
+            "9.93",
+            "-84.08"
+         ]
+      }
+   }
+}

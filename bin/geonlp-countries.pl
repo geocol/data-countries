@@ -34,8 +34,9 @@ for my $input (@$Input) {
   $short_name = $name if $short_name eq 'アラブ';
   #$short_name = $name if $short_name eq 'マケドニア';
   $short_name = $name if $input->{suffix} eq q{諸島/};
+  $short_name .= '諸島' if $short_name eq 'マーシャル';
   #$short_name =~ s/及び/および/;
-  $short_name = '英国' if $short_name eq 'グレートブリテン及び北アイルランド連合王国';
+  $short_name = '英国' if $name eq 'グレートブリテン及び北アイルランド連合王国';
 
   my $key = join ' ', $input->{latitude}, $input->{longitude};
   if ($Data->{areas}->{$key}) {
@@ -45,6 +46,14 @@ for my $input (@$Input) {
   $Data->{areas}->{$key}->{ja_short_name} = $short_name;
   $Data->{areas}->{$key}->{ja_name} = $name;
   $Data->{areas}->{$key}->{position} = [$input->{latitude}, $input->{longitude}];
+
+  if ($short_name eq '北朝鮮') {
+    $Data->{areas}->{$key}->{jp_status} = 'other';
+  } elsif ($input->{ne_class} eq '国') {
+    $Data->{areas}->{$key}->{jp_status} = 'country';
+  } else {
+    $Data->{areas}->{$key}->{jp_status} = 'other';
+  }
 }
 
 print perl2json_bytes_for_record $Data;

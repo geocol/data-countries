@@ -10,6 +10,26 @@ areas [object]
   Name [number]: Country ID which is unique in this data file.
   Value [object]:
 
+    code [string?]
+
+      The ISO 3166-1 two-letter country code in uppercase letters, if
+      assigned.
+
+    code3 [string?]
+
+      The ISO 3166-1 three-letter country code in uppercase letters,
+      if assigned.
+
+    en_name [string?]
+
+      Country name in English, if known.  This is the name used by UK
+      government, where possible.
+
+    en_short_name [string?]
+
+      Country name in English, in shorter form (which does not contain
+      suffix such as "Republic" where unambiguous), if known.
+
     ja_name [string?]
 
       Country name in Japanese, if known.  This is the name used by
@@ -27,7 +47,19 @@ areas [object]
       The geographical location of somewhere in the country (typically
       in the capital of the country), if known.
 
+    status [object?]
+
+      The status of the country, if known.
+
+      Name [string]: "gb" (UK), "jp" (Japan)
+      Value [string]:
+        "country" - recognized as an independent country
+        "other"   - other regions
+
 * Sources
+
+FCO Geographical Names Index
+<https://www.gov.uk/government/publications/geographical-names-and-information>.
 
 各国・地域情勢 ｜ 外務省 <http://www.mofa.go.jp/mofaj/area/>.
 
@@ -38,6 +70,10 @@ areas [object]
 
 You are granted a license to use, reproduce, and create derivative
 works of this JSON file.
+
+This JSON file contains data extracted from FCO Geographical Names
+Index, which is available under the Open Government Licence v2.0
+<https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/>.
 
 This JSON file contains data extracted from 世界の国・地域(2013年9月),
 whose license is CC0.
