@@ -18,7 +18,7 @@ areas [object]
 
       Known countries in this region (or subregions of this region).
 
-      Name [number]: Country ID.  See |country-names.json|.
+      Name [number]: Country ID.  See |countriess.json|.
       Value [boolean]: A true value.
 
     en_name [string?]

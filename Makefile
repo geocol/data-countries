@@ -40,7 +40,7 @@ local/perl-latest/pm/lib/perl5/JSON/PS.pm:
 
 ## ------ Generation ------
 
-all-data: data/country-names.json data/macroregions.json
+all-data: data/countries.json data/macroregions.json
 clean-data:
 	rm -fr local/geonlp/*.zip local/geonlp/*.csv
 	rm -fr local/geouk/*.html local/countries.json
@@ -77,11 +77,11 @@ local/countries.json:
 	mkdir -p local
 	$(WGET) -O $@ https://raw.githubusercontent.com/mledoze/countries/master/countries.json
 
-data/country-names.json: intermediate/geonlp/countries.json \
+data/countries.json: intermediate/geonlp/countries.json \
     local/govuk/names/all.json local/iana-langtags.json \
     local/countries.json \
-    bin/country-names.pl
-	$(PERL) bin/country-names.pl > $@
+    bin/countries.pl
+	$(PERL) bin/countries.pl > $@
 
 data/macroregions.json: bin/macroregions.pl
 	$(PERL) bin/macroregions.pl > $@
