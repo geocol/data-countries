@@ -11,6 +11,16 @@ There is following file:
   countries       Countries.
   macroregions    Macroregions (continents).
 
+* Distribution
+
+Latest version of these files are available from Web site
+<http://geocol.github.io/> or GitHub repository
+<https://github.com/geocol/data-countries>.
+
+These files are expected to be frequently updated.  Rather than using
+a random snapshot, you should always use the latest version retrieved
+from these sources, whenever possible.
+
 * Author
 
 These files are maintained by Wakaba <wakaba@suikawiki.org>.
