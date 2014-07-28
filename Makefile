@@ -38,6 +38,11 @@ local/perl-latest/pm/lib/perl5/JSON/PS.pm:
 	mkdir -p local/perl-latest/pm/lib/perl5/JSON
 	$(WGET) -O $@ https://raw.githubusercontent.com/wakaba/perl-json-ps/master/lib/JSON/PS.pm
 
+local/bin/jq:
+	mkdir -p local/bin
+	$(WGET) -O $@ http://stedolan.github.io/jq/download/linux64/jq
+	chmod u+x $@
+
 ## ------ Generation ------
 
 all-data: data/countries.json data/macroregions.json
@@ -92,7 +97,7 @@ PROVE = ./prove
 
 test: test-deps test-main
 
-test-deps: deps
+test-deps: deps local/bin/jq
 
 test-main:
 	$(PROVE) t/*.t
