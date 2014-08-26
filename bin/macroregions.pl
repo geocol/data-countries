@@ -93,6 +93,24 @@ for (
   redo if $changed;
 }
 
+{
+  my $changed = 0;
+  for my $id (keys %{$Data->{areas}}) {
+    for my $sub_id (keys %{$Data->{areas}->{$id}->{subregions} or {}}) {
+      $Data->{areas}->{$sub_id}->{superregions}->{$id} ||= 1;
+      for my $sup_id (keys %{$Data->{areas}->{$id}->{superregions} or {}}) {
+        my $value = $Data->{areas}->{$sub_id}->{superregions}->{$id} + $Data->{areas}->{$id}->{superregions}->{$sup_id};
+        if (not $Data->{areas}->{$sub_id}->{superregions}->{$sup_id} or
+            $Data->{areas}->{$sub_id}->{superregions}->{$sup_id} > $value) {
+          $Data->{areas}->{$sub_id}->{superregions}->{$sup_id} = $value;
+          $changed = 1;
+        }
+      }
+    }
+  }
+  redo if $changed;
+}
+
 print perl2json_bytes_for_record $Data;
 
 ## License: Public Domain.

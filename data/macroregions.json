@@ -279,7 +279,11 @@
             "92" : 1,
             "94" : 1
          },
-         "en_name" : "Western Africa"
+         "en_name" : "Western Africa",
+         "superregions" : {
+            "1" : 2,
+            "2" : 1
+         }
       },
       "13" : {
          "code" : "013",
@@ -293,7 +297,12 @@
             "9" : 1,
             "97" : 1
          },
-         "en_name" : "Central America"
+         "en_name" : "Central America",
+         "superregions" : {
+            "1" : 3,
+            "19" : 2,
+            "419" : 1
+         }
       },
       "14" : {
          "code" : "014",
@@ -319,7 +328,11 @@
             "84" : 1,
             "96" : 1
          },
-         "en_name" : "Eastern Africa"
+         "en_name" : "Eastern Africa",
+         "superregions" : {
+            "1" : 2,
+            "2" : 1
+         }
       },
       "142" : {
          "code" : "142",
@@ -382,6 +395,9 @@
             "30" : 1,
             "34" : 1,
             "35" : 1
+         },
+         "superregions" : {
+            "1" : 1
          }
       },
       "143" : {
@@ -393,7 +409,11 @@
             "86" : 1,
             "88" : 1
          },
-         "en_name" : "Central Asia"
+         "en_name" : "Central Asia",
+         "superregions" : {
+            "1" : 2,
+            "142" : 1
+         }
       },
       "145" : {
          "code" : "145",
@@ -416,7 +436,11 @@
             "8" : 1,
             "87" : 1
          },
-         "en_name" : "Western Asia"
+         "en_name" : "Western Asia",
+         "superregions" : {
+            "1" : 2,
+            "142" : 1
+         }
       },
       "15" : {
          "code" : "015",
@@ -429,7 +453,11 @@
             "48" : 1,
             "55" : 1
          },
-         "en_name" : "Northern Africa"
+         "en_name" : "Northern Africa",
+         "superregions" : {
+            "1" : 2,
+            "2" : 1
+         }
       },
       "150" : {
          "code" : "150",
@@ -493,6 +521,9 @@
             "154" : 1,
             "155" : 1,
             "39" : 1
+         },
+         "superregions" : {
+            "1" : 1
          }
       },
       "151" : {
@@ -510,7 +541,11 @@
             "85" : 1,
             "93" : 1
          },
-         "en_name" : "Eastern Europe"
+         "en_name" : "Eastern Europe",
+         "superregions" : {
+            "1" : 2,
+            "150" : 1
+         }
       },
       "154" : {
          "code" : "154",
@@ -532,7 +567,11 @@
             "35" : 1,
             "63" : 1
          },
-         "en_name" : "Northern Europe"
+         "en_name" : "Northern Europe",
+         "superregions" : {
+            "1" : 2,
+            "150" : 1
+         }
       },
       "155" : {
          "code" : "155",
@@ -547,7 +586,11 @@
             "83" : 1,
             "98" : 1
          },
-         "en_name" : "Western Europe"
+         "en_name" : "Western Europe",
+         "superregions" : {
+            "1" : 2,
+            "150" : 1
+         }
       },
       "17" : {
          "code" : "017",
@@ -563,7 +606,11 @@
             "81" : 1,
             "89" : 1
          },
-         "en_name" : "Middle Africa"
+         "en_name" : "Middle Africa",
+         "superregions" : {
+            "1" : 2,
+            "2" : 1
+         }
       },
       "18" : {
          "code" : "018",
@@ -574,7 +621,11 @@
             "26" : 1,
             "70" : 1
          },
-         "en_name" : "Southern Africa"
+         "en_name" : "Southern Africa",
+         "superregions" : {
+            "1" : 2,
+            "2" : 1
+         }
       },
       "19" : {
          "code" : "019",
@@ -642,6 +693,9 @@
          "subregions" : {
             "21" : 1,
             "419" : 1
+         },
+         "superregions" : {
+            "1" : 1
          }
       },
       "2" : {
@@ -714,6 +768,9 @@
             "15" : 1,
             "17" : 1,
             "18" : 1
+         },
+         "superregions" : {
+            "1" : 1
          }
       },
       "21" : {
@@ -726,7 +783,11 @@
             "280" : 1,
             "283" : 1
          },
-         "en_name" : "Northern America"
+         "en_name" : "Northern America",
+         "superregions" : {
+            "1" : 2,
+            "19" : 1
+         }
       },
       "29" : {
          "code" : "029",
@@ -760,7 +821,12 @@
             "78" : 1,
             "95" : 1
          },
-         "en_name" : "Caribbean"
+         "en_name" : "Caribbean",
+         "superregions" : {
+            "1" : 3,
+            "19" : 2,
+            "419" : 1
+         }
       },
       "30" : {
          "code" : "030",
@@ -774,7 +840,11 @@
             "57" : 1,
             "60" : 1
          },
-         "en_name" : "Eastern Asia"
+         "en_name" : "Eastern Asia",
+         "superregions" : {
+            "1" : 2,
+            "142" : 1
+         }
       },
       "34" : {
          "code" : "034",
@@ -789,7 +859,11 @@
             "44" : 1,
             "64" : 1
          },
-         "en_name" : "Southern Asia"
+         "en_name" : "Southern Asia",
+         "superregions" : {
+            "1" : 2,
+            "142" : 1
+         }
       },
       "35" : {
          "code" : "035",
@@ -806,7 +880,11 @@
             "61" : 1,
             "99" : 1
          },
-         "en_name" : "South-Eastern Asia"
+         "en_name" : "South-Eastern Asia",
+         "superregions" : {
+            "1" : 2,
+            "142" : 1
+         }
       },
       "39" : {
          "code" : "039",
@@ -828,7 +906,11 @@
             "36" : 1,
             "39" : 1
          },
-         "en_name" : "Southern Europe"
+         "en_name" : "Southern Europe",
+         "superregions" : {
+            "1" : 2,
+            "150" : 1
+         }
       },
       "419" : {
          "code" : "419",
@@ -891,6 +973,10 @@
             "13" : 1,
             "29" : 1,
             "5" : 1
+         },
+         "superregions" : {
+            "1" : 2,
+            "19" : 1
          }
       },
       "5" : {
@@ -913,7 +999,12 @@
             "72" : 1,
             "91" : 1
          },
-         "en_name" : "South America"
+         "en_name" : "South America",
+         "superregions" : {
+            "1" : 3,
+            "19" : 2,
+            "419" : 1
+         }
       },
       "53" : {
          "code" : "053",
@@ -924,7 +1015,11 @@
             "295" : 1,
             "303" : 1
          },
-         "en_name" : "Australia and New Zealand"
+         "en_name" : "Australia and New Zealand",
+         "superregions" : {
+            "1" : 2,
+            "9" : 1
+         }
       },
       "54" : {
          "code" : "054",
@@ -935,7 +1030,11 @@
             "270" : 1,
             "28" : 1
          },
-         "en_name" : "Melanesia"
+         "en_name" : "Melanesia",
+         "superregions" : {
+            "1" : 2,
+            "9" : 1
+         }
       },
       "57" : {
          "code" : "057",
@@ -948,7 +1047,11 @@
             "296" : 1,
             "34" : 1
          },
-         "en_name" : "Micronesia"
+         "en_name" : "Micronesia",
+         "superregions" : {
+            "1" : 2,
+            "9" : 1
+         }
       },
       "61" : {
          "code" : "061",
@@ -964,7 +1067,11 @@
             "79" : 1,
             "90" : 1
          },
-         "en_name" : "Polynesia"
+         "en_name" : "Polynesia",
+         "superregions" : {
+            "1" : 2,
+            "9" : 1
+         }
       },
       "9" : {
          "code" : "009",
@@ -1003,6 +1110,9 @@
             "54" : 1,
             "57" : 1,
             "61" : 1
+         },
+         "superregions" : {
+            "1" : 1
          }
       }
    }
