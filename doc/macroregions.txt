@@ -34,6 +34,13 @@ areas [object]
       Name [number]: Macroregion ID of the subregion.
       Value [boolean]: A true value.
 
+    superregions [object?]
+
+      Superregions to which this region belongs.
+
+      Name [number]: Macroregion ID of the superregion.
+      Value [boolean]: The distance between the region and the superregion.
+
 * Sources
 
 Composition of macro geographical (continental) regions, geographical
