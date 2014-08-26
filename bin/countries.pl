@@ -141,7 +141,7 @@ sub _n ($) {
         Europe => '150',
         Oceania => '009',
       }->{$data->{region}}) {
-        $d->{macroregion} = $code;
+        $d->{macroregion} = 0+$code;
       } else {
         warn "Unknown region |$data->{region}|";
       }
@@ -172,7 +172,7 @@ sub _n ($) {
         'Micronesia' => '057',
         'Polynesia' => '061',
       }->{$data->{subregion}}) {
-        $d->{submacroregion} = $code;
+        $d->{submacroregion} = 0+$code;
       } else {
         warn "Unknown subregion |$data->{subregion}|";
       }
