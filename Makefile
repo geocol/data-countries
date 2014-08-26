@@ -49,6 +49,7 @@ clean-data:
 	rm -fr local/geonlp/*.zip local/geonlp/*.csv
 	rm -fr local/geouk/*.html local/countries.json
 	rm -fr local/iana-langtags.json
+	rm -fr local/google-countries.csv
 
 local/geonlp/geonlp_world_country/geonlp_world_country_20130912_u.csv:
 	mkdir -p local/geonlp
@@ -81,9 +82,14 @@ local/countries.json:
 	mkdir -p local
 	$(WGET) -O $@ https://raw.githubusercontent.com/mledoze/countries/master/countries.json
 
+local/google-countries.csv:
+	$(WGET) -O $@ https://dspl.googlecode.com/hg/datasets/google/canonical/countries.csv
+local/google-countries.json: local/google-countries.csv bin/csv2json.pl
+	$(PERL) bin/csv2json.pl $< > $@
+
 data/countries.json: intermediate/geonlp/countries.json \
     local/govuk/names/all.json local/iana-langtags.json \
-    local/countries.json \
+    local/countries.json local/google-countries.json \
     bin/countries.pl
 	$(PERL) bin/countries.pl > $@
 

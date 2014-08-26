@@ -76,6 +76,21 @@ sub _n ($) {
   }
 }
 
+## Latitude and longitude by Google
+{
+  my $path = $root_path->child ('local/google-countries.json');
+  my $json = json_bytes2perl $path->slurp;
+  my $c2p = {};
+  for (@$json) {
+    $c2p->{$_->{country}} = [$_->{latitude}, $_->{longitude}];
+  }
+  for (values %{$Data->{areas}}) {
+    if (defined $_->{code} and $c2p->{$_->{code}}) {
+      $_->{position} = $c2p->{$_->{code}};
+    }
+  }
+}
+
 {
   my $path = $root_path->child ('local/iana-langtags.json');
   my $json = json_bytes2perl $path->slurp;
