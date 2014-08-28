@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "1..5"
+echo "1..8"
 basedir=`dirname $0`/..
 jq=$basedir/local/bin/jq
 
@@ -12,3 +12,6 @@ test 2 '.areas["57"].en_name == "Japan"'
 test 3 '.areas["57"].en_short_name == "Japan"'
 test 4 '.areas["57"].ja_name == "日本国"'
 test 5 '.areas["57"].ja_short_name == "日本"'
+test 6 '.areas["57"].wref_ja == "日本"'
+test 7 '.areas["57"].wref_en == "Japan"'
+test 8 '.areas["57"].wikipedia_flag_file_name == "File:Flag_of_Japan.svg"'
