@@ -63,6 +63,12 @@ areas [object]
       Foreign Affairs, Japan (外務省 海外安全ホームページ), for the
       country, if any.
 
+    mofa_area_url [string?]
+
+      The URL of the Regional Affairs page for the country by the
+      Ministry of Foreign Affairs, Japan (外務省 各国・地域情勢), if
+      any.
+
     position [latlon?]
 
       The geographical location of somewhere in the country (typically
@@ -113,7 +119,8 @@ FCO Geographical Names Index
 The World Factbook
 <https://www.cia.gov/library/publications/the-world-factbook/>.
 
-各国・地域情勢 ｜ 外務省 <http://www.mofa.go.jp/mofaj/area/>.
+各国・地域情勢 ｜ 外務省 (Regional Affairs, Ministry of Foreign
+Affairs of Japan) <http://www.mofa.go.jp/mofaj/area/>.
 
 外務省 海外安全ホームページ (Ministry of Foreign Affairs / Overseas
 Safety HP) <http://www.anzen.mofa.go.jp/>.
