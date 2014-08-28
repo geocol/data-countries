@@ -1,5 +1,6 @@
 use strict;
 use warnings;
+use utf8;
 use Path::Tiny;
 use lib path (__FILE__)->parent->parent->child ('lib')->stringify;
 use CountryCodes;
@@ -212,6 +213,20 @@ sub _n ($) {
   }
 }
 
+## MOFA URLs
+{
+  my $path = $root_path->child ('local/mofa-anzen.json');
+  my $json = json_bytes2perl $path->slurp;
+  for my $name (keys %$json) {
+    my $id = IDs::get_id_by_string 'countries', $name;
+    $Data->{areas}->{$id}->{mofa_anzen_url} = $json->{$name};
+    unless ($name eq 'タヒチ') {
+      $Data->{areas}->{$id}->{ja_name} ||= $name;
+      $Data->{areas}->{$id}->{ja_short_name} ||= $name;
+    }
+  }
+}
+
 ## Wikipedia page names
 {
   my $path = $root_path->child ('local/wikipedia-ja-countries.json');
@@ -239,6 +254,9 @@ sub _n ($) {
         if defined $json->{$code}->{wref};
   }
 }
+
+$Data->{areas}->{431}->{en_name} ||= 'Hawaii';
+$Data->{areas}->{431}->{en_short_name} ||= 'Hawaii';
 
 ## Historical
 delete $Data->{areas}->{325}; # Netherlands Antilles

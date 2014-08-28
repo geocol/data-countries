@@ -57,6 +57,12 @@ areas [object]
       known.  This should be the continent-level macroregion (i.e. a
       subregion of the World macroregion).  See |macroregion.json|.
 
+    mofa_anzen_url [string?]
+
+      The URL of the page in the Overseas Safety HP, Ministry of
+      Foreign Affairs, Japan (外務省 海外安全ホームページ), for the
+      country, if any.
+
     position [latlon?]
 
       The geographical location of somewhere in the country (typically
@@ -109,6 +115,9 @@ The World Factbook
 
 各国・地域情勢 ｜ 外務省 <http://www.mofa.go.jp/mofaj/area/>.
 
+外務省 海外安全ホームページ (Ministry of Foreign Affairs / Overseas
+Safety HP) <http://www.anzen.mofa.go.jp/>.
+
 世界の国・地域(2013年9月)
 <https://geonlp.ex.nii.ac.jp/dictionary/geonlp/world_country>.
 
@@ -120,6 +129,12 @@ World countries in JSON, CSV and XML
 
 countries.csv - dspl - Dataset Publishing Language
 <https://code.google.com/p/dspl/source/browse/datasets/google/canonical/countries.csv>.
+
+Wikipedia (English) - ISO 3166-1
+<http://en.wikipedia.org/wiki/ISO_3166-1>.
+
+Wikipedia (Japanese) - ISO 3166-1
+<http://ja.wikipedia.org/wiki/ISO_3166-1>.
 
 * License
 

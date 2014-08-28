@@ -56,7 +56,7 @@ clean-data:
 	rm -fr local/geouk/*.html local/countries.json
 	rm -fr local/iana-langtags.json
 	rm -fr local/google-countries.csv
-	rm -fr local/wikipedia-*.html local/cia-*.html
+	rm -fr local/wikipedia-*.html local/cia-*.html local/mofa-*.html
 
 local/geonlp/geonlp_world_country/geonlp_world_country_20130912_u.csv:
 	mkdir -p local/geonlp
@@ -110,11 +110,16 @@ local/cia-list.html:
 local/cia-list.json: local/cia-list.html bin/cia-list.pl
 	$(PERL) bin/cia-list.pl $< > $@
 
+local/mofa-anzen.html:
+	$(WGET) -O $@ http://www.anzen.mofa.go.jp/travel/
+local/mofa-anzen.json: local/mofa-anzen.html bin/mofa-anzen.pl
+	$(PERL) bin/mofa-anzen.pl $< > $@
+
 data/countries.json: intermediate/geonlp/countries.json \
     local/govuk/names/all.json local/iana-langtags.json \
     local/countries.json local/google-countries.json \
     local/wikipedia-ja-countries.json local/wikipedia-en-countries.json \
-    local/cia-list.json \
+    local/cia-list.json local/mofa-anzen.json \
     bin/countries.pl
 	$(PERL) bin/countries.pl > $@
 
