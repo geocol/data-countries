@@ -64,7 +64,6 @@ sub _n ($) {
   $CodeToID->{GB} = $gb_id;
 }
 
-## Names by Japanese government
 {
   my $path = $root_path->child ('intermediate/geonlp/countries.json');
   my $json = json_bytes2perl $path->slurp;
@@ -78,6 +77,10 @@ sub _n ($) {
       $Data->{areas}->{$id}->{status}->{jp} = $data->{jp_status};
     }
   }
+
+  $Data->{areas}->{121}->{ja_name} = 'ボリビア多民族国';
+  $Data->{areas}->{90}->{ja_name} = 'ニウエ';
+  $Data->{areas}->{90}->{ja_short_name} = 'ニウエ';
 }
 
 ## Latitude and longitude by Google
@@ -232,8 +235,6 @@ sub _n ($) {
   for my $name (keys %$json) {
     my $id = IDs::get_id_by_string 'countries', $name;
     $Data->{areas}->{$id}->{mofa_area_url} = $json->{$name};
-    $Data->{areas}->{$id}->{ja_name} ||= $name;
-    $Data->{areas}->{$id}->{ja_short_name} ||= $name;
   }
 }
 
