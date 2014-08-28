@@ -5,6 +5,7 @@
          "code3" : "ATG",
          "en_name" : "Antigua and Barbuda",
          "en_short_name" : "Antigua and Barbuda",
+         "gec" : "AC",
          "iso3166_numeric" : "028",
          "ja_name" : "アンティグア・バーブーダ",
          "ja_short_name" : "アンティグア・バーブーダ",
@@ -13,12 +14,14 @@
             "17.060816",
             "-61.796428"
          ],
+         "stanag" : "ATG",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Antigua_and_Barbuda.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ac.html",
          "wref_en" : "Antigua_and_Barbuda",
          "wref_ja" : "アンティグア・バーブーダ"
       },
@@ -27,6 +30,7 @@
          "code3" : "QAT",
          "en_name" : "The State of Qatar",
          "en_short_name" : "Qatar",
+         "gec" : "QA",
          "iso3166_numeric" : "634",
          "ja_name" : "カタール国",
          "ja_short_name" : "カタール",
@@ -35,12 +39,14 @@
             "25.354826",
             "51.183884"
          ],
+         "stanag" : "QAT",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Qatar.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/qa.html",
          "wref_en" : "Qatar",
          "wref_ja" : "カタール"
       },
@@ -49,6 +55,7 @@
          "code3" : "SRB",
          "en_name" : "The Republic of Serbia",
          "en_short_name" : "Serbia",
+         "gec" : "RI",
          "iso3166_numeric" : "688",
          "ja_name" : "セルビア共和国",
          "ja_short_name" : "セルビア",
@@ -63,6 +70,7 @@
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Serbia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ri.html",
          "wref_en" : "Serbia",
          "wref_ja" : "セルビア"
       },
@@ -71,6 +79,7 @@
          "code3" : "UZB",
          "en_name" : "The Republic of Uzbekistan",
          "en_short_name" : "Uzbekistan",
+         "gec" : "UZ",
          "iso3166_numeric" : "860",
          "ja_name" : "ウズベキスタン共和国",
          "ja_short_name" : "ウズベキスタン",
@@ -79,12 +88,14 @@
             "41.377491",
             "64.585262"
          ],
+         "stanag" : "UZB",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 143,
          "wikipedia_flag_file_name" : "File:Flag_of_Uzbekistan.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/uz.html",
          "wref_en" : "Uzbekistan",
          "wref_ja" : "ウズベキスタン"
       },
@@ -93,6 +104,7 @@
          "code3" : "NIC",
          "en_name" : "The Republic of Nicaragua",
          "en_short_name" : "Nicaragua",
+         "gec" : "NU",
          "iso3166_numeric" : "558",
          "ja_name" : "ニカラグア共和国",
          "ja_short_name" : "ニカラグア",
@@ -101,12 +113,14 @@
             "12.865416",
             "-85.207229"
          ],
+         "stanag" : "NIC",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
          "wikipedia_flag_file_name" : "File:Flag_of_Nicaragua.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/nu.html",
          "wref_en" : "Nicaragua",
          "wref_ja" : "ニカラグア"
       },
@@ -115,6 +129,7 @@
          "code3" : "CMR",
          "en_name" : "The Republic of Cameroon",
          "en_short_name" : "Cameroon",
+         "gec" : "CM",
          "iso3166_numeric" : "120",
          "ja_name" : "カメルーン共和国",
          "ja_short_name" : "カメルーン",
@@ -123,12 +138,14 @@
             "7.369722",
             "12.354722"
          ],
+         "stanag" : "CMR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
          "wikipedia_flag_file_name" : "File:Flag_of_Cameroon.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cm.html",
          "wref_en" : "Cameroon",
          "wref_ja" : "カメルーン"
       },
@@ -137,6 +154,7 @@
          "code3" : "ZMB",
          "en_name" : "The Republic of Zambia",
          "en_short_name" : "Zambia",
+         "gec" : "ZA",
          "iso3166_numeric" : "894",
          "ja_name" : "ザンビア共和国",
          "ja_short_name" : "ザンビア",
@@ -145,12 +163,14 @@
             "-13.133897",
             "27.849332"
          ],
+         "stanag" : "ZMB",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Zambia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/za.html",
          "wref_en" : "Zambia",
          "wref_ja" : "ザンビア"
       },
@@ -159,6 +179,7 @@
          "code3" : "MLT",
          "en_name" : "The Republic of Malta",
          "en_short_name" : "Malta",
+         "gec" : "MT",
          "iso3166_numeric" : "470",
          "ja_name" : "マルタ共和国",
          "ja_short_name" : "マルタ",
@@ -167,12 +188,14 @@
             "35.937496",
             "14.375416"
          ],
+         "stanag" : "MLT",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Malta.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mt.html",
          "wref_en" : "Malta",
          "wref_ja" : "マルタ"
       },
@@ -181,6 +204,7 @@
          "code3" : "SYR",
          "en_name" : "The Syrian Arab Republic",
          "en_short_name" : "Syria",
+         "gec" : "SY",
          "iso3166_numeric" : "760",
          "ja_name" : "シリア・アラブ共和国",
          "ja_short_name" : "シリア",
@@ -189,12 +213,14 @@
             "34.802075",
             "38.996815"
          ],
+         "stanag" : "SYR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Syria.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html",
          "wref_en" : "Syrian_Arab_Republic",
          "wref_ja" : "シリア"
       },
@@ -203,6 +229,7 @@
          "code3" : "PRT",
          "en_name" : "The Portuguese Republic",
          "en_short_name" : "Portugal",
+         "gec" : "PO",
          "iso3166_numeric" : "620",
          "ja_name" : "ポルトガル共和国",
          "ja_short_name" : "ポルトガル",
@@ -211,12 +238,14 @@
             "39.399872",
             "-8.224454"
          ],
+         "stanag" : "PRT",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Portugal.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/po.html",
          "wref_en" : "Portugal",
          "wref_ja" : "ポルトガル"
       },
@@ -225,6 +254,7 @@
          "code3" : "TUN",
          "en_name" : "The Tunisian Republic",
          "en_short_name" : "Tunisia",
+         "gec" : "TS",
          "iso3166_numeric" : "788",
          "ja_name" : "チュニジア共和国",
          "ja_short_name" : "チュニジア",
@@ -233,12 +263,14 @@
             "33.886917",
             "9.537499"
          ],
+         "stanag" : "TUN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 15,
          "wikipedia_flag_file_name" : "File:Flag_of_Tunisia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ts.html",
          "wref_en" : "Tunisia",
          "wref_ja" : "チュニジア"
       },
@@ -247,6 +279,7 @@
          "code3" : "LBN",
          "en_name" : "The Lebanese Republic",
          "en_short_name" : "Lebanon",
+         "gec" : "LE",
          "iso3166_numeric" : "422",
          "ja_name" : "レバノン共和国",
          "ja_short_name" : "レバノン",
@@ -255,12 +288,14 @@
             "33.854721",
             "35.862285"
          ],
+         "stanag" : "LBN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Lebanon.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/le.html",
          "wref_en" : "Lebanon",
          "wref_ja" : "レバノン"
       },
@@ -269,6 +304,7 @@
          "code3" : "VNM",
          "en_name" : "The Socialist Republic of Vietnam",
          "en_short_name" : "Vietnam",
+         "gec" : "VM",
          "iso3166_numeric" : "704",
          "ja_name" : "ベトナム社会主義共和国",
          "ja_short_name" : "ベトナム",
@@ -277,12 +313,14 @@
             "14.058324",
             "108.277199"
          ],
+         "stanag" : "VNM",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_Vietnam.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/vm.html",
          "wref_en" : "Viet_Nam",
          "wref_ja" : "ベトナム"
       },
@@ -291,6 +329,7 @@
          "code3" : "PLW",
          "en_name" : "The Republic of Palau",
          "en_short_name" : "Palau",
+         "gec" : "PS",
          "iso3166_numeric" : "585",
          "ja_name" : "パラオ共和国",
          "ja_short_name" : "パラオ",
@@ -299,12 +338,14 @@
             "7.51498",
             "134.58252"
          ],
+         "stanag" : "PLW",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 57,
          "wikipedia_flag_file_name" : "File:Flag_of_Palau.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ps.html",
          "wref_en" : "Palau",
          "wref_ja" : "パラオ"
       },
@@ -313,6 +354,7 @@
          "code3" : "MCO",
          "en_name" : "The Principality of Monaco",
          "en_short_name" : "Monaco",
+         "gec" : "MN",
          "iso3166_numeric" : "492",
          "ja_name" : "モナコ公国",
          "ja_short_name" : "モナコ",
@@ -321,12 +363,14 @@
             "43.750298",
             "7.412841"
          ],
+         "stanag" : "MCO",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
          "wikipedia_flag_file_name" : "File:Flag_of_Monaco.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mn.html",
          "wref_en" : "Monaco",
          "wref_ja" : "モナコ"
       },
@@ -335,6 +379,7 @@
          "code3" : "COL",
          "en_name" : "The Republic of Colombia",
          "en_short_name" : "Colombia",
+         "gec" : "CO",
          "iso3166_numeric" : "170",
          "ja_name" : "コロンビア共和国",
          "ja_short_name" : "コロンビア",
@@ -343,12 +388,14 @@
             "4.570868",
             "-74.297333"
          ],
+         "stanag" : "COL",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Colombia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/co.html",
          "wref_en" : "Colombia",
          "wref_ja" : "コロンビア"
       },
@@ -357,6 +404,7 @@
          "code3" : "CHN",
          "en_name" : "The People's Republic of China",
          "en_short_name" : "China",
+         "gec" : "CH",
          "iso3166_numeric" : "156",
          "ja_name" : "中華人民共和国",
          "ja_short_name" : "中国",
@@ -365,12 +413,14 @@
             "35.86166",
             "104.195397"
          ],
+         "stanag" : "CHN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 30,
          "wikipedia_flag_file_name" : "File:Flag_of_the_People's_Republic_of_China.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html",
          "wref_en" : "China",
          "wref_ja" : "中華人民共和国"
       },
@@ -379,6 +429,7 @@
          "code3" : "LAO",
          "en_name" : "The Lao People's Democratic Republic",
          "en_short_name" : "Laos",
+         "gec" : "LA",
          "iso3166_numeric" : "418",
          "ja_name" : "ラオス人民民主共和国",
          "ja_short_name" : "ラオス",
@@ -387,12 +438,14 @@
             "19.85627",
             "102.495496"
          ],
+         "stanag" : "LAO",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_Laos.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/la.html",
          "wref_en" : "Lao_People's_Democratic_Republic",
          "wref_ja" : "ラオス"
       },
@@ -401,6 +454,7 @@
          "code3" : "CYP",
          "en_name" : "The Republic of Cyprus",
          "en_short_name" : "Cyprus",
+         "gec" : "CY",
          "iso3166_numeric" : "196",
          "ja_name" : "キプロス共和国",
          "ja_short_name" : "キプロス",
@@ -409,12 +463,14 @@
             "35.126413",
             "33.429859"
          ],
+         "stanag" : "CYP",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_Cyprus.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cy.html",
          "wref_en" : "Cyprus",
          "wref_ja" : "キプロス"
       },
@@ -423,6 +479,7 @@
          "code3" : "SLB",
          "en_name" : "Solomon Islands",
          "en_short_name" : "Solomon Islands",
+         "gec" : "BP",
          "iso3166_numeric" : "090",
          "ja_name" : "ソロモン諸島",
          "ja_short_name" : "ソロモン諸島",
@@ -431,12 +488,14 @@
             "-9.64571",
             "160.156194"
          ],
+         "stanag" : "SLB",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 54,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Solomon_Islands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bp.html",
          "wref_en" : "Solomon_Islands",
          "wref_ja" : "ソロモン諸島"
       },
@@ -445,6 +504,7 @@
          "code3" : "AUS",
          "en_name" : "The Commonwealth of Australia",
          "en_short_name" : "Australia",
+         "gec" : "AS",
          "iso3166_numeric" : "036",
          "ja_name" : "オーストラリア連邦",
          "ja_short_name" : "オーストラリア",
@@ -453,12 +513,14 @@
             "-25.274398",
             "133.775136"
          ],
+         "stanag" : "AUS",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 53,
          "wikipedia_flag_file_name" : "File:Flag_of_Australia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/as.html",
          "wref_en" : "Australia",
          "wref_ja" : "オーストラリア"
       },
@@ -467,6 +529,7 @@
          "code3" : "SYC",
          "en_name" : "The Republic of Seychelles",
          "en_short_name" : "Seychelles",
+         "gec" : "SE",
          "iso3166_numeric" : "690",
          "ja_name" : "セーシェル共和国",
          "ja_short_name" : "セーシェル",
@@ -475,12 +538,14 @@
             "-4.679574",
             "55.491977"
          ],
+         "stanag" : "SYC",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Seychelles.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/se.html",
          "wref_en" : "Seychelles",
          "wref_ja" : "セーシェル"
       },
@@ -489,6 +554,7 @@
          "code3" : "SGP",
          "en_name" : "The Republic of Singapore",
          "en_short_name" : "Singapore",
+         "gec" : "SN",
          "iso3166_numeric" : "702",
          "ja_name" : "シンガポール共和国",
          "ja_short_name" : "シンガポール",
@@ -497,12 +563,14 @@
             "1.352083",
             "103.819836"
          ],
+         "stanag" : "SGP",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_Singapore.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sn.html",
          "wref_en" : "Singapore",
          "wref_ja" : "シンガポール"
       },
@@ -511,6 +579,7 @@
          "code3" : "MNE",
          "en_name" : "Montenegro",
          "en_short_name" : "Montenegro",
+         "gec" : "MJ",
          "iso3166_numeric" : "499",
          "ja_name" : "モンテネグロ",
          "ja_short_name" : "モンテネグロ",
@@ -519,12 +588,14 @@
             "42.708678",
             "19.37439"
          ],
+         "stanag" : "MNE",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Montenegro.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mj.html",
          "wref_en" : "Montenegro",
          "wref_ja" : "モンテネグロ"
       },
@@ -533,6 +604,7 @@
          "code3" : "UKR",
          "en_name" : "Ukraine",
          "en_short_name" : "Ukraine",
+         "gec" : "UP",
          "iso3166_numeric" : "804",
          "ja_name" : "ウクライナ",
          "ja_short_name" : "ウクライナ",
@@ -541,12 +613,14 @@
             "48.379433",
             "31.16558"
          ],
+         "stanag" : "UKR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_Ukraine.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/up.html",
          "wref_en" : "Ukraine",
          "wref_ja" : "ウクライナ"
       },
@@ -555,6 +629,7 @@
          "code3" : "BOL",
          "en_name" : "The Plurinational State of Bolivia",
          "en_short_name" : "Bolivia",
+         "gec" : "BL",
          "iso3166_numeric" : "068",
          "ja_name" : "ボリビア民族国",
          "ja_short_name" : "ボリビア",
@@ -563,12 +638,14 @@
             "-16.290154",
             "-63.588653"
          ],
+         "stanag" : "BOL",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Bolivia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bl.html",
          "wref_en" : "Bolivia,_Plurinational_State_of",
          "wref_ja" : "ボリビア"
       },
@@ -577,6 +654,7 @@
          "code3" : "HKG",
          "en_name" : "Hong Kong",
          "en_short_name" : "Hong Kong",
+         "gec" : "HK",
          "iso3166_numeric" : "344",
          "ja_name" : "香港",
          "ja_short_name" : "香港",
@@ -585,11 +663,13 @@
             "22.38",
             "114.16"
          ],
+         "stanag" : "HKG",
          "status" : {
             "jp" : "other"
          },
          "submacroregion" : 30,
          "wikipedia_flag_file_name" : "File:Flag_of_Hong_Kong.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/hk.html",
          "wref_en" : "Hong_Kong",
          "wref_ja" : "香港"
       },
@@ -598,6 +678,7 @@
          "code3" : "NAM",
          "en_name" : "The Republic of Namibia",
          "en_short_name" : "Namibia",
+         "gec" : "WA",
          "iso3166_numeric" : "516",
          "ja_name" : "ナミビア共和国",
          "ja_short_name" : "ナミビア",
@@ -606,12 +687,14 @@
             "-22.95764",
             "18.49041"
          ],
+         "stanag" : "NAM",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 18,
          "wikipedia_flag_file_name" : "File:Flag_of_Namibia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/wa.html",
          "wref_en" : "Namibia",
          "wref_ja" : "ナミビア"
       },
@@ -620,6 +703,7 @@
          "code3" : "FSM",
          "en_name" : "The Federated States of Micronesia",
          "en_short_name" : "Micronesia",
+         "gec" : "FM",
          "iso3166_numeric" : "583",
          "ja_name" : "ミクロネシア連邦",
          "ja_short_name" : "ミクロネシア",
@@ -628,12 +712,14 @@
             "7.425554",
             "150.550812"
          ],
+         "stanag" : "FSM",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 57,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Federated_States_of_Micronesia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fm.html",
          "wref_en" : "Micronesia,_Federated_States_of",
          "wref_ja" : "ミクロネシア連邦"
       },
@@ -642,6 +728,7 @@
          "code3" : "HUN",
          "en_name" : "Hungary",
          "en_short_name" : "Hungary",
+         "gec" : "HU",
          "iso3166_numeric" : "348",
          "ja_name" : "ハンガリー",
          "ja_short_name" : "ハンガリー",
@@ -650,12 +737,14 @@
             "47.162494",
             "19.503304"
          ],
+         "stanag" : "HUN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_Hungary.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/hu.html",
          "wref_en" : "Hungary",
          "wref_ja" : "ハンガリー"
       },
@@ -664,6 +753,7 @@
          "code3" : "IDN",
          "en_name" : "The Republic of Indonesia",
          "en_short_name" : "Indonesia",
+         "gec" : "ID",
          "iso3166_numeric" : "360",
          "ja_name" : "インドネシア共和国",
          "ja_short_name" : "インドネシア",
@@ -672,12 +762,14 @@
             "-0.789275",
             "113.921327"
          ],
+         "stanag" : "IDN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_Indonesia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/id.html",
          "wref_en" : "Indonesia",
          "wref_ja" : "インドネシア"
       },
@@ -686,6 +778,7 @@
          "code3" : "PSE",
          "en_name" : "The Occupied Palestinian Territories",
          "en_short_name" : "Occupied Palestinian Territories",
+         "gec" : "WE",
          "iso3166_numeric" : "275",
          "ja_name" : "パレスチナ自治政府",
          "ja_short_name" : "パレスチナ",
@@ -694,12 +787,14 @@
             "31.952162",
             "35.233154"
          ],
+         "stanag" : "PSE",
          "status" : {
             "gb" : "other",
             "jp" : "other"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Palestine.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/we.html",
          "wref_en" : "State_of_Palestine",
          "wref_ja" : "パレスチナ"
       },
@@ -708,6 +803,7 @@
          "code3" : "BIH",
          "en_name" : "Bosnia and Herzegovina",
          "en_short_name" : "Bosnia and Herzegovina",
+         "gec" : "BK",
          "iso3166_numeric" : "070",
          "ja_name" : "ボスニア・ヘルツェゴビナ",
          "ja_short_name" : "ボスニア・ヘルツェゴビナ",
@@ -716,12 +812,14 @@
             "43.915886",
             "17.679076"
          ],
+         "stanag" : "BIH",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Bosnia_and_Herzegovina.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bk.html",
          "wref_en" : "Bosnia_and_Herzegovina",
          "wref_ja" : "ボスニア・ヘルツェゴビナ"
       },
@@ -730,6 +828,7 @@
          "code3" : "NPL",
          "en_name" : "The Federal Democratic Republic of Nepal",
          "en_short_name" : "Nepal",
+         "gec" : "NP",
          "iso3166_numeric" : "524",
          "ja_name" : "ネパール連邦民主共和国",
          "ja_short_name" : "ネパール",
@@ -738,12 +837,14 @@
             "28.394857",
             "84.124008"
          ],
+         "stanag" : "NPL",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
          "wikipedia_flag_file_name" : "File:Flag_of_Nepal.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/np.html",
          "wref_en" : "Nepal",
          "wref_ja" : "ネパール"
       },
@@ -752,6 +853,7 @@
          "code3" : "VAT",
          "en_name" : "The Vatican City",
          "en_short_name" : "Vatican City",
+         "gec" : "VT",
          "iso3166_numeric" : "336",
          "ja_name" : "バチカン市国",
          "ja_short_name" : "バチカン",
@@ -760,12 +862,14 @@
             "41.902916",
             "12.453389"
          ],
+         "stanag" : "VAT",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Vatican_City.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/vt.html",
          "wref_en" : "Vatican_City_State",
          "wref_ja" : "バチカン"
       },
@@ -774,6 +878,7 @@
          "code3" : "MKD",
          "en_name" : "The Republic of Macedonia",
          "en_short_name" : "Macedonia",
+         "gec" : "MK",
          "iso3166_numeric" : "807",
          "ja_name" : "マケドニア旧ユーゴスラビア共和国",
          "ja_short_name" : "マケドニア",
@@ -782,12 +887,14 @@
             "41.608635",
             "21.745275"
          ],
+         "stanag" : "FYR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Macedonia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mk.html",
          "wref_en" : "Republic_of_Macedonia",
          "wref_ja" : "マケドニア共和国"
       },
@@ -796,6 +903,7 @@
          "code3" : "SMR",
          "en_name" : "The Republic of San Marino",
          "en_short_name" : "San Marino",
+         "gec" : "SM",
          "iso3166_numeric" : "674",
          "ja_name" : "サンマリノ共和国",
          "ja_short_name" : "サンマリノ",
@@ -804,12 +912,14 @@
             "43.94236",
             "12.457777"
          ],
+         "stanag" : "SMR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_San_Marino.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sm.html",
          "wref_en" : "San_Marino",
          "wref_ja" : "サンマリノ"
       },
@@ -818,6 +928,7 @@
          "code3" : "MRT",
          "en_name" : "The Islamic Republic of Mauritania",
          "en_short_name" : "Mauritania",
+         "gec" : "MR",
          "iso3166_numeric" : "478",
          "ja_name" : "モーリタニア・イスラム共和国",
          "ja_short_name" : "モーリタニア",
@@ -826,12 +937,14 @@
             "21.00789",
             "-10.940835"
          ],
+         "stanag" : "MRT",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Mauritania.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mr.html",
          "wref_en" : "Mauritania",
          "wref_ja" : "モーリタニア"
       },
@@ -840,6 +953,7 @@
          "code3" : "GIN",
          "en_name" : "The Republic of Guinea",
          "en_short_name" : "Guinea",
+         "gec" : "GV",
          "iso3166_numeric" : "324",
          "ja_name" : "ギニア共和国",
          "ja_short_name" : "ギニア",
@@ -848,12 +962,14 @@
             "9.945587",
             "-9.696645"
          ],
+         "stanag" : "GIN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Guinea.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gv.html",
          "wref_en" : "Guinea",
          "wref_ja" : "ギニア"
       },
@@ -862,6 +978,7 @@
          "code3" : "CPV",
          "en_name" : "The Republic of Cabo Verde",
          "en_short_name" : "Cape Verde",
+         "gec" : "CV",
          "iso3166_numeric" : "132",
          "ja_name" : "カーボヴェルデ共和国",
          "ja_short_name" : "カーボヴェルデ",
@@ -870,12 +987,14 @@
             "16.002082",
             "-24.013197"
          ],
+         "stanag" : "CPV",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Cape_Verde.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cv.html",
          "wref_en" : "Cabo_Verde",
          "wref_ja" : "カーボベルデ"
       },
@@ -884,6 +1003,7 @@
          "code3" : "SSD",
          "en_name" : "The Republic of South Sudan",
          "en_short_name" : "South Sudan",
+         "gec" : "OD",
          "iso3166_numeric" : "728",
          "ja_name" : "南スーダン共和国",
          "ja_short_name" : "南スーダン",
@@ -898,6 +1018,7 @@
          },
          "submacroregion" : 17,
          "wikipedia_flag_file_name" : "File:Flag_of_South_Sudan.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/od.html",
          "wref_en" : "South_Sudan",
          "wref_ja" : "南スーダン"
       },
@@ -906,6 +1027,7 @@
          "code3" : "PRY",
          "en_name" : "The Republic of Paraguay",
          "en_short_name" : "Paraguay",
+         "gec" : "PA",
          "iso3166_numeric" : "600",
          "ja_name" : "パラグアイ共和国",
          "ja_short_name" : "パラグアイ",
@@ -914,12 +1036,14 @@
             "-23.442503",
             "-58.443832"
          ],
+         "stanag" : "PRY",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Paraguay.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/pa.html",
          "wref_en" : "Paraguay",
          "wref_ja" : "パラグアイ"
       },
@@ -928,6 +1052,7 @@
          "code3" : "HRV",
          "en_name" : "The Republic of Croatia",
          "en_short_name" : "Croatia",
+         "gec" : "HR",
          "iso3166_numeric" : "191",
          "ja_name" : "クロアチア共和国",
          "ja_short_name" : "クロアチア",
@@ -936,12 +1061,14 @@
             "45.1",
             "15.2"
          ],
+         "stanag" : "HRV",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Croatia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/hr.html",
          "wref_en" : "Croatia",
          "wref_ja" : "クロアチア"
       },
@@ -950,6 +1077,7 @@
          "code3" : "DZA",
          "en_name" : "The People's Democratic Republic of Algeria",
          "en_short_name" : "Algeria",
+         "gec" : "AG",
          "iso3166_numeric" : "012",
          "ja_name" : "アルジェリア民主人民共和国",
          "ja_short_name" : "アルジェリア",
@@ -958,12 +1086,14 @@
             "28.033886",
             "1.659626"
          ],
+         "stanag" : "DZA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 15,
          "wikipedia_flag_file_name" : "File:Flag_of_Algeria.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html",
          "wref_en" : "Algeria",
          "wref_ja" : "アルジェリア"
       },
@@ -972,6 +1102,7 @@
          "code3" : "JOR",
          "en_name" : "The Hashemite Kingdom of Jordan",
          "en_short_name" : "Jordan",
+         "gec" : "JO",
          "iso3166_numeric" : "400",
          "ja_name" : "ヨルダン・ハシェミット王国",
          "ja_short_name" : "ヨルダン",
@@ -980,12 +1111,14 @@
             "30.585164",
             "36.238414"
          ],
+         "stanag" : "JOR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Jordan.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/jo.html",
          "wref_en" : "Jordan",
          "wref_ja" : "ヨルダン"
       },
@@ -994,6 +1127,7 @@
          "code3" : "JAM",
          "en_name" : "Jamaica",
          "en_short_name" : "Jamaica",
+         "gec" : "JM",
          "iso3166_numeric" : "388",
          "ja_name" : "ジャマイカ",
          "ja_short_name" : "ジャマイカ",
@@ -1002,18 +1136,21 @@
             "18.109581",
             "-77.297508"
          ],
+         "stanag" : "JAM",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Jamaica.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/jm.html",
          "wref_en" : "Jamaica",
          "wref_ja" : "ジャマイカ"
       },
       "140" : {
          "en_name" : "The Republic of Kosovo",
          "en_short_name" : "Kosovo",
+         "gec" : "KV",
          "ja_name" : "コソボ共和国",
          "ja_short_name" : "コソボ",
          "position" : [
@@ -1023,13 +1160,15 @@
          "status" : {
             "gb" : "country",
             "jp" : "country"
-         }
+         },
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/kv.html"
       },
       "141" : {
          "code" : "TG",
          "code3" : "TGO",
          "en_name" : "The Togolese Republic",
          "en_short_name" : "Togo",
+         "gec" : "TO",
          "iso3166_numeric" : "768",
          "ja_name" : "トーゴ共和国",
          "ja_short_name" : "トーゴ",
@@ -1038,12 +1177,14 @@
             "8.619543",
             "0.824782"
          ],
+         "stanag" : "TGO",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Togo.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/to.html",
          "wref_en" : "Togo",
          "wref_ja" : "トーゴ"
       },
@@ -1052,6 +1193,7 @@
          "code3" : "PNG",
          "en_name" : "The Independent State of Papua New Guinea",
          "en_short_name" : "Papua New Guinea",
+         "gec" : "PP",
          "iso3166_numeric" : "598",
          "ja_name" : "パプアニューギニア独立国",
          "ja_short_name" : "パプアニューギニア",
@@ -1060,12 +1202,14 @@
             "-6.314993",
             "143.95555"
          ],
+         "stanag" : "PNG",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 54,
          "wikipedia_flag_file_name" : "File:Flag_of_Papua_New_Guinea.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/pp.html",
          "wref_en" : "Papua_New_Guinea",
          "wref_ja" : "パプアニューギニア"
       },
@@ -1074,6 +1218,7 @@
          "code3" : "AGO",
          "en_name" : "The Republic of Angola",
          "en_short_name" : "Angola",
+         "gec" : "AO",
          "iso3166_numeric" : "024",
          "ja_name" : "アンゴラ共和国",
          "ja_short_name" : "アンゴラ",
@@ -1082,12 +1227,14 @@
             "-11.202692",
             "17.873887"
          ],
+         "stanag" : "AGO",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
          "wikipedia_flag_file_name" : "File:Flag_of_Angola.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ao.html",
          "wref_en" : "Angola",
          "wref_ja" : "アンゴラ"
       },
@@ -1096,6 +1243,7 @@
          "code3" : "BDI",
          "en_name" : "The Republic of Burundi",
          "en_short_name" : "Burundi",
+         "gec" : "BY",
          "iso3166_numeric" : "108",
          "ja_name" : "ブルンジ共和国",
          "ja_short_name" : "ブルンジ",
@@ -1104,12 +1252,14 @@
             "-3.373056",
             "29.918886"
          ],
+         "stanag" : "BDI",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Burundi.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/by.html",
          "wref_en" : "Burundi",
          "wref_ja" : "ブルンジ"
       },
@@ -1118,6 +1268,7 @@
          "code3" : "LBR",
          "en_name" : "The Republic of Liberia",
          "en_short_name" : "Liberia",
+         "gec" : "LI",
          "iso3166_numeric" : "430",
          "ja_name" : "リベリア共和国",
          "ja_short_name" : "リベリア",
@@ -1126,12 +1277,14 @@
             "6.428055",
             "-9.429499"
          ],
+         "stanag" : "LBR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Liberia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/li.html",
          "wref_en" : "Liberia",
          "wref_ja" : "リベリア"
       },
@@ -1140,6 +1293,7 @@
          "code3" : "RUS",
          "en_name" : "The Russian Federation",
          "en_short_name" : "Russia",
+         "gec" : "RS",
          "iso3166_numeric" : "643",
          "ja_name" : "ロシア連邦",
          "ja_short_name" : "ロシア",
@@ -1148,12 +1302,14 @@
             "61.52401",
             "105.318756"
          ],
+         "stanag" : "RUS",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_Russia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/rs.html",
          "wref_en" : "Russian_Federation",
          "wref_ja" : "ロシア"
       },
@@ -1162,6 +1318,7 @@
          "code3" : "DNK",
          "en_name" : "The Kingdom of Denmark",
          "en_short_name" : "Denmark",
+         "gec" : "DA",
          "iso3166_numeric" : "208",
          "ja_name" : "デンマーク王国",
          "ja_short_name" : "デンマーク",
@@ -1170,12 +1327,14 @@
             "56.26392",
             "9.501785"
          ],
+         "stanag" : "DNK",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_Denmark.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/da.html",
          "wref_en" : "Denmark",
          "wref_ja" : "デンマーク"
       },
@@ -1184,6 +1343,7 @@
          "code3" : "BGD",
          "en_name" : "The People's Republic of Bangladesh",
          "en_short_name" : "Bangladesh",
+         "gec" : "BG",
          "iso3166_numeric" : "050",
          "ja_name" : "バングラデシュ人民共和国",
          "ja_short_name" : "バングラデシュ",
@@ -1192,12 +1352,14 @@
             "23.684994",
             "90.356331"
          ],
+         "stanag" : "BGD",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
          "wikipedia_flag_file_name" : "File:Flag_of_Bangladesh.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bg.html",
          "wref_en" : "Bangladesh",
          "wref_ja" : "バングラデシュ"
       },
@@ -1206,6 +1368,7 @@
          "code3" : "IRN",
          "en_name" : "The Islamic Republic of Iran",
          "en_short_name" : "Iran",
+         "gec" : "IR",
          "iso3166_numeric" : "364",
          "ja_name" : "イラン・イスラム共和国",
          "ja_short_name" : "イラン",
@@ -1214,12 +1377,14 @@
             "32.427908",
             "53.688046"
          ],
+         "stanag" : "IRN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
          "wikipedia_flag_file_name" : "File:Flag_of_Iran.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html",
          "wref_en" : "Iran,_Islamic_Republic_of",
          "wref_ja" : "イラン"
       },
@@ -1228,6 +1393,7 @@
          "code3" : "LVA",
          "en_name" : "The Republic of Latvia",
          "en_short_name" : "Latvia",
+         "gec" : "LG",
          "iso3166_numeric" : "428",
          "ja_name" : "ラトビア共和国",
          "ja_short_name" : "ラトビア",
@@ -1236,12 +1402,14 @@
             "56.879635",
             "24.603189"
          ],
+         "stanag" : "LVA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_Latvia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/lg.html",
          "wref_en" : "Latvia",
          "wref_ja" : "ラトビア"
       },
@@ -1250,6 +1418,7 @@
          "code3" : "LSO",
          "en_name" : "The Kingdom of Lesotho",
          "en_short_name" : "Lesotho",
+         "gec" : "LT",
          "iso3166_numeric" : "426",
          "ja_name" : "レソト王国",
          "ja_short_name" : "レソト",
@@ -1258,12 +1427,14 @@
             "-29.609988",
             "28.233608"
          ],
+         "stanag" : "LSO",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 18,
          "wikipedia_flag_file_name" : "File:Flag_of_Lesotho.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/lt.html",
          "wref_en" : "Lesotho",
          "wref_ja" : "レソト"
       },
@@ -1272,6 +1443,7 @@
          "code3" : "MOZ",
          "en_name" : "The Republic of Mozambique",
          "en_short_name" : "Mozambique",
+         "gec" : "MZ",
          "iso3166_numeric" : "508",
          "ja_name" : "モザンビーク共和国",
          "ja_short_name" : "モザンビーク",
@@ -1280,12 +1452,14 @@
             "-18.665695",
             "35.529562"
          ],
+         "stanag" : "MOZ",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Mozambique.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mz.html",
          "wref_en" : "Mozambique",
          "wref_ja" : "モザンビーク"
       },
@@ -1294,6 +1468,7 @@
          "code3" : "ZAF",
          "en_name" : "The Republic of South Africa",
          "en_short_name" : "South Africa",
+         "gec" : "SF",
          "iso3166_numeric" : "710",
          "ja_name" : "南アフリカ共和国",
          "ja_short_name" : "南アフリカ",
@@ -1302,12 +1477,14 @@
             "-30.559482",
             "22.937506"
          ],
+         "stanag" : "ZAF",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 18,
          "wikipedia_flag_file_name" : "File:Flag_of_South_Africa.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sf.html",
          "wref_en" : "South_Africa",
          "wref_ja" : "南アフリカ共和国"
       },
@@ -1316,6 +1493,7 @@
          "code3" : "MUS",
          "en_name" : "The Republic of Mauritius",
          "en_short_name" : "Mauritius",
+         "gec" : "MP",
          "iso3166_numeric" : "480",
          "ja_name" : "モーリシャス共和国",
          "ja_short_name" : "モーリシャス",
@@ -1324,12 +1502,14 @@
             "-20.348404",
             "57.552152"
          ],
+         "stanag" : "MUS",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Mauritius.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mp.html",
          "wref_en" : "Mauritius",
          "wref_ja" : "モーリシャス"
       },
@@ -1338,6 +1518,7 @@
          "code3" : "AND",
          "en_name" : "The Principality of Andorra",
          "en_short_name" : "Andorra",
+         "gec" : "AN",
          "iso3166_numeric" : "020",
          "ja_name" : "アンドラ公国",
          "ja_short_name" : "アンドラ",
@@ -1346,12 +1527,14 @@
             "42.546245",
             "1.601554"
          ],
+         "stanag" : "AND",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Andorra.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/an.html",
          "wref_en" : "Andorra",
          "wref_ja" : "アンドラ"
       },
@@ -1360,6 +1543,7 @@
          "code3" : "ARG",
          "en_name" : "The Argentine Republic",
          "en_short_name" : "Argentina",
+         "gec" : "AR",
          "iso3166_numeric" : "032",
          "ja_name" : "アルゼンチン共和国",
          "ja_short_name" : "アルゼンチン",
@@ -1368,12 +1552,14 @@
             "-38.416097",
             "-63.616672"
          ],
+         "stanag" : "ARG",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Argentina.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ar.html",
          "wref_en" : "Argentina",
          "wref_ja" : "アルゼンチン"
       },
@@ -1382,6 +1568,7 @@
          "code3" : "VEN",
          "en_name" : "The Bolivarian Republic of Venezuela",
          "en_short_name" : "Venezuela",
+         "gec" : "VE",
          "iso3166_numeric" : "862",
          "ja_name" : "ベネズエラ・ボリバル共和国",
          "ja_short_name" : "ベネズエラ",
@@ -1390,12 +1577,14 @@
             "6.42375",
             "-66.58973"
          ],
+         "stanag" : "VEN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Venezuela_(state).svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ve.html",
          "wref_en" : "Venezuela,_Bolivarian_Republic_of",
          "wref_ja" : "ベネズエラ"
       },
@@ -1404,6 +1593,7 @@
          "code3" : "LTU",
          "en_name" : "The Republic of Lithuania",
          "en_short_name" : "Lithuania",
+         "gec" : "LH",
          "iso3166_numeric" : "440",
          "ja_name" : "リトアニア共和国",
          "ja_short_name" : "リトアニア",
@@ -1412,12 +1602,14 @@
             "55.169438",
             "23.881275"
          ],
+         "stanag" : "LTU",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_Lithuania.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/lh.html",
          "wref_en" : "Lithuania",
          "wref_ja" : "リトアニア"
       },
@@ -1426,6 +1618,7 @@
          "code3" : "MYS",
          "en_name" : "Malaysia",
          "en_short_name" : "Malaysia",
+         "gec" : "MY",
          "iso3166_numeric" : "458",
          "ja_name" : "マレーシア",
          "ja_short_name" : "マレーシア",
@@ -1434,12 +1627,14 @@
             "4.210484",
             "101.975766"
          ],
+         "stanag" : "MYS",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_Malaysia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/my.html",
          "wref_en" : "Malaysia",
          "wref_ja" : "マレーシア"
       },
@@ -1448,6 +1643,7 @@
          "code3" : "KIR",
          "en_name" : "The Republic of Kiribati",
          "en_short_name" : "Kiribati",
+         "gec" : "KR",
          "iso3166_numeric" : "296",
          "ja_name" : "キリバス共和国",
          "ja_short_name" : "キリバス",
@@ -1456,12 +1652,14 @@
             "-3.370417",
             "-168.734039"
          ],
+         "stanag" : "KIR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 57,
          "wikipedia_flag_file_name" : "File:Flag_of_Kiribati.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/kr.html",
          "wref_en" : "Kiribati",
          "wref_ja" : "キリバス"
       },
@@ -1470,6 +1668,7 @@
          "code3" : "SAU",
          "en_name" : "The Kingdom of Saudi Arabia",
          "en_short_name" : "Saudi Arabia",
+         "gec" : "SA",
          "iso3166_numeric" : "682",
          "ja_name" : "サウジアラビア王国",
          "ja_short_name" : "サウジアラビア",
@@ -1478,12 +1677,14 @@
             "23.885942",
             "45.079162"
          ],
+         "stanag" : "SAU",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Saudi_Arabia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sa.html",
          "wref_en" : "Saudi_Arabia",
          "wref_ja" : "サウジアラビア"
       },
@@ -1492,6 +1693,7 @@
          "code3" : "GBR",
          "en_name" : "The United Kingdom of Great Britain and Northern Ireland",
          "en_short_name" : "United Kingdom",
+         "gec" : "UK",
          "iso3166_numeric" : "826",
          "ja_name" : "グレートブリテン及び北アイルランド連合王国",
          "ja_short_name" : "英国",
@@ -1500,12 +1702,14 @@
             "55.378051",
             "-3.435973"
          ],
+         "stanag" : "GBR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_the_United_Kingdom.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/uk.html",
          "wref_en" : "United_Kingdom",
          "wref_ja" : "イギリス"
       },
@@ -1514,6 +1718,7 @@
          "code3" : "ECU",
          "en_name" : "The Republic of Ecuador",
          "en_short_name" : "Ecuador",
+         "gec" : "EC",
          "iso3166_numeric" : "218",
          "ja_name" : "エクアドル共和国",
          "ja_short_name" : "エクアドル",
@@ -1522,12 +1727,14 @@
             "-1.831239",
             "-78.183406"
          ],
+         "stanag" : "ECU",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Ecuador.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ec.html",
          "wref_en" : "Ecuador",
          "wref_ja" : "エクアドル"
       },
@@ -1536,6 +1743,7 @@
          "code3" : "NER",
          "en_name" : "The Republic of Niger",
          "en_short_name" : "Niger",
+         "gec" : "NG",
          "iso3166_numeric" : "562",
          "ja_name" : "ニジェール共和国",
          "ja_short_name" : "ニジェール",
@@ -1544,12 +1752,14 @@
             "17.607789",
             "8.081666"
          ],
+         "stanag" : "NER",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Niger.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ng.html",
          "wref_en" : "Niger",
          "wref_ja" : "ニジェール"
       },
@@ -1558,6 +1768,7 @@
          "code3" : "YEM",
          "en_name" : "The Republic of Yemen",
          "en_short_name" : "Yemen",
+         "gec" : "YM",
          "iso3166_numeric" : "887",
          "ja_name" : "イエメン共和国",
          "ja_short_name" : "イエメン",
@@ -1566,12 +1777,14 @@
             "15.552727",
             "48.516388"
          ],
+         "stanag" : "YEM",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Yemen.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ym.html",
          "wref_en" : "Yemen",
          "wref_ja" : "イエメン"
       },
@@ -1580,6 +1793,7 @@
          "code3" : "MDV",
          "en_name" : "The Republic of Maldives",
          "en_short_name" : "Maldives",
+         "gec" : "MV",
          "iso3166_numeric" : "462",
          "ja_name" : "モルディブ共和国",
          "ja_short_name" : "モルディブ",
@@ -1588,12 +1802,14 @@
             "3.202778",
             "73.22068"
          ],
+         "stanag" : "MDV",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
          "wikipedia_flag_file_name" : "File:Flag_of_Maldives.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mv.html",
          "wref_en" : "Maldives",
          "wref_ja" : "モルディブ"
       },
@@ -1602,6 +1818,7 @@
          "code3" : "ERI",
          "en_name" : "The State of Eritrea",
          "en_short_name" : "Eritrea",
+         "gec" : "ER",
          "iso3166_numeric" : "232",
          "ja_name" : "エリトリア国",
          "ja_short_name" : "エリトリア",
@@ -1610,12 +1827,14 @@
             "15.179384",
             "39.782334"
          ],
+         "stanag" : "ERI",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Eritrea.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/er.html",
          "wref_en" : "Eritrea",
          "wref_ja" : "エリトリア"
       },
@@ -1624,6 +1843,7 @@
          "code3" : "TWN",
          "en_name" : "The Republic of China",
          "en_short_name" : "Taiwan",
+         "gec" : "TW",
          "iso3166_numeric" : "158",
          "ja_name" : "中華民国",
          "ja_short_name" : "台湾",
@@ -1632,12 +1852,14 @@
             "23.69781",
             "120.960515"
          ],
+         "stanag" : "TWN",
          "status" : {
             "gb" : "other",
             "jp" : "other"
          },
          "submacroregion" : 30,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Republic_of_China.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tw.html",
          "wref_en" : "Taiwan",
          "wref_ja" : "台湾"
       },
@@ -1646,6 +1868,7 @@
          "code3" : "ISL",
          "en_name" : "The Republic of Iceland",
          "en_short_name" : "Iceland",
+         "gec" : "IC",
          "iso3166_numeric" : "352",
          "ja_name" : "アイスランド共和国",
          "ja_short_name" : "アイスランド",
@@ -1654,12 +1877,14 @@
             "64.963051",
             "-19.020835"
          ],
+         "stanag" : "ISL",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_Iceland.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ic.html",
          "wref_en" : "Iceland",
          "wref_ja" : "アイスランド"
       },
@@ -1668,6 +1893,7 @@
          "code3" : "BGR",
          "en_name" : "The Republic of Bulgaria",
          "en_short_name" : "Bulgaria",
+         "gec" : "BU",
          "iso3166_numeric" : "100",
          "ja_name" : "ブルガリア共和国",
          "ja_short_name" : "ブルガリア",
@@ -1676,12 +1902,14 @@
             "42.733883",
             "25.48583"
          ],
+         "stanag" : "BGR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_Bulgaria.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bu.html",
          "wref_en" : "Bulgaria",
          "wref_ja" : "ブルガリア"
       },
@@ -1690,6 +1918,7 @@
          "code3" : "DOM",
          "en_name" : "The Dominican Republic",
          "en_short_name" : "Dominican Republic",
+         "gec" : "DR",
          "iso3166_numeric" : "214",
          "ja_name" : "ドミニカ共和国",
          "ja_short_name" : "ドミニカ共和国",
@@ -1698,12 +1927,14 @@
             "18.735693",
             "-70.162651"
          ],
+         "stanag" : "DOM",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Dominican_Republic.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/dr.html",
          "wref_en" : "Dominican_Republic",
          "wref_ja" : "ドミニカ共和国"
       },
@@ -1712,6 +1943,7 @@
          "code3" : "TUV",
          "en_name" : "Tuvalu",
          "en_short_name" : "Tuvalu",
+         "gec" : "TV",
          "iso3166_numeric" : "798",
          "ja_name" : "ツバル",
          "ja_short_name" : "ツバル",
@@ -1720,12 +1952,14 @@
             "-7.109535",
             "177.64933"
          ],
+         "stanag" : "TUV",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 61,
          "wikipedia_flag_file_name" : "File:Flag_of_Tuvalu.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tv.html",
          "wref_en" : "Tuvalu",
          "wref_ja" : "ツバル"
       },
@@ -1734,6 +1968,7 @@
          "code3" : "USA",
          "en_name" : "The United States of America",
          "en_short_name" : "United States",
+         "gec" : "US",
          "iso3166_numeric" : "840",
          "ja_name" : "アメリカ合衆国",
          "ja_short_name" : "アメリカ",
@@ -1742,12 +1977,14 @@
             "37.09024",
             "-95.712891"
          ],
+         "stanag" : "USA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_the_United_States.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/us.html",
          "wref_en" : "United_States",
          "wref_ja" : "アメリカ合衆国"
       },
@@ -1756,6 +1993,7 @@
          "code3" : "BTN",
          "en_name" : "The Kingdom of Bhutan",
          "en_short_name" : "Bhutan",
+         "gec" : "BT",
          "iso3166_numeric" : "064",
          "ja_name" : "ブータン王国",
          "ja_short_name" : "ブータン",
@@ -1764,12 +2002,14 @@
             "27.514162",
             "90.433601"
          ],
+         "stanag" : "BTN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
          "wikipedia_flag_file_name" : "File:Flag_of_Bhutan.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bt.html",
          "wref_en" : "Bhutan",
          "wref_ja" : "ブータン"
       },
@@ -1778,6 +2018,7 @@
          "code3" : "EST",
          "en_name" : "The Republic of Estonia",
          "en_short_name" : "Estonia",
+         "gec" : "EN",
          "iso3166_numeric" : "233",
          "ja_name" : "エストニア共和国",
          "ja_short_name" : "エストニア",
@@ -1786,12 +2027,14 @@
             "58.595272",
             "25.013607"
          ],
+         "stanag" : "EST",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_Estonia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/en.html",
          "wref_en" : "Estonia",
          "wref_ja" : "エストニア"
       },
@@ -1800,6 +2043,7 @@
          "code3" : "UGA",
          "en_name" : "The Republic of Uganda",
          "en_short_name" : "Uganda",
+         "gec" : "UG",
          "iso3166_numeric" : "800",
          "ja_name" : "ウガンダ共和国",
          "ja_short_name" : "ウガンダ",
@@ -1808,12 +2052,14 @@
             "1.373333",
             "32.290275"
          ],
+         "stanag" : "UGA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Uganda.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ug.html",
          "wref_en" : "Uganda",
          "wref_ja" : "ウガンダ"
       },
@@ -1822,6 +2068,7 @@
          "code3" : "CIV",
          "en_name" : "The Republic of Cote D'Ivoire",
          "en_short_name" : "Ivory Coast",
+         "gec" : "IV",
          "iso3166_numeric" : "384",
          "ja_name" : "コートジボワール共和国",
          "ja_short_name" : "コートジボワール",
@@ -1830,12 +2077,14 @@
             "7.539989",
             "-5.54708"
          ],
+         "stanag" : "CIV",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Côte_d'Ivoire.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/iv.html",
          "wref_en" : "Côte_d'Ivoire",
          "wref_ja" : "コートジボワール"
       },
@@ -1844,6 +2093,7 @@
          "code3" : "MAC",
          "en_name" : "Macao",
          "en_short_name" : "Macao",
+         "gec" : "MC",
          "iso3166_numeric" : "446",
          "ja_name" : "マカオ",
          "ja_short_name" : "マカオ",
@@ -1852,11 +2102,13 @@
             "22.19",
             "113.54"
          ],
+         "stanag" : "MAC",
          "status" : {
             "jp" : "other"
          },
          "submacroregion" : 30,
          "wikipedia_flag_file_name" : "File:Flag_of_Macau.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mc.html",
          "wref_en" : "Macao",
          "wref_ja" : "マカオ"
       },
@@ -1865,6 +2117,7 @@
          "code3" : "ARM",
          "en_name" : "The Republic of Armenia",
          "en_short_name" : "Armenia",
+         "gec" : "AM",
          "iso3166_numeric" : "051",
          "ja_name" : "アルメニア共和国",
          "ja_short_name" : "アルメニア",
@@ -1873,12 +2126,14 @@
             "40.069099",
             "45.038189"
          ],
+         "stanag" : "ARM",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Armenia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/am.html",
          "wref_en" : "Armenia",
          "wref_ja" : "アルメニア"
       },
@@ -1887,6 +2142,7 @@
          "code3" : "PAK",
          "en_name" : "The Islamic Republic of Pakistan",
          "en_short_name" : "Pakistan",
+         "gec" : "PK",
          "iso3166_numeric" : "586",
          "ja_name" : "パキスタン・イスラム共和国",
          "ja_short_name" : "パキスタン",
@@ -1895,12 +2151,14 @@
             "30.375321",
             "69.345116"
          ],
+         "stanag" : "PAK",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
          "wikipedia_flag_file_name" : "File:Flag_of_Pakistan.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/pk.html",
          "wref_en" : "Pakistan",
          "wref_ja" : "パキスタン"
       },
@@ -1909,6 +2167,7 @@
          "code3" : "ALB",
          "en_name" : "The Republic of Albania",
          "en_short_name" : "Albania",
+         "gec" : "AL",
          "iso3166_numeric" : "008",
          "ja_name" : "アルバニア共和国",
          "ja_short_name" : "アルバニア",
@@ -1917,12 +2176,14 @@
             "41.153332",
             "20.168331"
          ],
+         "stanag" : "ALB",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Albania.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/al.html",
          "wref_en" : "Albania",
          "wref_ja" : "アルバニア"
       },
@@ -1931,6 +2192,7 @@
          "code3" : "FIN",
          "en_name" : "The Republic of Finland",
          "en_short_name" : "Finland",
+         "gec" : "FI",
          "iso3166_numeric" : "246",
          "ja_name" : "フィンランド共和国",
          "ja_short_name" : "フィンランド",
@@ -1939,12 +2201,14 @@
             "61.92411",
             "25.748151"
          ],
+         "stanag" : "FIN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_Finland.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fi.html",
          "wref_en" : "Finland",
          "wref_ja" : "フィンランド"
       },
@@ -1953,6 +2217,7 @@
          "code3" : "BEN",
          "en_name" : "The Republic of Benin",
          "en_short_name" : "Benin",
+         "gec" : "BN",
          "iso3166_numeric" : "204",
          "ja_name" : "ベナン共和国",
          "ja_short_name" : "ベナン",
@@ -1961,12 +2226,14 @@
             "9.30769",
             "2.315834"
          ],
+         "stanag" : "BEN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Benin.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bn.html",
          "wref_en" : "Benin",
          "wref_ja" : "ベナン"
       },
@@ -1975,6 +2242,7 @@
          "code3" : "LBY",
          "en_name" : "Libya",
          "en_short_name" : "Libya",
+         "gec" : "LY",
          "iso3166_numeric" : "434",
          "ja_name" : "リビア",
          "ja_short_name" : "リビア",
@@ -1983,12 +2251,14 @@
             "26.3351",
             "17.228331"
          ],
+         "stanag" : "LBY",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 15,
          "wikipedia_flag_file_name" : "File:Flag_of_Libya.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ly.html",
          "wref_en" : "Libya",
          "wref_ja" : "リビア"
       },
@@ -1997,6 +2267,7 @@
          "code3" : "DEU",
          "en_name" : "The Federal Republic of Germany",
          "en_short_name" : "Germany",
+         "gec" : "GM",
          "iso3166_numeric" : "276",
          "ja_name" : "ドイツ連邦共和国",
          "ja_short_name" : "ドイツ",
@@ -2005,12 +2276,14 @@
             "51.165691",
             "10.451526"
          ],
+         "stanag" : "DEU",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
          "wikipedia_flag_file_name" : "File:Flag_of_Germany.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gm.html",
          "wref_en" : "Germany",
          "wref_ja" : "ドイツ"
       },
@@ -2019,6 +2292,7 @@
          "code3" : "NRU",
          "en_name" : "The Republic of Nauru",
          "en_short_name" : "Nauru",
+         "gec" : "NR",
          "iso3166_numeric" : "520",
          "ja_name" : "ナウル共和国",
          "ja_short_name" : "ナウル",
@@ -2027,12 +2301,14 @@
             "-0.522778",
             "166.931503"
          ],
+         "stanag" : "NRU",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 57,
          "wikipedia_flag_file_name" : "File:Flag_of_Nauru.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/nr.html",
          "wref_en" : "Nauru",
          "wref_ja" : "ナウル"
       },
@@ -2041,6 +2317,7 @@
          "code3" : "KNA",
          "en_name" : "The Federation of Saint Christopher and Nevis",
          "en_short_name" : "St Kitts and Nevis",
+         "gec" : "SC",
          "iso3166_numeric" : "659",
          "ja_name" : "セントクリストファー・ネーヴィス",
          "ja_short_name" : "セントクリストファー・ネーヴィス",
@@ -2049,12 +2326,14 @@
             "17.357822",
             "-62.782998"
          ],
+         "stanag" : "KNA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Saint_Kitts_and_Nevis.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sc.html",
          "wref_en" : "Saint_Kitts_and_Nevis",
          "wref_ja" : "セントクリストファー・ネイビス"
       },
@@ -2063,6 +2342,7 @@
          "code3" : "NZL",
          "en_name" : "New Zealand",
          "en_short_name" : "New Zealand",
+         "gec" : "NZ",
          "iso3166_numeric" : "554",
          "ja_name" : "ニュージーランド",
          "ja_short_name" : "ニュージーランド",
@@ -2071,12 +2351,14 @@
             "-40.900557",
             "174.885971"
          ],
+         "stanag" : "NZL",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 53,
          "wikipedia_flag_file_name" : "File:Flag_of_New_Zealand.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/nz.html",
          "wref_en" : "New_Zealand",
          "wref_ja" : "ニュージーランド"
       },
@@ -2085,6 +2367,7 @@
          "code3" : "BRN",
          "en_name" : "Brunei Darussalam",
          "en_short_name" : "Brunei",
+         "gec" : "BX",
          "iso3166_numeric" : "096",
          "ja_name" : "ブルネイ・ダルサラーム国",
          "ja_short_name" : "ブルネイ",
@@ -2093,12 +2376,14 @@
             "4.535277",
             "114.727669"
          ],
+         "stanag" : "BRN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_Brunei.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bx.html",
          "wref_en" : "Brunei_Darussalam",
          "wref_ja" : "ブルネイ"
       },
@@ -2107,6 +2392,7 @@
          "code3" : "GTM",
          "en_name" : "The Republic of Guatemala",
          "en_short_name" : "Guatemala",
+         "gec" : "GT",
          "iso3166_numeric" : "320",
          "ja_name" : "グアテマラ共和国",
          "ja_short_name" : "グアテマラ",
@@ -2115,12 +2401,14 @@
             "15.783471",
             "-90.230759"
          ],
+         "stanag" : "GTM",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
          "wikipedia_flag_file_name" : "File:Flag_of_Guatemala.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gt.html",
          "wref_en" : "Guatemala",
          "wref_ja" : "グアテマラ"
       },
@@ -2129,6 +2417,7 @@
          "code3" : "BHS",
          "en_name" : "The Commonwealth of The Bahamas",
          "en_short_name" : "Bahamas, The",
+         "gec" : "BF",
          "iso3166_numeric" : "044",
          "ja_name" : "バハマ国",
          "ja_short_name" : "バハマ",
@@ -2137,12 +2426,14 @@
             "25.03428",
             "-77.39628"
          ],
+         "stanag" : "BHS",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Bahamas.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bf.html",
          "wref_en" : "Bahamas",
          "wref_ja" : "バハマ"
       },
@@ -2151,6 +2442,7 @@
          "code3" : "MMR",
          "en_name" : "The Republic of the Union of Myanmar",
          "en_short_name" : "Burma",
+         "gec" : "BM",
          "iso3166_numeric" : "104",
          "ja_name" : "ミャンマー連邦共和国",
          "ja_short_name" : "ミャンマー",
@@ -2159,12 +2451,14 @@
             "21.913965",
             "95.956223"
          ],
+         "stanag" : "MMR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_Myanmar.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bm.html",
          "wref_en" : "Myanmar",
          "wref_ja" : "ミャンマー"
       },
@@ -2173,6 +2467,7 @@
          "code3" : "STP",
          "en_name" : "The Democratic Republic of Sao Tome and Principe",
          "en_short_name" : "Sao Tome and Principe",
+         "gec" : "TP",
          "iso3166_numeric" : "678",
          "ja_name" : "サントメ・プリンシペ民主共和国",
          "ja_short_name" : "サントメ・プリンシペ",
@@ -2181,12 +2476,14 @@
             "0.18636",
             "6.613081"
          ],
+         "stanag" : "STP",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
          "wikipedia_flag_file_name" : "File:Flag_of_Sao_Tome_and_Principe.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tp.html",
          "wref_en" : "Sao_Tome_and_Principe",
          "wref_ja" : "サントメ・プリンシペ"
       },
@@ -2195,6 +2492,7 @@
          "code3" : "NLD",
          "en_name" : "The Kingdom of the Netherlands",
          "en_short_name" : "Netherlands",
+         "gec" : "NL",
          "iso3166_numeric" : "528",
          "ja_name" : "オランダ王国",
          "ja_short_name" : "オランダ",
@@ -2203,12 +2501,14 @@
             "52.132633",
             "5.291266"
          ],
+         "stanag" : "NLD",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Netherlands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/nl.html",
          "wref_en" : "Netherlands",
          "wref_ja" : "オランダ"
       },
@@ -2217,6 +2517,7 @@
          "code3" : "MNG",
          "en_name" : "Mongolia",
          "en_short_name" : "Mongolia",
+         "gec" : "MG",
          "iso3166_numeric" : "496",
          "ja_name" : "モンゴル国",
          "ja_short_name" : "モンゴル",
@@ -2225,12 +2526,14 @@
             "46.862496",
             "103.846656"
          ],
+         "stanag" : "MNG",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 30,
          "wikipedia_flag_file_name" : "File:Flag_of_Mongolia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mg.html",
          "wref_en" : "Mongolia",
          "wref_ja" : "モンゴル国"
       },
@@ -2239,6 +2542,7 @@
          "code3" : "TON",
          "en_name" : "The Kingdom of Tonga",
          "en_short_name" : "Tonga",
+         "gec" : "TN",
          "iso3166_numeric" : "776",
          "ja_name" : "トンガ王国",
          "ja_short_name" : "トンガ",
@@ -2247,12 +2551,14 @@
             "-21.178986",
             "-175.198242"
          ],
+         "stanag" : "TON",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 61,
          "wikipedia_flag_file_name" : "File:Flag_of_Tonga.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tn.html",
          "wref_en" : "Tonga",
          "wref_ja" : "トンガ"
       },
@@ -2261,6 +2567,7 @@
          "code3" : "SWE",
          "en_name" : "The Kingdom of Sweden",
          "en_short_name" : "Sweden",
+         "gec" : "SW",
          "iso3166_numeric" : "752",
          "ja_name" : "スウェーデン王国",
          "ja_short_name" : "スウェーデン",
@@ -2269,12 +2576,14 @@
             "60.128161",
             "18.643501"
          ],
+         "stanag" : "SWE",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_Sweden.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sw.html",
          "wref_en" : "Sweden",
          "wref_ja" : "スウェーデン"
       },
@@ -2283,6 +2592,7 @@
          "code3" : "GNQ",
          "en_name" : "The Republic of Equatorial Guinea",
          "en_short_name" : "Equatorial Guinea",
+         "gec" : "EK",
          "iso3166_numeric" : "226",
          "ja_name" : "赤道ギニア共和国",
          "ja_short_name" : "赤道ギニア",
@@ -2291,12 +2601,14 @@
             "1.650801",
             "10.267895"
          ],
+         "stanag" : "GNQ",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
          "wikipedia_flag_file_name" : "File:Flag_of_Equatorial_Guinea.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ek.html",
          "wref_en" : "Equatorial_Guinea",
          "wref_ja" : "赤道ギニア"
       },
@@ -2305,6 +2617,7 @@
          "code3" : "SEN",
          "en_name" : "The Republic of Senegal",
          "en_short_name" : "Senegal",
+         "gec" : "SG",
          "iso3166_numeric" : "686",
          "ja_name" : "セネガル共和国",
          "ja_short_name" : "セネガル",
@@ -2313,12 +2626,14 @@
             "14.497401",
             "-14.452362"
          ],
+         "stanag" : "SEN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Senegal.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sg.html",
          "wref_en" : "Senegal",
          "wref_ja" : "セネガル"
       },
@@ -2327,6 +2642,7 @@
          "code3" : "NGA",
          "en_name" : "The Federal Republic of Nigeria",
          "en_short_name" : "Nigerian",
+         "gec" : "NI",
          "iso3166_numeric" : "566",
          "ja_name" : "ナイジェリア連邦共和国",
          "ja_short_name" : "ナイジェリア",
@@ -2335,12 +2651,14 @@
             "9.081999",
             "8.675277"
          ],
+         "stanag" : "NGA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Nigeria.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ni.html",
          "wref_en" : "Nigeria",
          "wref_ja" : "ナイジェリア"
       },
@@ -2349,6 +2667,7 @@
          "code3" : "GRC",
          "en_name" : "The Hellenic Republic",
          "en_short_name" : "Greece",
+         "gec" : "GR",
          "iso3166_numeric" : "300",
          "ja_name" : "ギリシャ共和国",
          "ja_short_name" : "ギリシャ",
@@ -2357,12 +2676,14 @@
             "39.074208",
             "21.824312"
          ],
+         "stanag" : "GRC",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Greece.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gr.html",
          "wref_en" : "Greece",
          "wref_ja" : "ギリシャ"
       },
@@ -2371,6 +2692,7 @@
          "code3" : "OMN",
          "en_name" : "The Sultanate of Oman",
          "en_short_name" : "Oman",
+         "gec" : "MU",
          "iso3166_numeric" : "512",
          "ja_name" : "オマーン国",
          "ja_short_name" : "オマーン",
@@ -2379,12 +2701,14 @@
             "21.512583",
             "55.923255"
          ],
+         "stanag" : "OMN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Oman.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mu.html",
          "wref_en" : "Oman",
          "wref_ja" : "オマーン"
       },
@@ -2393,6 +2717,7 @@
          "code3" : "SLE",
          "en_name" : "The Republic of Sierra Leone",
          "en_short_name" : "Sierra Leone",
+         "gec" : "SL",
          "iso3166_numeric" : "694",
          "ja_name" : "シエラレオネ共和国",
          "ja_short_name" : "シエラレオネ",
@@ -2401,12 +2726,14 @@
             "8.460555",
             "-11.779889"
          ],
+         "stanag" : "SLE",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Sierra_Leone.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sl.html",
          "wref_en" : "Sierra_Leone",
          "wref_ja" : "シエラレオネ"
       },
@@ -2415,6 +2742,7 @@
          "code3" : "ARE",
          "en_name" : "The United Arab Emirates",
          "en_short_name" : "United Arab Emirates",
+         "gec" : "AE",
          "iso3166_numeric" : "784",
          "ja_name" : "アラブ首長国連邦",
          "ja_short_name" : "アラブ首長国連邦",
@@ -2423,12 +2751,14 @@
             "23.424076",
             "53.847818"
          ],
+         "stanag" : "ARE",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_the_United_Arab_Emirates.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ae.html",
          "wref_en" : "United_Arab_Emirates",
          "wref_ja" : "アラブ首長国連邦"
       },
@@ -2437,6 +2767,7 @@
          "code3" : "KGZ",
          "en_name" : "The Kyrgyz Republic",
          "en_short_name" : "Kyrgyzstan",
+         "gec" : "KG",
          "iso3166_numeric" : "417",
          "ja_name" : "キルギス共和国",
          "ja_short_name" : "キルギス",
@@ -2445,12 +2776,14 @@
             "41.20438",
             "74.766098"
          ],
+         "stanag" : "KGZ",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 143,
          "wikipedia_flag_file_name" : "File:Flag_of_Kyrgyzstan.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/kg.html",
          "wref_en" : "Kyrgyzstan",
          "wref_ja" : "キルギス"
       },
@@ -2459,6 +2792,7 @@
          "code3" : "BEL",
          "en_name" : "The Kingdom of Belgium",
          "en_short_name" : "Belgium",
+         "gec" : "BE",
          "iso3166_numeric" : "056",
          "ja_name" : "ベルギー王国",
          "ja_short_name" : "ベルギー",
@@ -2467,12 +2801,14 @@
             "50.503887",
             "4.469936"
          ],
+         "stanag" : "BEL",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
          "wikipedia_flag_file_name" : "File:Flag_of_Belgium.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/be.html",
          "wref_en" : "Belgium",
          "wref_ja" : "ベルギー"
       },
@@ -2481,6 +2817,7 @@
          "code3" : "ESP",
          "en_name" : "The Kingdom of Spain",
          "en_short_name" : "Spain",
+         "gec" : "SP",
          "iso3166_numeric" : "724",
          "ja_name" : "スペイン",
          "ja_short_name" : "スペイン",
@@ -2489,12 +2826,14 @@
             "40.463667",
             "-3.74922"
          ],
+         "stanag" : "ESP",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Spain.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sp.html",
          "wref_en" : "Spain",
          "wref_ja" : "スペイン"
       },
@@ -2503,6 +2842,7 @@
          "code3" : "PRK",
          "en_name" : "The Democratic People's Republic of Korea",
          "en_short_name" : "Korea (North)",
+         "gec" : "KN",
          "iso3166_numeric" : "408",
          "ja_name" : "朝鮮民主主義人民共和国",
          "ja_short_name" : "北朝鮮",
@@ -2511,12 +2851,14 @@
             "40.339852",
             "127.510093"
          ],
+         "stanag" : "PRK",
          "status" : {
             "gb" : "country",
             "jp" : "other"
          },
          "submacroregion" : 30,
          "wikipedia_flag_file_name" : "File:Flag_of_North_Korea.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/kn.html",
          "wref_en" : "Korea,_Democratic_People's_Republic_of",
          "wref_ja" : "朝鮮民主主義人民共和国"
       },
@@ -2525,17 +2867,20 @@
          "code3" : "AIA",
          "en_name" : "Anguilla",
          "en_short_name" : "Anguilla",
+         "gec" : "AV",
          "iso3166_numeric" : "660",
          "macroregion" : 19,
          "position" : [
             "18.220554",
             "-63.068615"
          ],
+         "stanag" : "AIA",
          "status" : {
             "gb" : "other"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Anguilla.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/av.html",
          "wref_en" : "Anguilla",
          "wref_ja" : "アンギラ"
       },
@@ -2544,17 +2889,20 @@
          "code3" : "BMU",
          "en_name" : "Bermuda",
          "en_short_name" : "Bermuda",
+         "gec" : "BD",
          "iso3166_numeric" : "060",
          "macroregion" : 19,
          "position" : [
             "32.321384",
             "-64.75737"
          ],
+         "stanag" : "BMU",
          "status" : {
             "gb" : "other"
          },
          "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_Bermuda.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bd.html",
          "wref_en" : "Bermuda",
          "wref_ja" : "バミューダ諸島"
       },
@@ -2563,17 +2911,20 @@
          "code3" : "IOT",
          "en_name" : "The British Indian Ocean Territory",
          "en_short_name" : "British Indian Ocean Territory",
+         "gec" : "IO",
          "iso3166_numeric" : "086",
          "macroregion" : 2,
          "position" : [
             "-6.343194",
             "71.876519"
          ],
+         "stanag" : "IOT",
          "status" : {
             "gb" : "other"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_the_British_Indian_Ocean_Territory.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/io.html",
          "wref_en" : "British_Indian_Ocean_Territory",
          "wref_ja" : "イギリス領インド洋地域"
       },
@@ -2582,17 +2933,20 @@
          "code3" : "VGB",
          "en_name" : "The Virgin Islands",
          "en_short_name" : "British Virgin Islands",
+         "gec" : "VI",
          "iso3166_numeric" : "092",
          "macroregion" : 19,
          "position" : [
             "18.420695",
             "-64.639968"
          ],
+         "stanag" : "VGB",
          "status" : {
             "gb" : "other"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_British_Virgin_Islands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/vi.html",
          "wref_en" : "Virgin_Islands,_British",
          "wref_ja" : "イギリス領ヴァージン諸島"
       },
@@ -2601,17 +2955,20 @@
          "code3" : "CYM",
          "en_name" : "Cayman Islands",
          "en_short_name" : "Cayman Islands",
+         "gec" : "CJ",
          "iso3166_numeric" : "136",
          "macroregion" : 19,
          "position" : [
             "19.513469",
             "-80.566956"
          ],
+         "stanag" : "CYM",
          "status" : {
             "gb" : "other"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Cayman_Islands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cj.html",
          "wref_en" : "Cayman_Islands",
          "wref_ja" : "ケイマン諸島"
       },
@@ -2620,6 +2977,7 @@
          "code3" : "AFG",
          "en_name" : "The Islamic Republic of Afghanistan",
          "en_short_name" : "Afghanistan",
+         "gec" : "AF",
          "iso3166_numeric" : "004",
          "ja_name" : "アフガニスタン・イスラム共和国",
          "ja_short_name" : "アフガニスタン",
@@ -2628,12 +2986,14 @@
             "33.93911",
             "67.709953"
          ],
+         "stanag" : "AFG",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
          "wikipedia_flag_file_name" : "File:Flag_of_Afghanistan.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/af.html",
          "wref_en" : "Afghanistan",
          "wref_ja" : "アフガニスタン"
       },
@@ -2642,17 +3002,20 @@
          "code3" : "FLK",
          "en_name" : "Falkland Islands",
          "en_short_name" : "Falkland Islands",
+         "gec" : "FK",
          "iso3166_numeric" : "238",
          "macroregion" : 19,
          "position" : [
             "-51.796253",
             "-59.523613"
          ],
+         "stanag" : "FLK",
          "status" : {
             "gb" : "other"
          },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Falkland_Islands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fk.html",
          "wref_en" : "Falkland_Islands_(Malvinas)",
          "wref_ja" : "フォークランド諸島"
       },
@@ -2661,17 +3024,20 @@
          "code3" : "GIB",
          "en_name" : "Gibraltar",
          "en_short_name" : "Gibraltar",
+         "gec" : "GI",
          "iso3166_numeric" : "292",
          "macroregion" : 150,
          "position" : [
             "36.137741",
             "-5.345374"
          ],
+         "stanag" : "GIB",
          "status" : {
             "gb" : "other"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Gibraltar.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gi.html",
          "wref_en" : "Gibraltar",
          "wref_ja" : "ジブラルタル"
       },
@@ -2680,17 +3046,20 @@
          "code3" : "MSR",
          "en_name" : "Montserrat",
          "en_short_name" : "Montserrat",
+         "gec" : "MH",
          "iso3166_numeric" : "500",
          "macroregion" : 19,
          "position" : [
             "16.742498",
             "-62.187366"
          ],
+         "stanag" : "MSR",
          "status" : {
             "gb" : "other"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Montserrat.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mh.html",
          "wref_en" : "Montserrat",
          "wref_ja" : "モントセラト"
       },
@@ -2699,17 +3068,20 @@
          "code3" : "PCN",
          "en_name" : "Pitcairn, Henderson, Ducie and Oeno Islands",
          "en_short_name" : "Pitcairn, Henderson, Ducie and Oeno Islands",
+         "gec" : "PC",
          "iso3166_numeric" : "612",
          "macroregion" : 9,
          "position" : [
             "-24.703615",
             "-127.439308"
          ],
+         "stanag" : "PCN",
          "status" : {
             "gb" : "other"
          },
          "submacroregion" : 61,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Pitcairn_Islands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/pc.html",
          "wref_en" : "Pitcairn",
          "wref_ja" : "ピトケアン諸島"
       },
@@ -2718,17 +3090,20 @@
          "code3" : "SHN",
          "en_name" : "St Helena, Ascension and Tristan da Cunha",
          "en_short_name" : "St Helena, Ascension and Tristan da Cunha",
+         "gec" : "SH",
          "iso3166_numeric" : "654",
          "macroregion" : 2,
          "position" : [
             "-24.143474",
             "-10.030696"
          ],
+         "stanag" : "SHN",
          "status" : {
             "gb" : "other"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Saint_Helena.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sh.html",
          "wref_en" : "Saint_Helena,_Ascension_and_Tristan_da_Cunha",
          "wref_ja" : "セントヘレナ・アセンションおよびトリスタンダクーニャ"
       },
@@ -2737,17 +3112,20 @@
          "code3" : "SGS",
          "en_name" : "South Georgia and the South Sandwich Islands",
          "en_short_name" : "South Georgia and South Sandwich Islands",
+         "gec" : "SX",
          "iso3166_numeric" : "239",
          "macroregion" : 19,
          "position" : [
             "-54.429579",
             "-36.587909"
          ],
+         "stanag" : "SGS",
          "status" : {
             "gb" : "other"
          },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sx.html",
          "wref_en" : "South_Georgia_and_the_South_Sandwich_Islands",
          "wref_ja" : "サウスジョージア・サウスサンドウィッチ諸島"
       },
@@ -2756,26 +3134,31 @@
          "code3" : "TCA",
          "en_name" : "Turks and Caicos Islands",
          "en_short_name" : "Turks and Caicos Islands",
+         "gec" : "TK",
          "iso3166_numeric" : "796",
          "macroregion" : 19,
          "position" : [
             "21.694025",
             "-71.797928"
          ],
+         "stanag" : "TCA",
          "status" : {
             "gb" : "other"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Turks_and_Caicos_Islands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tk.html",
          "wref_en" : "Turks_and_Caicos_Islands",
          "wref_ja" : "タークス・カイコス諸島"
       },
       "218" : {
          "en_name" : "Akrotiri",
          "en_short_name" : "Akrotiri",
+         "gec" : "AX",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ax.html"
       },
       "219" : {
          "en_name" : "British Antarctic Territory",
@@ -2789,6 +3172,7 @@
          "code3" : "BFA",
          "en_name" : "Burkina Faso",
          "en_short_name" : "Burkina",
+         "gec" : "UV",
          "iso3166_numeric" : "854",
          "ja_name" : "ブルキナファソ",
          "ja_short_name" : "ブルキナファソ",
@@ -2797,31 +3181,38 @@
             "12.238333",
             "-1.561593"
          ],
+         "stanag" : "BFA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Burkina_Faso.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/uv.html",
          "wref_en" : "Burkina_Faso",
          "wref_ja" : "ブルキナファソ"
       },
       "220" : {
          "en_name" : "Dhekelia",
          "en_short_name" : "Dhekelia",
+         "gec" : "DX",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/dx.html"
       },
       "222" : {
          "code" : "GG",
          "code3" : "GGY",
          "en_name" : "Guernsey",
          "en_short_name" : "Guernsey",
+         "gec" : "GK",
          "iso3166_numeric" : "831",
          "macroregion" : 150,
+         "stanag" : "UK",
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_Guernsey.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gk.html",
          "wref_en" : "Guernsey",
          "wref_ja" : "ガーンジー"
       },
@@ -2830,10 +3221,13 @@
          "code3" : "SJM",
          "en_name" : "Svalbard and Jan Mayen",
          "en_short_name" : "Svalbard and Jan Mayen",
+         "gec" : "SV",
          "iso3166_numeric" : "744",
          "macroregion" : 150,
+         "stanag" : "SJM",
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_Norway.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sv.html",
          "wref_en" : "Svalbard_and_Jan_Mayen",
          "wref_ja" : "スヴァールバル諸島およびヤンマイエン島"
       },
@@ -2842,10 +3236,13 @@
          "code3" : "GRL",
          "en_name" : "Greenland",
          "en_short_name" : "Greenland",
+         "gec" : "GL",
          "iso3166_numeric" : "304",
          "macroregion" : 19,
+         "stanag" : "GRL",
          "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_Greenland.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gl.html",
          "wref_en" : "Greenland",
          "wref_ja" : "グリーンランド"
       },
@@ -2854,8 +3251,11 @@
          "code3" : "BVT",
          "en_name" : "Bouvet Island",
          "en_short_name" : "Bouvet Island",
+         "gec" : "BV",
          "iso3166_numeric" : "074",
+         "stanag" : "BVT",
          "wikipedia_flag_file_name" : "File:Flag_of_Norway.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bv.html",
          "wref_en" : "Bouvet_Island",
          "wref_ja" : "ブーベ島"
       },
@@ -2864,10 +3264,13 @@
          "code3" : "MTQ",
          "en_name" : "Martinique",
          "en_short_name" : "Martinique",
+         "gec" : "MB",
          "iso3166_numeric" : "474",
          "macroregion" : 19,
+         "stanag" : "MTQ",
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Martinique.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mb.html",
          "wref_en" : "Martinique",
          "wref_ja" : "マルティニーク"
       },
@@ -2876,6 +3279,7 @@
          "code3" : "CAN",
          "en_name" : "Canada",
          "en_short_name" : "Canada",
+         "gec" : "CA",
          "iso3166_numeric" : "124",
          "ja_name" : "カナダ",
          "ja_short_name" : "カナダ",
@@ -2884,12 +3288,14 @@
             "56.130366",
             "-106.346771"
          ],
+         "stanag" : "CAN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_Canada.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html",
          "wref_en" : "Canada",
          "wref_ja" : "カナダ"
       },
@@ -2898,8 +3304,11 @@
          "code3" : "ATF",
          "en_name" : "French Southern Territories",
          "en_short_name" : "French Southern Territories",
+         "gec" : "FS",
          "iso3166_numeric" : "260",
+         "stanag" : "ATF",
          "wikipedia_flag_file_name" : "File:Flag_of_the_French_Southern_and_Antarctic_Lands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fs.html",
          "wref_en" : "French_Southern_Territories",
          "wref_ja" : "フランス領南方・南極地域"
       },
@@ -2908,10 +3317,13 @@
          "code3" : "REU",
          "en_name" : "Réunion",
          "en_short_name" : "Réunion",
+         "gec" : "RE",
          "iso3166_numeric" : "638",
          "macroregion" : 2,
+         "stanag" : "REU",
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_France.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/re.html",
          "wref_en" : "Réunion",
          "wref_ja" : "レユニオン"
       },
@@ -2925,10 +3337,13 @@
          "code3" : "ASM",
          "en_name" : "American Samoa",
          "en_short_name" : "American Samoa",
+         "gec" : "AQ",
          "iso3166_numeric" : "016",
          "macroregion" : 9,
+         "stanag" : "ASM",
          "submacroregion" : 61,
          "wikipedia_flag_file_name" : "File:Flag_of_American_Samoa.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/aq.html",
          "wref_en" : "American_Samoa",
          "wref_ja" : "アメリカ領サモア"
       },
@@ -2937,6 +3352,7 @@
          "code3" : "GMB",
          "en_name" : "The Republic of the Gambia",
          "en_short_name" : "Gambia, The",
+         "gec" : "GA",
          "iso3166_numeric" : "270",
          "ja_name" : "ガンビア共和国",
          "ja_short_name" : "ガンビア",
@@ -2945,12 +3361,14 @@
             "13.443182",
             "-15.310139"
          ],
+         "stanag" : "GMB",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_The_Gambia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ga.html",
          "wref_en" : "Gambia",
          "wref_ja" : "ガンビア"
       },
@@ -2959,10 +3377,13 @@
          "code3" : "CXR",
          "en_name" : "Christmas Island",
          "en_short_name" : "Christmas Island",
+         "gec" : "KT",
          "iso3166_numeric" : "162",
          "macroregion" : 9,
+         "stanag" : "CXR",
          "submacroregion" : 53,
          "wikipedia_flag_file_name" : "File:Flag_of_Christmas_Island.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/kt.html",
          "wref_en" : "Christmas_Island",
          "wref_ja" : "クリスマス島_(オーストラリア)"
       },
@@ -2971,10 +3392,13 @@
          "code3" : "VIR",
          "en_name" : "U.S. Virgin Islands",
          "en_short_name" : "U.S. Virgin Islands",
+         "gec" : "VQ",
          "iso3166_numeric" : "850",
          "macroregion" : 19,
+         "stanag" : "VIR",
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_United_States_Virgin_Islands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/vq.html",
          "wref_en" : "Virgin_Islands,_U.S.",
          "wref_ja" : "アメリカ領ヴァージン諸島"
       },
@@ -2983,10 +3407,13 @@
          "code3" : "GUF",
          "en_name" : "French Guiana",
          "en_short_name" : "French Guiana",
+         "gec" : "FG",
          "iso3166_numeric" : "254",
          "macroregion" : 19,
+         "stanag" : "GUF",
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_French_Guiana.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fg.html",
          "wref_en" : "French_Guiana",
          "wref_ja" : "フランス領ギアナ"
       },
@@ -2995,10 +3422,13 @@
          "code3" : "ESH",
          "en_name" : "Western Sahara",
          "en_short_name" : "Western Sahara",
+         "gec" : "WI",
          "iso3166_numeric" : "732",
          "macroregion" : 2,
+         "stanag" : "ESH",
          "submacroregion" : 15,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/wi.html",
          "wref_en" : "Western_Sahara",
          "wref_ja" : "西サハラ"
       },
@@ -3007,10 +3437,12 @@
          "code3" : "CUW",
          "en_name" : "Curaçao",
          "en_short_name" : "Curaçao",
+         "gec" : "UC",
          "iso3166_numeric" : "531",
          "macroregion" : 19,
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Curaçao.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/uc.html",
          "wref_en" : "Curaçao",
          "wref_ja" : "キュラソー島"
       },
@@ -3024,6 +3456,7 @@
          "code3" : "SLV",
          "en_name" : "The Republic of El Salvador",
          "en_short_name" : "El Salvador",
+         "gec" : "ES",
          "iso3166_numeric" : "222",
          "ja_name" : "エルサルバドル共和国",
          "ja_short_name" : "エルサルバドル",
@@ -3032,12 +3465,14 @@
             "13.794185",
             "-88.89653"
          ],
+         "stanag" : "SLV",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
          "wikipedia_flag_file_name" : "File:Flag_of_El_Salvador.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/es.html",
          "wref_en" : "El_Salvador",
          "wref_ja" : "エルサルバドル"
       },
@@ -3046,10 +3481,13 @@
          "code3" : "GUM",
          "en_name" : "Guam",
          "en_short_name" : "Guam",
+         "gec" : "GQ",
          "iso3166_numeric" : "316",
          "macroregion" : 9,
+         "stanag" : "GUM",
          "submacroregion" : 57,
          "wikipedia_flag_file_name" : "File:Flag_of_Guam.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gq.html",
          "wref_en" : "Guam",
          "wref_ja" : "グアム"
       },
@@ -3058,10 +3496,13 @@
          "code3" : "ABW",
          "en_name" : "Aruba",
          "en_short_name" : "Aruba",
+         "gec" : "AA",
          "iso3166_numeric" : "533",
          "macroregion" : 19,
+         "stanag" : "ABW",
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Aruba.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/aa.html",
          "wref_en" : "Aruba",
          "wref_ja" : "アルバ"
       },
@@ -3092,6 +3533,7 @@
          "code3" : "BWA",
          "en_name" : "The Republic of Botswana",
          "en_short_name" : "Botswana",
+         "gec" : "BC",
          "iso3166_numeric" : "072",
          "ja_name" : "ボツワナ共和国",
          "ja_short_name" : "ボツワナ",
@@ -3100,12 +3542,14 @@
             "-22.328474",
             "24.684866"
          ],
+         "stanag" : "BWA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 18,
          "wikipedia_flag_file_name" : "File:Flag_of_Botswana.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bc.html",
          "wref_en" : "Botswana",
          "wref_ja" : "ボツワナ"
       },
@@ -3114,10 +3558,13 @@
          "code3" : "IMN",
          "en_name" : "Isle of Man",
          "en_short_name" : "Isle of Man",
+         "gec" : "IM",
          "iso3166_numeric" : "833",
          "macroregion" : 150,
+         "stanag" : "UK",
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Isle_of_Man.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/im.html",
          "wref_en" : "Isle_of_Man",
          "wref_ja" : "マン島"
       },
@@ -3126,10 +3573,12 @@
          "code3" : "SXM",
          "en_name" : "Sint Maarten (Dutch part)",
          "en_short_name" : "Sint Maarten (Dutch part)",
+         "gec" : "NN",
          "iso3166_numeric" : "534",
          "macroregion" : 19,
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Sint_Maarten.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/nn.html",
          "wref_en" : "Sint_Maarten_(Dutch_part)",
          "wref_ja" : "シント・マールテン"
       },
@@ -3138,10 +3587,13 @@
          "code3" : "GLP",
          "en_name" : "Guadeloupe",
          "en_short_name" : "Guadeloupe",
+         "gec" : "GP",
          "iso3166_numeric" : "312",
          "macroregion" : 19,
+         "stanag" : "GLP",
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Guadeloupe_(local)_variant.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gp.html",
          "wref_en" : "Guadeloupe",
          "wref_ja" : "グアドループ"
       },
@@ -3150,10 +3602,12 @@
          "code3" : "BLM",
          "en_name" : "Saint Barthélemy",
          "en_short_name" : "Saint Barthélemy",
+         "gec" : "TB",
          "iso3166_numeric" : "652",
          "macroregion" : 19,
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Saint_Barthelemy_(local).svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tb.html",
          "wref_en" : "Saint_Barthélemy",
          "wref_ja" : "サン・バルテルミー島"
       },
@@ -3167,6 +3621,7 @@
          "code3" : "VUT",
          "en_name" : "The Republic of Vanuatu",
          "en_short_name" : "Vanuatu",
+         "gec" : "NH",
          "iso3166_numeric" : "548",
          "ja_name" : "バヌアツ共和国",
          "ja_short_name" : "バヌアツ",
@@ -3175,12 +3630,14 @@
             "-15.376706",
             "166.959158"
          ],
+         "stanag" : "VUT",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 54,
          "wikipedia_flag_file_name" : "File:Flag_of_Vanuatu.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/nh.html",
          "wref_en" : "Vanuatu",
          "wref_ja" : "バヌアツ"
       },
@@ -3189,10 +3646,13 @@
          "code3" : "NCL",
          "en_name" : "New Caledonia",
          "en_short_name" : "New Caledonia",
+         "gec" : "NC",
          "iso3166_numeric" : "540",
          "macroregion" : 9,
+         "stanag" : "NCL",
          "submacroregion" : 54,
          "wikipedia_flag_file_name" : "File:Flag_of_New_Caledonia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/nc.html",
          "wref_en" : "New_Caledonia",
          "wref_ja" : "ニューカレドニア"
       },
@@ -3201,8 +3661,11 @@
          "code3" : "ATA",
          "en_name" : "Antarctica",
          "en_short_name" : "Antarctica",
+         "gec" : "AY",
          "iso3166_numeric" : "010",
+         "stanag" : "ATA",
          "wikipedia_flag_file_name" : "File:Flag_of_Antarctica.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ay.html",
          "wref_en" : "Antarctica",
          "wref_ja" : "南極"
       },
@@ -3211,8 +3674,11 @@
          "code3" : "HMD",
          "en_name" : "Heard Island and McDonald Islands",
          "en_short_name" : "Heard Island and McDonald Islands",
+         "gec" : "HM",
          "iso3166_numeric" : "334",
+         "stanag" : "HMD",
          "wikipedia_flag_file_name" : "File:Flag_of_Australia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/hm.html",
          "wref_en" : "Heard_Island_and_McDonald_Islands",
          "wref_ja" : "ハード島とマクドナルド諸島"
       },
@@ -3221,10 +3687,13 @@
          "code3" : "WLF",
          "en_name" : "Wallis and Futuna",
          "en_short_name" : "Wallis and Futuna",
+         "gec" : "WF",
          "iso3166_numeric" : "876",
          "macroregion" : 9,
+         "stanag" : "WLF",
          "submacroregion" : 61,
          "wikipedia_flag_file_name" : "File:Flag_of_Wallis_and_Futuna.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/wf.html",
          "wref_en" : "Wallis_and_Futuna",
          "wref_ja" : "ウォリス・フツナ"
       },
@@ -3233,10 +3702,13 @@
          "code3" : "PYF",
          "en_name" : "French Polynesia",
          "en_short_name" : "French Polynesia",
+         "gec" : "FP",
          "iso3166_numeric" : "258",
          "macroregion" : 9,
+         "stanag" : "PYF",
          "submacroregion" : 61,
          "wikipedia_flag_file_name" : "File:Flag_of_French_Polynesia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fp.html",
          "wref_en" : "French_Polynesia",
          "wref_ja" : "フランス領ポリネシア"
       },
@@ -3245,6 +3717,7 @@
          "code3" : "FJI",
          "en_name" : "The Republic of Fiji",
          "en_short_name" : "Fiji",
+         "gec" : "FJ",
          "iso3166_numeric" : "242",
          "ja_name" : "フィジー共和国",
          "ja_short_name" : "フィジー",
@@ -3253,12 +3726,14 @@
             "-16.578193",
             "179.414413"
          ],
+         "stanag" : "FJI",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 54,
          "wikipedia_flag_file_name" : "File:Flag_of_Fiji.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fj.html",
          "wref_en" : "Fiji",
          "wref_ja" : "フィジー"
       },
@@ -3284,10 +3759,13 @@
          "code3" : "SPM",
          "en_name" : "Saint Pierre and Miquelon",
          "en_short_name" : "Saint Pierre and Miquelon",
+         "gec" : "SB",
          "iso3166_numeric" : "666",
          "macroregion" : 19,
+         "stanag" : "SPM",
          "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_Saint-Pierre_and_Miquelon.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sb.html",
          "wref_en" : "Saint_Pierre_and_Miquelon",
          "wref_ja" : "サンピエール島・ミクロン島"
       },
@@ -3308,10 +3786,13 @@
          "code3" : "TKL",
          "en_name" : "Tokelau",
          "en_short_name" : "Tokelau",
+         "gec" : "TL",
          "iso3166_numeric" : "772",
          "macroregion" : 9,
+         "stanag" : "TKL",
          "submacroregion" : 61,
          "wikipedia_flag_file_name" : "File:Flag_of_Tokelau.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tl.html",
          "wref_en" : "Tokelau",
          "wref_ja" : "トケラウ"
       },
@@ -3320,6 +3801,7 @@
          "code3" : "BRA",
          "en_name" : "The Federative Republic of Brazil",
          "en_short_name" : "Brazil",
+         "gec" : "BR",
          "iso3166_numeric" : "076",
          "ja_name" : "ブラジル連邦共和国",
          "ja_short_name" : "ブラジル",
@@ -3328,12 +3810,14 @@
             "-14.235004",
             "-51.92528"
          ],
+         "stanag" : "BRA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Brazil.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/br.html",
          "wref_en" : "Brazil",
          "wref_ja" : "ブラジル"
       },
@@ -3342,10 +3826,12 @@
          "code3" : "MAF",
          "en_name" : "Saint Martin (French part)",
          "en_short_name" : "Saint Martin (French part)",
+         "gec" : "RN",
          "iso3166_numeric" : "663",
          "macroregion" : 19,
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_France.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/rn.html",
          "wref_en" : "Saint_Martin_(French_part)",
          "wref_ja" : "サン・マルタン_(西インド諸島)"
       },
@@ -3354,10 +3840,13 @@
          "code3" : "PRI",
          "en_name" : "Puerto Rico",
          "en_short_name" : "Puerto Rico",
+         "gec" : "RQ",
          "iso3166_numeric" : "630",
          "macroregion" : 19,
+         "stanag" : "PRI",
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Puerto_Rico.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/rq.html",
          "wref_en" : "Puerto_Rico",
          "wref_ja" : "プエルトリコ"
       },
@@ -3366,10 +3855,13 @@
          "code3" : "NFK",
          "en_name" : "Norfolk Island",
          "en_short_name" : "Norfolk Island",
+         "gec" : "NF",
          "iso3166_numeric" : "574",
          "macroregion" : 9,
+         "stanag" : "NFK",
          "submacroregion" : 53,
          "wikipedia_flag_file_name" : "File:Flag_of_Norfolk_Island.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/nf.html",
          "wref_en" : "Norfolk_Island",
          "wref_ja" : "ノーフォーク島"
       },
@@ -3378,10 +3870,13 @@
          "code3" : "MNP",
          "en_name" : "Northern Mariana Islands",
          "en_short_name" : "Northern Mariana Islands",
+         "gec" : "CQ",
          "iso3166_numeric" : "580",
          "macroregion" : 9,
+         "stanag" : "MNP",
          "submacroregion" : 57,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Northern_Mariana_Islands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cq.html",
          "wref_en" : "Northern_Mariana_Islands",
          "wref_ja" : "北マリアナ諸島"
       },
@@ -3390,6 +3885,7 @@
          "code3" : "CUB",
          "en_name" : "The Republic of Cuba",
          "en_short_name" : "Cuba",
+         "gec" : "CU",
          "iso3166_numeric" : "192",
          "ja_name" : "キューバ共和国",
          "ja_short_name" : "キューバ",
@@ -3398,12 +3894,14 @@
             "21.521757",
             "-77.781167"
          ],
+         "stanag" : "CUB",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Cuba.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cu.html",
          "wref_en" : "Cuba",
          "wref_ja" : "キューバ"
       },
@@ -3412,6 +3910,7 @@
          "code3" : "RWA",
          "en_name" : "The Republic of Rwanda",
          "en_short_name" : "Rwanda",
+         "gec" : "RW",
          "iso3166_numeric" : "646",
          "ja_name" : "ルワンダ共和国",
          "ja_short_name" : "ルワンダ",
@@ -3420,12 +3919,14 @@
             "-1.940278",
             "29.873888"
          ],
+         "stanag" : "RWA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Rwanda.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/rw.html",
          "wref_en" : "Rwanda",
          "wref_ja" : "ルワンダ"
       },
@@ -3434,10 +3935,13 @@
          "code3" : "JEY",
          "en_name" : "Jersey",
          "en_short_name" : "Jersey",
+         "gec" : "JE",
          "iso3166_numeric" : "832",
          "macroregion" : 150,
+         "stanag" : "UK",
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_Jersey.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/je.html",
          "wref_en" : "Jersey",
          "wref_ja" : "ジャージー"
       },
@@ -3446,10 +3950,13 @@
          "code3" : "FRO",
          "en_name" : "Faroe Islands",
          "en_short_name" : "Faroe Islands",
+         "gec" : "FO",
          "iso3166_numeric" : "234",
          "macroregion" : 150,
+         "stanag" : "FRO",
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Faroe_Islands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fo.html",
          "wref_en" : "Faroe_Islands",
          "wref_ja" : "フェロー諸島"
       },
@@ -3458,10 +3965,13 @@
          "code3" : "MYT",
          "en_name" : "Mayotte",
          "en_short_name" : "Mayotte",
+         "gec" : "MF",
          "iso3166_numeric" : "175",
          "macroregion" : 2,
+         "stanag" : "FRA",
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_France.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mf.html",
          "wref_en" : "Mayotte",
          "wref_ja" : "マヨット"
       },
@@ -3470,18 +3980,36 @@
          "code3" : "CCK",
          "en_name" : "Cocos (Keeling) Islands",
          "en_short_name" : "Cocos (Keeling) Islands",
+         "gec" : "CK",
          "iso3166_numeric" : "166",
          "macroregion" : 9,
+         "stanag" : "AUS",
          "submacroregion" : 53,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Cocos_(Keeling)_Islands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ck.html",
          "wref_en" : "Cocos_(Keeling)_Islands",
          "wref_ja" : "ココス諸島"
+      },
+      "308" : {
+         "en_name" : "Ashmore and Cartier Islands",
+         "en_short_name" : "Ashmore and Cartier Islands",
+         "gec" : "AT",
+         "stanag" : "AUS",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/at.html"
+      },
+      "309" : {
+         "en_name" : "Baker Island",
+         "en_short_name" : "Baker Island",
+         "gec" : "FQ",
+         "stanag" : "UMI",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fq.html"
       },
       "31" : {
          "code" : "ET",
          "code3" : "ETH",
          "en_name" : "The Federal Democratic Republic of Ethiopia",
          "en_short_name" : "Ethiopia",
+         "gec" : "ET",
          "iso3166_numeric" : "231",
          "ja_name" : "エチオピア連邦民主共和国",
          "ja_short_name" : "エチオピア",
@@ -3490,20 +4018,83 @@
             "9.145",
             "40.489673"
          ],
+         "stanag" : "ETH",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Ethiopia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/et.html",
          "wref_en" : "Ethiopia",
          "wref_ja" : "エチオピア"
+      },
+      "310" : {
+         "en_name" : "Bassas da India",
+         "en_short_name" : "Bassas da India",
+         "gec" : "BS",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bs.html"
+      },
+      "311" : {
+         "en_name" : "Clipperton Island",
+         "en_short_name" : "Clipperton Island",
+         "gec" : "IP",
+         "stanag" : "FYP",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ip.html"
+      },
+      "312" : {
+         "en_name" : "Coral Sea Islands",
+         "en_short_name" : "Coral Sea Islands",
+         "gec" : "CR",
+         "stanag" : "AUS",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cr.html"
+      },
+      "313" : {
+         "en_name" : "Europa Island",
+         "en_short_name" : "Europa Island",
+         "gec" : "EU",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/eu.html"
+      },
+      "315" : {
+         "en_name" : "Glorioso Islands",
+         "en_short_name" : "Glorioso Islands",
+         "gec" : "GO",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/go.html"
+      },
+      "316" : {
+         "en_name" : "Howland Island",
+         "en_short_name" : "Howland Island",
+         "gec" : "HQ",
+         "stanag" : "UMI",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/hq.html"
+      },
+      "317" : {
+         "en_name" : "Jan Mayen",
+         "en_short_name" : "Jan Mayen",
+         "gec" : "JN",
+         "stanag" : "SJM",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/jn.html"
+      },
+      "318" : {
+         "en_name" : "Jarvis Island",
+         "en_short_name" : "Jarvis Island",
+         "gec" : "DQ",
+         "stanag" : "UMI",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/dq.html"
+      },
+      "319" : {
+         "en_name" : "Johnston Atoll",
+         "en_short_name" : "Johnston Atoll",
+         "gec" : "JQ",
+         "stanag" : "UMI",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/jq.html"
       },
       "32" : {
          "code" : "FR",
          "code3" : "FRA",
          "en_name" : "The French Republic",
          "en_short_name" : "France",
+         "gec" : "FR",
          "iso3166_numeric" : "250",
          "ja_name" : "フランス共和国",
          "ja_short_name" : "フランス",
@@ -3512,20 +4103,75 @@
             "46.227638",
             "2.213749"
          ],
+         "stanag" : "FRA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
          "wikipedia_flag_file_name" : "File:Flag_of_France.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fr.html",
          "wref_en" : "France",
          "wref_ja" : "フランス"
+      },
+      "320" : {
+         "en_name" : "Juan de Nova Island",
+         "en_short_name" : "Juan de Nova Island",
+         "gec" : "JU",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ju.html"
+      },
+      "321" : {
+         "en_name" : "Kingman Reef",
+         "en_short_name" : "Kingman Reef",
+         "gec" : "KQ",
+         "stanag" : "UMI",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/kq.html"
+      },
+      "322" : {
+         "en_name" : "Midway Islands",
+         "en_short_name" : "Midway Islands",
+         "gec" : "MQ",
+         "stanag" : "UMI",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mq.html"
+      },
+      "324" : {
+         "en_name" : "Navassa Island",
+         "en_short_name" : "Navassa Island",
+         "gec" : "BQ",
+         "stanag" : "UMI",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bq.html"
+      },
+      "326" : {
+         "en_name" : "Palmyra Atoll",
+         "en_short_name" : "Palmyra Atoll",
+         "gec" : "LQ",
+         "stanag" : "UMI",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/lq.html"
+      },
+      "327" : {
+         "en_name" : "Paracel Islands",
+         "en_short_name" : "Paracel Islands",
+         "gec" : "PF",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/pf.html"
+      },
+      "328" : {
+         "en_name" : "Spratly Islands",
+         "en_short_name" : "Spratly Islands",
+         "gec" : "PG",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/pg.html"
+      },
+      "329" : {
+         "en_name" : "Tromelin Island",
+         "en_short_name" : "Tromelin Island",
+         "gec" : "TE",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/te.html"
       },
       "33" : {
          "code" : "MD",
          "code3" : "MDA",
          "en_name" : "The Republic of Moldova",
          "en_short_name" : "Moldova",
+         "gec" : "MD",
          "iso3166_numeric" : "498",
          "ja_name" : "モルドバ共和国",
          "ja_short_name" : "モルドバ",
@@ -3534,20 +4180,30 @@
             "47.411631",
             "28.369885"
          ],
+         "stanag" : "MDA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_Moldova.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/md.html",
          "wref_en" : "Moldova,_Republic_of",
          "wref_ja" : "モルドバ"
+      },
+      "332" : {
+         "en_name" : "Wake Island",
+         "en_short_name" : "Wake Island",
+         "gec" : "WQ",
+         "stanag" : "UMI",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/wq.html"
       },
       "34" : {
          "code" : "MH",
          "code3" : "MHL",
          "en_name" : "The Republic of the Marshall Islands",
          "en_short_name" : "Marshall Islands",
+         "gec" : "RM",
          "iso3166_numeric" : "584",
          "ja_name" : "マーシャル諸島共和国",
          "ja_short_name" : "マーシャル諸島",
@@ -3556,12 +4212,14 @@
             "7.131474",
             "171.184478"
          ],
+         "stanag" : "MHL",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 57,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Marshall_Islands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/rm.html",
          "wref_en" : "Marshall_Islands",
          "wref_ja" : "マーシャル諸島"
       },
@@ -3570,6 +4228,7 @@
          "code3" : "NOR",
          "en_name" : "The Kingdom of Norway",
          "en_short_name" : "Norway",
+         "gec" : "NO",
          "iso3166_numeric" : "578",
          "ja_name" : "ノルウェー王国",
          "ja_short_name" : "ノルウェー",
@@ -3578,12 +4237,14 @@
             "60.472024",
             "8.468946"
          ],
+         "stanag" : "NOR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_Norway.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/no.html",
          "wref_en" : "Norway",
          "wref_ja" : "ノルウェー"
       },
@@ -3592,6 +4253,7 @@
          "code3" : "SVN",
          "en_name" : "The Republic of Slovenia",
          "en_short_name" : "Slovenia",
+         "gec" : "SI",
          "iso3166_numeric" : "705",
          "ja_name" : "スロベニア共和国",
          "ja_short_name" : "スロベニア",
@@ -3600,12 +4262,14 @@
             "46.151241",
             "14.995463"
          ],
+         "stanag" : "SVN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Slovenia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/si.html",
          "wref_en" : "Slovenia",
          "wref_ja" : "スロベニア"
       },
@@ -3614,6 +4278,7 @@
          "code3" : "IRQ",
          "en_name" : "The Republic of Iraq",
          "en_short_name" : "Iraq",
+         "gec" : "IZ",
          "iso3166_numeric" : "368",
          "ja_name" : "イラク共和国",
          "ja_short_name" : "イラク",
@@ -3622,12 +4287,14 @@
             "33.223191",
             "43.679291"
          ],
+         "stanag" : "IRQ",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Iraq.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/iz.html",
          "wref_en" : "Iraq",
          "wref_ja" : "イラク"
       },
@@ -3636,6 +4303,7 @@
          "code3" : "DJI",
          "en_name" : "The Republic of Djibouti",
          "en_short_name" : "Djibouti",
+         "gec" : "DJ",
          "iso3166_numeric" : "262",
          "ja_name" : "ジブチ共和国",
          "ja_short_name" : "ジブチ",
@@ -3644,12 +4312,14 @@
             "11.825138",
             "42.590275"
          ],
+         "stanag" : "DJI",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Djibouti.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/dj.html",
          "wref_en" : "Djibouti",
          "wref_ja" : "ジブチ"
       },
@@ -3658,6 +4328,7 @@
          "code3" : "ITA",
          "en_name" : "The Italian Republic",
          "en_short_name" : "Italy",
+         "gec" : "IT",
          "iso3166_numeric" : "380",
          "ja_name" : "イタリア共和国",
          "ja_short_name" : "イタリア",
@@ -3666,12 +4337,14 @@
             "41.87194",
             "12.56738"
          ],
+         "stanag" : "ITA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Italy.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/it.html",
          "wref_en" : "Italy",
          "wref_ja" : "イタリア"
       },
@@ -3680,6 +4353,7 @@
          "code3" : "MLI",
          "en_name" : "The Republic of Mali",
          "en_short_name" : "Mali",
+         "gec" : "ML",
          "iso3166_numeric" : "466",
          "ja_name" : "マリ共和国",
          "ja_short_name" : "マリ",
@@ -3688,12 +4362,14 @@
             "17.570692",
             "-3.996166"
          ],
+         "stanag" : "MLI",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Mali.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ml.html",
          "wref_en" : "Mali",
          "wref_ja" : "マリ共和国"
       },
@@ -3702,6 +4378,7 @@
          "code3" : "URY",
          "en_name" : "The Oriental Republic of Uruguay",
          "en_short_name" : "Uruguay",
+         "gec" : "UY",
          "iso3166_numeric" : "858",
          "ja_name" : "ウルグアイ東方共和国",
          "ja_short_name" : "ウルグアイ",
@@ -3710,12 +4387,14 @@
             "-32.522779",
             "-55.765835"
          ],
+         "stanag" : "URY",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Uruguay.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/uy.html",
          "wref_en" : "Uruguay",
          "wref_ja" : "ウルグアイ"
       },
@@ -3724,6 +4403,7 @@
          "code3" : "SDN",
          "en_name" : "The Republic of the Sudan",
          "en_short_name" : "Sudan",
+         "gec" : "SU",
          "iso3166_numeric" : "729",
          "ja_name" : "スーダン共和国",
          "ja_short_name" : "スーダン",
@@ -3732,12 +4412,14 @@
             "12.862807",
             "30.217636"
          ],
+         "stanag" : "SDN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 15,
          "wikipedia_flag_file_name" : "File:Flag_of_Sudan.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/su.html",
          "wref_en" : "Sudan",
          "wref_ja" : "スーダン"
       },
@@ -3746,6 +4428,7 @@
          "code3" : "THA",
          "en_name" : "The Kingdom of Thailand",
          "en_short_name" : "Thailand",
+         "gec" : "TH",
          "iso3166_numeric" : "764",
          "ja_name" : "タイ王国",
          "ja_short_name" : "タイ",
@@ -3754,12 +4437,14 @@
             "15.870032",
             "100.992541"
          ],
+         "stanag" : "THA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_Thailand.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/th.html",
          "wref_en" : "Thailand",
          "wref_ja" : "タイ王国"
       },
@@ -3768,6 +4453,7 @@
          "code3" : "DMA",
          "en_name" : "The Commonwealth of Dominica",
          "en_short_name" : "Dominica",
+         "gec" : "DO",
          "iso3166_numeric" : "212",
          "ja_name" : "ドミニカ国",
          "ja_short_name" : "ドミニカ国",
@@ -3776,12 +4462,14 @@
             "15.414999",
             "-61.370976"
          ],
+         "stanag" : "DMA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Dominica.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/do.html",
          "wref_en" : "Dominica",
          "wref_ja" : "ドミニカ国"
       },
@@ -3790,6 +4478,7 @@
          "code3" : "IND",
          "en_name" : "The Republic of India",
          "en_short_name" : "India",
+         "gec" : "IN",
          "iso3166_numeric" : "356",
          "ja_name" : "インド",
          "ja_short_name" : "インド",
@@ -3798,12 +4487,14 @@
             "20.593684",
             "78.96288"
          ],
+         "stanag" : "IND",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
          "wikipedia_flag_file_name" : "File:Flag_of_India.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/in.html",
          "wref_en" : "India",
          "wref_ja" : "インド"
       },
@@ -3812,6 +4503,7 @@
          "code3" : "COK",
          "en_name" : "Cook Islands",
          "en_short_name" : "Cook Islands",
+         "gec" : "CW",
          "iso3166_numeric" : "184",
          "ja_name" : "クック諸島",
          "ja_short_name" : "クック諸島",
@@ -3820,11 +4512,13 @@
             "-21.20",
             "-159.77"
          ],
+         "stanag" : "COK",
          "status" : {
             "jp" : "country"
          },
          "submacroregion" : 61,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Cook_Islands.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cw.html",
          "wref_en" : "Cook_Islands",
          "wref_ja" : "クック諸島"
       },
@@ -3833,6 +4527,7 @@
          "code3" : "TKM",
          "en_name" : "Turkmenistan",
          "en_short_name" : "Turkmenistan",
+         "gec" : "TX",
          "iso3166_numeric" : "795",
          "ja_name" : "トルクメニスタン",
          "ja_short_name" : "トルクメニスタン",
@@ -3841,12 +4536,14 @@
             "38.969719",
             "59.556278"
          ],
+         "stanag" : "TKM",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 143,
          "wikipedia_flag_file_name" : "File:Flag_of_Turkmenistan.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tx.html",
          "wref_en" : "Turkmenistan",
          "wref_ja" : "トルクメニスタン"
       },
@@ -3855,6 +4552,7 @@
          "code3" : "CAF",
          "en_name" : "The Central African Republic",
          "en_short_name" : "Central African Republic",
+         "gec" : "CT",
          "iso3166_numeric" : "140",
          "ja_name" : "中央アフリカ共和国",
          "ja_short_name" : "中央アフリカ",
@@ -3863,12 +4561,14 @@
             "6.611111",
             "20.939444"
          ],
+         "stanag" : "CAF",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Central_African_Republic.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ct.html",
          "wref_en" : "Central_African_Republic",
          "wref_ja" : "中央アフリカ共和国"
       },
@@ -3877,6 +4577,7 @@
          "code3" : "EGY",
          "en_name" : "The Arab Republic of Egypt",
          "en_short_name" : "Egypt",
+         "gec" : "EG",
          "iso3166_numeric" : "818",
          "ja_name" : "エジプト・アラブ共和国",
          "ja_short_name" : "エジプト",
@@ -3885,12 +4586,14 @@
             "26.820553",
             "30.802498"
          ],
+         "stanag" : "EGY",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 15,
          "wikipedia_flag_file_name" : "File:Flag_of_Egypt.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/eg.html",
          "wref_en" : "Egypt",
          "wref_ja" : "エジプト"
       },
@@ -3899,6 +4602,7 @@
          "code3" : "PHL",
          "en_name" : "The Republic of the Philippines",
          "en_short_name" : "Philippines",
+         "gec" : "RP",
          "iso3166_numeric" : "608",
          "ja_name" : "フィリピン共和国",
          "ja_short_name" : "フィリピン",
@@ -3907,12 +4611,14 @@
             "12.879721",
             "121.774017"
          ],
+         "stanag" : "PHL",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Philippines.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/rp.html",
          "wref_en" : "Philippines",
          "wref_ja" : "フィリピン"
       },
@@ -3921,6 +4627,7 @@
          "code3" : "POL",
          "en_name" : "The Republic of Poland",
          "en_short_name" : "Poland",
+         "gec" : "PL",
          "iso3166_numeric" : "616",
          "ja_name" : "ポーランド共和国",
          "ja_short_name" : "ポーランド",
@@ -3929,12 +4636,14 @@
             "51.919438",
             "19.145136"
          ],
+         "stanag" : "POL",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_Poland.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/pl.html",
          "wref_en" : "Poland",
          "wref_ja" : "ポーランド"
       },
@@ -3943,6 +4652,7 @@
          "code3" : "LCA",
          "en_name" : "Saint Lucia",
          "en_short_name" : "St Lucia",
+         "gec" : "ST",
          "iso3166_numeric" : "662",
          "ja_name" : "セントルシア",
          "ja_short_name" : "セントルシア",
@@ -3951,12 +4661,14 @@
             "13.909444",
             "-60.978893"
          ],
+         "stanag" : "LCA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Saint_Lucia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/st.html",
          "wref_en" : "Saint_Lucia",
          "wref_ja" : "セントルシア"
       },
@@ -3965,6 +4677,7 @@
          "code3" : "TZA",
          "en_name" : "The United Republic of Tanzania",
          "en_short_name" : "Tanzania",
+         "gec" : "TZ",
          "iso3166_numeric" : "834",
          "ja_name" : "タンザニア連合共和国",
          "ja_short_name" : "タンザニア",
@@ -3973,12 +4686,14 @@
             "-6.369028",
             "34.888822"
          ],
+         "stanag" : "TZA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Tanzania.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tz.html",
          "wref_en" : "Tanzania,_United_Republic_of",
          "wref_ja" : "タンザニア"
       },
@@ -3987,6 +4702,7 @@
          "code3" : "COM",
          "en_name" : "The Union of the Comoros",
          "en_short_name" : "Comoros",
+         "gec" : "CN",
          "iso3166_numeric" : "174",
          "ja_name" : "コモロ連合",
          "ja_short_name" : "コモロ",
@@ -3995,12 +4711,14 @@
             "-11.875001",
             "43.872219"
          ],
+         "stanag" : "COM",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Comoros.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cn.html",
          "wref_en" : "Comoros",
          "wref_ja" : "コモロ"
       },
@@ -4009,6 +4727,7 @@
          "code3" : "GRD",
          "en_name" : "Grenada",
          "en_short_name" : "Grenada",
+         "gec" : "GJ",
          "iso3166_numeric" : "308",
          "ja_name" : "グレナダ",
          "ja_short_name" : "グレナダ",
@@ -4017,12 +4736,14 @@
             "12.262776",
             "-61.604171"
          ],
+         "stanag" : "GRD",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Grenada.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gj.html",
          "wref_en" : "Grenada",
          "wref_ja" : "グレナダ"
       },
@@ -4031,6 +4752,7 @@
          "code3" : "KEN",
          "en_name" : "The Republic of Kenya",
          "en_short_name" : "Kenya",
+         "gec" : "KE",
          "iso3166_numeric" : "404",
          "ja_name" : "ケニア共和国",
          "ja_short_name" : "ケニア",
@@ -4039,12 +4761,14 @@
             "-0.023559",
             "37.906193"
          ],
+         "stanag" : "KEN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Kenya.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ke.html",
          "wref_en" : "Kenya",
          "wref_ja" : "ケニア"
       },
@@ -4053,6 +4777,7 @@
          "code3" : "MAR",
          "en_name" : "The Kingdom of Morocco",
          "en_short_name" : "Morocco",
+         "gec" : "MO",
          "iso3166_numeric" : "504",
          "ja_name" : "モロッコ王国",
          "ja_short_name" : "モロッコ",
@@ -4061,12 +4786,14 @@
             "31.791702",
             "-7.09262"
          ],
+         "stanag" : "MAR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 15,
          "wikipedia_flag_file_name" : "File:Flag_of_Morocco.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mo.html",
          "wref_en" : "Morocco",
          "wref_ja" : "モロッコ"
       },
@@ -4075,6 +4802,7 @@
          "code3" : "BLZ",
          "en_name" : "Belize",
          "en_short_name" : "Belize",
+         "gec" : "BH",
          "iso3166_numeric" : "084",
          "ja_name" : "ベリーズ",
          "ja_short_name" : "ベリーズ",
@@ -4083,12 +4811,14 @@
             "17.189877",
             "-88.49765"
          ],
+         "stanag" : "BLZ",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
          "wikipedia_flag_file_name" : "File:Flag_of_Belize.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bh.html",
          "wref_en" : "Belize",
          "wref_ja" : "ベリーズ"
       },
@@ -4097,6 +4827,7 @@
          "code3" : "JPN",
          "en_name" : "Japan",
          "en_short_name" : "Japan",
+         "gec" : "JA",
          "iso3166_numeric" : "392",
          "ja_name" : "日本国",
          "ja_short_name" : "日本",
@@ -4105,12 +4836,14 @@
             "36.204824",
             "138.252924"
          ],
+         "stanag" : "JPN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 30,
          "wikipedia_flag_file_name" : "File:Flag_of_Japan.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ja.html",
          "wref_en" : "Japan",
          "wref_ja" : "日本"
       },
@@ -4119,6 +4852,7 @@
          "code3" : "CHL",
          "en_name" : "The Republic of Chile",
          "en_short_name" : "Chile",
+         "gec" : "CI",
          "iso3166_numeric" : "152",
          "ja_name" : "チリ共和国",
          "ja_short_name" : "チリ",
@@ -4127,12 +4861,14 @@
             "-35.675147",
             "-71.542969"
          ],
+         "stanag" : "CHL",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Chile.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ci.html",
          "wref_en" : "Chile",
          "wref_ja" : "チリ"
       },
@@ -4141,6 +4877,7 @@
          "code3" : "ISR",
          "en_name" : "The State of Israel",
          "en_short_name" : "Israel",
+         "gec" : "IS",
          "iso3166_numeric" : "376",
          "ja_name" : "イスラエル国",
          "ja_short_name" : "イスラエル",
@@ -4149,12 +4886,14 @@
             "31.046051",
             "34.851612"
          ],
+         "stanag" : "ISR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Israel.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/is.html",
          "wref_en" : "Israel",
          "wref_ja" : "イスラエル"
       },
@@ -4163,6 +4902,7 @@
          "code3" : "MDG",
          "en_name" : "The Republic of Madagascar",
          "en_short_name" : "Madagascar",
+         "gec" : "MA",
          "iso3166_numeric" : "450",
          "ja_name" : "マダガスカル共和国",
          "ja_short_name" : "マダガスカル",
@@ -4171,12 +4911,14 @@
             "-18.766947",
             "46.869107"
          ],
+         "stanag" : "MDG",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Madagascar.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ma.html",
          "wref_en" : "Madagascar",
          "wref_ja" : "マダガスカル"
       },
@@ -4185,6 +4927,7 @@
          "code3" : "KOR",
          "en_name" : "The Republic of Korea",
          "en_short_name" : "Korea (South)",
+         "gec" : "KS",
          "iso3166_numeric" : "410",
          "ja_name" : "大韓民国",
          "ja_short_name" : "韓国",
@@ -4193,12 +4936,14 @@
             "35.907757",
             "127.766922"
          ],
+         "stanag" : "KOR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 30,
          "wikipedia_flag_file_name" : "File:Flag_of_South_Korea.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ks.html",
          "wref_en" : "Korea,_Republic_of",
          "wref_ja" : "大韓民国"
       },
@@ -4207,6 +4952,7 @@
          "code3" : "KHM",
          "en_name" : "The Kingdom of Cambodia",
          "en_short_name" : "Cambodia",
+         "gec" : "CB",
          "iso3166_numeric" : "116",
          "ja_name" : "カンボジア王国",
          "ja_short_name" : "カンボジア",
@@ -4215,12 +4961,14 @@
             "12.565679",
             "104.990963"
          ],
+         "stanag" : "KHM",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_Cambodia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cb.html",
          "wref_en" : "Cambodia",
          "wref_ja" : "カンボジア"
       },
@@ -4229,6 +4977,7 @@
          "code3" : "GEO",
          "en_name" : "Georgia",
          "en_short_name" : "Georgia",
+         "gec" : "GG",
          "iso3166_numeric" : "268",
          "ja_name" : "グルジア",
          "ja_short_name" : "グルジア",
@@ -4237,12 +4986,14 @@
             "42.315407",
             "43.356892"
          ],
+         "stanag" : "GEO",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Georgia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gg.html",
          "wref_en" : "Georgia_(country)",
          "wref_ja" : "グルジア"
       },
@@ -4251,6 +5002,7 @@
          "code3" : "IRL",
          "en_name" : "Ireland",
          "en_short_name" : "Ireland",
+         "gec" : "EI",
          "iso3166_numeric" : "372",
          "ja_name" : "アイルランド",
          "ja_short_name" : "アイルランド",
@@ -4259,12 +5011,14 @@
             "53.41291",
             "-8.24389"
          ],
+         "stanag" : "IRL",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_Ireland.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ei.html",
          "wref_en" : "Republic_of_Ireland",
          "wref_ja" : "アイルランド"
       },
@@ -4273,6 +5027,7 @@
          "code3" : "LKA",
          "en_name" : "The Democratic Socialist Republic of Sri Lanka",
          "en_short_name" : "Sri Lanka",
+         "gec" : "CE",
          "iso3166_numeric" : "144",
          "ja_name" : "スリランカ民主社会主義共和国",
          "ja_short_name" : "スリランカ",
@@ -4281,12 +5036,14 @@
             "7.873054",
             "80.771797"
          ],
+         "stanag" : "LKA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
          "wikipedia_flag_file_name" : "File:Flag_of_Sri_Lanka.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ce.html",
          "wref_en" : "Sri_Lanka",
          "wref_ja" : "スリランカ"
       },
@@ -4295,6 +5052,7 @@
          "code3" : "PER",
          "en_name" : "The Republic of Peru",
          "en_short_name" : "Peru",
+         "gec" : "PE",
          "iso3166_numeric" : "604",
          "ja_name" : "ペルー共和国",
          "ja_short_name" : "ペルー",
@@ -4303,12 +5061,14 @@
             "-9.189967",
             "-75.015152"
          ],
+         "stanag" : "PER",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Peru.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/pe.html",
          "wref_en" : "Peru",
          "wref_ja" : "ペルー"
       },
@@ -4317,6 +5077,7 @@
          "code3" : "TTO",
          "en_name" : "The Republic of Trinidad and Tobago",
          "en_short_name" : "Trinidad and Tobago",
+         "gec" : "TD",
          "iso3166_numeric" : "780",
          "ja_name" : "トリニダード・トバゴ共和国",
          "ja_short_name" : "トリニダード・トバゴ",
@@ -4325,12 +5086,14 @@
             "10.691803",
             "-61.222503"
          ],
+         "stanag" : "TTO",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Trinidad_and_Tobago.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/td.html",
          "wref_en" : "Trinidad_and_Tobago",
          "wref_ja" : "トリニダード・トバゴ"
       },
@@ -4339,6 +5102,7 @@
          "code3" : "VCT",
          "en_name" : "Saint Vincent and the Grenadines",
          "en_short_name" : "St Vincent",
+         "gec" : "VC",
          "iso3166_numeric" : "670",
          "ja_name" : "セントビンセント及びグレナディーン諸島",
          "ja_short_name" : "セントビンセント及びグレナディーン諸島",
@@ -4347,12 +5111,14 @@
             "12.984305",
             "-61.287228"
          ],
+         "stanag" : "VCT",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/vc.html",
          "wref_en" : "Saint_Vincent_and_the_Grenadines",
          "wref_ja" : "セントビンセント・グレナディーン"
       },
@@ -4361,6 +5127,7 @@
          "code3" : "MWI",
          "en_name" : "The Republic of Malawi",
          "en_short_name" : "Malawi",
+         "gec" : "MI",
          "iso3166_numeric" : "454",
          "ja_name" : "マラウイ共和国",
          "ja_short_name" : "マラウイ",
@@ -4369,12 +5136,14 @@
             "-13.254308",
             "34.301525"
          ],
+         "stanag" : "MWI",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Malawi.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mi.html",
          "wref_en" : "Malawi",
          "wref_ja" : "マラウイ"
       },
@@ -4383,6 +5152,7 @@
          "code3" : "COD",
          "en_name" : "The Democratic Republic of the Congo",
          "en_short_name" : "Congo (Democratic Republic)",
+         "gec" : "CG",
          "iso3166_numeric" : "180",
          "ja_name" : "コンゴ民主共和国",
          "ja_short_name" : "コンゴ民主共和国",
@@ -4391,12 +5161,14 @@
             "-4.038333",
             "21.758664"
          ],
+         "stanag" : "COD",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cg.html",
          "wref_en" : "Congo,_the_Democratic_Republic_of_the",
          "wref_ja" : "コンゴ民主共和国"
       },
@@ -4405,6 +5177,7 @@
          "code3" : "TUR",
          "en_name" : "The Republic of Turkey",
          "en_short_name" : "Turkey",
+         "gec" : "TU",
          "iso3166_numeric" : "792",
          "ja_name" : "トルコ共和国",
          "ja_short_name" : "トルコ",
@@ -4413,12 +5186,14 @@
             "38.963745",
             "35.243322"
          ],
+         "stanag" : "TUR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Turkey.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tu.html",
          "wref_en" : "Turkey",
          "wref_ja" : "トルコ"
       },
@@ -4427,6 +5202,7 @@
          "code3" : "SWZ",
          "en_name" : "The Kingdom of Swaziland",
          "en_short_name" : "Swaziland",
+         "gec" : "WZ",
          "iso3166_numeric" : "748",
          "ja_name" : "スワジランド王国",
          "ja_short_name" : "スワジランド",
@@ -4435,12 +5211,14 @@
             "-26.522503",
             "31.465866"
          ],
+         "stanag" : "SWZ",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 18,
          "wikipedia_flag_file_name" : "File:Flag_of_Swaziland.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/wz.html",
          "wref_en" : "Swaziland",
          "wref_ja" : "スワジランド"
       },
@@ -4449,6 +5227,7 @@
          "code3" : "GAB",
          "en_name" : "The Gabonese Republic",
          "en_short_name" : "Gabon",
+         "gec" : "GB",
          "iso3166_numeric" : "266",
          "ja_name" : "ガボン共和国",
          "ja_short_name" : "ガボン",
@@ -4457,12 +5236,14 @@
             "-0.803689",
             "11.609444"
          ],
+         "stanag" : "GAB",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
          "wikipedia_flag_file_name" : "File:Flag_of_Gabon.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gb.html",
          "wref_en" : "Gabon",
          "wref_ja" : "ガボン"
       },
@@ -4471,6 +5252,7 @@
          "code3" : "GUY",
          "en_name" : "The Co-operative Republic of Guyana",
          "en_short_name" : "Guyana",
+         "gec" : "GY",
          "iso3166_numeric" : "328",
          "ja_name" : "ガイアナ共和国",
          "ja_short_name" : "ガイアナ",
@@ -4479,12 +5261,14 @@
             "4.860416",
             "-58.93018"
          ],
+         "stanag" : "GUY",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Guyana.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gy.html",
          "wref_en" : "Guyana",
          "wref_ja" : "ガイアナ"
       },
@@ -4493,6 +5277,7 @@
          "code3" : "LUX",
          "en_name" : "The Grand Duchy of Luxembourg",
          "en_short_name" : "Luxembourg",
+         "gec" : "LU",
          "iso3166_numeric" : "442",
          "ja_name" : "ルクセンブルク大公国",
          "ja_short_name" : "ルクセンブルク",
@@ -4501,12 +5286,14 @@
             "49.815273",
             "6.129583"
          ],
+         "stanag" : "LUX",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
          "wikipedia_flag_file_name" : "File:Flag_of_Luxembourg.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/lu.html",
          "wref_en" : "Luxembourg",
          "wref_ja" : "ルクセンブルク"
       },
@@ -4515,6 +5302,7 @@
          "code3" : "BHR",
          "en_name" : "The Kingdom of Bahrain",
          "en_short_name" : "Bahrain",
+         "gec" : "BA",
          "iso3166_numeric" : "048",
          "ja_name" : "バーレーン王国",
          "ja_short_name" : "バーレーン",
@@ -4523,12 +5311,14 @@
             "25.930414",
             "50.637772"
          ],
+         "stanag" : "BHR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Bahrain.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ba.html",
          "wref_en" : "Bahrain",
          "wref_ja" : "バーレーン"
       },
@@ -4537,6 +5327,7 @@
          "code3" : "MEX",
          "en_name" : "The United Mexican States",
          "en_short_name" : "Mexico",
+         "gec" : "MX",
          "iso3166_numeric" : "484",
          "ja_name" : "メキシコ合衆国",
          "ja_short_name" : "メキシコ",
@@ -4545,12 +5336,14 @@
             "23.634501",
             "-102.552784"
          ],
+         "stanag" : "MEX",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
          "wikipedia_flag_file_name" : "File:Flag_of_Mexico.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mx.html",
          "wref_en" : "Mexico",
          "wref_ja" : "メキシコ"
       },
@@ -4559,6 +5352,7 @@
          "code3" : "CHE",
          "en_name" : "The Swiss Confederation",
          "en_short_name" : "Switzerland",
+         "gec" : "SZ",
          "iso3166_numeric" : "756",
          "ja_name" : "スイス連邦",
          "ja_short_name" : "スイス",
@@ -4567,12 +5361,14 @@
             "46.818188",
             "8.227512"
          ],
+         "stanag" : "CHE",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
          "wikipedia_flag_file_name" : "File:Flag_of_Switzerland.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sz.html",
          "wref_en" : "Switzerland",
          "wref_ja" : "スイス"
       },
@@ -4581,6 +5377,7 @@
          "code3" : "HND",
          "en_name" : "The Republic of Honduras",
          "en_short_name" : "Honduras",
+         "gec" : "HO",
          "iso3166_numeric" : "340",
          "ja_name" : "ホンジュラス共和国",
          "ja_short_name" : "ホンジュラス",
@@ -4589,12 +5386,14 @@
             "15.199999",
             "-86.241905"
          ],
+         "stanag" : "HND",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
          "wikipedia_flag_file_name" : "File:Flag_of_Honduras.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ho.html",
          "wref_en" : "Honduras",
          "wref_ja" : "ホンジュラス"
       },
@@ -4603,6 +5402,7 @@
          "code3" : "HTI",
          "en_name" : "The Republic of Haiti",
          "en_short_name" : "Haiti",
+         "gec" : "HA",
          "iso3166_numeric" : "332",
          "ja_name" : "ハイチ共和国",
          "ja_short_name" : "ハイチ",
@@ -4611,12 +5411,14 @@
             "18.971187",
             "-72.285215"
          ],
+         "stanag" : "HTI",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Haiti.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ha.html",
          "wref_en" : "Haiti",
          "wref_ja" : "ハイチ"
       },
@@ -4625,6 +5427,7 @@
          "code3" : "WSM",
          "en_name" : "The Independent State of Samoa",
          "en_short_name" : "Samoa",
+         "gec" : "WS",
          "iso3166_numeric" : "882",
          "ja_name" : "サモア独立国",
          "ja_short_name" : "サモア",
@@ -4633,12 +5436,14 @@
             "-13.759029",
             "-172.104629"
          ],
+         "stanag" : "WSM",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 61,
          "wikipedia_flag_file_name" : "File:Flag_of_Samoa.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ws.html",
          "wref_en" : "Samoa",
          "wref_ja" : "サモア"
       },
@@ -4647,6 +5452,7 @@
          "code3" : "KWT",
          "en_name" : "The State of Kuwait",
          "en_short_name" : "Kuwait",
+         "gec" : "KU",
          "iso3166_numeric" : "414",
          "ja_name" : "クウェート国",
          "ja_short_name" : "クウェート",
@@ -4655,12 +5461,14 @@
             "29.31166",
             "47.481766"
          ],
+         "stanag" : "KWT",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Kuwait.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ku.html",
          "wref_en" : "Kuwait",
          "wref_ja" : "クウェート"
       },
@@ -4669,6 +5477,7 @@
          "code3" : "SVK",
          "en_name" : "The Slovak Republic",
          "en_short_name" : "Slovakia",
+         "gec" : "LO",
          "iso3166_numeric" : "703",
          "ja_name" : "スロバキア共和国",
          "ja_short_name" : "スロバキア",
@@ -4677,12 +5486,14 @@
             "48.669026",
             "19.699024"
          ],
+         "stanag" : "SVK",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_Slovakia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/lo.html",
          "wref_en" : "Slovakia",
          "wref_ja" : "スロバキア"
       },
@@ -4691,6 +5502,7 @@
          "code3" : "COG",
          "en_name" : "The Republic of the Congo",
          "en_short_name" : "Congo",
+         "gec" : "CF",
          "iso3166_numeric" : "178",
          "ja_name" : "コンゴ共和国",
          "ja_short_name" : "コンゴ共和国",
@@ -4699,12 +5511,14 @@
             "-0.228021",
             "15.827659"
          ],
+         "stanag" : "COG",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Republic_of_the_Congo.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cf.html",
          "wref_en" : "Republic_of_the_Congo",
          "wref_ja" : "コンゴ共和国"
       },
@@ -4713,6 +5527,7 @@
          "code3" : "CZE",
          "en_name" : "The Czech Republic",
          "en_short_name" : "Czech Republic",
+         "gec" : "EZ",
          "iso3166_numeric" : "203",
          "ja_name" : "チェコ共和国",
          "ja_short_name" : "チェコ",
@@ -4721,12 +5536,14 @@
             "49.817492",
             "15.472962"
          ],
+         "stanag" : "CZE",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Czech_Republic.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ez.html",
          "wref_en" : "Czech_Republic",
          "wref_ja" : "チェコ"
       },
@@ -4735,6 +5552,7 @@
          "code3" : "AUT",
          "en_name" : "The Republic of Austria",
          "en_short_name" : "Austria",
+         "gec" : "AU",
          "iso3166_numeric" : "040",
          "ja_name" : "オーストリア共和国",
          "ja_short_name" : "オーストリア",
@@ -4743,12 +5561,14 @@
             "47.516231",
             "14.550072"
          ],
+         "stanag" : "AUT",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
          "wikipedia_flag_file_name" : "File:Flag_of_Austria.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/au.html",
          "wref_en" : "Austria",
          "wref_ja" : "オーストリア"
       },
@@ -4757,6 +5577,7 @@
          "code3" : "ZWE",
          "en_name" : "The Republic of Zimbabwe",
          "en_short_name" : "Zimbabwe",
+         "gec" : "ZI",
          "iso3166_numeric" : "716",
          "ja_name" : "ジンバブエ共和国",
          "ja_short_name" : "ジンバブエ",
@@ -4765,12 +5586,14 @@
             "-19.015438",
             "29.154857"
          ],
+         "stanag" : "ZWE",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Zimbabwe.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/zi.html",
          "wref_en" : "Zimbabwe",
          "wref_ja" : "ジンバブエ"
       },
@@ -4779,6 +5602,7 @@
          "code3" : "ROU",
          "en_name" : "Romania",
          "en_short_name" : "Romania",
+         "gec" : "RO",
          "iso3166_numeric" : "642",
          "ja_name" : "ルーマニア",
          "ja_short_name" : "ルーマニア",
@@ -4787,12 +5611,14 @@
             "45.943161",
             "24.96676"
          ],
+         "stanag" : "ROU",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_Romania.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ro.html",
          "wref_en" : "Romania",
          "wref_ja" : "ルーマニア"
       },
@@ -4801,6 +5627,7 @@
          "code3" : "TJK",
          "en_name" : "The Republic of Tajikistan",
          "en_short_name" : "Tajikistan",
+         "gec" : "TI",
          "iso3166_numeric" : "762",
          "ja_name" : "タジキスタン共和国",
          "ja_short_name" : "タジキスタン",
@@ -4809,12 +5636,14 @@
             "38.861034",
             "71.276093"
          ],
+         "stanag" : "TJK",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 143,
          "wikipedia_flag_file_name" : "File:Flag_of_Tajikistan.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ti.html",
          "wref_en" : "Tajikistan",
          "wref_ja" : "タジキスタン"
       },
@@ -4823,6 +5652,7 @@
          "code3" : "AZE",
          "en_name" : "The Republic of Azerbaijan",
          "en_short_name" : "Azerbaijan",
+         "gec" : "AJ",
          "iso3166_numeric" : "031",
          "ja_name" : "アゼルバイジャン共和国",
          "ja_short_name" : "アゼルバイジャン",
@@ -4831,12 +5661,14 @@
             "40.143105",
             "47.576927"
          ],
+         "stanag" : "AZE",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Azerbaijan.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/aj.html",
          "wref_en" : "Azerbaijan",
          "wref_ja" : "アゼルバイジャン"
       },
@@ -4845,6 +5677,7 @@
          "code3" : "KAZ",
          "en_name" : "The Republic of Kazakhstan",
          "en_short_name" : "Kazakhstan",
+         "gec" : "KZ",
          "iso3166_numeric" : "398",
          "ja_name" : "カザフスタン共和国",
          "ja_short_name" : "カザフスタン",
@@ -4853,12 +5686,14 @@
             "48.019573",
             "66.923684"
          ],
+         "stanag" : "KAZ",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 143,
          "wikipedia_flag_file_name" : "File:Flag_of_Kazakhstan.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/kz.html",
          "wref_en" : "Kazakhstan",
          "wref_ja" : "カザフスタン"
       },
@@ -4867,6 +5702,7 @@
          "code3" : "TCD",
          "en_name" : "The Republic of Chad",
          "en_short_name" : "Chad",
+         "gec" : "CD",
          "iso3166_numeric" : "148",
          "ja_name" : "チャド共和国",
          "ja_short_name" : "チャド",
@@ -4875,12 +5711,14 @@
             "15.454166",
             "18.732207"
          ],
+         "stanag" : "TCD",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
          "wikipedia_flag_file_name" : "File:Flag_of_Chad.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cd.html",
          "wref_en" : "Chad",
          "wref_ja" : "チャド"
       },
@@ -4889,6 +5727,7 @@
          "code3" : "PAN",
          "en_name" : "The Republic of Panama",
          "en_short_name" : "Panama",
+         "gec" : "PM",
          "iso3166_numeric" : "591",
          "ja_name" : "パナマ共和国",
          "ja_short_name" : "パナマ",
@@ -4897,12 +5736,14 @@
             "8.537981",
             "-80.782127"
          ],
+         "stanag" : "PAN",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
          "wikipedia_flag_file_name" : "File:Flag_of_Panama.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/pm.html",
          "wref_en" : "Panama",
          "wref_ja" : "パナマ"
       },
@@ -4911,6 +5752,7 @@
          "code3" : "NIU",
          "en_name" : "Niue",
          "en_short_name" : "Niue",
+         "gec" : "NE",
          "iso3166_numeric" : "570",
          "ja_name" : "ニウェ",
          "ja_short_name" : "ニウェ",
@@ -4919,11 +5761,13 @@
             "-19.01",
             "-169.92"
          ],
+         "stanag" : "NIU",
          "status" : {
             "jp" : "other"
          },
          "submacroregion" : 61,
          "wikipedia_flag_file_name" : "File:Flag_of_Niue.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ne.html",
          "wref_en" : "Niue",
          "wref_ja" : "ニウエ"
       },
@@ -4932,6 +5776,7 @@
          "code3" : "SUR",
          "en_name" : "The Republic of Suriname",
          "en_short_name" : "Suriname",
+         "gec" : "NS",
          "iso3166_numeric" : "740",
          "ja_name" : "スリナム共和国",
          "ja_short_name" : "スリナム",
@@ -4940,12 +5785,14 @@
             "3.919305",
             "-56.027783"
          ],
+         "stanag" : "SUR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Suriname.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ns.html",
          "wref_en" : "Suriname",
          "wref_ja" : "スリナム"
       },
@@ -4954,6 +5801,7 @@
          "code3" : "GHA",
          "en_name" : "The Republic of Ghana",
          "en_short_name" : "Ghana",
+         "gec" : "GH",
          "iso3166_numeric" : "288",
          "ja_name" : "ガーナ共和国",
          "ja_short_name" : "ガーナ",
@@ -4962,12 +5810,14 @@
             "7.946527",
             "-1.023194"
          ],
+         "stanag" : "GHA",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Ghana.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gh.html",
          "wref_en" : "Ghana",
          "wref_ja" : "ガーナ"
       },
@@ -4976,6 +5826,7 @@
          "code3" : "BLR",
          "en_name" : "The Republic of Belarus",
          "en_short_name" : "Belarus",
+         "gec" : "BO",
          "iso3166_numeric" : "112",
          "ja_name" : "ベラルーシ共和国",
          "ja_short_name" : "ベラルーシ",
@@ -4984,12 +5835,14 @@
             "53.709807",
             "27.953389"
          ],
+         "stanag" : "BLR",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_Belarus.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bo.html",
          "wref_en" : "Belarus",
          "wref_ja" : "ベラルーシ"
       },
@@ -4998,6 +5851,7 @@
          "code3" : "GNB",
          "en_name" : "The Republic of Guinea-Bissau",
          "en_short_name" : "Guinea-Bissau",
+         "gec" : "PU",
          "iso3166_numeric" : "624",
          "ja_name" : "ギニアビサウ共和国",
          "ja_short_name" : "ギニアビサウ",
@@ -5006,12 +5860,14 @@
             "11.803749",
             "-15.180413"
          ],
+         "stanag" : "GNB",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Guinea-Bissau.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/pu.html",
          "wref_en" : "Guinea-Bissau",
          "wref_ja" : "ギニアビサウ"
       },
@@ -5020,6 +5876,7 @@
          "code3" : "BRB",
          "en_name" : "Barbados",
          "en_short_name" : "Barbados",
+         "gec" : "BB",
          "iso3166_numeric" : "052",
          "ja_name" : "バルバドス",
          "ja_short_name" : "バルバドス",
@@ -5028,12 +5885,14 @@
             "13.193887",
             "-59.543198"
          ],
+         "stanag" : "BRB",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Barbados.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bb.html",
          "wref_en" : "Barbados",
          "wref_ja" : "バルバドス"
       },
@@ -5042,6 +5901,7 @@
          "code3" : "SOM",
          "en_name" : "Federal Republic of Somalia",
          "en_short_name" : "Somalia",
+         "gec" : "SO",
          "iso3166_numeric" : "706",
          "ja_name" : "ソマリア共和国",
          "ja_short_name" : "ソマリア",
@@ -5050,12 +5910,14 @@
             "5.152149",
             "46.199616"
          ],
+         "stanag" : "SOM",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Somalia.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/so.html",
          "wref_en" : "Somalia",
          "wref_ja" : "ソマリア"
       },
@@ -5064,6 +5926,7 @@
          "code3" : "CRI",
          "en_name" : "The Republic of Costa Rica",
          "en_short_name" : "Costa Rica",
+         "gec" : "CS",
          "iso3166_numeric" : "188",
          "ja_name" : "コスタリカ共和国",
          "ja_short_name" : "コスタリカ",
@@ -5072,12 +5935,14 @@
             "9.748917",
             "-83.753428"
          ],
+         "stanag" : "CRI",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
          "wikipedia_flag_file_name" : "File:Flag_of_Costa_Rica.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cs.html",
          "wref_en" : "Costa_Rica",
          "wref_ja" : "コスタリカ"
       },
@@ -5086,6 +5951,7 @@
          "code3" : "LIE",
          "en_name" : "The Principality of Liechtenstein",
          "en_short_name" : "Liechtenstein",
+         "gec" : "LS",
          "iso3166_numeric" : "438",
          "ja_name" : "リヒテンシュタイン公国",
          "ja_short_name" : "リヒテンシュタイン",
@@ -5094,12 +5960,14 @@
             "47.166",
             "9.555373"
          ],
+         "stanag" : "LIE",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
          "wikipedia_flag_file_name" : "File:Flag_of_Liechtenstein.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ls.html",
          "wref_en" : "Liechtenstein",
          "wref_ja" : "リヒテンシュタイン"
       },
@@ -5108,6 +5976,7 @@
          "code3" : "TLS",
          "en_name" : "The Democratic Republic of Timor-Leste",
          "en_short_name" : "East Timor",
+         "gec" : "TT",
          "iso3166_numeric" : "626",
          "ja_name" : "東ティモール民主共和国",
          "ja_short_name" : "東ティモール",
@@ -5116,12 +5985,14 @@
             "-8.874217",
             "125.727539"
          ],
+         "stanag" : "TLS",
          "status" : {
             "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_East_Timor.svg",
+         "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tt.html",
          "wref_en" : "Timor-Leste",
          "wref_ja" : "東ティモール"
       }

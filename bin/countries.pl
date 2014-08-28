@@ -184,6 +184,34 @@ sub _n ($) {
   }
 }
 
+## CIA World Factbook
+{
+  my $path = $root_path->child ('local/cia-list.json');
+  my $json = json_bytes2perl $path->slurp;
+  for my $data (@$json) {
+    my $code = $data->{'ISO 3166'}->{text_content};
+    my $id = defined $code ? $CodeToID->{$code} : undef;
+    if (not defined $id) {
+      $id = IDs::get_id_by_string 'countries', $code // $data->{Entity}->{text_content};
+    }
+
+    if (defined $data->{Entity}->{url}) {
+      $Data->{areas}->{$id}->{world_factbook_url} = $data->{Entity}->{url};
+    }
+    if (defined $data->{GEC}->{text_content}) {
+      $Data->{areas}->{$id}->{gec} = $data->{GEC}->{text_content};
+    }
+    if (defined $data->{Stanag}->{text_content}) {
+      $Data->{areas}->{$id}->{stanag} = $data->{Stanag}->{text_content};
+    }
+    if (defined $data->{Entity}->{text_content}) {
+      my $name = $data->{Entity}->{text_content};
+      $Data->{areas}->{$id}->{en_name} ||= $name;
+      $Data->{areas}->{$id}->{en_short_name} ||= $name;
+    }
+  }
+}
+
 ## Wikipedia page names
 {
   my $path = $root_path->child ('local/wikipedia-ja-countries.json');
@@ -211,6 +239,11 @@ sub _n ($) {
         if defined $json->{$code}->{wref};
   }
 }
+
+## Historical
+delete $Data->{areas}->{325}; # Netherlands Antilles
+delete $Data->{areas}->{334}; # World
+delete $Data->{areas}->{307}; # FX
 
 IDs::save_id_set 'countries';
 

@@ -30,6 +30,11 @@ areas [object]
       Country name in English, in shorter form (which does not contain
       suffix such as "Republic" where unambiguous), if known.
 
+    gec [string?]
+
+      The GEC (Geopolitical Entities and Codes), formerly known as
+      FIPS 1PUB 10-4, code of the country if any.
+
     iso3166_numeric [string?]
 
       The ISO 3166-1 three-digit country code, if assigned.
@@ -57,6 +62,10 @@ areas [object]
       The geographical location of somewhere in the country (typically
       in the capital of the country), if known.
 
+    stanag [string?]
+
+      The STANAG 1059 letter code of the country, if any.
+
     status [object?]
 
       The status of the country, if known.
@@ -74,20 +83,29 @@ areas [object]
 
     wikipedia_flag_file_name [string?]
 
-      Wikimedia Commons file name for the flag of the country, if any.
+      The Wikimedia Commons file name for the flag of the country, if
+      any.
+
+    world_factbook_url [string?]
+
+      The URL of the page in the World Factbook for the country, if
+      any.
 
     wref_en [wref?]
 
-      English Wikipedia page name for the country, if any.
+      The English Wikipedia page name for the country, if any.
 
     wref_ja [wref?]
 
-      Japanese Wikipedia page name for the country, if any.
+      The Japanese Wikipedia page name for the country, if any.
 
 * Sources
 
 FCO Geographical Names Index
 <https://www.gov.uk/government/publications/geographical-names-and-information>.
+
+The World Factbook
+<https://www.cia.gov/library/publications/the-world-factbook/>.
 
 各国・地域情勢 ｜ 外務省 <http://www.mofa.go.jp/mofaj/area/>.
 
@@ -111,6 +129,10 @@ works of this JSON file.
 This JSON file contains data extracted from FCO Geographical Names
 Index, which is available under the Open Government Licence v2.0
 <https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/>.
+
+The JSON file contains data extracted from The World Factbook, which
+is in the public domain
+<https://www.cia.gov/library/publications/the-world-factbook/docs/contributor_copyright.html>.
 
 This JSON file contains data extracted from 世界の国・地域(2013年9月),
 whose license is CC0.
