@@ -7,6 +7,7 @@ use IDs;
 use JSON::PS;
 
 my $Data = {};
+my $CodeToID = {};
 
 my $root_path = path (__FILE__)->parent->parent;
 
@@ -41,6 +42,7 @@ sub _n ($) {
     }
     $d->{en_short_name} = $data->{'Geographic Location'}
         if not defined $d->{en_short_name};
+    $CodeToID->{$d->{code}} = $id if defined $d->{code};
 
     if ($data->{__source_file} =~ /Country_Names/) {
       $d->{status}->{gb} = 'country';
@@ -58,6 +60,7 @@ sub _n ($) {
   $Data->{areas}->{$gb_id}->{code} = 'GB';
   $Data->{areas}->{$gb_id}->{code3} = 'GBR';
   $Data->{areas}->{$gb_id}->{status}->{gb} = 'country';
+  $CodeToID->{GB} = $gb_id;
 }
 
 ## Names by Japanese government
@@ -111,6 +114,7 @@ sub _n ($) {
       $Data->{areas}->{$id}->{en_name} //= $desc;
       $Data->{areas}->{$id}->{en_short_name} //= $desc;
     }
+    $CodeToID->{$code} = $id;
   }
 }
 
@@ -177,6 +181,34 @@ sub _n ($) {
         warn "Unknown subregion |$data->{subregion}|";
       }
     }
+  }
+}
+
+## Wikipedia page names
+{
+  my $path = $root_path->child ('local/wikipedia-ja-countries.json');
+  my $json = json_bytes2perl $path->slurp;
+  for my $code (keys %$json) {
+    my $id = $CodeToID->{$code} or do {
+      warn "Code |$code| has no ID";
+      next;
+    };
+    $Data->{areas}->{$id}->{wref_ja} = $json->{$code}->{wref}
+        if defined $json->{$code}->{wref};
+    $Data->{areas}->{$id}->{wikipedia_flag_file_name} = $json->{$code}->{flag_file_name}
+        if defined $json->{$code}->{flag_file_name};
+  }
+}
+{
+  my $path = $root_path->child ('local/wikipedia-en-countries.json');
+  my $json = json_bytes2perl $path->slurp;
+  for my $code (keys %$json) {
+    my $id = $CodeToID->{$code} or do {
+      warn "Code |$code| has no ID";
+      next;
+    };
+    $Data->{areas}->{$id}->{wref_en} = $json->{$code}->{wref}
+        if defined $json->{$code}->{wref};
   }
 }
 
