@@ -6,10 +6,16 @@ UNZIP = unzip
 GIT = git
 PERL = ./perl
 
-updatenightly: local/bin/pmbp.pl
+updatenightly: autoupdate-deps dataautoupdate
+
+autoupdate-deps: local/bin/pmbp.pl
 	$(CURL) -s -S -L https://gist.githubusercontent.com/wakaba/34a71d3137a52abb562d/raw/gistfile1.txt | sh
+	$(GIT) add bin/modules
 	perl local/bin/pmbp.pl --update
-	$(GIT) add data intermediate config/perl/pmb-install.txt
+	$(GIT) add config/perl/pmb-install.txt
+
+dataautoupdate: clean deps all
+	$(GIT) add data intermediate
 
 ## ------ Setup ------
 
@@ -50,7 +56,7 @@ clean-data:
 	rm -fr local/geouk/*.html local/countries.json
 	rm -fr local/iana-langtags.json
 	rm -fr local/google-countries.csv
-	rm -fr local/wikipedia-*.html
+	rm -fr local/wikipedia-*.html local/cia-*.html
 
 local/geonlp/geonlp_world_country/geonlp_world_country_20130912_u.csv:
 	mkdir -p local/geonlp
@@ -99,10 +105,16 @@ local/wikipedia-en-countries.json: local/wikipedia-en-countries.html \
     bin/wikipedia-countries.pl
 	$(PERL) bin/wikipedia-countries.pl $< > $@
 
+local/cia-list.html:
+	$(WGET) -O $@ https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
+local/cia-list.json: local/cia-list.html bin/cia-list.pl
+	$(PERL) bin/cia-list.pl $< > $@
+
 data/countries.json: intermediate/geonlp/countries.json \
     local/govuk/names/all.json local/iana-langtags.json \
     local/countries.json local/google-countries.json \
     local/wikipedia-ja-countries.json local/wikipedia-en-countries.json \
+    local/cia-list.json \
     bin/countries.pl
 	$(PERL) bin/countries.pl > $@
 
