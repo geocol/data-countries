@@ -72,7 +72,7 @@ areas [object]
     position [latlon?]
 
       The geographical location of somewhere in the country (typically
-      in the capital of the country), if known.
+      near the geometric center of the country), if known.
 
     stanag [string?]
 
