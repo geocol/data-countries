@@ -17,7 +17,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Antigua_and_Barbuda.svg",
+         "wref_en" : "Antigua_and_Barbuda",
+         "wref_ja" : "アンティグア・バーブーダ"
       },
       "10" : {
          "code" : "QA",
@@ -36,7 +39,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Qatar.svg",
+         "wref_en" : "Qatar",
+         "wref_ja" : "カタール"
       },
       "100" : {
          "code" : "RS",
@@ -55,7 +61,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_Serbia.svg",
+         "wref_en" : "Serbia",
+         "wref_ja" : "セルビア"
       },
       "101" : {
          "code" : "UZ",
@@ -74,7 +83,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 143
+         "submacroregion" : 143,
+         "wikipedia_flag_file_name" : "File:Flag_of_Uzbekistan.svg",
+         "wref_en" : "Uzbekistan",
+         "wref_ja" : "ウズベキスタン"
       },
       "102" : {
          "code" : "NI",
@@ -93,7 +105,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 13
+         "submacroregion" : 13,
+         "wikipedia_flag_file_name" : "File:Flag_of_Nicaragua.svg",
+         "wref_en" : "Nicaragua",
+         "wref_ja" : "ニカラグア"
       },
       "103" : {
          "code" : "CM",
@@ -112,7 +127,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 17
+         "submacroregion" : 17,
+         "wikipedia_flag_file_name" : "File:Flag_of_Cameroon.svg",
+         "wref_en" : "Cameroon",
+         "wref_ja" : "カメルーン"
       },
       "104" : {
          "code" : "ZM",
@@ -131,7 +149,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Zambia.svg",
+         "wref_en" : "Zambia",
+         "wref_ja" : "ザンビア"
       },
       "105" : {
          "code" : "MT",
@@ -150,7 +171,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_Malta.svg",
+         "wref_en" : "Malta",
+         "wref_ja" : "マルタ"
       },
       "106" : {
          "code" : "SY",
@@ -169,7 +193,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Syria.svg",
+         "wref_en" : "Syrian_Arab_Republic",
+         "wref_ja" : "シリア"
       },
       "107" : {
          "code" : "PT",
@@ -188,7 +215,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_Portugal.svg",
+         "wref_en" : "Portugal",
+         "wref_ja" : "ポルトガル"
       },
       "108" : {
          "code" : "TN",
@@ -207,7 +237,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 15
+         "submacroregion" : 15,
+         "wikipedia_flag_file_name" : "File:Flag_of_Tunisia.svg",
+         "wref_en" : "Tunisia",
+         "wref_ja" : "チュニジア"
       },
       "109" : {
          "code" : "LB",
@@ -226,7 +259,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Lebanon.svg",
+         "wref_en" : "Lebanon",
+         "wref_ja" : "レバノン"
       },
       "11" : {
          "code" : "VN",
@@ -245,7 +281,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 35
+         "submacroregion" : 35,
+         "wikipedia_flag_file_name" : "File:Flag_of_Vietnam.svg",
+         "wref_en" : "Viet_Nam",
+         "wref_ja" : "ベトナム"
       },
       "110" : {
          "code" : "PW",
@@ -264,7 +303,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 57
+         "submacroregion" : 57,
+         "wikipedia_flag_file_name" : "File:Flag_of_Palau.svg",
+         "wref_en" : "Palau",
+         "wref_ja" : "パラオ"
       },
       "111" : {
          "code" : "MC",
@@ -283,7 +325,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 155
+         "submacroregion" : 155,
+         "wikipedia_flag_file_name" : "File:Flag_of_Monaco.svg",
+         "wref_en" : "Monaco",
+         "wref_ja" : "モナコ"
       },
       "112" : {
          "code" : "CO",
@@ -302,7 +347,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_Colombia.svg",
+         "wref_en" : "Colombia",
+         "wref_ja" : "コロンビア"
       },
       "113" : {
          "code" : "CN",
@@ -321,7 +369,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 30
+         "submacroregion" : 30,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_People's_Republic_of_China.svg",
+         "wref_en" : "China",
+         "wref_ja" : "中華人民共和国"
       },
       "114" : {
          "code" : "LA",
@@ -340,7 +391,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 35
+         "submacroregion" : 35,
+         "wikipedia_flag_file_name" : "File:Flag_of_Laos.svg",
+         "wref_en" : "Lao_People's_Democratic_Republic",
+         "wref_ja" : "ラオス"
       },
       "115" : {
          "code" : "CY",
@@ -359,7 +413,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 151
+         "submacroregion" : 151,
+         "wikipedia_flag_file_name" : "File:Flag_of_Cyprus.svg",
+         "wref_en" : "Cyprus",
+         "wref_ja" : "キプロス"
       },
       "116" : {
          "code" : "SB",
@@ -378,7 +435,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 54
+         "submacroregion" : 54,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Solomon_Islands.svg",
+         "wref_en" : "Solomon_Islands",
+         "wref_ja" : "ソロモン諸島"
       },
       "117" : {
          "code" : "AU",
@@ -397,7 +457,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 53
+         "submacroregion" : 53,
+         "wikipedia_flag_file_name" : "File:Flag_of_Australia.svg",
+         "wref_en" : "Australia",
+         "wref_ja" : "オーストラリア"
       },
       "118" : {
          "code" : "SC",
@@ -416,7 +479,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Seychelles.svg",
+         "wref_en" : "Seychelles",
+         "wref_ja" : "セーシェル"
       },
       "119" : {
          "code" : "SG",
@@ -435,7 +501,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 35
+         "submacroregion" : 35,
+         "wikipedia_flag_file_name" : "File:Flag_of_Singapore.svg",
+         "wref_en" : "Singapore",
+         "wref_ja" : "シンガポール"
       },
       "12" : {
          "code" : "ME",
@@ -454,7 +523,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_Montenegro.svg",
+         "wref_en" : "Montenegro",
+         "wref_ja" : "モンテネグロ"
       },
       "120" : {
          "code" : "UA",
@@ -473,7 +545,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 151
+         "submacroregion" : 151,
+         "wikipedia_flag_file_name" : "File:Flag_of_Ukraine.svg",
+         "wref_en" : "Ukraine",
+         "wref_ja" : "ウクライナ"
       },
       "121" : {
          "code" : "BO",
@@ -492,7 +567,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_Bolivia.svg",
+         "wref_en" : "Bolivia,_Plurinational_State_of",
+         "wref_ja" : "ボリビア"
       },
       "122" : {
          "code" : "HK",
@@ -510,7 +588,10 @@
          "status" : {
             "jp" : "other"
          },
-         "submacroregion" : 30
+         "submacroregion" : 30,
+         "wikipedia_flag_file_name" : "File:Flag_of_Hong_Kong.svg",
+         "wref_en" : "Hong_Kong",
+         "wref_ja" : "香港"
       },
       "123" : {
          "code" : "NA",
@@ -529,7 +610,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 18
+         "submacroregion" : 18,
+         "wikipedia_flag_file_name" : "File:Flag_of_Namibia.svg",
+         "wref_en" : "Namibia",
+         "wref_ja" : "ナミビア"
       },
       "124" : {
          "code" : "FM",
@@ -548,7 +632,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 57
+         "submacroregion" : 57,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Federated_States_of_Micronesia.svg",
+         "wref_en" : "Micronesia,_Federated_States_of",
+         "wref_ja" : "ミクロネシア連邦"
       },
       "125" : {
          "code" : "HU",
@@ -567,7 +654,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 151
+         "submacroregion" : 151,
+         "wikipedia_flag_file_name" : "File:Flag_of_Hungary.svg",
+         "wref_en" : "Hungary",
+         "wref_ja" : "ハンガリー"
       },
       "126" : {
          "code" : "ID",
@@ -586,7 +676,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 35
+         "submacroregion" : 35,
+         "wikipedia_flag_file_name" : "File:Flag_of_Indonesia.svg",
+         "wref_en" : "Indonesia",
+         "wref_ja" : "インドネシア"
       },
       "127" : {
          "code" : "PS",
@@ -605,7 +698,10 @@
             "gb" : "other",
             "jp" : "other"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Palestine.svg",
+         "wref_en" : "State_of_Palestine",
+         "wref_ja" : "パレスチナ"
       },
       "128" : {
          "code" : "BA",
@@ -624,7 +720,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_Bosnia_and_Herzegovina.svg",
+         "wref_en" : "Bosnia_and_Herzegovina",
+         "wref_ja" : "ボスニア・ヘルツェゴビナ"
       },
       "129" : {
          "code" : "NP",
@@ -643,7 +742,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 34
+         "submacroregion" : 34,
+         "wikipedia_flag_file_name" : "File:Flag_of_Nepal.svg",
+         "wref_en" : "Nepal",
+         "wref_ja" : "ネパール"
       },
       "13" : {
          "code" : "VA",
@@ -662,7 +764,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Vatican_City.svg",
+         "wref_en" : "Vatican_City_State",
+         "wref_ja" : "バチカン"
       },
       "130" : {
          "code" : "MK",
@@ -681,7 +786,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_Macedonia.svg",
+         "wref_en" : "Republic_of_Macedonia",
+         "wref_ja" : "マケドニア共和国"
       },
       "131" : {
          "code" : "SM",
@@ -700,7 +808,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_San_Marino.svg",
+         "wref_en" : "San_Marino",
+         "wref_ja" : "サンマリノ"
       },
       "132" : {
          "code" : "MR",
@@ -719,7 +830,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Mauritania.svg",
+         "wref_en" : "Mauritania",
+         "wref_ja" : "モーリタニア"
       },
       "133" : {
          "code" : "GN",
@@ -738,7 +852,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Guinea.svg",
+         "wref_en" : "Guinea",
+         "wref_ja" : "ギニア"
       },
       "134" : {
          "code" : "CV",
@@ -757,7 +874,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Cape_Verde.svg",
+         "wref_en" : "Cabo_Verde",
+         "wref_ja" : "カーボベルデ"
       },
       "135" : {
          "code" : "SS",
@@ -776,7 +896,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 17
+         "submacroregion" : 17,
+         "wikipedia_flag_file_name" : "File:Flag_of_South_Sudan.svg",
+         "wref_en" : "South_Sudan",
+         "wref_ja" : "南スーダン"
       },
       "136" : {
          "code" : "PY",
@@ -795,7 +918,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_Paraguay.svg",
+         "wref_en" : "Paraguay",
+         "wref_ja" : "パラグアイ"
       },
       "137" : {
          "code" : "HR",
@@ -814,7 +940,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_Croatia.svg",
+         "wref_en" : "Croatia",
+         "wref_ja" : "クロアチア"
       },
       "138" : {
          "code" : "DZ",
@@ -833,7 +962,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 15
+         "submacroregion" : 15,
+         "wikipedia_flag_file_name" : "File:Flag_of_Algeria.svg",
+         "wref_en" : "Algeria",
+         "wref_ja" : "アルジェリア"
       },
       "139" : {
          "code" : "JO",
@@ -852,7 +984,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Jordan.svg",
+         "wref_en" : "Jordan",
+         "wref_ja" : "ヨルダン"
       },
       "14" : {
          "code" : "JM",
@@ -871,7 +1006,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Jamaica.svg",
+         "wref_en" : "Jamaica",
+         "wref_ja" : "ジャマイカ"
       },
       "140" : {
          "en_name" : "The Republic of Kosovo",
@@ -904,7 +1042,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Togo.svg",
+         "wref_en" : "Togo",
+         "wref_ja" : "トーゴ"
       },
       "142" : {
          "code" : "PG",
@@ -923,7 +1064,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 54
+         "submacroregion" : 54,
+         "wikipedia_flag_file_name" : "File:Flag_of_Papua_New_Guinea.svg",
+         "wref_en" : "Papua_New_Guinea",
+         "wref_ja" : "パプアニューギニア"
       },
       "143" : {
          "code" : "AO",
@@ -942,7 +1086,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 17
+         "submacroregion" : 17,
+         "wikipedia_flag_file_name" : "File:Flag_of_Angola.svg",
+         "wref_en" : "Angola",
+         "wref_ja" : "アンゴラ"
       },
       "144" : {
          "code" : "BI",
@@ -961,7 +1108,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Burundi.svg",
+         "wref_en" : "Burundi",
+         "wref_ja" : "ブルンジ"
       },
       "145" : {
          "code" : "LR",
@@ -980,7 +1130,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Liberia.svg",
+         "wref_en" : "Liberia",
+         "wref_ja" : "リベリア"
       },
       "146" : {
          "code" : "RU",
@@ -999,7 +1152,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 151
+         "submacroregion" : 151,
+         "wikipedia_flag_file_name" : "File:Flag_of_Russia.svg",
+         "wref_en" : "Russian_Federation",
+         "wref_ja" : "ロシア"
       },
       "147" : {
          "code" : "DK",
@@ -1018,7 +1174,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_Denmark.svg",
+         "wref_en" : "Denmark",
+         "wref_ja" : "デンマーク"
       },
       "148" : {
          "code" : "BD",
@@ -1037,7 +1196,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 34
+         "submacroregion" : 34,
+         "wikipedia_flag_file_name" : "File:Flag_of_Bangladesh.svg",
+         "wref_en" : "Bangladesh",
+         "wref_ja" : "バングラデシュ"
       },
       "149" : {
          "code" : "IR",
@@ -1056,7 +1218,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 34
+         "submacroregion" : 34,
+         "wikipedia_flag_file_name" : "File:Flag_of_Iran.svg",
+         "wref_en" : "Iran,_Islamic_Republic_of",
+         "wref_ja" : "イラン"
       },
       "15" : {
          "code" : "LV",
@@ -1075,7 +1240,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_Latvia.svg",
+         "wref_en" : "Latvia",
+         "wref_ja" : "ラトビア"
       },
       "150" : {
          "code" : "LS",
@@ -1094,7 +1262,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 18
+         "submacroregion" : 18,
+         "wikipedia_flag_file_name" : "File:Flag_of_Lesotho.svg",
+         "wref_en" : "Lesotho",
+         "wref_ja" : "レソト"
       },
       "151" : {
          "code" : "MZ",
@@ -1113,7 +1284,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Mozambique.svg",
+         "wref_en" : "Mozambique",
+         "wref_ja" : "モザンビーク"
       },
       "152" : {
          "code" : "ZA",
@@ -1132,7 +1306,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 18
+         "submacroregion" : 18,
+         "wikipedia_flag_file_name" : "File:Flag_of_South_Africa.svg",
+         "wref_en" : "South_Africa",
+         "wref_ja" : "南アフリカ共和国"
       },
       "153" : {
          "code" : "MU",
@@ -1151,7 +1328,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Mauritius.svg",
+         "wref_en" : "Mauritius",
+         "wref_ja" : "モーリシャス"
       },
       "154" : {
          "code" : "AD",
@@ -1170,7 +1350,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_Andorra.svg",
+         "wref_en" : "Andorra",
+         "wref_ja" : "アンドラ"
       },
       "155" : {
          "code" : "AR",
@@ -1189,7 +1372,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_Argentina.svg",
+         "wref_en" : "Argentina",
+         "wref_ja" : "アルゼンチン"
       },
       "156" : {
          "code" : "VE",
@@ -1208,7 +1394,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_Venezuela_(state).svg",
+         "wref_en" : "Venezuela,_Bolivarian_Republic_of",
+         "wref_ja" : "ベネズエラ"
       },
       "157" : {
          "code" : "LT",
@@ -1227,7 +1416,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_Lithuania.svg",
+         "wref_en" : "Lithuania",
+         "wref_ja" : "リトアニア"
       },
       "158" : {
          "code" : "MY",
@@ -1246,7 +1438,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 35
+         "submacroregion" : 35,
+         "wikipedia_flag_file_name" : "File:Flag_of_Malaysia.svg",
+         "wref_en" : "Malaysia",
+         "wref_ja" : "マレーシア"
       },
       "159" : {
          "code" : "KI",
@@ -1265,7 +1460,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 57
+         "submacroregion" : 57,
+         "wikipedia_flag_file_name" : "File:Flag_of_Kiribati.svg",
+         "wref_en" : "Kiribati",
+         "wref_ja" : "キリバス"
       },
       "16" : {
          "code" : "SA",
@@ -1284,7 +1482,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Saudi_Arabia.svg",
+         "wref_en" : "Saudi_Arabia",
+         "wref_ja" : "サウジアラビア"
       },
       "160" : {
          "code" : "GB",
@@ -1303,7 +1504,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_United_Kingdom.svg",
+         "wref_en" : "United_Kingdom",
+         "wref_ja" : "イギリス"
       },
       "161" : {
          "code" : "EC",
@@ -1322,7 +1526,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_Ecuador.svg",
+         "wref_en" : "Ecuador",
+         "wref_ja" : "エクアドル"
       },
       "162" : {
          "code" : "NE",
@@ -1341,7 +1548,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Niger.svg",
+         "wref_en" : "Niger",
+         "wref_ja" : "ニジェール"
       },
       "163" : {
          "code" : "YE",
@@ -1360,7 +1570,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Yemen.svg",
+         "wref_en" : "Yemen",
+         "wref_ja" : "イエメン"
       },
       "164" : {
          "code" : "MV",
@@ -1379,7 +1592,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 34
+         "submacroregion" : 34,
+         "wikipedia_flag_file_name" : "File:Flag_of_Maldives.svg",
+         "wref_en" : "Maldives",
+         "wref_ja" : "モルディブ"
       },
       "165" : {
          "code" : "ER",
@@ -1398,7 +1614,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Eritrea.svg",
+         "wref_en" : "Eritrea",
+         "wref_ja" : "エリトリア"
       },
       "166" : {
          "code" : "TW",
@@ -1417,7 +1636,10 @@
             "gb" : "other",
             "jp" : "other"
          },
-         "submacroregion" : 30
+         "submacroregion" : 30,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Republic_of_China.svg",
+         "wref_en" : "Taiwan",
+         "wref_ja" : "台湾"
       },
       "167" : {
          "code" : "IS",
@@ -1436,7 +1658,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_Iceland.svg",
+         "wref_en" : "Iceland",
+         "wref_ja" : "アイスランド"
       },
       "168" : {
          "code" : "BG",
@@ -1455,7 +1680,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 151
+         "submacroregion" : 151,
+         "wikipedia_flag_file_name" : "File:Flag_of_Bulgaria.svg",
+         "wref_en" : "Bulgaria",
+         "wref_ja" : "ブルガリア"
       },
       "169" : {
          "code" : "DO",
@@ -1474,7 +1702,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Dominican_Republic.svg",
+         "wref_en" : "Dominican_Republic",
+         "wref_ja" : "ドミニカ共和国"
       },
       "17" : {
          "code" : "TV",
@@ -1493,7 +1724,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 61
+         "submacroregion" : 61,
+         "wikipedia_flag_file_name" : "File:Flag_of_Tuvalu.svg",
+         "wref_en" : "Tuvalu",
+         "wref_ja" : "ツバル"
       },
       "170" : {
          "code" : "US",
@@ -1512,7 +1746,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 21
+         "submacroregion" : 21,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_United_States.svg",
+         "wref_en" : "United_States",
+         "wref_ja" : "アメリカ合衆国"
       },
       "171" : {
          "code" : "BT",
@@ -1531,7 +1768,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 34
+         "submacroregion" : 34,
+         "wikipedia_flag_file_name" : "File:Flag_of_Bhutan.svg",
+         "wref_en" : "Bhutan",
+         "wref_ja" : "ブータン"
       },
       "172" : {
          "code" : "EE",
@@ -1550,7 +1790,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_Estonia.svg",
+         "wref_en" : "Estonia",
+         "wref_ja" : "エストニア"
       },
       "173" : {
          "code" : "UG",
@@ -1569,7 +1812,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Uganda.svg",
+         "wref_en" : "Uganda",
+         "wref_ja" : "ウガンダ"
       },
       "174" : {
          "code" : "CI",
@@ -1588,7 +1834,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Côte_d'Ivoire.svg",
+         "wref_en" : "Côte_d'Ivoire",
+         "wref_ja" : "コートジボワール"
       },
       "175" : {
          "code" : "MO",
@@ -1606,7 +1855,10 @@
          "status" : {
             "jp" : "other"
          },
-         "submacroregion" : 30
+         "submacroregion" : 30,
+         "wikipedia_flag_file_name" : "File:Flag_of_Macau.svg",
+         "wref_en" : "Macao",
+         "wref_ja" : "マカオ"
       },
       "176" : {
          "code" : "AM",
@@ -1625,7 +1877,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Armenia.svg",
+         "wref_en" : "Armenia",
+         "wref_ja" : "アルメニア"
       },
       "177" : {
          "code" : "PK",
@@ -1644,7 +1899,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 34
+         "submacroregion" : 34,
+         "wikipedia_flag_file_name" : "File:Flag_of_Pakistan.svg",
+         "wref_en" : "Pakistan",
+         "wref_ja" : "パキスタン"
       },
       "178" : {
          "code" : "AL",
@@ -1663,7 +1921,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_Albania.svg",
+         "wref_en" : "Albania",
+         "wref_ja" : "アルバニア"
       },
       "179" : {
          "code" : "FI",
@@ -1682,7 +1943,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_Finland.svg",
+         "wref_en" : "Finland",
+         "wref_ja" : "フィンランド"
       },
       "18" : {
          "code" : "BJ",
@@ -1701,7 +1965,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Benin.svg",
+         "wref_en" : "Benin",
+         "wref_ja" : "ベナン"
       },
       "180" : {
          "code" : "LY",
@@ -1720,7 +1987,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 15
+         "submacroregion" : 15,
+         "wikipedia_flag_file_name" : "File:Flag_of_Libya.svg",
+         "wref_en" : "Libya",
+         "wref_ja" : "リビア"
       },
       "181" : {
          "code" : "DE",
@@ -1739,7 +2009,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 155
+         "submacroregion" : 155,
+         "wikipedia_flag_file_name" : "File:Flag_of_Germany.svg",
+         "wref_en" : "Germany",
+         "wref_ja" : "ドイツ"
       },
       "182" : {
          "code" : "NR",
@@ -1758,7 +2031,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 57
+         "submacroregion" : 57,
+         "wikipedia_flag_file_name" : "File:Flag_of_Nauru.svg",
+         "wref_en" : "Nauru",
+         "wref_ja" : "ナウル"
       },
       "183" : {
          "code" : "KN",
@@ -1777,7 +2053,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Saint_Kitts_and_Nevis.svg",
+         "wref_en" : "Saint_Kitts_and_Nevis",
+         "wref_ja" : "セントクリストファー・ネイビス"
       },
       "184" : {
          "code" : "NZ",
@@ -1796,7 +2075,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 53
+         "submacroregion" : 53,
+         "wikipedia_flag_file_name" : "File:Flag_of_New_Zealand.svg",
+         "wref_en" : "New_Zealand",
+         "wref_ja" : "ニュージーランド"
       },
       "185" : {
          "code" : "BN",
@@ -1815,7 +2097,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 35
+         "submacroregion" : 35,
+         "wikipedia_flag_file_name" : "File:Flag_of_Brunei.svg",
+         "wref_en" : "Brunei_Darussalam",
+         "wref_ja" : "ブルネイ"
       },
       "186" : {
          "code" : "GT",
@@ -1834,7 +2119,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 13
+         "submacroregion" : 13,
+         "wikipedia_flag_file_name" : "File:Flag_of_Guatemala.svg",
+         "wref_en" : "Guatemala",
+         "wref_ja" : "グアテマラ"
       },
       "187" : {
          "code" : "BS",
@@ -1853,7 +2141,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Bahamas.svg",
+         "wref_en" : "Bahamas",
+         "wref_ja" : "バハマ"
       },
       "188" : {
          "code" : "MM",
@@ -1872,7 +2163,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 35
+         "submacroregion" : 35,
+         "wikipedia_flag_file_name" : "File:Flag_of_Myanmar.svg",
+         "wref_en" : "Myanmar",
+         "wref_ja" : "ミャンマー"
       },
       "189" : {
          "code" : "ST",
@@ -1891,7 +2185,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 17
+         "submacroregion" : 17,
+         "wikipedia_flag_file_name" : "File:Flag_of_Sao_Tome_and_Principe.svg",
+         "wref_en" : "Sao_Tome_and_Principe",
+         "wref_ja" : "サントメ・プリンシペ"
       },
       "19" : {
          "code" : "NL",
@@ -1910,7 +2207,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 155
+         "submacroregion" : 155,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Netherlands.svg",
+         "wref_en" : "Netherlands",
+         "wref_ja" : "オランダ"
       },
       "190" : {
          "code" : "MN",
@@ -1929,7 +2229,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 30
+         "submacroregion" : 30,
+         "wikipedia_flag_file_name" : "File:Flag_of_Mongolia.svg",
+         "wref_en" : "Mongolia",
+         "wref_ja" : "モンゴル国"
       },
       "191" : {
          "code" : "TO",
@@ -1948,7 +2251,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 61
+         "submacroregion" : 61,
+         "wikipedia_flag_file_name" : "File:Flag_of_Tonga.svg",
+         "wref_en" : "Tonga",
+         "wref_ja" : "トンガ"
       },
       "192" : {
          "code" : "SE",
@@ -1967,7 +2273,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_Sweden.svg",
+         "wref_en" : "Sweden",
+         "wref_ja" : "スウェーデン"
       },
       "193" : {
          "code" : "GQ",
@@ -1986,7 +2295,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 17
+         "submacroregion" : 17,
+         "wikipedia_flag_file_name" : "File:Flag_of_Equatorial_Guinea.svg",
+         "wref_en" : "Equatorial_Guinea",
+         "wref_ja" : "赤道ギニア"
       },
       "194" : {
          "code" : "SN",
@@ -2005,7 +2317,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Senegal.svg",
+         "wref_en" : "Senegal",
+         "wref_ja" : "セネガル"
       },
       "195" : {
          "code" : "NG",
@@ -2024,7 +2339,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Nigeria.svg",
+         "wref_en" : "Nigeria",
+         "wref_ja" : "ナイジェリア"
       },
       "196" : {
          "code" : "GR",
@@ -2043,7 +2361,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_Greece.svg",
+         "wref_en" : "Greece",
+         "wref_ja" : "ギリシャ"
       },
       "197" : {
          "code" : "OM",
@@ -2062,7 +2383,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Oman.svg",
+         "wref_en" : "Oman",
+         "wref_ja" : "オマーン"
       },
       "198" : {
          "code" : "SL",
@@ -2081,7 +2405,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Sierra_Leone.svg",
+         "wref_en" : "Sierra_Leone",
+         "wref_ja" : "シエラレオネ"
       },
       "199" : {
          "code" : "AE",
@@ -2100,7 +2427,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_United_Arab_Emirates.svg",
+         "wref_en" : "United_Arab_Emirates",
+         "wref_ja" : "アラブ首長国連邦"
       },
       "2" : {
          "code" : "KG",
@@ -2119,7 +2449,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 143
+         "submacroregion" : 143,
+         "wikipedia_flag_file_name" : "File:Flag_of_Kyrgyzstan.svg",
+         "wref_en" : "Kyrgyzstan",
+         "wref_ja" : "キルギス"
       },
       "20" : {
          "code" : "BE",
@@ -2138,7 +2471,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 155
+         "submacroregion" : 155,
+         "wikipedia_flag_file_name" : "File:Flag_of_Belgium.svg",
+         "wref_en" : "Belgium",
+         "wref_ja" : "ベルギー"
       },
       "200" : {
          "code" : "ES",
@@ -2157,7 +2493,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_Spain.svg",
+         "wref_en" : "Spain",
+         "wref_ja" : "スペイン"
       },
       "201" : {
          "code" : "KP",
@@ -2176,7 +2515,10 @@
             "gb" : "country",
             "jp" : "other"
          },
-         "submacroregion" : 30
+         "submacroregion" : 30,
+         "wikipedia_flag_file_name" : "File:Flag_of_North_Korea.svg",
+         "wref_en" : "Korea,_Democratic_People's_Republic_of",
+         "wref_ja" : "朝鮮民主主義人民共和国"
       },
       "205" : {
          "code" : "AI",
@@ -2192,7 +2534,10 @@
          "status" : {
             "gb" : "other"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Anguilla.svg",
+         "wref_en" : "Anguilla",
+         "wref_ja" : "アンギラ"
       },
       "206" : {
          "code" : "BM",
@@ -2208,7 +2553,10 @@
          "status" : {
             "gb" : "other"
          },
-         "submacroregion" : 21
+         "submacroregion" : 21,
+         "wikipedia_flag_file_name" : "File:Flag_of_Bermuda.svg",
+         "wref_en" : "Bermuda",
+         "wref_ja" : "バミューダ諸島"
       },
       "207" : {
          "code" : "IO",
@@ -2224,7 +2572,10 @@
          "status" : {
             "gb" : "other"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_British_Indian_Ocean_Territory.svg",
+         "wref_en" : "British_Indian_Ocean_Territory",
+         "wref_ja" : "イギリス領インド洋地域"
       },
       "208" : {
          "code" : "VG",
@@ -2240,7 +2591,10 @@
          "status" : {
             "gb" : "other"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_British_Virgin_Islands.svg",
+         "wref_en" : "Virgin_Islands,_British",
+         "wref_ja" : "イギリス領ヴァージン諸島"
       },
       "209" : {
          "code" : "KY",
@@ -2256,7 +2610,10 @@
          "status" : {
             "gb" : "other"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Cayman_Islands.svg",
+         "wref_en" : "Cayman_Islands",
+         "wref_ja" : "ケイマン諸島"
       },
       "21" : {
          "code" : "AF",
@@ -2275,7 +2632,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 34
+         "submacroregion" : 34,
+         "wikipedia_flag_file_name" : "File:Flag_of_Afghanistan.svg",
+         "wref_en" : "Afghanistan",
+         "wref_ja" : "アフガニスタン"
       },
       "210" : {
          "code" : "FK",
@@ -2291,7 +2651,10 @@
          "status" : {
             "gb" : "other"
          },
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Falkland_Islands.svg",
+         "wref_en" : "Falkland_Islands_(Malvinas)",
+         "wref_ja" : "フォークランド諸島"
       },
       "211" : {
          "code" : "GI",
@@ -2307,7 +2670,10 @@
          "status" : {
             "gb" : "other"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_Gibraltar.svg",
+         "wref_en" : "Gibraltar",
+         "wref_ja" : "ジブラルタル"
       },
       "212" : {
          "code" : "MS",
@@ -2323,7 +2689,10 @@
          "status" : {
             "gb" : "other"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Montserrat.svg",
+         "wref_en" : "Montserrat",
+         "wref_ja" : "モントセラト"
       },
       "213" : {
          "code" : "PN",
@@ -2339,7 +2708,10 @@
          "status" : {
             "gb" : "other"
          },
-         "submacroregion" : 61
+         "submacroregion" : 61,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Pitcairn_Islands.svg",
+         "wref_en" : "Pitcairn",
+         "wref_ja" : "ピトケアン諸島"
       },
       "214" : {
          "code" : "SH",
@@ -2355,7 +2727,10 @@
          "status" : {
             "gb" : "other"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Saint_Helena.svg",
+         "wref_en" : "Saint_Helena,_Ascension_and_Tristan_da_Cunha",
+         "wref_ja" : "セントヘレナ・アセンションおよびトリスタンダクーニャ"
       },
       "215" : {
          "code" : "GS",
@@ -2371,7 +2746,10 @@
          "status" : {
             "gb" : "other"
          },
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg",
+         "wref_en" : "South_Georgia_and_the_South_Sandwich_Islands",
+         "wref_ja" : "サウスジョージア・サウスサンドウィッチ諸島"
       },
       "216" : {
          "code" : "TC",
@@ -2387,7 +2765,10 @@
          "status" : {
             "gb" : "other"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Turks_and_Caicos_Islands.svg",
+         "wref_en" : "Turks_and_Caicos_Islands",
+         "wref_ja" : "タークス・カイコス諸島"
       },
       "218" : {
          "en_name" : "Akrotiri",
@@ -2420,7 +2801,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Burkina_Faso.svg",
+         "wref_en" : "Burkina_Faso",
+         "wref_ja" : "ブルキナファソ"
       },
       "220" : {
          "en_name" : "Dhekelia",
@@ -2436,7 +2820,10 @@
          "en_short_name" : "Guernsey",
          "iso3166_numeric" : "831",
          "macroregion" : 150,
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_Guernsey.svg",
+         "wref_en" : "Guernsey",
+         "wref_ja" : "ガーンジー"
       },
       "223" : {
          "code" : "SJ",
@@ -2445,7 +2832,10 @@
          "en_short_name" : "Svalbard and Jan Mayen",
          "iso3166_numeric" : "744",
          "macroregion" : 150,
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_Norway.svg",
+         "wref_en" : "Svalbard_and_Jan_Mayen",
+         "wref_ja" : "スヴァールバル諸島およびヤンマイエン島"
       },
       "224" : {
          "code" : "GL",
@@ -2454,14 +2844,20 @@
          "en_short_name" : "Greenland",
          "iso3166_numeric" : "304",
          "macroregion" : 19,
-         "submacroregion" : 21
+         "submacroregion" : 21,
+         "wikipedia_flag_file_name" : "File:Flag_of_Greenland.svg",
+         "wref_en" : "Greenland",
+         "wref_ja" : "グリーンランド"
       },
       "226" : {
          "code" : "BV",
          "code3" : "BVT",
          "en_name" : "Bouvet Island",
          "en_short_name" : "Bouvet Island",
-         "iso3166_numeric" : "074"
+         "iso3166_numeric" : "074",
+         "wikipedia_flag_file_name" : "File:Flag_of_Norway.svg",
+         "wref_en" : "Bouvet_Island",
+         "wref_ja" : "ブーベ島"
       },
       "229" : {
          "code" : "MQ",
@@ -2470,7 +2866,10 @@
          "en_short_name" : "Martinique",
          "iso3166_numeric" : "474",
          "macroregion" : 19,
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Martinique.svg",
+         "wref_en" : "Martinique",
+         "wref_ja" : "マルティニーク"
       },
       "23" : {
          "code" : "CA",
@@ -2489,14 +2888,20 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 21
+         "submacroregion" : 21,
+         "wikipedia_flag_file_name" : "File:Flag_of_Canada.svg",
+         "wref_en" : "Canada",
+         "wref_ja" : "カナダ"
       },
       "232" : {
          "code" : "TF",
          "code3" : "ATF",
          "en_name" : "French Southern Territories",
          "en_short_name" : "French Southern Territories",
-         "iso3166_numeric" : "260"
+         "iso3166_numeric" : "260",
+         "wikipedia_flag_file_name" : "File:Flag_of_the_French_Southern_and_Antarctic_Lands.svg",
+         "wref_en" : "French_Southern_Territories",
+         "wref_ja" : "フランス領南方・南極地域"
       },
       "234" : {
          "code" : "RE",
@@ -2505,7 +2910,10 @@
          "en_short_name" : "Réunion",
          "iso3166_numeric" : "638",
          "macroregion" : 2,
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_France.svg",
+         "wref_en" : "Réunion",
+         "wref_ja" : "レユニオン"
       },
       "237" : {
          "code" : "CP",
@@ -2519,7 +2927,10 @@
          "en_short_name" : "American Samoa",
          "iso3166_numeric" : "016",
          "macroregion" : 9,
-         "submacroregion" : 61
+         "submacroregion" : 61,
+         "wikipedia_flag_file_name" : "File:Flag_of_American_Samoa.svg",
+         "wref_en" : "American_Samoa",
+         "wref_ja" : "アメリカ領サモア"
       },
       "24" : {
          "code" : "GM",
@@ -2538,7 +2949,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_The_Gambia.svg",
+         "wref_en" : "Gambia",
+         "wref_ja" : "ガンビア"
       },
       "240" : {
          "code" : "CX",
@@ -2547,7 +2961,10 @@
          "en_short_name" : "Christmas Island",
          "iso3166_numeric" : "162",
          "macroregion" : 9,
-         "submacroregion" : 53
+         "submacroregion" : 53,
+         "wikipedia_flag_file_name" : "File:Flag_of_Christmas_Island.svg",
+         "wref_en" : "Christmas_Island",
+         "wref_ja" : "クリスマス島_(オーストラリア)"
       },
       "242" : {
          "code" : "VI",
@@ -2556,7 +2973,10 @@
          "en_short_name" : "U.S. Virgin Islands",
          "iso3166_numeric" : "850",
          "macroregion" : 19,
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_United_States_Virgin_Islands.svg",
+         "wref_en" : "Virgin_Islands,_U.S.",
+         "wref_ja" : "アメリカ領ヴァージン諸島"
       },
       "244" : {
          "code" : "GF",
@@ -2565,7 +2985,10 @@
          "en_short_name" : "French Guiana",
          "iso3166_numeric" : "254",
          "macroregion" : 19,
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_French_Guiana.svg",
+         "wref_en" : "French_Guiana",
+         "wref_ja" : "フランス領ギアナ"
       },
       "245" : {
          "code" : "EH",
@@ -2574,7 +2997,10 @@
          "en_short_name" : "Western Sahara",
          "iso3166_numeric" : "732",
          "macroregion" : 2,
-         "submacroregion" : 15
+         "submacroregion" : 15,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
+         "wref_en" : "Western_Sahara",
+         "wref_ja" : "西サハラ"
       },
       "246" : {
          "code" : "CW",
@@ -2583,7 +3009,10 @@
          "en_short_name" : "Curaçao",
          "iso3166_numeric" : "531",
          "macroregion" : 19,
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Curaçao.svg",
+         "wref_en" : "Curaçao",
+         "wref_ja" : "キュラソー島"
       },
       "247" : {
          "code" : "EA",
@@ -2607,7 +3036,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 13
+         "submacroregion" : 13,
+         "wikipedia_flag_file_name" : "File:Flag_of_El_Salvador.svg",
+         "wref_en" : "El_Salvador",
+         "wref_ja" : "エルサルバドル"
       },
       "250" : {
          "code" : "GU",
@@ -2616,7 +3048,10 @@
          "en_short_name" : "Guam",
          "iso3166_numeric" : "316",
          "macroregion" : 9,
-         "submacroregion" : 57
+         "submacroregion" : 57,
+         "wikipedia_flag_file_name" : "File:Flag_of_Guam.svg",
+         "wref_en" : "Guam",
+         "wref_ja" : "グアム"
       },
       "252" : {
          "code" : "AW",
@@ -2625,7 +3060,10 @@
          "en_short_name" : "Aruba",
          "iso3166_numeric" : "533",
          "macroregion" : 19,
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Aruba.svg",
+         "wref_en" : "Aruba",
+         "wref_ja" : "アルバ"
       },
       "253" : {
          "code" : "AC",
@@ -2644,7 +3082,10 @@
          "en_short_name" : "Åland Islands",
          "iso3166_numeric" : "248",
          "macroregion" : 150,
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_Åland.svg",
+         "wref_en" : "Åland_Islands",
+         "wref_ja" : "オーランド諸島"
       },
       "26" : {
          "code" : "BW",
@@ -2663,7 +3104,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 18
+         "submacroregion" : 18,
+         "wikipedia_flag_file_name" : "File:Flag_of_Botswana.svg",
+         "wref_en" : "Botswana",
+         "wref_ja" : "ボツワナ"
       },
       "261" : {
          "code" : "IM",
@@ -2672,7 +3116,10 @@
          "en_short_name" : "Isle of Man",
          "iso3166_numeric" : "833",
          "macroregion" : 150,
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Isle_of_Man.svg",
+         "wref_en" : "Isle_of_Man",
+         "wref_ja" : "マン島"
       },
       "263" : {
          "code" : "SX",
@@ -2681,7 +3128,10 @@
          "en_short_name" : "Sint Maarten (Dutch part)",
          "iso3166_numeric" : "534",
          "macroregion" : 19,
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Sint_Maarten.svg",
+         "wref_en" : "Sint_Maarten_(Dutch_part)",
+         "wref_ja" : "シント・マールテン"
       },
       "264" : {
          "code" : "GP",
@@ -2690,7 +3140,10 @@
          "en_short_name" : "Guadeloupe",
          "iso3166_numeric" : "312",
          "macroregion" : 19,
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Guadeloupe_(local)_variant.svg",
+         "wref_en" : "Guadeloupe",
+         "wref_ja" : "グアドループ"
       },
       "266" : {
          "code" : "BL",
@@ -2699,7 +3152,10 @@
          "en_short_name" : "Saint Barthélemy",
          "iso3166_numeric" : "652",
          "macroregion" : 19,
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Saint_Barthelemy_(local).svg",
+         "wref_en" : "Saint_Barthélemy",
+         "wref_ja" : "サン・バルテルミー島"
       },
       "269" : {
          "code" : "TA",
@@ -2723,7 +3179,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 54
+         "submacroregion" : 54,
+         "wikipedia_flag_file_name" : "File:Flag_of_Vanuatu.svg",
+         "wref_en" : "Vanuatu",
+         "wref_ja" : "バヌアツ"
       },
       "270" : {
          "code" : "NC",
@@ -2732,21 +3191,30 @@
          "en_short_name" : "New Caledonia",
          "iso3166_numeric" : "540",
          "macroregion" : 9,
-         "submacroregion" : 54
+         "submacroregion" : 54,
+         "wikipedia_flag_file_name" : "File:Flag_of_New_Caledonia.svg",
+         "wref_en" : "New_Caledonia",
+         "wref_ja" : "ニューカレドニア"
       },
       "271" : {
          "code" : "AQ",
          "code3" : "ATA",
          "en_name" : "Antarctica",
          "en_short_name" : "Antarctica",
-         "iso3166_numeric" : "010"
+         "iso3166_numeric" : "010",
+         "wikipedia_flag_file_name" : "File:Flag_of_Antarctica.svg",
+         "wref_en" : "Antarctica",
+         "wref_ja" : "南極"
       },
       "272" : {
          "code" : "HM",
          "code3" : "HMD",
          "en_name" : "Heard Island and McDonald Islands",
          "en_short_name" : "Heard Island and McDonald Islands",
-         "iso3166_numeric" : "334"
+         "iso3166_numeric" : "334",
+         "wikipedia_flag_file_name" : "File:Flag_of_Australia.svg",
+         "wref_en" : "Heard_Island_and_McDonald_Islands",
+         "wref_ja" : "ハード島とマクドナルド諸島"
       },
       "277" : {
          "code" : "WF",
@@ -2755,7 +3223,10 @@
          "en_short_name" : "Wallis and Futuna",
          "iso3166_numeric" : "876",
          "macroregion" : 9,
-         "submacroregion" : 61
+         "submacroregion" : 61,
+         "wikipedia_flag_file_name" : "File:Flag_of_Wallis_and_Futuna.svg",
+         "wref_en" : "Wallis_and_Futuna",
+         "wref_ja" : "ウォリス・フツナ"
       },
       "279" : {
          "code" : "PF",
@@ -2764,7 +3235,10 @@
          "en_short_name" : "French Polynesia",
          "iso3166_numeric" : "258",
          "macroregion" : 9,
-         "submacroregion" : 61
+         "submacroregion" : 61,
+         "wikipedia_flag_file_name" : "File:Flag_of_French_Polynesia.svg",
+         "wref_en" : "French_Polynesia",
+         "wref_ja" : "フランス領ポリネシア"
       },
       "28" : {
          "code" : "FJ",
@@ -2783,7 +3257,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 54
+         "submacroregion" : 54,
+         "wikipedia_flag_file_name" : "File:Flag_of_Fiji.svg",
+         "wref_en" : "Fiji",
+         "wref_ja" : "フィジー"
       },
       "280" : {
          "code" : "UM",
@@ -2792,7 +3269,10 @@
          "en_short_name" : "United States Minor Outlying Islands",
          "iso3166_numeric" : "581",
          "macroregion" : 19,
-         "submacroregion" : 21
+         "submacroregion" : 21,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_United_States.svg",
+         "wref_en" : "United_States_Minor_Outlying_Islands",
+         "wref_ja" : "合衆国領有小離島"
       },
       "281" : {
          "code" : "IC",
@@ -2806,7 +3286,10 @@
          "en_short_name" : "Saint Pierre and Miquelon",
          "iso3166_numeric" : "666",
          "macroregion" : 19,
-         "submacroregion" : 21
+         "submacroregion" : 21,
+         "wikipedia_flag_file_name" : "File:Flag_of_Saint-Pierre_and_Miquelon.svg",
+         "wref_en" : "Saint_Pierre_and_Miquelon",
+         "wref_ja" : "サンピエール島・ミクロン島"
       },
       "286" : {
          "code" : "BQ",
@@ -2815,7 +3298,10 @@
          "en_short_name" : "Bonaire, Sint Eustatius and Saba",
          "iso3166_numeric" : "535",
          "macroregion" : 19,
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Netherlands.svg",
+         "wref_en" : "Bonaire,_Sint_Eustatius_and_Saba",
+         "wref_ja" : "BES諸島"
       },
       "288" : {
          "code" : "TK",
@@ -2824,7 +3310,10 @@
          "en_short_name" : "Tokelau",
          "iso3166_numeric" : "772",
          "macroregion" : 9,
-         "submacroregion" : 61
+         "submacroregion" : 61,
+         "wikipedia_flag_file_name" : "File:Flag_of_Tokelau.svg",
+         "wref_en" : "Tokelau",
+         "wref_ja" : "トケラウ"
       },
       "29" : {
          "code" : "BR",
@@ -2843,7 +3332,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_Brazil.svg",
+         "wref_en" : "Brazil",
+         "wref_ja" : "ブラジル"
       },
       "292" : {
          "code" : "MF",
@@ -2852,7 +3344,10 @@
          "en_short_name" : "Saint Martin (French part)",
          "iso3166_numeric" : "663",
          "macroregion" : 19,
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_France.svg",
+         "wref_en" : "Saint_Martin_(French_part)",
+         "wref_ja" : "サン・マルタン_(西インド諸島)"
       },
       "294" : {
          "code" : "PR",
@@ -2861,7 +3356,10 @@
          "en_short_name" : "Puerto Rico",
          "iso3166_numeric" : "630",
          "macroregion" : 19,
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Puerto_Rico.svg",
+         "wref_en" : "Puerto_Rico",
+         "wref_ja" : "プエルトリコ"
       },
       "295" : {
          "code" : "NF",
@@ -2870,7 +3368,10 @@
          "en_short_name" : "Norfolk Island",
          "iso3166_numeric" : "574",
          "macroregion" : 9,
-         "submacroregion" : 53
+         "submacroregion" : 53,
+         "wikipedia_flag_file_name" : "File:Flag_of_Norfolk_Island.svg",
+         "wref_en" : "Norfolk_Island",
+         "wref_ja" : "ノーフォーク島"
       },
       "296" : {
          "code" : "MP",
@@ -2879,7 +3380,10 @@
          "en_short_name" : "Northern Mariana Islands",
          "iso3166_numeric" : "580",
          "macroregion" : 9,
-         "submacroregion" : 57
+         "submacroregion" : 57,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Northern_Mariana_Islands.svg",
+         "wref_en" : "Northern_Mariana_Islands",
+         "wref_ja" : "北マリアナ諸島"
       },
       "3" : {
          "code" : "CU",
@@ -2898,7 +3402,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Cuba.svg",
+         "wref_en" : "Cuba",
+         "wref_ja" : "キューバ"
       },
       "30" : {
          "code" : "RW",
@@ -2917,7 +3424,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Rwanda.svg",
+         "wref_en" : "Rwanda",
+         "wref_ja" : "ルワンダ"
       },
       "300" : {
          "code" : "JE",
@@ -2926,7 +3436,10 @@
          "en_short_name" : "Jersey",
          "iso3166_numeric" : "832",
          "macroregion" : 150,
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_Jersey.svg",
+         "wref_en" : "Jersey",
+         "wref_ja" : "ジャージー"
       },
       "301" : {
          "code" : "FO",
@@ -2935,7 +3448,10 @@
          "en_short_name" : "Faroe Islands",
          "iso3166_numeric" : "234",
          "macroregion" : 150,
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Faroe_Islands.svg",
+         "wref_en" : "Faroe_Islands",
+         "wref_ja" : "フェロー諸島"
       },
       "302" : {
          "code" : "YT",
@@ -2944,7 +3460,10 @@
          "en_short_name" : "Mayotte",
          "iso3166_numeric" : "175",
          "macroregion" : 2,
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_France.svg",
+         "wref_en" : "Mayotte",
+         "wref_ja" : "マヨット"
       },
       "303" : {
          "code" : "CC",
@@ -2953,7 +3472,10 @@
          "en_short_name" : "Cocos (Keeling) Islands",
          "iso3166_numeric" : "166",
          "macroregion" : 9,
-         "submacroregion" : 53
+         "submacroregion" : 53,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Cocos_(Keeling)_Islands.svg",
+         "wref_en" : "Cocos_(Keeling)_Islands",
+         "wref_ja" : "ココス諸島"
       },
       "31" : {
          "code" : "ET",
@@ -2972,7 +3494,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Ethiopia.svg",
+         "wref_en" : "Ethiopia",
+         "wref_ja" : "エチオピア"
       },
       "32" : {
          "code" : "FR",
@@ -2991,7 +3516,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 155
+         "submacroregion" : 155,
+         "wikipedia_flag_file_name" : "File:Flag_of_France.svg",
+         "wref_en" : "France",
+         "wref_ja" : "フランス"
       },
       "33" : {
          "code" : "MD",
@@ -3010,7 +3538,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 151
+         "submacroregion" : 151,
+         "wikipedia_flag_file_name" : "File:Flag_of_Moldova.svg",
+         "wref_en" : "Moldova,_Republic_of",
+         "wref_ja" : "モルドバ"
       },
       "34" : {
          "code" : "MH",
@@ -3029,7 +3560,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 57
+         "submacroregion" : 57,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Marshall_Islands.svg",
+         "wref_en" : "Marshall_Islands",
+         "wref_ja" : "マーシャル諸島"
       },
       "35" : {
          "code" : "NO",
@@ -3048,7 +3582,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_Norway.svg",
+         "wref_en" : "Norway",
+         "wref_ja" : "ノルウェー"
       },
       "36" : {
          "code" : "SI",
@@ -3067,7 +3604,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_Slovenia.svg",
+         "wref_en" : "Slovenia",
+         "wref_ja" : "スロベニア"
       },
       "37" : {
          "code" : "IQ",
@@ -3086,7 +3626,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Iraq.svg",
+         "wref_en" : "Iraq",
+         "wref_ja" : "イラク"
       },
       "38" : {
          "code" : "DJ",
@@ -3105,7 +3648,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Djibouti.svg",
+         "wref_en" : "Djibouti",
+         "wref_ja" : "ジブチ"
       },
       "39" : {
          "code" : "IT",
@@ -3124,7 +3670,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 39
+         "submacroregion" : 39,
+         "wikipedia_flag_file_name" : "File:Flag_of_Italy.svg",
+         "wref_en" : "Italy",
+         "wref_ja" : "イタリア"
       },
       "4" : {
          "code" : "ML",
@@ -3143,7 +3692,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Mali.svg",
+         "wref_en" : "Mali",
+         "wref_ja" : "マリ共和国"
       },
       "40" : {
          "code" : "UY",
@@ -3162,7 +3714,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_Uruguay.svg",
+         "wref_en" : "Uruguay",
+         "wref_ja" : "ウルグアイ"
       },
       "41" : {
          "code" : "SD",
@@ -3181,7 +3736,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 15
+         "submacroregion" : 15,
+         "wikipedia_flag_file_name" : "File:Flag_of_Sudan.svg",
+         "wref_en" : "Sudan",
+         "wref_ja" : "スーダン"
       },
       "42" : {
          "code" : "TH",
@@ -3200,7 +3758,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 35
+         "submacroregion" : 35,
+         "wikipedia_flag_file_name" : "File:Flag_of_Thailand.svg",
+         "wref_en" : "Thailand",
+         "wref_ja" : "タイ王国"
       },
       "43" : {
          "code" : "DM",
@@ -3219,7 +3780,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Dominica.svg",
+         "wref_en" : "Dominica",
+         "wref_ja" : "ドミニカ国"
       },
       "44" : {
          "code" : "IN",
@@ -3238,7 +3802,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 34
+         "submacroregion" : 34,
+         "wikipedia_flag_file_name" : "File:Flag_of_India.svg",
+         "wref_en" : "India",
+         "wref_ja" : "インド"
       },
       "45" : {
          "code" : "CK",
@@ -3256,7 +3823,10 @@
          "status" : {
             "jp" : "country"
          },
-         "submacroregion" : 61
+         "submacroregion" : 61,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Cook_Islands.svg",
+         "wref_en" : "Cook_Islands",
+         "wref_ja" : "クック諸島"
       },
       "46" : {
          "code" : "TM",
@@ -3275,7 +3845,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 143
+         "submacroregion" : 143,
+         "wikipedia_flag_file_name" : "File:Flag_of_Turkmenistan.svg",
+         "wref_en" : "Turkmenistan",
+         "wref_ja" : "トルクメニスタン"
       },
       "47" : {
          "code" : "CF",
@@ -3294,7 +3867,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 17
+         "submacroregion" : 17,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Central_African_Republic.svg",
+         "wref_en" : "Central_African_Republic",
+         "wref_ja" : "中央アフリカ共和国"
       },
       "48" : {
          "code" : "EG",
@@ -3313,7 +3889,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 15
+         "submacroregion" : 15,
+         "wikipedia_flag_file_name" : "File:Flag_of_Egypt.svg",
+         "wref_en" : "Egypt",
+         "wref_ja" : "エジプト"
       },
       "49" : {
          "code" : "PH",
@@ -3332,7 +3911,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 35
+         "submacroregion" : 35,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Philippines.svg",
+         "wref_en" : "Philippines",
+         "wref_ja" : "フィリピン"
       },
       "5" : {
          "code" : "PL",
@@ -3351,7 +3933,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 151
+         "submacroregion" : 151,
+         "wikipedia_flag_file_name" : "File:Flag_of_Poland.svg",
+         "wref_en" : "Poland",
+         "wref_ja" : "ポーランド"
       },
       "50" : {
          "code" : "LC",
@@ -3370,7 +3955,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Saint_Lucia.svg",
+         "wref_en" : "Saint_Lucia",
+         "wref_ja" : "セントルシア"
       },
       "51" : {
          "code" : "TZ",
@@ -3389,7 +3977,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Tanzania.svg",
+         "wref_en" : "Tanzania,_United_Republic_of",
+         "wref_ja" : "タンザニア"
       },
       "52" : {
          "code" : "KM",
@@ -3408,7 +3999,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Comoros.svg",
+         "wref_en" : "Comoros",
+         "wref_ja" : "コモロ"
       },
       "53" : {
          "code" : "GD",
@@ -3427,7 +4021,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Grenada.svg",
+         "wref_en" : "Grenada",
+         "wref_ja" : "グレナダ"
       },
       "54" : {
          "code" : "KE",
@@ -3446,7 +4043,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Kenya.svg",
+         "wref_en" : "Kenya",
+         "wref_ja" : "ケニア"
       },
       "55" : {
          "code" : "MA",
@@ -3465,7 +4065,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 15
+         "submacroregion" : 15,
+         "wikipedia_flag_file_name" : "File:Flag_of_Morocco.svg",
+         "wref_en" : "Morocco",
+         "wref_ja" : "モロッコ"
       },
       "56" : {
          "code" : "BZ",
@@ -3484,7 +4087,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 13
+         "submacroregion" : 13,
+         "wikipedia_flag_file_name" : "File:Flag_of_Belize.svg",
+         "wref_en" : "Belize",
+         "wref_ja" : "ベリーズ"
       },
       "57" : {
          "code" : "JP",
@@ -3503,7 +4109,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 30
+         "submacroregion" : 30,
+         "wikipedia_flag_file_name" : "File:Flag_of_Japan.svg",
+         "wref_en" : "Japan",
+         "wref_ja" : "日本"
       },
       "58" : {
          "code" : "CL",
@@ -3522,7 +4131,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_Chile.svg",
+         "wref_en" : "Chile",
+         "wref_ja" : "チリ"
       },
       "59" : {
          "code" : "IL",
@@ -3541,7 +4153,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Israel.svg",
+         "wref_en" : "Israel",
+         "wref_ja" : "イスラエル"
       },
       "6" : {
          "code" : "MG",
@@ -3560,7 +4175,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Madagascar.svg",
+         "wref_en" : "Madagascar",
+         "wref_ja" : "マダガスカル"
       },
       "60" : {
          "code" : "KR",
@@ -3579,7 +4197,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 30
+         "submacroregion" : 30,
+         "wikipedia_flag_file_name" : "File:Flag_of_South_Korea.svg",
+         "wref_en" : "Korea,_Republic_of",
+         "wref_ja" : "大韓民国"
       },
       "61" : {
          "code" : "KH",
@@ -3598,7 +4219,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 35
+         "submacroregion" : 35,
+         "wikipedia_flag_file_name" : "File:Flag_of_Cambodia.svg",
+         "wref_en" : "Cambodia",
+         "wref_ja" : "カンボジア"
       },
       "62" : {
          "code" : "GE",
@@ -3617,7 +4241,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Georgia.svg",
+         "wref_en" : "Georgia_(country)",
+         "wref_ja" : "グルジア"
       },
       "63" : {
          "code" : "IE",
@@ -3636,7 +4263,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 154
+         "submacroregion" : 154,
+         "wikipedia_flag_file_name" : "File:Flag_of_Ireland.svg",
+         "wref_en" : "Republic_of_Ireland",
+         "wref_ja" : "アイルランド"
       },
       "64" : {
          "code" : "LK",
@@ -3655,7 +4285,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 34
+         "submacroregion" : 34,
+         "wikipedia_flag_file_name" : "File:Flag_of_Sri_Lanka.svg",
+         "wref_en" : "Sri_Lanka",
+         "wref_ja" : "スリランカ"
       },
       "65" : {
          "code" : "PE",
@@ -3674,7 +4307,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_Peru.svg",
+         "wref_en" : "Peru",
+         "wref_ja" : "ペルー"
       },
       "66" : {
          "code" : "TT",
@@ -3693,7 +4329,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Trinidad_and_Tobago.svg",
+         "wref_en" : "Trinidad_and_Tobago",
+         "wref_ja" : "トリニダード・トバゴ"
       },
       "67" : {
          "code" : "VC",
@@ -3712,7 +4351,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+         "wref_en" : "Saint_Vincent_and_the_Grenadines",
+         "wref_ja" : "セントビンセント・グレナディーン"
       },
       "68" : {
          "code" : "MW",
@@ -3731,7 +4373,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Malawi.svg",
+         "wref_en" : "Malawi",
+         "wref_ja" : "マラウイ"
       },
       "69" : {
          "code" : "CD",
@@ -3750,7 +4395,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 17
+         "submacroregion" : 17,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+         "wref_en" : "Congo,_the_Democratic_Republic_of_the",
+         "wref_ja" : "コンゴ民主共和国"
       },
       "7" : {
          "code" : "TR",
@@ -3769,7 +4417,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Turkey.svg",
+         "wref_en" : "Turkey",
+         "wref_ja" : "トルコ"
       },
       "70" : {
          "code" : "SZ",
@@ -3788,7 +4439,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 18
+         "submacroregion" : 18,
+         "wikipedia_flag_file_name" : "File:Flag_of_Swaziland.svg",
+         "wref_en" : "Swaziland",
+         "wref_ja" : "スワジランド"
       },
       "71" : {
          "code" : "GA",
@@ -3807,7 +4461,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 17
+         "submacroregion" : 17,
+         "wikipedia_flag_file_name" : "File:Flag_of_Gabon.svg",
+         "wref_en" : "Gabon",
+         "wref_ja" : "ガボン"
       },
       "72" : {
          "code" : "GY",
@@ -3826,7 +4483,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_Guyana.svg",
+         "wref_en" : "Guyana",
+         "wref_ja" : "ガイアナ"
       },
       "73" : {
          "code" : "LU",
@@ -3845,7 +4505,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 155
+         "submacroregion" : 155,
+         "wikipedia_flag_file_name" : "File:Flag_of_Luxembourg.svg",
+         "wref_en" : "Luxembourg",
+         "wref_ja" : "ルクセンブルク"
       },
       "74" : {
          "code" : "BH",
@@ -3864,7 +4527,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Bahrain.svg",
+         "wref_en" : "Bahrain",
+         "wref_ja" : "バーレーン"
       },
       "75" : {
          "code" : "MX",
@@ -3883,7 +4549,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 13
+         "submacroregion" : 13,
+         "wikipedia_flag_file_name" : "File:Flag_of_Mexico.svg",
+         "wref_en" : "Mexico",
+         "wref_ja" : "メキシコ"
       },
       "76" : {
          "code" : "CH",
@@ -3902,7 +4571,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 155
+         "submacroregion" : 155,
+         "wikipedia_flag_file_name" : "File:Flag_of_Switzerland.svg",
+         "wref_en" : "Switzerland",
+         "wref_ja" : "スイス"
       },
       "77" : {
          "code" : "HN",
@@ -3921,7 +4593,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 13
+         "submacroregion" : 13,
+         "wikipedia_flag_file_name" : "File:Flag_of_Honduras.svg",
+         "wref_en" : "Honduras",
+         "wref_ja" : "ホンジュラス"
       },
       "78" : {
          "code" : "HT",
@@ -3940,7 +4615,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Haiti.svg",
+         "wref_en" : "Haiti",
+         "wref_ja" : "ハイチ"
       },
       "79" : {
          "code" : "WS",
@@ -3959,7 +4637,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 61
+         "submacroregion" : 61,
+         "wikipedia_flag_file_name" : "File:Flag_of_Samoa.svg",
+         "wref_en" : "Samoa",
+         "wref_ja" : "サモア"
       },
       "8" : {
          "code" : "KW",
@@ -3978,7 +4659,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Kuwait.svg",
+         "wref_en" : "Kuwait",
+         "wref_ja" : "クウェート"
       },
       "80" : {
          "code" : "SK",
@@ -3997,7 +4681,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 151
+         "submacroregion" : 151,
+         "wikipedia_flag_file_name" : "File:Flag_of_Slovakia.svg",
+         "wref_en" : "Slovakia",
+         "wref_ja" : "スロバキア"
       },
       "81" : {
          "code" : "CG",
@@ -4016,7 +4703,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 17
+         "submacroregion" : 17,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Republic_of_the_Congo.svg",
+         "wref_en" : "Republic_of_the_Congo",
+         "wref_ja" : "コンゴ共和国"
       },
       "82" : {
          "code" : "CZ",
@@ -4035,7 +4725,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 151
+         "submacroregion" : 151,
+         "wikipedia_flag_file_name" : "File:Flag_of_the_Czech_Republic.svg",
+         "wref_en" : "Czech_Republic",
+         "wref_ja" : "チェコ"
       },
       "83" : {
          "code" : "AT",
@@ -4054,7 +4747,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 155
+         "submacroregion" : 155,
+         "wikipedia_flag_file_name" : "File:Flag_of_Austria.svg",
+         "wref_en" : "Austria",
+         "wref_ja" : "オーストリア"
       },
       "84" : {
          "code" : "ZW",
@@ -4073,7 +4769,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Zimbabwe.svg",
+         "wref_en" : "Zimbabwe",
+         "wref_ja" : "ジンバブエ"
       },
       "85" : {
          "code" : "RO",
@@ -4092,7 +4791,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 151
+         "submacroregion" : 151,
+         "wikipedia_flag_file_name" : "File:Flag_of_Romania.svg",
+         "wref_en" : "Romania",
+         "wref_ja" : "ルーマニア"
       },
       "86" : {
          "code" : "TJ",
@@ -4111,7 +4813,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 143
+         "submacroregion" : 143,
+         "wikipedia_flag_file_name" : "File:Flag_of_Tajikistan.svg",
+         "wref_en" : "Tajikistan",
+         "wref_ja" : "タジキスタン"
       },
       "87" : {
          "code" : "AZ",
@@ -4130,7 +4835,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 145
+         "submacroregion" : 145,
+         "wikipedia_flag_file_name" : "File:Flag_of_Azerbaijan.svg",
+         "wref_en" : "Azerbaijan",
+         "wref_ja" : "アゼルバイジャン"
       },
       "88" : {
          "code" : "KZ",
@@ -4149,7 +4857,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 143
+         "submacroregion" : 143,
+         "wikipedia_flag_file_name" : "File:Flag_of_Kazakhstan.svg",
+         "wref_en" : "Kazakhstan",
+         "wref_ja" : "カザフスタン"
       },
       "89" : {
          "code" : "TD",
@@ -4168,7 +4879,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 17
+         "submacroregion" : 17,
+         "wikipedia_flag_file_name" : "File:Flag_of_Chad.svg",
+         "wref_en" : "Chad",
+         "wref_ja" : "チャド"
       },
       "9" : {
          "code" : "PA",
@@ -4187,7 +4901,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 13
+         "submacroregion" : 13,
+         "wikipedia_flag_file_name" : "File:Flag_of_Panama.svg",
+         "wref_en" : "Panama",
+         "wref_ja" : "パナマ"
       },
       "90" : {
          "code" : "NU",
@@ -4205,7 +4922,10 @@
          "status" : {
             "jp" : "other"
          },
-         "submacroregion" : 61
+         "submacroregion" : 61,
+         "wikipedia_flag_file_name" : "File:Flag_of_Niue.svg",
+         "wref_en" : "Niue",
+         "wref_ja" : "ニウエ"
       },
       "91" : {
          "code" : "SR",
@@ -4224,7 +4944,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 5
+         "submacroregion" : 5,
+         "wikipedia_flag_file_name" : "File:Flag_of_Suriname.svg",
+         "wref_en" : "Suriname",
+         "wref_ja" : "スリナム"
       },
       "92" : {
          "code" : "GH",
@@ -4243,7 +4966,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Ghana.svg",
+         "wref_en" : "Ghana",
+         "wref_ja" : "ガーナ"
       },
       "93" : {
          "code" : "BY",
@@ -4262,7 +4988,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 151
+         "submacroregion" : 151,
+         "wikipedia_flag_file_name" : "File:Flag_of_Belarus.svg",
+         "wref_en" : "Belarus",
+         "wref_ja" : "ベラルーシ"
       },
       "94" : {
          "code" : "GW",
@@ -4281,7 +5010,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 11
+         "submacroregion" : 11,
+         "wikipedia_flag_file_name" : "File:Flag_of_Guinea-Bissau.svg",
+         "wref_en" : "Guinea-Bissau",
+         "wref_ja" : "ギニアビサウ"
       },
       "95" : {
          "code" : "BB",
@@ -4300,7 +5032,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 29
+         "submacroregion" : 29,
+         "wikipedia_flag_file_name" : "File:Flag_of_Barbados.svg",
+         "wref_en" : "Barbados",
+         "wref_ja" : "バルバドス"
       },
       "96" : {
          "code" : "SO",
@@ -4319,7 +5054,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 14
+         "submacroregion" : 14,
+         "wikipedia_flag_file_name" : "File:Flag_of_Somalia.svg",
+         "wref_en" : "Somalia",
+         "wref_ja" : "ソマリア"
       },
       "97" : {
          "code" : "CR",
@@ -4338,7 +5076,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 13
+         "submacroregion" : 13,
+         "wikipedia_flag_file_name" : "File:Flag_of_Costa_Rica.svg",
+         "wref_en" : "Costa_Rica",
+         "wref_ja" : "コスタリカ"
       },
       "98" : {
          "code" : "LI",
@@ -4357,7 +5098,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 155
+         "submacroregion" : 155,
+         "wikipedia_flag_file_name" : "File:Flag_of_Liechtenstein.svg",
+         "wref_en" : "Liechtenstein",
+         "wref_ja" : "リヒテンシュタイン"
       },
       "99" : {
          "code" : "TL",
@@ -4376,7 +5120,10 @@
             "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 35
+         "submacroregion" : 35,
+         "wikipedia_flag_file_name" : "File:Flag_of_East_Timor.svg",
+         "wref_en" : "Timor-Leste",
+         "wref_ja" : "東ティモール"
       }
    }
 }

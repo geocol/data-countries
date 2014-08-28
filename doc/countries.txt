@@ -72,6 +72,18 @@ areas [object]
       known.  This is a subregion of the macroregion shown in the
       |macroregion| field.  See |macroregion.json|.
 
+    wikipedia_flag_file_name [string?]
+
+      Wikimedia Commons file name for the flag of the country, if any.
+
+    wref_en [wref?]
+
+      English Wikipedia page name for the country, if any.
+
+    wref_ja [wref?]
+
+      Japanese Wikipedia page name for the country, if any.
+
 * Sources
 
 FCO Geographical Names Index

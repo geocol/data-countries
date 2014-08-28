@@ -50,6 +50,7 @@ clean-data:
 	rm -fr local/geouk/*.html local/countries.json
 	rm -fr local/iana-langtags.json
 	rm -fr local/google-countries.csv
+	rm -fr local/wikipedia-*.html
 
 local/geonlp/geonlp_world_country/geonlp_world_country_20130912_u.csv:
 	mkdir -p local/geonlp
@@ -87,9 +88,21 @@ local/google-countries.csv:
 local/google-countries.json: local/google-countries.csv bin/csv2json.pl
 	$(PERL) bin/csv2json.pl $< > $@
 
+local/wikipedia-ja-countries.html:
+	$(WGET) -O $@ http://ja.wikipedia.org/wiki/ISO_3166-1
+local/wikipedia-en-countries.html:
+	$(WGET) -O $@ http://en.wikipedia.org/wiki/ISO_3166-1
+local/wikipedia-ja-countries.json: local/wikipedia-ja-countries.html \
+    bin/wikipedia-countries.pl
+	$(PERL) bin/wikipedia-countries.pl $< > $@
+local/wikipedia-en-countries.json: local/wikipedia-en-countries.html \
+    bin/wikipedia-countries.pl
+	$(PERL) bin/wikipedia-countries.pl $< > $@
+
 data/countries.json: intermediate/geonlp/countries.json \
     local/govuk/names/all.json local/iana-langtags.json \
     local/countries.json local/google-countries.json \
+    local/wikipedia-ja-countries.json local/wikipedia-en-countries.json \
     bin/countries.pl
 	$(PERL) bin/countries.pl > $@
 
