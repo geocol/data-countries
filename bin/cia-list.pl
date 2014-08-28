@@ -21,12 +21,6 @@ sub _n ($) {
   return $s;
 } # _n
 
-sub pd ($) {
-  my $s = shift;
-  $s =~ s/%([0-9A-Fa-f]{2})/pack 'C', hex $1/ge;
-  return decode 'utf-8', $s;
-} # pd
-
 my $Data = [];
 
 my $header = $doc->query_selector ('.header_ul');
