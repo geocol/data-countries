@@ -226,6 +226,16 @@ sub _n ($) {
     }
   }
 }
+{
+  my $path = $root_path->child ('local/mofa-area.json');
+  my $json = json_bytes2perl $path->slurp;
+  for my $name (keys %$json) {
+    my $id = IDs::get_id_by_string 'countries', $name;
+    $Data->{areas}->{$id}->{mofa_area_url} = $json->{$name};
+    $Data->{areas}->{$id}->{ja_name} ||= $name;
+    $Data->{areas}->{$id}->{ja_short_name} ||= $name;
+  }
+}
 
 ## Wikipedia page names
 {

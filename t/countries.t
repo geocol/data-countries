@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "1..11"
+echo "1..13"
 basedir=`dirname $0`/..
 jq=$basedir/local/bin/jq
 
@@ -18,3 +18,5 @@ test 8 '.areas["57"].wikipedia_flag_file_name == "File:Flag_of_Japan.svg"'
 test 9 '.areas["140"].gec == "KV"'
 test 10 '.areas["140"].code != "XK"'
 test 11 '.areas["140"].world_factbook_url == "https://www.cia.gov/library/publications/the-world-factbook/geos/kv.html"'
+test 12 '.areas["296"].ja_name == "北マリアナ諸島"'
+test 13 '.areas["296"].mofa_anzen_url == "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=223"'

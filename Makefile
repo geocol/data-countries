@@ -114,12 +114,16 @@ local/mofa-anzen.html:
 	$(WGET) -O $@ http://www.anzen.mofa.go.jp/travel/
 local/mofa-anzen.json: local/mofa-anzen.html bin/mofa-anzen.pl
 	$(PERL) bin/mofa-anzen.pl $< > $@
+local/mofa-area.html:
+	$(WGET) -O $@ http://www.mofa.go.jp/mofaj/area/
+local/mofa-area.json: local/mofa-area.html bin/mofa-area.pl
+	$(PERL) bin/mofa-area.pl $< > $@
 
 data/countries.json: intermediate/geonlp/countries.json \
     local/govuk/names/all.json local/iana-langtags.json \
     local/countries.json local/google-countries.json \
     local/wikipedia-ja-countries.json local/wikipedia-en-countries.json \
-    local/cia-list.json local/mofa-anzen.json \
+    local/cia-list.json local/mofa-anzen.json local/mofa-area.json \
     bin/countries.pl
 	$(PERL) bin/countries.pl > $@
 
