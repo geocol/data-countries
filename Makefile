@@ -1,5 +1,7 @@
 all: deps all-data
 
+clean: clean-data
+
 WGET = wget
 CURL = curl
 UNZIP = unzip
