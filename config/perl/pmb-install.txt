@@ -1,4 +1,4 @@
-Scalar::Util~1.39
+Scalar::Util~1.40
 Capture::Tiny~0.25
 Types::Serialiser~1.0
 File::Spec~3.47
@@ -10,15 +10,17 @@ Unicode::Normalize~1.18
 Algorithm::Diff~1.1902
 MRO::Compat~0.12
 Path::Tiny~0.056
-Exporter::Lite~0.06
+parent~0.228
 Test::Class~0.46
-ExtUtils::MakeMaker~6.98
+Exporter::Lite~0.06
 Data::Dumper~2.151
+ExtUtils::MakeMaker~6.98
 Test::Tester~0.109
 Exporter~5.70
 Carp~1.3301
 Text::Diff~1.41
+Test::More~1.001003
 Test::Differences~0.62
-Path::Class~0.33
+Path::Class~0.34
 common::sense~3.73
 Unicode::Stringprep~1.104
