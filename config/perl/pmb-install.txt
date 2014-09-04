@@ -23,4 +23,4 @@ Test::More~1.001006
 Test::Differences~0.62
 Path::Class~0.34
 common::sense~3.73
-Unicode::Stringprep~1.104
+Unicode::Stringprep~1.105
