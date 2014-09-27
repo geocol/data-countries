@@ -11,7 +11,7 @@ Algorithm::Diff~1.1902
 MRO::Compat~0.12
 Path::Tiny~0.058
 parent~0.228
-Test::Class~0.46
+Test::Class~0.47
 Exporter::Lite~0.06
 Data::Dumper~2.154
 Test::Tester~0.109
