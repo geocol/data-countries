@@ -6,7 +6,7 @@ JSON::XS~3.01
 Test::Simple~1.001009
 Test::NoWarnings~1.04
 Module::Runtime~0.014
-Encode~2.66
+Encode~2.67
 Unicode::Normalize~1.18
 Algorithm::Diff~1.1903
 MRO::Compat~0.12
