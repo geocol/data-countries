@@ -698,7 +698,7 @@
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Bolivia.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bl.html",
-         "wref_en" : "Bolivia,_Plurinational_State_of",
+         "wref_en" : "Bolivia_(Plurinational_State_of)",
          "wref_ja" : "ボリビア"
       },
       "122" : {
@@ -778,7 +778,7 @@
          "submacroregion" : 57,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Federated_States_of_Micronesia.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fm.html",
-         "wref_en" : "Micronesia,_Federated_States_of",
+         "wref_en" : "Micronesia_(Federated_States_of)",
          "wref_ja" : "ミクロネシア連邦"
       },
       "125" : {
@@ -1495,7 +1495,7 @@
          "submacroregion" : 34,
          "wikipedia_flag_file_name" : "File:Flag_of_Iran.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html",
-         "wref_en" : "Iran,_Islamic_Republic_of",
+         "wref_en" : "Iran_(Islamic_Republic_of)",
          "wref_ja" : "イラン"
       },
       "15" : {
@@ -1711,7 +1711,7 @@
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Venezuela_(state).svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ve.html",
-         "wref_en" : "Venezuela,_Bolivarian_Republic_of",
+         "wref_en" : "Venezuela_(Bolivarian_Republic_of)",
          "wref_ja" : "ベネズエラ"
       },
       "157" : {
@@ -1846,7 +1846,7 @@
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_the_United_Kingdom.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/uk.html",
-         "wref_en" : "United_Kingdom",
+         "wref_en" : "United_Kingdom_of_Great_Britain_and_Northern_Ireland",
          "wref_ja" : "イギリス"
       },
       "161" : {
@@ -2143,7 +2143,7 @@
          "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_the_United_States.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/us.html",
-         "wref_en" : "United_States",
+         "wref_en" : "United_States_of_America",
          "wref_ja" : "アメリカ合衆国"
       },
       "171" : {
@@ -3087,7 +3087,7 @@
          "submacroregion" : 30,
          "wikipedia_flag_file_name" : "File:Flag_of_North_Korea.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/kn.html",
-         "wref_en" : "Korea,_Democratic_People's_Republic_of",
+         "wref_en" : "North_Korea",
          "wref_ja" : "朝鮮民主主義人民共和国"
       },
       "205" : {
@@ -3175,7 +3175,7 @@
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_British_Virgin_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/vi.html",
-         "wref_en" : "Virgin_Islands,_British",
+         "wref_en" : "British_Virgin_Islands",
          "wref_ja" : "イギリス領ヴァージン諸島"
       },
       "209" : {
@@ -3638,7 +3638,7 @@
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_United_States_Virgin_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/vq.html",
-         "wref_en" : "Virgin_Islands,_U.S.",
+         "wref_en" : "United_States_Virgin_Islands",
          "wref_ja" : "アメリカ領ヴァージン諸島"
       },
       "244" : {
@@ -4460,7 +4460,7 @@
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_Moldova.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/md.html",
-         "wref_en" : "Moldova,_Republic_of",
+         "wref_en" : "Moldova_(Republic_of)",
          "wref_ja" : "モルドバ"
       },
       "332" : {
@@ -5281,7 +5281,7 @@
          "submacroregion" : 30,
          "wikipedia_flag_file_name" : "File:Flag_of_South_Korea.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ks.html",
-         "wref_en" : "Korea,_Republic_of",
+         "wref_en" : "Korea_(Republic_of)",
          "wref_ja" : "大韓民国"
       },
       "61" : {
@@ -5524,7 +5524,7 @@
          "submacroregion" : 17,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Democratic_Republic_of_the_Congo.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cg.html",
-         "wref_en" : "Congo,_the_Democratic_Republic_of_the",
+         "wref_en" : "Congo_(Democratic_Republic_of_the)",
          "wref_ja" : "コンゴ民主共和国"
       },
       "7" : {
