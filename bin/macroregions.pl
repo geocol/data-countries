@@ -2,6 +2,7 @@ use strict;
 use warnings;
 use Path::Tiny;
 use lib path (__FILE__)->parent->parent->child ('lib')->stringify;
+use lib glob path (__FILE__)->parent->child ('modules/*/lib')->stringify;
 use CountryCodes;
 use IDs;
 use JSON::PS;
