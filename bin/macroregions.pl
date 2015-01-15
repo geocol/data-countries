@@ -7,6 +7,8 @@ use IDs;
 use JSON::PS;
 use Path::Tiny;
 
+$IDs::RootDirPath = path (__FILE__)->parent->parent;
+
 my $Data = {};
 
 my $regions = {
