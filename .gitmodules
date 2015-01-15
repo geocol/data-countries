@@ -22,3 +22,7 @@
 	path = bin/modules/web-url
 	url = git://github.com/manakai/perl-web-url
 	track = master
+[submodule "bin/modules/generation"]
+	path = bin/modules/generation
+	url = git://github.com/geocol/generation
+	track = master
