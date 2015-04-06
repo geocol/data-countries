@@ -3324,8 +3324,6 @@
          "en_name" : "St Helena, Ascension and Tristan da Cunha",
          "en_short_name" : "St Helena, Ascension and Tristan da Cunha",
          "gec" : "SH",
-         "iso3166_numeric" : "654",
-         "macroregion" : 2,
          "position" : [
             "-24.143474",
             "-10.030696"
@@ -3334,7 +3332,6 @@
          "status" : {
             "gb" : "other"
          },
-         "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Saint_Helena.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sh.html",
          "wref_en" : "Saint_Helena,_Ascension_and_Tristan_da_Cunha",
@@ -4028,12 +4025,8 @@
       },
       "286" : {
          "code" : "BQ",
-         "code3" : "BES",
          "en_name" : "Bonaire, Sint Eustatius and Saba",
          "en_short_name" : "Bonaire, Sint Eustatius and Saba",
-         "iso3166_numeric" : "535",
-         "macroregion" : 19,
-         "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Netherlands.svg",
          "wref_en" : "Bonaire,_Sint_Eustatius_and_Saba",
          "wref_ja" : "BES諸島"
