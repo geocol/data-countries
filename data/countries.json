@@ -4767,9 +4767,6 @@
          "ja_short_name" : "ハワイ",
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=226"
       },
-      "432" : {
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/georgia/index.html"
-      },
       "44" : {
          "code" : "IN",
          "code3" : "IND",
@@ -5318,6 +5315,7 @@
          "ja_short_name" : "グルジア",
          "macroregion" : 142,
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=200",
+         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/georgia/index.html",
          "position" : [
             "42.315407",
             "43.356892"
