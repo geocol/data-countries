@@ -1,5 +1,7 @@
 all: deps all-data
 
+data: all-data
+
 clean: clean-data
 
 WGET = wget
