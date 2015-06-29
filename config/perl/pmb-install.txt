@@ -15,7 +15,7 @@ Test::More~1.001014
 Test::Differences~0.63
 CPAN::Meta::Requirements~2.133
 Path::Class~0.35
-common::sense~3.73
+common::sense~3.74
 Unicode::Stringprep~1.105
 Module::Metadata~1.000027
 Scalar::Util~1.42
@@ -28,7 +28,7 @@ Perl::OSType~1.008
 MRO::Compat~0.12
 Algorithm::Diff~1.1903
 ExtUtils::CBuilder~0.280223
-Path::Tiny~0.068
+Path::Tiny~0.070
 Parse::CPAN::Meta~1.4417
 version~0.9912
 Test::Tester~0.114
