@@ -13,8 +13,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=286",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/antigua/index.html",
          "position" : [
-            "17.12",
-            "-61.85"
+            "17.060816",
+            "-61.796428"
          ],
          "stanag" : "ATG",
          "status" : {
@@ -40,8 +40,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=048",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/quatar/index.html",
          "position" : [
-            "25.28",
-            "51.52"
+            "25.354826",
+            "51.183884"
          ],
          "stanag" : "QAT",
          "status" : {
@@ -67,8 +67,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=175",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/serbia/index.html",
          "position" : [
-            "44.8",
-            "20.48"
+            "44.016521",
+            "21.005859"
          ],
          "status" : {
             "gb" : "country",
@@ -93,8 +93,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=183",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uzbekistan/index.html",
          "position" : [
-            "41.31",
-            "69.27"
+            "41.377491",
+            "64.585262"
          ],
          "stanag" : "UZB",
          "status" : {
@@ -120,8 +120,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=254",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nicaragua/index.html",
          "position" : [
-            "12.15",
-            "-86.27"
+            "12.865416",
+            "-85.207229"
          ],
          "stanag" : "NIC",
          "status" : {
@@ -147,8 +147,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=098",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cameroon/index.html",
          "position" : [
-            "3.87",
-            "11.52"
+            "7.369722",
+            "12.354722"
          ],
          "stanag" : "CMR",
          "status" : {
@@ -174,8 +174,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=104",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/zambia/index.html",
          "position" : [
-            "-15.41",
-            "28.29"
+            "-13.133897",
+            "27.849332"
          ],
          "stanag" : "ZMB",
          "status" : {
@@ -201,8 +201,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=195",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/malta/index.html",
          "position" : [
-            "35.9",
-            "14.52"
+            "35.937496",
+            "14.375416"
          ],
          "stanag" : "MLT",
          "status" : {
@@ -228,8 +228,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=051",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/syria/index.html",
          "position" : [
-            "33.52",
-            "36.31"
+            "34.802075",
+            "38.996815"
          ],
          "stanag" : "SYR",
          "status" : {
@@ -255,8 +255,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=174",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/portugal/index.html",
          "position" : [
-            "38.71",
-            "-9.14"
+            "39.399872",
+            "-8.224454"
          ],
          "stanag" : "PRT",
          "status" : {
@@ -282,8 +282,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=113",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tunisia/index.html",
          "position" : [
-            "36.82",
-            "10.17"
+            "33.886917",
+            "9.537499"
          ],
          "stanag" : "TUN",
          "status" : {
@@ -309,8 +309,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=055",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/lebanon/index.html",
          "position" : [
-            "33.89",
-            "35.51"
+            "33.854721",
+            "35.862285"
          ],
          "stanag" : "LBN",
          "status" : {
@@ -336,8 +336,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=015",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/vietnam/index.html",
          "position" : [
-            "21.02",
-            "105.85"
+            "14.058324",
+            "108.277199"
          ],
          "stanag" : "VNM",
          "status" : {
@@ -363,8 +363,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=272",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/palau/index.html",
          "position" : [
-            "7.34",
-            "134.48"
+            "7.51498",
+            "134.58252"
          ],
          "stanag" : "PLW",
          "status" : {
@@ -390,8 +390,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=284",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/monaco/index.html",
          "position" : [
-            "43.75",
-            "7.42"
+            "43.750298",
+            "7.412841"
          ],
          "stanag" : "MCO",
          "status" : {
@@ -417,8 +417,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=248",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/colombia/index.html",
          "position" : [
-            "4.61",
-            "-74.08"
+            "4.570868",
+            "-74.297333"
          ],
          "stanag" : "COL",
          "status" : {
@@ -444,8 +444,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=009",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/china/index.html",
          "position" : [
-            "39.91",
-            "116.4"
+            "35.86166",
+            "104.195397"
          ],
          "stanag" : "CHN",
          "status" : {
@@ -471,8 +471,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=020",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/laos/index.html",
          "position" : [
-            "17.96",
-            "102.61"
+            "19.85627",
+            "102.495496"
          ],
          "stanag" : "LAO",
          "status" : {
@@ -498,8 +498,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=193",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cyprus/index.html",
          "position" : [
-            "35.17",
-            "33.37"
+            "35.126413",
+            "33.429859"
          ],
          "stanag" : "CYP",
          "status" : {
@@ -525,8 +525,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=072",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/solomon/index.html",
          "position" : [
-            "-9.43",
-            "159.95"
+            "-9.64571",
+            "160.156194"
          ],
          "stanag" : "SLB",
          "status" : {
@@ -552,8 +552,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=071",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/australia/index.html",
          "position" : [
-            "-35.33",
-            "149.08"
+            "-25.274398",
+            "133.775136"
          ],
          "stanag" : "AUS",
          "status" : {
@@ -579,8 +579,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=108",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/seychelles/index.html",
          "position" : [
-            "-4.61",
-            "55.44"
+            "-4.679574",
+            "55.491977"
          ],
          "stanag" : "SYC",
          "status" : {
@@ -606,8 +606,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=005",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/singapore/index.html",
          "position" : [
-            "1.29",
-            "103.85"
+            "1.352083",
+            "103.819836"
          ],
          "stanag" : "SGP",
          "status" : {
@@ -633,8 +633,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=179",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/montenegro/index.html",
          "position" : [
-            "42.44",
-            "19.27"
+            "42.708678",
+            "19.37439"
          ],
          "stanag" : "MNE",
          "status" : {
@@ -660,8 +660,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=182",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ukraine/index.html",
          "position" : [
-            "50.45",
-            "30.5"
+            "48.379433",
+            "31.16558"
          ],
          "stanag" : "UKR",
          "status" : {
@@ -687,8 +687,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=262",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bolivia/index.html",
          "position" : [
-            "-16.5",
-            "-68.15"
+            "-16.290154",
+            "-63.588653"
          ],
          "stanag" : "BOL",
          "status" : {
@@ -740,8 +740,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=143",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/namibia/index.html",
          "position" : [
-            "-22.57",
-            "17.07"
+            "-22.95764",
+            "18.49041"
          ],
          "stanag" : "NAM",
          "status" : {
@@ -767,8 +767,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=270",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/micronesia/index.html",
          "position" : [
-            "6.92",
-            "158.19"
+            "7.425554",
+            "150.550812"
          ],
          "stanag" : "FSM",
          "status" : {
@@ -794,8 +794,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=168",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/hungary/index.html",
          "position" : [
-            "47.5",
-            "19.04"
+            "47.162494",
+            "19.503304"
          ],
          "stanag" : "HUN",
          "status" : {
@@ -821,8 +821,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=002",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/indonesia/index.html",
          "position" : [
-            "-6.21",
-            "106.85"
+            "-0.789275",
+            "113.921327"
          ],
          "stanag" : "IDN",
          "status" : {
@@ -847,8 +847,8 @@
          "macroregion" : 142,
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/plo/index.html",
          "position" : [
-            "31.93",
-            "34.87"
+            "31.952162",
+            "35.233154"
          ],
          "stanag" : "PSE",
          "status" : {
@@ -874,8 +874,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=191",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bosnia_h/index.html",
          "position" : [
-            "43.86",
-            "18.41"
+            "43.915886",
+            "17.679076"
          ],
          "stanag" : "BIH",
          "status" : {
@@ -901,8 +901,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=010",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nepal/index.html",
          "position" : [
-            "27.7",
-            "85.32"
+            "28.394857",
+            "84.124008"
          ],
          "stanag" : "NPL",
          "status" : {
@@ -928,8 +928,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=167",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/vatican/index.html",
          "position" : [
-            "41.9",
-            "12.45"
+            "41.902916",
+            "12.453389"
          ],
          "stanag" : "VAT",
          "status" : {
@@ -955,8 +955,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=205",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/macedonia/index.html",
          "position" : [
-            "42",
-            "21.45"
+            "41.608635",
+            "21.745275"
          ],
          "stanag" : "FYR",
          "status" : {
@@ -982,8 +982,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=285",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/sanmarino_r/index.html",
          "position" : [
-            "43.96",
-            "12.46"
+            "43.94236",
+            "12.457777"
          ],
          "stanag" : "SMR",
          "status" : {
@@ -1009,8 +1009,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=278",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mauritania/index.html",
          "position" : [
-            "18.08",
-            "-15.98"
+            "21.00789",
+            "-10.940835"
          ],
          "stanag" : "MRT",
          "status" : {
@@ -1036,8 +1036,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=099",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guinea/index.html",
          "position" : [
-            "9.54",
-            "-13.68"
+            "9.945587",
+            "-9.696645"
          ],
          "stanag" : "GIN",
          "status" : {
@@ -1063,8 +1063,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=275",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/capeverde/index.html",
          "position" : [
-            "14.92",
-            "-23.52"
+            "16.002082",
+            "-24.013197"
          ],
          "stanag" : "CPV",
          "status" : {
@@ -1116,8 +1116,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=258",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/paraguay/index.html",
          "position" : [
-            "-25.3",
-            "-57.64"
+            "-23.442503",
+            "-58.443832"
          ],
          "stanag" : "PRY",
          "status" : {
@@ -1143,8 +1143,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=188",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/croatia/index.html",
          "position" : [
-            "45.81",
-            "15.96"
+            "45.1",
+            "15.2"
          ],
          "stanag" : "HRV",
          "status" : {
@@ -1170,8 +1170,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=091",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/algeria/index.html",
          "position" : [
-            "36.75",
-            "3.04"
+            "28.033886",
+            "1.659626"
          ],
          "stanag" : "DZA",
          "status" : {
@@ -1197,8 +1197,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=054",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/jordan/index.html",
          "position" : [
-            "31.95",
-            "35.93"
+            "30.585164",
+            "36.238414"
          ],
          "stanag" : "JOR",
          "status" : {
@@ -1224,8 +1224,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=249",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/jamaica/index.html",
          "position" : [
-            "17.98",
-            "-76.8"
+            "18.109581",
+            "-77.297508"
          ],
          "stanag" : "JAM",
          "status" : {
@@ -1268,8 +1268,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=114",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/togo/index.html",
          "position" : [
-            "6.12",
-            "1.23"
+            "8.619543",
+            "0.824782"
          ],
          "stanag" : "TGO",
          "status" : {
@@ -1295,8 +1295,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=075",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/png/index.html",
          "position" : [
-            "-9.48",
-            "147.19"
+            "-6.314993",
+            "143.95555"
          ],
          "stanag" : "PNG",
          "status" : {
@@ -1322,8 +1322,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=092",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/angola/index.html",
          "position" : [
-            "-8.81",
-            "13.24"
+            "-11.202692",
+            "17.873887"
          ],
          "stanag" : "AGO",
          "status" : {
@@ -1349,8 +1349,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=127",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/brundi/index.html",
          "position" : [
-            "-3.38",
-            "29.36"
+            "-3.373056",
+            "29.918886"
          ],
          "stanag" : "BDI",
          "status" : {
@@ -1376,8 +1376,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=126",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/liberia/index.html",
          "position" : [
-            "6.3",
-            "-10.8"
+            "6.428055",
+            "-9.429499"
          ],
          "stanag" : "LBR",
          "status" : {
@@ -1403,8 +1403,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=178",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/russia/index.html",
          "position" : [
-            "55.76",
-            "37.62"
+            "61.52401",
+            "105.318756"
          ],
          "stanag" : "RUS",
          "status" : {
@@ -1430,8 +1430,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=164",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/denmark/index.html",
          "position" : [
-            "55.68",
-            "12.57"
+            "56.26392",
+            "9.501785"
          ],
          "stanag" : "DNK",
          "status" : {
@@ -1457,8 +1457,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=012",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bangladesh/index.html",
          "position" : [
-            "23.71",
-            "90.41"
+            "23.684994",
+            "90.356331"
          ],
          "stanag" : "BGD",
          "status" : {
@@ -1484,8 +1484,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=046",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/iran/index.html",
          "position" : [
-            "35.7",
-            "51.42"
+            "32.427908",
+            "53.688046"
          ],
          "stanag" : "IRN",
          "status" : {
@@ -1511,8 +1511,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=186",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/latvia/index.html",
          "position" : [
-            "56.95",
-            "24.09"
+            "56.879635",
+            "24.603189"
          ],
          "stanag" : "LVA",
          "status" : {
@@ -1538,8 +1538,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=130",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/lesotho/index.html",
          "position" : [
-            "-29.31",
-            "27.49"
+            "-29.609988",
+            "28.233608"
          ],
          "stanag" : "LSO",
          "status" : {
@@ -1565,8 +1565,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=123",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mozambique/index.html",
          "position" : [
-            "-25.97",
-            "32.57"
+            "-18.665695",
+            "35.529562"
          ],
          "stanag" : "MOZ",
          "status" : {
@@ -1592,8 +1592,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=122",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/s_africa/index.html",
          "position" : [
-            "-25.73",
-            "28.22"
+            "-30.559482",
+            "22.937506"
          ],
          "stanag" : "ZAF",
          "status" : {
@@ -1619,8 +1619,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=279",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mauritius/index.html",
          "position" : [
-            "-20.17",
-            "57.5"
+            "-20.348404",
+            "57.552152"
          ],
          "stanag" : "MUS",
          "status" : {
@@ -1646,8 +1646,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=297",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/andorra/index.html",
          "position" : [
-            "42.5",
-            "1.52"
+            "42.546245",
+            "1.601554"
          ],
          "stanag" : "AND",
          "status" : {
@@ -1673,8 +1673,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=241",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/argentine/index.html",
          "position" : [
-            "-34.61",
-            "-58.42"
+            "-38.416097",
+            "-63.616672"
          ],
          "stanag" : "ARG",
          "status" : {
@@ -1700,8 +1700,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=260",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/venezuela/index.html",
          "position" : [
-            "10.49",
-            "-66.9"
+            "6.42375",
+            "-66.58973"
          ],
          "stanag" : "VEN",
          "status" : {
@@ -1727,8 +1727,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=192",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/lithuania/index.html",
          "position" : [
-            "54.68",
-            "25.28"
+            "55.169438",
+            "23.881275"
          ],
          "stanag" : "LTU",
          "status" : {
@@ -1754,8 +1754,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=017",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/malaysia/index.html",
          "position" : [
-            "3.15",
-            "101.71"
+            "4.210484",
+            "101.975766"
          ],
          "stanag" : "MYS",
          "status" : {
@@ -1781,8 +1781,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=268",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kiribati/index.html",
          "position" : [
-            "1.47",
-            "173.03"
+            "-3.370417",
+            "-168.734039"
          ],
          "stanag" : "KIR",
          "status" : {
@@ -1808,8 +1808,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=050",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/saudi/index.html",
          "position" : [
-            "24.64",
-            "46.72"
+            "23.885942",
+            "45.079162"
          ],
          "stanag" : "SAU",
          "status" : {
@@ -1835,8 +1835,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=154",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uk/index.html",
          "position" : [
-            "51.5",
-            "-0.13"
+            "55.378051",
+            "-3.435973"
          ],
          "stanag" : "GBR",
          "status" : {
@@ -1862,8 +1862,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=243",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ecuador/index.html",
          "position" : [
-            "-0.15",
-            "-78.35"
+            "-1.831239",
+            "-78.183406"
          ],
          "stanag" : "ECU",
          "status" : {
@@ -1889,8 +1889,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=116",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/niger/index.html",
          "position" : [
-            "13.52",
-            "2.12"
+            "17.607789",
+            "8.081666"
          ],
          "stanag" : "NER",
          "status" : {
@@ -1916,8 +1916,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=043",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/yemen/index.html",
          "position" : [
-            "15.8",
-            "47.9"
+            "15.552727",
+            "48.516388"
          ],
          "stanag" : "YEM",
          "status" : {
@@ -1943,8 +1943,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=024",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/maldives/index.html",
          "position" : [
-            "4.17",
-            "73.51"
+            "3.202778",
+            "73.22068"
          ],
          "stanag" : "MDV",
          "status" : {
@@ -1970,8 +1970,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=139",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/eritrea/index.html",
          "position" : [
-            "15.33",
-            "38.93"
+            "15.179384",
+            "39.782334"
          ],
          "stanag" : "ERI",
          "status" : {
@@ -1997,8 +1997,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=008",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/taiwan/index.html",
          "position" : [
-            "25.04",
-            "121.50"
+            "23.69781",
+            "120.960515"
          ],
          "stanag" : "TWN",
          "status" : {
@@ -2024,8 +2024,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=282",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/iceland/index.html",
          "position" : [
-            "64.14",
-            "-21.9"
+            "64.963051",
+            "-19.020835"
          ],
          "stanag" : "ISL",
          "status" : {
@@ -2051,8 +2051,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=171",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bulgaria/index.html",
          "position" : [
-            "42.71",
-            "23.32"
+            "42.733883",
+            "25.48583"
          ],
          "stanag" : "BGR",
          "status" : {
@@ -2078,8 +2078,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=252",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/dominican_r/index.html",
          "position" : [
-            "18.48",
-            "-69.92"
+            "18.735693",
+            "-70.162651"
          ],
          "stanag" : "DOM",
          "status" : {
@@ -2105,8 +2105,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=274",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tuvalu/index.html",
          "position" : [
-            "-8.51",
-            "179.18"
+            "-7.109535",
+            "177.64933"
          ],
          "stanag" : "TUV",
          "status" : {
@@ -2132,8 +2132,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=221",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/usa/index.html",
          "position" : [
-            "38.88",
-            "-77.03"
+            "37.09024",
+            "-95.712891"
          ],
          "stanag" : "USA",
          "status" : {
@@ -2159,8 +2159,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=039",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bhutan/index.html",
          "position" : [
-            "27.44",
-            "89.67"
+            "27.514162",
+            "90.433601"
          ],
          "stanag" : "BTN",
          "status" : {
@@ -2186,8 +2186,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=155",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/estonia/index.html",
          "position" : [
-            "59.43",
-            "24.73"
+            "58.595272",
+            "25.013607"
          ],
          "stanag" : "EST",
          "status" : {
@@ -2213,8 +2213,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=093",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uganda/index.html",
          "position" : [
-            "0.31",
-            "32.57"
+            "1.373333",
+            "32.290275"
          ],
          "stanag" : "UGA",
          "status" : {
@@ -2240,8 +2240,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=101",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cote_d/index.html",
          "position" : [
-            "6.82",
-            "-5.28"
+            "7.539989",
+            "-5.54708"
          ],
          "stanag" : "CIV",
          "status" : {
@@ -2293,8 +2293,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=199",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/armenia/index.html",
          "position" : [
-            "40.16",
-            "44.51"
+            "40.069099",
+            "45.038189"
          ],
          "stanag" : "ARM",
          "status" : {
@@ -2320,8 +2320,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=011",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/pakistan/index.html",
          "position" : [
-            "33.72",
-            "73.06"
+            "30.375321",
+            "69.345116"
          ],
          "stanag" : "PAK",
          "status" : {
@@ -2347,8 +2347,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=196",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/albania/index.html",
          "position" : [
-            "41.33",
-            "19.83"
+            "41.153332",
+            "20.168331"
          ],
          "stanag" : "ALB",
          "status" : {
@@ -2374,8 +2374,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=169",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/finland/index.html",
          "position" : [
-            "60.16",
-            "24.95"
+            "61.92411",
+            "25.748151"
          ],
          "stanag" : "FIN",
          "status" : {
@@ -2401,8 +2401,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=118",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/benin/index.html",
          "position" : [
-            "6.48",
-            "2.63"
+            "9.30769",
+            "2.315834"
          ],
          "stanag" : "BEN",
          "status" : {
@@ -2428,8 +2428,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=125",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/libya/index.html",
          "position" : [
-            "32.88",
-            "13.19"
+            "26.3351",
+            "17.228331"
          ],
          "stanag" : "LBY",
          "status" : {
@@ -2455,8 +2455,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=165",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/germany/index.html",
          "position" : [
-            "52.52",
-            "13.41"
+            "51.165691",
+            "10.451526"
          ],
          "stanag" : "DEU",
          "status" : {
@@ -2482,8 +2482,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=271",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nauru/index.html",
          "position" : [
-            "-0.53",
-            "166.92"
+            "-0.522778",
+            "166.931503"
          ],
          "stanag" : "NRU",
          "status" : {
@@ -2509,8 +2509,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=291",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/scn/index.html",
          "position" : [
-            "17.3",
-            "-62.73"
+            "17.357822",
+            "-62.782998"
          ],
          "stanag" : "KNA",
          "status" : {
@@ -2536,8 +2536,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=074",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nz/index.html",
          "position" : [
-            "-41.32",
-            "174.78"
+            "-40.900557",
+            "174.885971"
          ],
          "stanag" : "NZL",
          "status" : {
@@ -2563,8 +2563,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=014",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/brunei/index.html",
          "position" : [
-            "4.94",
-            "114.95"
+            "4.535277",
+            "114.727669"
          ],
          "stanag" : "BRN",
          "status" : {
@@ -2590,8 +2590,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=246",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guatemala/index.html",
          "position" : [
-            "14.63",
-            "-90.5"
+            "15.783471",
+            "-90.230759"
          ],
          "stanag" : "GTM",
          "status" : {
@@ -2617,8 +2617,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=257",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bahama/index.html",
          "position" : [
-            "25.07",
-            "-77.34"
+            "25.03428",
+            "-77.39628"
          ],
          "stanag" : "BHS",
          "status" : {
@@ -2644,8 +2644,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=018",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/myanmar/index.html",
          "position" : [
-            "16.78",
-            "96.16"
+            "21.913965",
+            "95.956223"
          ],
          "stanag" : "MMR",
          "status" : {
@@ -2671,8 +2671,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=280",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/stp/index.html",
          "position" : [
-            "0.34",
-            "6.73"
+            "0.18636",
+            "6.613081"
          ],
          "stanag" : "STP",
          "status" : {
@@ -2698,8 +2698,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=157",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/netherlands/index.html",
          "position" : [
-            "52.37",
-            "4.89"
+            "52.132633",
+            "5.291266"
          ],
          "stanag" : "NLD",
          "status" : {
@@ -2725,8 +2725,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=019",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mongolia/index.html",
          "position" : [
-            "47.9",
-            "106.92"
+            "46.862496",
+            "103.846656"
          ],
          "stanag" : "MNG",
          "status" : {
@@ -2752,8 +2752,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=273",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tonga/index.html",
          "position" : [
-            "-21.14",
-            "-175.22"
+            "-21.178986",
+            "-175.198242"
          ],
          "stanag" : "TON",
          "status" : {
@@ -2779,8 +2779,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=160",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/sweden/index.html",
          "position" : [
-            "59.33",
-            "18.06"
+            "60.128161",
+            "18.643501"
          ],
          "stanag" : "SWE",
          "status" : {
@@ -2806,8 +2806,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=276",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/eq_guinea/index.html",
          "position" : [
-            "3.75",
-            "8.78"
+            "1.650801",
+            "10.267895"
          ],
          "stanag" : "GNQ",
          "status" : {
@@ -2833,8 +2833,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=109",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/senegal/index.html",
          "position" : [
-            "14.69",
-            "-17.45"
+            "14.497401",
+            "-14.452362"
          ],
          "stanag" : "SEN",
          "status" : {
@@ -2860,8 +2860,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=115",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nigeria/index.html",
          "position" : [
-            "9.19",
-            "7.18"
+            "9.081999",
+            "8.675277"
          ],
          "stanag" : "NGA",
          "status" : {
@@ -2887,8 +2887,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=158",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/greece/index.html",
          "position" : [
-            "37.98",
-            "23.72"
+            "39.074208",
+            "21.824312"
          ],
          "stanag" : "GRC",
          "status" : {
@@ -2914,8 +2914,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=047",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/oman/index.html",
          "position" : [
-            "23.61",
-            "58.59"
+            "21.512583",
+            "55.923255"
          ],
          "stanag" : "OMN",
          "status" : {
@@ -2941,8 +2941,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=105",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/s_leone/index.html",
          "position" : [
-            "8.48",
-            "-13.23"
+            "8.460555",
+            "-11.779889"
          ],
          "stanag" : "SLE",
          "status" : {
@@ -2968,8 +2968,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=042",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uae/index.html",
          "position" : [
-            "24.48",
-            "54.37"
+            "23.424076",
+            "53.847818"
          ],
          "stanag" : "ARE",
          "status" : {
@@ -2995,8 +2995,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=265",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kyrgyz/index.html",
          "position" : [
-            "42.87",
-            "74.59"
+            "41.20438",
+            "74.766098"
          ],
          "stanag" : "KGZ",
          "status" : {
@@ -3022,8 +3022,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=172",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/belgium/index.html",
          "position" : [
-            "50.84",
-            "4.37"
+            "50.503887",
+            "4.469936"
          ],
          "stanag" : "BEL",
          "status" : {
@@ -3049,8 +3049,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=161",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/spain/index.html",
          "position" : [
-            "40.42",
-            "-3.7"
+            "40.463667",
+            "-3.74922"
          ],
          "stanag" : "ESP",
          "status" : {
@@ -3076,8 +3076,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=035",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/n_korea/index.html",
          "position" : [
-            "39.03",
-            "125.75"
+            "40.339852",
+            "127.510093"
          ],
          "stanag" : "PRK",
          "status" : {
@@ -3098,6 +3098,10 @@
          "gec" : "AV",
          "iso3166_numeric" : "660",
          "macroregion" : 19,
+         "position" : [
+            "18.220554",
+            "-63.068615"
+         ],
          "stanag" : "AIA",
          "status" : {
             "gb" : "other"
@@ -3116,6 +3120,10 @@
          "gec" : "BD",
          "iso3166_numeric" : "060",
          "macroregion" : 19,
+         "position" : [
+            "32.321384",
+            "-64.75737"
+         ],
          "stanag" : "BMU",
          "status" : {
             "gb" : "other"
@@ -3134,6 +3142,10 @@
          "gec" : "IO",
          "iso3166_numeric" : "086",
          "macroregion" : 2,
+         "position" : [
+            "-6.343194",
+            "71.876519"
+         ],
          "stanag" : "IOT",
          "status" : {
             "gb" : "other"
@@ -3152,6 +3164,10 @@
          "gec" : "VI",
          "iso3166_numeric" : "092",
          "macroregion" : 19,
+         "position" : [
+            "18.420695",
+            "-64.639968"
+         ],
          "stanag" : "VGB",
          "status" : {
             "gb" : "other"
@@ -3170,6 +3186,10 @@
          "gec" : "CJ",
          "iso3166_numeric" : "136",
          "macroregion" : 19,
+         "position" : [
+            "19.513469",
+            "-80.566956"
+         ],
          "stanag" : "CYM",
          "status" : {
             "gb" : "other"
@@ -3193,8 +3213,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=041",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/afghanistan/index.html",
          "position" : [
-            "34.53",
-            "69.17"
+            "33.93911",
+            "67.709953"
          ],
          "stanag" : "AFG",
          "status" : {
@@ -3215,6 +3235,10 @@
          "gec" : "FK",
          "iso3166_numeric" : "238",
          "macroregion" : 19,
+         "position" : [
+            "-51.796253",
+            "-59.523613"
+         ],
          "stanag" : "FLK",
          "status" : {
             "gb" : "other"
@@ -3236,6 +3260,10 @@
          "ja_short_name" : "ジブラルタル",
          "macroregion" : 150,
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=197",
+         "position" : [
+            "36.137741",
+            "-5.345374"
+         ],
          "stanag" : "GIB",
          "status" : {
             "gb" : "other"
@@ -3254,6 +3282,10 @@
          "gec" : "MH",
          "iso3166_numeric" : "500",
          "macroregion" : 19,
+         "position" : [
+            "16.742498",
+            "-62.187366"
+         ],
          "stanag" : "MSR",
          "status" : {
             "gb" : "other"
@@ -3272,6 +3304,10 @@
          "gec" : "PC",
          "iso3166_numeric" : "612",
          "macroregion" : 9,
+         "position" : [
+            "-24.703615",
+            "-127.439308"
+         ],
          "stanag" : "PCN",
          "status" : {
             "gb" : "other"
@@ -3288,6 +3324,10 @@
          "en_name" : "St Helena, Ascension and Tristan da Cunha",
          "en_short_name" : "St Helena, Ascension and Tristan da Cunha",
          "gec" : "SH",
+         "position" : [
+            "-24.143474",
+            "-10.030696"
+         ],
          "stanag" : "SHN",
          "status" : {
             "gb" : "other"
@@ -3305,6 +3345,10 @@
          "gec" : "SX",
          "iso3166_numeric" : "239",
          "macroregion" : 19,
+         "position" : [
+            "-54.429579",
+            "-36.587909"
+         ],
          "stanag" : "SGS",
          "status" : {
             "gb" : "other"
@@ -3323,6 +3367,10 @@
          "gec" : "TK",
          "iso3166_numeric" : "796",
          "macroregion" : 19,
+         "position" : [
+            "21.694025",
+            "-71.797928"
+         ],
          "stanag" : "TCA",
          "status" : {
             "gb" : "other"
@@ -3362,8 +3410,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=117",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/burkina/index.html",
          "position" : [
-            "12.36",
-            "-1.54"
+            "12.238333",
+            "-1.561593"
          ],
          "stanag" : "BFA",
          "status" : {
@@ -3471,8 +3519,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=222",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/canada/index.html",
          "position" : [
-            "45.42",
-            "-75.69"
+            "56.130366",
+            "-106.346771"
          ],
          "stanag" : "CAN",
          "status" : {
@@ -3546,8 +3594,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=277",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/gambia/index.html",
          "position" : [
-            "13.45",
-            "-16.59"
+            "13.443182",
+            "-15.310139"
          ],
          "stanag" : "GMB",
          "status" : {
@@ -3655,8 +3703,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=244",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/elsalvador/index.html",
          "position" : [
-            "13.71",
-            "-89.2"
+            "13.794185",
+            "-88.89653"
          ],
          "stanag" : "SLV",
          "status" : {
@@ -3737,8 +3785,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=296",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/botswana/index.html",
          "position" : [
-            "-24.67",
-            "25.92"
+            "-22.328474",
+            "24.684866"
          ],
          "stanag" : "BWA",
          "status" : {
@@ -3827,8 +3875,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=078",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/vanuatu/index.html",
          "position" : [
-            "-17.74",
-            "168.32"
+            "-15.376706",
+            "166.959158"
          ],
          "stanag" : "VUT",
          "status" : {
@@ -3929,8 +3977,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=076",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/fiji/index.html",
          "position" : [
-            "-18.14",
-            "178.43"
+            "-16.578193",
+            "179.414413"
          ],
          "stanag" : "FJI",
          "status" : {
@@ -4011,8 +4059,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=259",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/brazil/index.html",
          "position" : [
-            "-15.79",
-            "-47.9"
+            "-14.235004",
+            "-51.92528"
          ],
          "stanag" : "BRA",
          "status" : {
@@ -4100,8 +4148,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=245",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cuba/index.html",
          "position" : [
-            "23.12",
-            "-82.39"
+            "21.521757",
+            "-77.781167"
          ],
          "stanag" : "CUB",
          "status" : {
@@ -4127,8 +4175,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=131",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/rwanda/index.html",
          "position" : [
-            "-1.95",
-            "30.06"
+            "-1.940278",
+            "29.873888"
          ],
          "stanag" : "RWA",
          "status" : {
@@ -4230,8 +4278,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=095",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ethiopia/index.html",
          "position" : [
-            "9.02",
-            "38.75"
+            "9.145",
+            "40.489673"
          ],
          "stanag" : "ETH",
          "status" : {
@@ -4317,8 +4365,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=170",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/france/index.html",
          "position" : [
-            "48.86",
-            "2.35"
+            "46.227638",
+            "2.213749"
          ],
          "stanag" : "FRA",
          "status" : {
@@ -4396,8 +4444,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=198",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/moldova/index.html",
          "position" : [
-            "47",
-            "28.92"
+            "47.411631",
+            "28.369885"
          ],
          "stanag" : "MDA",
          "status" : {
@@ -4430,8 +4478,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=269",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/marshall/index.html",
          "position" : [
-            "7.12",
-            "171.07"
+            "7.131474",
+            "171.184478"
          ],
          "stanag" : "MHL",
          "status" : {
@@ -4457,8 +4505,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=166",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/norway/index.html",
          "position" : [
-            "59.91",
-            "10.74"
+            "60.472024",
+            "8.468946"
          ],
          "stanag" : "NOR",
          "status" : {
@@ -4484,8 +4532,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=162",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/slovenia/index.html",
          "position" : [
-            "46.06",
-            "14.5"
+            "46.151241",
+            "14.995463"
          ],
          "stanag" : "SVN",
          "status" : {
@@ -4511,8 +4559,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=045",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/iraq/index.html",
          "position" : [
-            "33.33",
-            "44.42"
+            "33.223191",
+            "43.679291"
          ],
          "stanag" : "IRQ",
          "status" : {
@@ -4538,8 +4586,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=141",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/djibouti/index.html",
          "position" : [
-            "11.99",
-            "42.52"
+            "11.825138",
+            "42.590275"
          ],
          "stanag" : "DJI",
          "status" : {
@@ -4565,8 +4613,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=153",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/italy/index.html",
          "position" : [
-            "41.9",
-            "12.48"
+            "41.87194",
+            "12.56738"
          ],
          "stanag" : "ITA",
          "status" : {
@@ -4592,8 +4640,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=121",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mali/index.html",
          "position" : [
-            "12.65",
-            "-7.99"
+            "17.570692",
+            "-3.996166"
          ],
          "stanag" : "MLI",
          "status" : {
@@ -4619,8 +4667,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=242",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uruguay/index.html",
          "position" : [
-            "-34.89",
-            "-56.16"
+            "-32.522779",
+            "-55.765835"
          ],
          "stanag" : "URY",
          "status" : {
@@ -4646,8 +4694,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=107",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/sudan/index.html",
          "position" : [
-            "15.55",
-            "32.53"
+            "12.862807",
+            "30.217636"
          ],
          "stanag" : "SDN",
          "status" : {
@@ -4673,8 +4721,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=007",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/thailand/index.html",
          "position" : [
-            "13.73",
-            "100.52"
+            "15.870032",
+            "100.992541"
          ],
          "stanag" : "THA",
          "status" : {
@@ -4700,8 +4748,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=289",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/c_dominica/index.html",
          "position" : [
-            "15.3",
-            "-61.39"
+            "15.414999",
+            "-61.370976"
          ],
          "stanag" : "DMA",
          "status" : {
@@ -4734,8 +4782,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=001",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/india/index.html",
          "position" : [
-            "28.61",
-            "77.18"
+            "20.593684",
+            "78.96288"
          ],
          "stanag" : "IND",
          "status" : {
@@ -4787,8 +4835,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=202",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/turkmenistan/index.html",
          "position" : [
-            "37.97",
-            "58.33"
+            "38.969719",
+            "59.556278"
          ],
          "stanag" : "TKM",
          "status" : {
@@ -4814,8 +4862,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=112",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/car/index.html",
          "position" : [
-            "4.36",
-            "18.56"
+            "6.611111",
+            "20.939444"
          ],
          "stanag" : "CAF",
          "status" : {
@@ -4841,8 +4889,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=094",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/egypt/index.html",
          "position" : [
-            "30.06",
-            "31.25"
+            "26.820553",
+            "30.802498"
          ],
          "stanag" : "EGY",
          "status" : {
@@ -4868,8 +4916,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=013",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/philippines/index.html",
          "position" : [
-            "14.6",
-            "120.98"
+            "12.879721",
+            "121.774017"
          ],
          "stanag" : "PHL",
          "status" : {
@@ -4895,8 +4943,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=173",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/poland/index.html",
          "position" : [
-            "52.24",
-            "21.01"
+            "51.919438",
+            "19.145136"
          ],
          "stanag" : "POL",
          "status" : {
@@ -4922,8 +4970,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=292",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/s_lucia/index.html",
          "position" : [
-            "14",
-            "-60.98"
+            "13.909444",
+            "-60.978893"
          ],
          "stanag" : "LCA",
          "status" : {
@@ -4949,8 +4997,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=111",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tanzania/index.html",
          "position" : [
-            "-6.82",
-            "39.27"
+            "-6.369028",
+            "34.888822"
          ],
          "stanag" : "TZA",
          "status" : {
@@ -4976,8 +5024,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=135",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/comoros/index.html",
          "position" : [
-            "-11.7",
-            "43.24"
+            "-11.875001",
+            "43.872219"
          ],
          "stanag" : "COM",
          "status" : {
@@ -5003,8 +5051,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=290",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/grenada/index.html",
          "position" : [
-            "12.07",
-            "-61.74"
+            "12.262776",
+            "-61.604171"
          ],
          "stanag" : "GRD",
          "status" : {
@@ -5030,8 +5078,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=100",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kenya/index.html",
          "position" : [
-            "-1.27",
-            "36.81"
+            "-0.023559",
+            "37.906193"
          ],
          "stanag" : "KEN",
          "status" : {
@@ -5057,8 +5105,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=124",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/morocco/index.html",
          "position" : [
-            "34.02",
-            "-6.83"
+            "31.791702",
+            "-7.09262"
          ],
          "stanag" : "MAR",
          "status" : {
@@ -5084,8 +5132,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=288",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/belize/index.html",
          "position" : [
-            "17.26",
-            "-88.78"
+            "17.189877",
+            "-88.49765"
          ],
          "stanag" : "BLZ",
          "status" : {
@@ -5109,8 +5157,8 @@
          "ja_short_name" : "日本",
          "macroregion" : 142,
          "position" : [
-            "35.69",
-            "139.65"
+            "36.204824",
+            "138.252924"
          ],
          "stanag" : "JPN",
          "status" : {
@@ -5136,8 +5184,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=251",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/chile/index.html",
          "position" : [
-            "-33.47",
-            "-70.64"
+            "-35.675147",
+            "-71.542969"
          ],
          "stanag" : "CHL",
          "status" : {
@@ -5163,8 +5211,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=044",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/israel/index.html",
          "position" : [
-            "31.77",
-            "35.23"
+            "31.046051",
+            "34.851612"
          ],
          "stanag" : "ISR",
          "status" : {
@@ -5190,8 +5238,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=119",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/madagascar/index.html",
          "position" : [
-            "-18.91",
-            "47.53"
+            "-18.766947",
+            "46.869107"
          ],
          "stanag" : "MDG",
          "status" : {
@@ -5217,8 +5265,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=003",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/korea/index.html",
          "position" : [
-            "37.53",
-            "126.96"
+            "35.907757",
+            "127.766922"
          ],
          "stanag" : "KOR",
          "status" : {
@@ -5244,8 +5292,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=004",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cambodia/index.html",
          "position" : [
-            "11.56",
-            "104.92"
+            "12.565679",
+            "104.990963"
          ],
          "stanag" : "KHM",
          "status" : {
@@ -5271,8 +5319,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=200",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/georgia/index.html",
          "position" : [
-            "41.71",
-            "44.79"
+            "42.315407",
+            "43.356892"
          ],
          "stanag" : "GEO",
          "status" : {
@@ -5298,8 +5346,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=151",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ireland/index.html",
          "position" : [
-            "53.34",
-            "-6.27"
+            "53.41291",
+            "-8.24389"
          ],
          "stanag" : "IRL",
          "status" : {
@@ -5325,8 +5373,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=006",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/srilanka/index.html",
          "position" : [
-            "6.9",
-            "79.9"
+            "7.873054",
+            "80.771797"
          ],
          "stanag" : "LKA",
          "status" : {
@@ -5352,8 +5400,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=261",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/peru/index.html",
          "position" : [
-            "-12.09",
-            "-77.05"
+            "-9.189967",
+            "-75.015152"
          ],
          "stanag" : "PER",
          "status" : {
@@ -5379,8 +5427,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=253",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/trinidad/index.html",
          "position" : [
-            "10.66",
-            "-61.48"
+            "10.691803",
+            "-61.222503"
          ],
          "stanag" : "TTO",
          "status" : {
@@ -5406,8 +5454,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=293",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/svg/index.html",
          "position" : [
-            "13.2",
-            "-61.27"
+            "12.984305",
+            "-61.287228"
          ],
          "stanag" : "VCT",
          "status" : {
@@ -5433,8 +5481,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=120",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/malawi/index.html",
          "position" : [
-            "-13.98",
-            "33.77"
+            "-13.254308",
+            "34.301525"
          ],
          "stanag" : "MWI",
          "status" : {
@@ -5460,8 +5508,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=103",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/congomin/index.html",
          "position" : [
-            "-4.33",
-            "15.32"
+            "-4.038333",
+            "21.758664"
          ],
          "stanag" : "COD",
          "status" : {
@@ -5487,8 +5535,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=052",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/turkey/index.html",
          "position" : [
-            "39.94",
-            "32.85"
+            "38.963745",
+            "35.243322"
          ],
          "stanag" : "TUR",
          "status" : {
@@ -5514,8 +5562,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=281",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/swaziland/index.html",
          "position" : [
-            "-26.32",
-            "31.14"
+            "-26.522503",
+            "31.465866"
          ],
          "stanag" : "SWZ",
          "status" : {
@@ -5541,8 +5589,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=097",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/gabon/index.html",
          "position" : [
-            "0.39",
-            "9.45"
+            "-0.803689",
+            "11.609444"
          ],
          "stanag" : "GAB",
          "status" : {
@@ -5568,8 +5616,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=294",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guyana/index.html",
          "position" : [
-            "6.8",
-            "-58.15"
+            "4.860416",
+            "-58.93018"
          ],
          "stanag" : "GUY",
          "status" : {
@@ -5595,8 +5643,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=176",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/luxembourg/index.html",
          "position" : [
-            "49.83",
-            "6.06"
+            "49.815273",
+            "6.129583"
          ],
          "stanag" : "LUX",
          "status" : {
@@ -5622,8 +5670,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=053",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bahrain/index.html",
          "position" : [
-            "26.22",
-            "50.58"
+            "25.930414",
+            "50.637772"
          ],
          "stanag" : "BHR",
          "status" : {
@@ -5649,8 +5697,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=264",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mexico/index.html",
          "position" : [
-            "19.41",
-            "-99.13"
+            "23.634501",
+            "-102.552784"
          ],
          "stanag" : "MEX",
          "status" : {
@@ -5676,8 +5724,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=159",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/switzerland/index.html",
          "position" : [
-            "46.95",
-            "7.45"
+            "46.818188",
+            "8.227512"
          ],
          "stanag" : "CHE",
          "status" : {
@@ -5703,8 +5751,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=263",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/honduras/index.html",
          "position" : [
-            "14.1",
-            "-87.21"
+            "15.199999",
+            "-86.241905"
          ],
          "stanag" : "HND",
          "status" : {
@@ -5730,8 +5778,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=255",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/haiti/index.html",
          "position" : [
-            "18.54",
-            "-72.33"
+            "18.971187",
+            "-72.285215"
          ],
          "stanag" : "HTI",
          "status" : {
@@ -5757,8 +5805,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=073",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/samoa/index.html",
          "position" : [
-            "-13.83",
-            "-171.75"
+            "-13.759029",
+            "-172.104629"
          ],
          "stanag" : "WSM",
          "status" : {
@@ -5784,8 +5832,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=049",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kuwait/index.html",
          "position" : [
-            "29.66",
-            "47.55"
+            "29.31166",
+            "47.481766"
          ],
          "stanag" : "KWT",
          "status" : {
@@ -5811,8 +5859,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=184",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/slovak/index.html",
          "position" : [
-            "48.15",
-            "17.13"
+            "48.669026",
+            "19.699024"
          ],
          "stanag" : "SVK",
          "status" : {
@@ -5838,8 +5886,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=102",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/congokyo/index.html",
          "position" : [
-            "-4.27",
-            "15.28"
+            "-0.228021",
+            "15.827659"
          ],
          "stanag" : "COG",
          "status" : {
@@ -5865,8 +5913,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=163",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/czech/index.html",
          "position" : [
-            "50.08",
-            "14.44"
+            "49.817492",
+            "15.472962"
          ],
          "stanag" : "CZE",
          "status" : {
@@ -5892,8 +5940,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=156",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/austria/index.html",
          "position" : [
-            "48.2",
-            "16.36"
+            "47.516231",
+            "14.550072"
          ],
          "stanag" : "AUT",
          "status" : {
@@ -5919,8 +5967,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=106",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/zimbabwe/index.html",
          "position" : [
-            "-17.83",
-            "31.05"
+            "-19.015438",
+            "29.154857"
          ],
          "stanag" : "ZWE",
          "status" : {
@@ -5946,8 +5994,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=177",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/romania/index.html",
          "position" : [
-            "44.45",
-            "26.1"
+            "45.943161",
+            "24.96676"
          ],
          "stanag" : "ROU",
          "status" : {
@@ -5973,8 +6021,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=201",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tajikistan/index.html",
          "position" : [
-            "38.57",
-            "68.78"
+            "38.861034",
+            "71.276093"
          ],
          "stanag" : "TJK",
          "status" : {
@@ -6000,8 +6048,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=152",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/azerbaijan/index.html",
          "position" : [
-            "40.38",
-            "49.89"
+            "40.143105",
+            "47.576927"
          ],
          "stanag" : "AZE",
          "status" : {
@@ -6027,8 +6075,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=187",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kazakhstan/index.html",
          "position" : [
-            "51.18",
-            "71.45"
+            "48.019573",
+            "66.923684"
          ],
          "stanag" : "KAZ",
          "status" : {
@@ -6054,8 +6102,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=137",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/chad/index.html",
          "position" : [
-            "12.1",
-            "15.03"
+            "15.454166",
+            "18.732207"
          ],
          "stanag" : "TCD",
          "status" : {
@@ -6081,8 +6129,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=256",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/panama/index.html",
          "position" : [
-            "8.97",
-            "-79.53"
+            "8.537981",
+            "-80.782127"
          ],
          "stanag" : "PAN",
          "status" : {
@@ -6133,8 +6181,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=250",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/suriname/index.html",
          "position" : [
-            "5.82",
-            "-55.17"
+            "3.919305",
+            "-56.027783"
          ],
          "stanag" : "SUR",
          "status" : {
@@ -6160,8 +6208,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=096",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ghana/index.html",
          "position" : [
-            "5.56",
-            "-0.2"
+            "7.946527",
+            "-1.023194"
          ],
          "stanag" : "GHA",
          "status" : {
@@ -6187,8 +6235,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=185",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/belarus/index.html",
          "position" : [
-            "53.9",
-            "27.58"
+            "53.709807",
+            "27.953389"
          ],
          "stanag" : "BLR",
          "status" : {
@@ -6214,8 +6262,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=140",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guinea_b/index.html",
          "position" : [
-            "11.86",
-            "-15.6"
+            "11.803749",
+            "-15.180413"
          ],
          "stanag" : "GNB",
          "status" : {
@@ -6241,8 +6289,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=287",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/barbados/index.html",
          "position" : [
-            "13.09",
-            "-59.61"
+            "13.193887",
+            "-59.543198"
          ],
          "stanag" : "BRB",
          "status" : {
@@ -6268,8 +6316,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=110",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/somali/index.html",
          "position" : [
-            "2.08",
-            "45.33"
+            "5.152149",
+            "46.199616"
          ],
          "stanag" : "SOM",
          "status" : {
@@ -6295,8 +6343,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=247",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/costarica/index.html",
          "position" : [
-            "9.93",
-            "-84.08"
+            "9.748917",
+            "-83.753428"
          ],
          "stanag" : "CRI",
          "status" : {
@@ -6322,8 +6370,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=283",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/liechtenstein/index.html",
          "position" : [
-            "47.15",
-            "9.53"
+            "47.166",
+            "9.555373"
          ],
          "stanag" : "LIE",
          "status" : {
@@ -6349,8 +6397,8 @@
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=295",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/easttimor/index.html",
          "position" : [
-            "-8.57",
-            "125.57"
+            "-8.874217",
+            "125.727539"
          ],
          "stanag" : "TLS",
          "status" : {
