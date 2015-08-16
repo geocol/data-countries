@@ -3098,7 +3098,14 @@
          "gec" : "AV",
          "iso3166_numeric" : "660",
          "macroregion" : 19,
+         "position" : [
+            "18.220554",
+            "-63.068615"
+         ],
          "stanag" : "AIA",
+         "status" : {
+            "gb" : "other"
+         },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Anguilla.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/av.html",
@@ -3113,7 +3120,14 @@
          "gec" : "BD",
          "iso3166_numeric" : "060",
          "macroregion" : 19,
+         "position" : [
+            "32.321384",
+            "-64.75737"
+         ],
          "stanag" : "BMU",
+         "status" : {
+            "gb" : "other"
+         },
          "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_Bermuda.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bd.html",
@@ -3123,12 +3137,19 @@
       "207" : {
          "code" : "IO",
          "code3" : "IOT",
-         "en_name" : "British Indian Ocean Territory",
+         "en_name" : "The British Indian Ocean Territory",
          "en_short_name" : "British Indian Ocean Territory",
          "gec" : "IO",
          "iso3166_numeric" : "086",
          "macroregion" : 2,
+         "position" : [
+            "-6.343194",
+            "71.876519"
+         ],
          "stanag" : "IOT",
+         "status" : {
+            "gb" : "other"
+         },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_the_British_Indian_Ocean_Territory.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/io.html",
@@ -3138,12 +3159,19 @@
       "208" : {
          "code" : "VG",
          "code3" : "VGB",
-         "en_name" : "British Virgin Islands",
+         "en_name" : "The Virgin Islands",
          "en_short_name" : "British Virgin Islands",
          "gec" : "VI",
          "iso3166_numeric" : "092",
          "macroregion" : 19,
+         "position" : [
+            "18.420695",
+            "-64.639968"
+         ],
          "stanag" : "VGB",
+         "status" : {
+            "gb" : "other"
+         },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_British_Virgin_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/vi.html",
@@ -3158,7 +3186,14 @@
          "gec" : "CJ",
          "iso3166_numeric" : "136",
          "macroregion" : 19,
+         "position" : [
+            "19.513469",
+            "-80.566956"
+         ],
          "stanag" : "CYM",
+         "status" : {
+            "gb" : "other"
+         },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Cayman_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cj.html",
@@ -3195,12 +3230,19 @@
       "210" : {
          "code" : "FK",
          "code3" : "FLK",
-         "en_name" : "Falkland Islands (Malvinas)",
-         "en_short_name" : "Falkland Islands (Malvinas)",
+         "en_name" : "Falkland Islands",
+         "en_short_name" : "Falkland Islands",
          "gec" : "FK",
          "iso3166_numeric" : "238",
          "macroregion" : 19,
+         "position" : [
+            "-51.796253",
+            "-59.523613"
+         ],
          "stanag" : "FLK",
+         "status" : {
+            "gb" : "other"
+         },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Falkland_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fk.html",
@@ -3218,7 +3260,14 @@
          "ja_short_name" : "ジブラルタル",
          "macroregion" : 150,
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=197",
+         "position" : [
+            "36.137741",
+            "-5.345374"
+         ],
          "stanag" : "GIB",
+         "status" : {
+            "gb" : "other"
+         },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Gibraltar.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gi.html",
@@ -3233,7 +3282,14 @@
          "gec" : "MH",
          "iso3166_numeric" : "500",
          "macroregion" : 19,
+         "position" : [
+            "16.742498",
+            "-62.187366"
+         ],
          "stanag" : "MSR",
+         "status" : {
+            "gb" : "other"
+         },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Montserrat.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mh.html",
@@ -3243,12 +3299,19 @@
       "213" : {
          "code" : "PN",
          "code3" : "PCN",
-         "en_name" : "Pitcairn",
-         "en_short_name" : "Pitcairn",
+         "en_name" : "Pitcairn, Henderson, Ducie and Oeno Islands",
+         "en_short_name" : "Pitcairn, Henderson, Ducie and Oeno Islands",
          "gec" : "PC",
          "iso3166_numeric" : "612",
          "macroregion" : 9,
+         "position" : [
+            "-24.703615",
+            "-127.439308"
+         ],
          "stanag" : "PCN",
+         "status" : {
+            "gb" : "other"
+         },
          "submacroregion" : 61,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Pitcairn_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/pc.html",
@@ -3257,10 +3320,18 @@
       },
       "214" : {
          "code" : "SH",
-         "en_name" : "Saint Helena, Ascension and Tristan da Cunha",
-         "en_short_name" : "Saint Helena, Ascension and Tristan da Cunha",
+         "code3" : "SHN",
+         "en_name" : "St Helena, Ascension and Tristan da Cunha",
+         "en_short_name" : "St Helena, Ascension and Tristan da Cunha",
          "gec" : "SH",
+         "position" : [
+            "-24.143474",
+            "-10.030696"
+         ],
          "stanag" : "SHN",
+         "status" : {
+            "gb" : "other"
+         },
          "wikipedia_flag_file_name" : "File:Flag_of_Saint_Helena.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sh.html",
          "wref_en" : "Saint_Helena,_Ascension_and_Tristan_da_Cunha",
@@ -3270,11 +3341,18 @@
          "code" : "GS",
          "code3" : "SGS",
          "en_name" : "South Georgia and the South Sandwich Islands",
-         "en_short_name" : "South Georgia and the South Sandwich Islands",
+         "en_short_name" : "South Georgia and South Sandwich Islands",
          "gec" : "SX",
          "iso3166_numeric" : "239",
          "macroregion" : 19,
+         "position" : [
+            "-54.429579",
+            "-36.587909"
+         ],
          "stanag" : "SGS",
+         "status" : {
+            "gb" : "other"
+         },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sx.html",
@@ -3289,7 +3367,14 @@
          "gec" : "TK",
          "iso3166_numeric" : "796",
          "macroregion" : 19,
+         "position" : [
+            "21.694025",
+            "-71.797928"
+         ],
          "stanag" : "TCA",
+         "status" : {
+            "gb" : "other"
+         },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Turks_and_Caicos_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tk.html",
@@ -3300,7 +3385,17 @@
          "en_name" : "Akrotiri",
          "en_short_name" : "Akrotiri",
          "gec" : "AX",
+         "status" : {
+            "gb" : "other"
+         },
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ax.html"
+      },
+      "219" : {
+         "en_name" : "British Antarctic Territory",
+         "en_short_name" : "British Antarctic Territory",
+         "status" : {
+            "gb" : "other"
+         }
       },
       "22" : {
          "code" : "BF",
@@ -3333,6 +3428,9 @@
          "en_name" : "Dhekelia",
          "en_short_name" : "Dhekelia",
          "gec" : "DX",
+         "status" : {
+            "gb" : "other"
+         },
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/dx.html"
       },
       "222" : {
