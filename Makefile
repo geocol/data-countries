@@ -128,6 +128,7 @@ data/countries.json: intermediate/geonlp/countries.json \
     local/countries.json local/google-countries.json \
     local/wikipedia-ja-countries.json local/wikipedia-en-countries.json \
     local/cia-list.json local/mofa-anzen.json local/mofa-area.json \
+    src/wikipedia.txt \
     bin/countries.pl
 	$(PERL) bin/countries.pl > $@
 
