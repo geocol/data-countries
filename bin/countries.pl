@@ -274,6 +274,18 @@ sub _n ($) {
         if defined $json->{$code}->{wref};
   }
 }
+{
+  my $path = $root_path->child ('src/wikipedia.txt');
+  for (split /\n/, $path->slurp_utf8) {
+    if (/^\s*#/) {
+      #
+    } elsif (/^(\d+)\s+(\w+)\s+(.+)$/) {
+      $Data->{areas}->{$1}->{"wref_$2"} = $3;
+    } elsif (/\S/) {
+      die "Broken line: $_";
+    }
+  }
+}
 
 $Data->{areas}->{431}->{en_name} ||= 'Hawaii';
 $Data->{areas}->{431}->{en_short_name} ||= 'Hawaii';
