@@ -3395,7 +3395,9 @@
          "en_short_name" : "British Antarctic Territory",
          "status" : {
             "gb" : "other"
-         }
+         },
+         "wref_en" : "British_Antarctic_Territory",
+         "wref_ja" : "イギリス領南極地域"
       },
       "22" : {
          "code" : "BF",
