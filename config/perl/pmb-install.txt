@@ -25,7 +25,7 @@ Test::Simple~1.001014
 Module::Runtime~0.014
 Unicode::Normalize~1.19
 MRO::Compat~0.12
-Perl::OSType~1.008
+Perl::OSType~1.009
 Algorithm::Diff~1.1903
 Path::Tiny~0.072
 ExtUtils::CBuilder~0.280223
