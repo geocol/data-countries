@@ -19,7 +19,7 @@ common::sense~3.74
 Unicode::Stringprep~1.105
 Scalar::Util~1.42
 Module::Metadata~1.000027
-File::Spec~3.59
+File::Spec~3.60
 Types::Serialiser~1.0
 Test::Simple~1.001014
 Module::Runtime~0.014
