@@ -3,7 +3,7 @@ JSON::XS~3.01
 Test::NoWarnings~1.04
 Encode~2.78
 CPAN::Meta~2.150005
-Module::Build~0.4214
+Module::Build~0.4216
 Try::Tiny~0.24
 parent~0.234
 Test::Class~0.50
@@ -34,5 +34,6 @@ version~0.9912
 Test::Tester~0.114
 CPAN::Meta::YAML~0.018
 Exporter~5.72
+TAP::Harness~3.36
 Carp~1.38
 JSON::PP~2.27300
