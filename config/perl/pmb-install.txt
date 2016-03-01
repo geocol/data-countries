@@ -1,4 +1,4 @@
-Capture::Tiny~0.34
+Capture::Tiny~0.36
 JSON::XS~3.02
 Test::NoWarnings~1.04
 Encode~2.82
