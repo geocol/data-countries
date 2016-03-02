@@ -19,7 +19,6 @@ common::sense~3.74
 Unicode::Stringprep~1.105
 Scalar::Util~1.43
 Module::Metadata~1.000027
-File::Spec~3.62
 Types::Serialiser~1.0
 Test::Simple~1.001014
 Module::Runtime~0.014
@@ -27,7 +26,7 @@ Unicode::Normalize~1.25
 MRO::Compat~0.12
 Perl::OSType~1.009
 Algorithm::Diff~1.1903
-Path::Tiny~0.076
+Path::Tiny~0.082
 ExtUtils::CBuilder~0.280224
 Parse::CPAN::Meta~1.4417
 version~0.9914
