@@ -26,7 +26,7 @@ Unicode::Normalize~1.25
 MRO::Compat~0.12
 Perl::OSType~1.009
 Algorithm::Diff~1.1903
-Path::Tiny~0.082
+Path::Tiny~0.084
 ExtUtils::CBuilder~0.280224
 Parse::CPAN::Meta~1.4417
 version~0.9914
