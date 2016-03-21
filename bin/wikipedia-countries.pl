@@ -49,7 +49,7 @@ for (@row) {
 my $Data = {};
 
 for (@data) {
-  my $code_cell = $_->{'二字'} || $_->{'Alpha-2 code'} or next;
+  my $code_cell = $_->{'二字'} || $_->{'Alpha-2 code'} || $_->{'alpha-2'} or next;
   my $name_cell = $_->{'国・地域名'} || $_->{'English short name (upper/lower case)'} or next;
   my $code = uc _n $code_cell->text_content;
   my $link = $name_cell->query_selector ('a:not(.image)');

@@ -49,7 +49,7 @@ local/perl-latest/pm/lib/perl5/JSON/PS.pm:
 
 local/bin/jq:
 	mkdir -p local/bin
-	$(WGET) -O $@ http://stedolan.github.io/jq/download/linux64/jq
+	$(WGET) -O $@ https://stedolan.github.io/jq/download/linux64/jq
 	chmod u+x $@
 
 ## ------ Generation ------
@@ -99,9 +99,9 @@ local/google-countries.json: local/google-countries.csv bin/csv2json.pl
 	$(PERL) bin/csv2json.pl $< > $@
 
 local/wikipedia-ja-countries.html:
-	$(WGET) -O $@ http://ja.wikipedia.org/wiki/ISO_3166-1
+	$(WGET) -O $@ https://ja.wikipedia.org/wiki/ISO_3166-1
 local/wikipedia-en-countries.html:
-	$(WGET) -O $@ http://en.wikipedia.org/wiki/ISO_3166-1
+	$(WGET) -O $@ https://en.wikipedia.org/wiki/ISO_3166-1
 local/wikipedia-ja-countries.json: local/wikipedia-ja-countries.html \
     bin/wikipedia-countries.pl
 	$(PERL) bin/wikipedia-countries.pl $< > $@
