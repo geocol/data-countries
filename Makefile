@@ -94,7 +94,8 @@ local/countries.json:
 	$(WGET) -O $@ https://raw.githubusercontent.com/mledoze/countries/master/countries.json
 
 local/google-countries.csv:
-	$(WGET) -O $@ https://dspl.googlecode.com/hg/datasets/google/canonical/countries.csv
+	#$(WGET) -O $@ https://dspl.googlecode.com/hg/datasets/google/canonical/countries.csv
+	cp src/google-countries.csv local/
 local/google-countries.json: local/google-countries.csv bin/csv2json.pl
 	$(PERL) bin/csv2json.pl $< > $@
 
