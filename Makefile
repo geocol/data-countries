@@ -5,7 +5,7 @@ data: all-data
 clean: clean-data
 
 WGET = wget
-CURL = curl
+CURL = curl -f
 UNZIP = unzip
 GIT = git
 PERL = ./perl
