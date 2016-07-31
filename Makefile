@@ -116,11 +116,11 @@ local/cia-list.json: local/cia-list.html bin/cia-list.pl
 	$(PERL) bin/cia-list.pl $< > $@
 
 local/mofa-anzen.html:
-	$(WGET) -O $@ http://www.anzen.mofa.go.jp/travel/
+	$(CURL) http://www.anzen.mofa.go.jp/travel/ > $@
 local/mofa-anzen.json: local/mofa-anzen.html bin/mofa-anzen.pl
 	$(PERL) bin/mofa-anzen.pl $< > $@
 local/mofa-area.html:
-	$(WGET) -O $@ http://www.mofa.go.jp/mofaj/area/
+	$(CURL) http://www.mofa.go.jp/mofaj/area/ > $@
 local/mofa-area.json: local/mofa-area.html bin/mofa-area.pl
 	$(PERL) bin/mofa-area.pl $< > $@
 
