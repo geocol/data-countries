@@ -1,5 +1,5 @@
 Algorithm::Diff~1.1903
-Capture::Tiny~0.42
+Capture::Tiny~0.44
 Carp~1.38
 Data::Dumper~2.161
 Encode~2.85
@@ -11,7 +11,6 @@ Module::Runtime~0.014
 Path::Class~0.36
 Path::Tiny~0.096
 Scalar::Util~1.45
-Test::Builder~1.302049
 Test::Class~0.50
 Test::Differences~0.64
 Test::NoWarnings~1.04
