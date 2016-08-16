@@ -12,10 +12,11 @@ Path::Tiny~0.096
 Scalar::Util~1.45
 Test::Class~0.50
 Test::Differences~0.64
+Test::More~1.302052
 Test::NoWarnings~1.04
 Test::Tester~1.302052
 Text::Diff~1.44
-Try::Tiny~0.24
+Try::Tiny~0.27
 Types::Serialiser~1.0
 Unicode::Stringprep~1.105
 common::sense~3.74

@@ -3594,7 +3594,6 @@
          "ja_short_name" : "ガンビア",
          "macroregion" : 2,
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=277",
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/gambia/index.html",
          "position" : [
             "13.443182",
             "-15.310139"
@@ -4780,6 +4779,12 @@
          "code" : "EZ",
          "en_name" : "Eurozone",
          "en_short_name" : "Eurozone"
+      },
+      "434" : {
+         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/somali/index.html"
+      },
+      "435" : {
+         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/gambia/index.html"
       },
       "44" : {
          "code" : "IN",
@@ -6326,7 +6331,6 @@
          "ja_short_name" : "ソマリア",
          "macroregion" : 2,
          "mofa_anzen_url" : "http://www2.anzen.mofa.go.jp/info/pcinfectionspothazardinfo.asp?id=110",
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/somali/index.html",
          "position" : [
             "5.152149",
             "46.199616"
