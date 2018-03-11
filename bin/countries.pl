@@ -290,6 +290,9 @@ sub _n ($) {
 $Data->{areas}->{431}->{en_name} ||= 'Hawaii';
 $Data->{areas}->{431}->{en_short_name} ||= 'Hawaii';
 
+$Data->{areas}->{60}->{en_short_name} = 'South Korea';
+$Data->{areas}->{201}->{en_short_name} = 'North Korea';
+
 ## Historical
 delete $Data->{areas}->{325}; # Netherlands Antilles
 delete $Data->{areas}->{334}; # World
