@@ -4,7 +4,7 @@
          "code" : "AG",
          "code3" : "ATG",
          "en_name" : "Antigua and Barbuda",
-         "en_short_name" : "Antigua and Barbuda",
+         "en_short_name" : "AG",
          "gec" : "AC",
          "iso3166_numeric" : "028",
          "ja_name" : "アンティグア・バーブーダ",
@@ -13,12 +13,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_286.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/antigua/index.html",
          "position" : [
-            "17.060816",
-            "-61.796428"
+            "17.12",
+            "-61.85"
          ],
          "stanag" : "ATG",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
@@ -30,8 +29,8 @@
       "10" : {
          "code" : "QA",
          "code3" : "QAT",
-         "en_name" : "The State of Qatar",
-         "en_short_name" : "Qatar",
+         "en_name" : "Qatar",
+         "en_short_name" : "QA",
          "gec" : "QA",
          "iso3166_numeric" : "634",
          "ja_name" : "カタール国",
@@ -40,12 +39,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_048.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/quatar/index.html",
          "position" : [
-            "25.354826",
-            "51.183884"
+            "25.28",
+            "51.52"
          ],
          "stanag" : "QAT",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -57,8 +55,8 @@
       "100" : {
          "code" : "RS",
          "code3" : "SRB",
-         "en_name" : "The Republic of Serbia",
-         "en_short_name" : "Serbia",
+         "en_name" : "Serbia",
+         "en_short_name" : "RS",
          "gec" : "RI",
          "iso3166_numeric" : "688",
          "ja_name" : "セルビア共和国",
@@ -67,11 +65,10 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_175.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/serbia/index.html",
          "position" : [
-            "44.016521",
-            "21.005859"
+            "44.8",
+            "20.48"
          ],
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -83,8 +80,8 @@
       "101" : {
          "code" : "UZ",
          "code3" : "UZB",
-         "en_name" : "The Republic of Uzbekistan",
-         "en_short_name" : "Uzbekistan",
+         "en_name" : "Uzbekistan",
+         "en_short_name" : "UZ",
          "gec" : "UZ",
          "iso3166_numeric" : "860",
          "ja_name" : "ウズベキスタン共和国",
@@ -93,12 +90,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_183.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uzbekistan/index.html",
          "position" : [
-            "41.377491",
-            "64.585262"
+            "41.31",
+            "69.27"
          ],
          "stanag" : "UZB",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 143,
@@ -110,8 +106,8 @@
       "102" : {
          "code" : "NI",
          "code3" : "NIC",
-         "en_name" : "The Republic of Nicaragua",
-         "en_short_name" : "Nicaragua",
+         "en_name" : "Nicaragua",
+         "en_short_name" : "NI",
          "gec" : "NU",
          "iso3166_numeric" : "558",
          "ja_name" : "ニカラグア共和国",
@@ -120,12 +116,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_254.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nicaragua/index.html",
          "position" : [
-            "12.865416",
-            "-85.207229"
+            "12.15",
+            "-86.27"
          ],
          "stanag" : "NIC",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
@@ -137,8 +132,8 @@
       "103" : {
          "code" : "CM",
          "code3" : "CMR",
-         "en_name" : "The Republic of Cameroon",
-         "en_short_name" : "Cameroon",
+         "en_name" : "Cameroon",
+         "en_short_name" : "CM",
          "gec" : "CM",
          "iso3166_numeric" : "120",
          "ja_name" : "カメルーン共和国",
@@ -147,12 +142,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_098.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cameroon/index.html",
          "position" : [
-            "7.369722",
-            "12.354722"
+            "3.87",
+            "11.52"
          ],
          "stanag" : "CMR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
@@ -164,8 +158,8 @@
       "104" : {
          "code" : "ZM",
          "code3" : "ZMB",
-         "en_name" : "The Republic of Zambia",
-         "en_short_name" : "Zambia",
+         "en_name" : "Zambia",
+         "en_short_name" : "ZM",
          "gec" : "ZA",
          "iso3166_numeric" : "894",
          "ja_name" : "ザンビア共和国",
@@ -174,12 +168,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_104.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/zambia/index.html",
          "position" : [
-            "-13.133897",
-            "27.849332"
+            "-15.41",
+            "28.29"
          ],
          "stanag" : "ZMB",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -191,8 +184,8 @@
       "105" : {
          "code" : "MT",
          "code3" : "MLT",
-         "en_name" : "The Republic of Malta",
-         "en_short_name" : "Malta",
+         "en_name" : "Malta",
+         "en_short_name" : "MT",
          "gec" : "MT",
          "iso3166_numeric" : "470",
          "ja_name" : "マルタ共和国",
@@ -201,12 +194,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_195.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/malta/index.html",
          "position" : [
-            "35.937496",
-            "14.375416"
+            "35.9",
+            "14.52"
          ],
          "stanag" : "MLT",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -218,8 +210,8 @@
       "106" : {
          "code" : "SY",
          "code3" : "SYR",
-         "en_name" : "The Syrian Arab Republic",
-         "en_short_name" : "Syria",
+         "en_name" : "Syrian Arab Republic",
+         "en_short_name" : "SY",
          "gec" : "SY",
          "iso3166_numeric" : "760",
          "ja_name" : "シリア・アラブ共和国",
@@ -228,12 +220,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_051.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/syria/index.html",
          "position" : [
-            "34.802075",
-            "38.996815"
+            "33.52",
+            "36.31"
          ],
          "stanag" : "SYR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -245,8 +236,8 @@
       "107" : {
          "code" : "PT",
          "code3" : "PRT",
-         "en_name" : "The Portuguese Republic",
-         "en_short_name" : "Portugal",
+         "en_name" : "Portugal",
+         "en_short_name" : "PT",
          "gec" : "PO",
          "iso3166_numeric" : "620",
          "ja_name" : "ポルトガル共和国",
@@ -255,12 +246,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_174.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/portugal/index.html",
          "position" : [
-            "39.399872",
-            "-8.224454"
+            "38.71",
+            "-9.14"
          ],
          "stanag" : "PRT",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -272,8 +262,8 @@
       "108" : {
          "code" : "TN",
          "code3" : "TUN",
-         "en_name" : "The Tunisian Republic",
-         "en_short_name" : "Tunisia",
+         "en_name" : "Tunisia",
+         "en_short_name" : "TN",
          "gec" : "TS",
          "iso3166_numeric" : "788",
          "ja_name" : "チュニジア共和国",
@@ -282,12 +272,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_113.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tunisia/index.html",
          "position" : [
-            "33.886917",
-            "9.537499"
+            "36.82",
+            "10.17"
          ],
          "stanag" : "TUN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 15,
@@ -299,8 +288,8 @@
       "109" : {
          "code" : "LB",
          "code3" : "LBN",
-         "en_name" : "The Lebanese Republic",
-         "en_short_name" : "Lebanon",
+         "en_name" : "Lebanon",
+         "en_short_name" : "LB",
          "gec" : "LE",
          "iso3166_numeric" : "422",
          "ja_name" : "レバノン共和国",
@@ -309,12 +298,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_055.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/lebanon/index.html",
          "position" : [
-            "33.854721",
-            "35.862285"
+            "33.89",
+            "35.51"
          ],
          "stanag" : "LBN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -326,8 +314,8 @@
       "11" : {
          "code" : "VN",
          "code3" : "VNM",
-         "en_name" : "The Socialist Republic of Vietnam",
-         "en_short_name" : "Vietnam",
+         "en_name" : "Viet Nam",
+         "en_short_name" : "VN",
          "gec" : "VM",
          "iso3166_numeric" : "704",
          "ja_name" : "ベトナム社会主義共和国",
@@ -336,12 +324,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_015.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/vietnam/index.html",
          "position" : [
-            "14.058324",
-            "108.277199"
+            "21.02",
+            "105.85"
          ],
          "stanag" : "VNM",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
@@ -353,8 +340,8 @@
       "110" : {
          "code" : "PW",
          "code3" : "PLW",
-         "en_name" : "The Republic of Palau",
-         "en_short_name" : "Palau",
+         "en_name" : "Palau",
+         "en_short_name" : "PW",
          "gec" : "PS",
          "iso3166_numeric" : "585",
          "ja_name" : "パラオ共和国",
@@ -363,12 +350,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_272.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/palau/index.html",
          "position" : [
-            "7.51498",
-            "134.58252"
+            "7.34",
+            "134.48"
          ],
          "stanag" : "PLW",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 57,
@@ -380,8 +366,8 @@
       "111" : {
          "code" : "MC",
          "code3" : "MCO",
-         "en_name" : "The Principality of Monaco",
-         "en_short_name" : "Monaco",
+         "en_name" : "Monaco",
+         "en_short_name" : "MC",
          "gec" : "MN",
          "iso3166_numeric" : "492",
          "ja_name" : "モナコ公国",
@@ -390,12 +376,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_284.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/monaco/index.html",
          "position" : [
-            "43.750298",
-            "7.412841"
+            "43.75",
+            "7.42"
          ],
          "stanag" : "MCO",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
@@ -407,8 +392,8 @@
       "112" : {
          "code" : "CO",
          "code3" : "COL",
-         "en_name" : "The Republic of Colombia",
-         "en_short_name" : "Colombia",
+         "en_name" : "Colombia",
+         "en_short_name" : "CO",
          "gec" : "CO",
          "iso3166_numeric" : "170",
          "ja_name" : "コロンビア共和国",
@@ -417,12 +402,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_248.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/colombia/index.html",
          "position" : [
-            "4.570868",
-            "-74.297333"
+            "4.61",
+            "-74.08"
          ],
          "stanag" : "COL",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
@@ -434,8 +418,8 @@
       "113" : {
          "code" : "CN",
          "code3" : "CHN",
-         "en_name" : "The People's Republic of China",
-         "en_short_name" : "China",
+         "en_name" : "China",
+         "en_short_name" : "CN",
          "gec" : "CH",
          "iso3166_numeric" : "156",
          "ja_name" : "中華人民共和国",
@@ -444,12 +428,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_009.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/china/index.html",
          "position" : [
-            "35.86166",
-            "104.195397"
+            "39.91",
+            "116.4"
          ],
          "stanag" : "CHN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 30,
@@ -461,8 +444,8 @@
       "114" : {
          "code" : "LA",
          "code3" : "LAO",
-         "en_name" : "The Lao People's Democratic Republic",
-         "en_short_name" : "Laos",
+         "en_name" : "Lao People's Democratic Republic",
+         "en_short_name" : "LA",
          "gec" : "LA",
          "iso3166_numeric" : "418",
          "ja_name" : "ラオス人民民主共和国",
@@ -471,12 +454,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_020.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/laos/index.html",
          "position" : [
-            "19.85627",
-            "102.495496"
+            "17.96",
+            "102.61"
          ],
          "stanag" : "LAO",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
@@ -488,8 +470,8 @@
       "115" : {
          "code" : "CY",
          "code3" : "CYP",
-         "en_name" : "The Republic of Cyprus",
-         "en_short_name" : "Cyprus",
+         "en_name" : "Cyprus",
+         "en_short_name" : "CY",
          "gec" : "CY",
          "iso3166_numeric" : "196",
          "ja_name" : "キプロス共和国",
@@ -498,12 +480,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_193.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cyprus/index.html",
          "position" : [
-            "35.126413",
-            "33.429859"
+            "35.17",
+            "33.37"
          ],
          "stanag" : "CYP",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
@@ -516,7 +497,7 @@
          "code" : "SB",
          "code3" : "SLB",
          "en_name" : "Solomon Islands",
-         "en_short_name" : "Solomon Islands",
+         "en_short_name" : "SB",
          "gec" : "BP",
          "iso3166_numeric" : "090",
          "ja_name" : "ソロモン諸島",
@@ -525,12 +506,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_072.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/solomon/index.html",
          "position" : [
-            "-9.64571",
-            "160.156194"
+            "-9.43",
+            "159.95"
          ],
          "stanag" : "SLB",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 54,
@@ -542,8 +522,8 @@
       "117" : {
          "code" : "AU",
          "code3" : "AUS",
-         "en_name" : "The Commonwealth of Australia",
-         "en_short_name" : "Australia",
+         "en_name" : "Australia",
+         "en_short_name" : "AU",
          "gec" : "AS",
          "iso3166_numeric" : "036",
          "ja_name" : "オーストラリア連邦",
@@ -552,12 +532,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_071.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/australia/index.html",
          "position" : [
-            "-25.274398",
-            "133.775136"
+            "-35.33",
+            "149.08"
          ],
          "stanag" : "AUS",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 53,
@@ -569,8 +548,8 @@
       "118" : {
          "code" : "SC",
          "code3" : "SYC",
-         "en_name" : "The Republic of Seychelles",
-         "en_short_name" : "Seychelles",
+         "en_name" : "Seychelles",
+         "en_short_name" : "SC",
          "gec" : "SE",
          "iso3166_numeric" : "690",
          "ja_name" : "セーシェル共和国",
@@ -579,12 +558,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_108.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/seychelles/index.html",
          "position" : [
-            "-4.679574",
-            "55.491977"
+            "-4.61",
+            "55.44"
          ],
          "stanag" : "SYC",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -596,8 +574,8 @@
       "119" : {
          "code" : "SG",
          "code3" : "SGP",
-         "en_name" : "The Republic of Singapore",
-         "en_short_name" : "Singapore",
+         "en_name" : "Singapore",
+         "en_short_name" : "SG",
          "gec" : "SN",
          "iso3166_numeric" : "702",
          "ja_name" : "シンガポール共和国",
@@ -606,12 +584,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_005.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/singapore/index.html",
          "position" : [
-            "1.352083",
-            "103.819836"
+            "1.29",
+            "103.85"
          ],
          "stanag" : "SGP",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
@@ -624,7 +601,7 @@
          "code" : "ME",
          "code3" : "MNE",
          "en_name" : "Montenegro",
-         "en_short_name" : "Montenegro",
+         "en_short_name" : "ME",
          "gec" : "MJ",
          "iso3166_numeric" : "499",
          "ja_name" : "モンテネグロ",
@@ -633,12 +610,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_179.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/montenegro/index.html",
          "position" : [
-            "42.708678",
-            "19.37439"
+            "42.44",
+            "19.27"
          ],
          "stanag" : "MNE",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -651,7 +627,7 @@
          "code" : "UA",
          "code3" : "UKR",
          "en_name" : "Ukraine",
-         "en_short_name" : "Ukraine",
+         "en_short_name" : "UA",
          "gec" : "UP",
          "iso3166_numeric" : "804",
          "ja_name" : "ウクライナ",
@@ -660,12 +636,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_182.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ukraine/index.html",
          "position" : [
-            "48.379433",
-            "31.16558"
+            "50.45",
+            "30.5"
          ],
          "stanag" : "UKR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
@@ -677,8 +652,8 @@
       "121" : {
          "code" : "BO",
          "code3" : "BOL",
-         "en_name" : "The Plurinational State of Bolivia",
-         "en_short_name" : "Bolivia",
+         "en_name" : "Bolivia",
+         "en_short_name" : "BO",
          "gec" : "BL",
          "iso3166_numeric" : "068",
          "ja_name" : "ボリビア多民族国",
@@ -687,12 +662,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_262.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bolivia/index.html",
          "position" : [
-            "-16.290154",
-            "-63.588653"
+            "-16.5",
+            "-68.15"
          ],
          "stanag" : "BOL",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
@@ -730,8 +704,8 @@
       "123" : {
          "code" : "NA",
          "code3" : "NAM",
-         "en_name" : "The Republic of Namibia",
-         "en_short_name" : "Namibia",
+         "en_name" : "Namibia",
+         "en_short_name" : "NA",
          "gec" : "WA",
          "iso3166_numeric" : "516",
          "ja_name" : "ナミビア共和国",
@@ -740,12 +714,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_143.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/namibia/index.html",
          "position" : [
-            "-22.95764",
-            "18.49041"
+            "-22.57",
+            "17.07"
          ],
          "stanag" : "NAM",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 18,
@@ -757,8 +730,8 @@
       "124" : {
          "code" : "FM",
          "code3" : "FSM",
-         "en_name" : "The Federated States of Micronesia",
-         "en_short_name" : "Micronesia",
+         "en_name" : "Federated States of Micronesia",
+         "en_short_name" : "FM",
          "gec" : "FM",
          "iso3166_numeric" : "583",
          "ja_name" : "ミクロネシア連邦",
@@ -767,12 +740,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_270.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/micronesia/index.html",
          "position" : [
-            "7.425554",
-            "150.550812"
+            "6.92",
+            "158.19"
          ],
          "stanag" : "FSM",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 57,
@@ -785,7 +757,7 @@
          "code" : "HU",
          "code3" : "HUN",
          "en_name" : "Hungary",
-         "en_short_name" : "Hungary",
+         "en_short_name" : "HU",
          "gec" : "HU",
          "iso3166_numeric" : "348",
          "ja_name" : "ハンガリー",
@@ -794,12 +766,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_168.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/hungary/index.html",
          "position" : [
-            "47.162494",
-            "19.503304"
+            "47.5",
+            "19.04"
          ],
          "stanag" : "HUN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
@@ -811,8 +782,8 @@
       "126" : {
          "code" : "ID",
          "code3" : "IDN",
-         "en_name" : "The Republic of Indonesia",
-         "en_short_name" : "Indonesia",
+         "en_name" : "Indonesia",
+         "en_short_name" : "ID",
          "gec" : "ID",
          "iso3166_numeric" : "360",
          "ja_name" : "インドネシア共和国",
@@ -821,12 +792,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_002.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/indonesia/index.html",
          "position" : [
-            "-0.789275",
-            "113.921327"
+            "-6.21",
+            "106.85"
          ],
          "stanag" : "IDN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
@@ -838,20 +808,19 @@
       "127" : {
          "code" : "PS",
          "code3" : "PSE",
-         "en_name" : "The Occupied Palestinian Territories",
-         "en_short_name" : "Occupied Palestinian Territories",
+         "en_name" : "State of Palestine",
+         "en_short_name" : "State of Palestine",
          "gec" : "WE",
          "iso3166_numeric" : "275",
          "ja_name" : "パレスチナ自治政府",
          "ja_short_name" : "パレスチナ",
          "macroregion" : 142,
          "position" : [
-            "31.952162",
-            "35.233154"
+            "31.93",
+            "34.87"
          ],
          "stanag" : "PSE",
          "status" : {
-            "gb" : "other",
             "jp" : "other"
          },
          "submacroregion" : 145,
@@ -864,7 +833,7 @@
          "code" : "BA",
          "code3" : "BIH",
          "en_name" : "Bosnia and Herzegovina",
-         "en_short_name" : "Bosnia and Herzegovina",
+         "en_short_name" : "BA",
          "gec" : "BK",
          "iso3166_numeric" : "070",
          "ja_name" : "ボスニア・ヘルツェゴビナ",
@@ -873,12 +842,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_191.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bosnia_h/index.html",
          "position" : [
-            "43.915886",
-            "17.679076"
+            "43.86",
+            "18.41"
          ],
          "stanag" : "BIH",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -890,8 +858,8 @@
       "129" : {
          "code" : "NP",
          "code3" : "NPL",
-         "en_name" : "The Federal Democratic Republic of Nepal",
-         "en_short_name" : "Nepal",
+         "en_name" : "Nepal",
+         "en_short_name" : "NP",
          "gec" : "NP",
          "iso3166_numeric" : "524",
          "ja_name" : "ネパール連邦民主共和国",
@@ -900,12 +868,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_010.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nepal/index.html",
          "position" : [
-            "28.394857",
-            "84.124008"
+            "27.7",
+            "85.32"
          ],
          "stanag" : "NPL",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
@@ -917,8 +884,8 @@
       "13" : {
          "code" : "VA",
          "code3" : "VAT",
-         "en_name" : "The Vatican City",
-         "en_short_name" : "Vatican City",
+         "en_name" : "Holy See (Vatican City State)",
+         "en_short_name" : "VA",
          "gec" : "VT",
          "iso3166_numeric" : "336",
          "ja_name" : "バチカン市国",
@@ -927,12 +894,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_167.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/vatican/index.html",
          "position" : [
-            "41.902916",
-            "12.453389"
+            "41.9",
+            "12.45"
          ],
          "stanag" : "VAT",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -944,8 +910,8 @@
       "130" : {
          "code" : "MK",
          "code3" : "MKD",
-         "en_name" : "The Republic of Macedonia",
-         "en_short_name" : "Macedonia",
+         "en_name" : "The Former Yugoslav Republic of Macedonia",
+         "en_short_name" : "MK",
          "gec" : "MK",
          "iso3166_numeric" : "807",
          "ja_name" : "マケドニア旧ユーゴスラビア共和国",
@@ -954,12 +920,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_205.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/macedonia/index.html",
          "position" : [
-            "41.608635",
-            "21.745275"
+            "42",
+            "21.45"
          ],
          "stanag" : "FYR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -971,8 +936,8 @@
       "131" : {
          "code" : "SM",
          "code3" : "SMR",
-         "en_name" : "The Republic of San Marino",
-         "en_short_name" : "San Marino",
+         "en_name" : "San Marino",
+         "en_short_name" : "SM",
          "gec" : "SM",
          "iso3166_numeric" : "674",
          "ja_name" : "サンマリノ共和国",
@@ -981,12 +946,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_285.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/sanmarino_r/index.html",
          "position" : [
-            "43.94236",
-            "12.457777"
+            "43.96",
+            "12.46"
          ],
          "stanag" : "SMR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -998,8 +962,8 @@
       "132" : {
          "code" : "MR",
          "code3" : "MRT",
-         "en_name" : "The Islamic Republic of Mauritania",
-         "en_short_name" : "Mauritania",
+         "en_name" : "Mauritania",
+         "en_short_name" : "MR",
          "gec" : "MR",
          "iso3166_numeric" : "478",
          "ja_name" : "モーリタニア・イスラム共和国",
@@ -1008,12 +972,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_278.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mauritania/index.html",
          "position" : [
-            "21.00789",
-            "-10.940835"
+            "18.08",
+            "-15.98"
          ],
          "stanag" : "MRT",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -1025,8 +988,8 @@
       "133" : {
          "code" : "GN",
          "code3" : "GIN",
-         "en_name" : "The Republic of Guinea",
-         "en_short_name" : "Guinea",
+         "en_name" : "Guinea",
+         "en_short_name" : "GN",
          "gec" : "GV",
          "iso3166_numeric" : "324",
          "ja_name" : "ギニア共和国",
@@ -1035,12 +998,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_099.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guinea/index.html",
          "position" : [
-            "9.945587",
-            "-9.696645"
+            "9.54",
+            "-13.68"
          ],
          "stanag" : "GIN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -1052,8 +1014,8 @@
       "134" : {
          "code" : "CV",
          "code3" : "CPV",
-         "en_name" : "The Republic of Cabo Verde",
-         "en_short_name" : "Cape Verde",
+         "en_name" : "Cabo Verde",
+         "en_short_name" : "CV",
          "gec" : "CV",
          "iso3166_numeric" : "132",
          "ja_name" : "カーボヴェルデ共和国",
@@ -1062,12 +1024,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_275.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/capeverde/index.html",
          "position" : [
-            "16.002082",
-            "-24.013197"
+            "14.92",
+            "-23.52"
          ],
          "stanag" : "CPV",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -1079,8 +1040,8 @@
       "135" : {
          "code" : "SS",
          "code3" : "SSD",
-         "en_name" : "The Republic of South Sudan",
-         "en_short_name" : "South Sudan",
+         "en_name" : "South Sudan",
+         "en_short_name" : "SS",
          "gec" : "OD",
          "iso3166_numeric" : "728",
          "ja_name" : "南スーダン共和国",
@@ -1093,7 +1054,6 @@
             "31.60"
          ],
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
@@ -1105,8 +1065,8 @@
       "136" : {
          "code" : "PY",
          "code3" : "PRY",
-         "en_name" : "The Republic of Paraguay",
-         "en_short_name" : "Paraguay",
+         "en_name" : "Paraguay",
+         "en_short_name" : "PY",
          "gec" : "PA",
          "iso3166_numeric" : "600",
          "ja_name" : "パラグアイ共和国",
@@ -1115,12 +1075,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_258.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/paraguay/index.html",
          "position" : [
-            "-23.442503",
-            "-58.443832"
+            "-25.3",
+            "-57.64"
          ],
          "stanag" : "PRY",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
@@ -1132,8 +1091,8 @@
       "137" : {
          "code" : "HR",
          "code3" : "HRV",
-         "en_name" : "The Republic of Croatia",
-         "en_short_name" : "Croatia",
+         "en_name" : "Croatia",
+         "en_short_name" : "HR",
          "gec" : "HR",
          "iso3166_numeric" : "191",
          "ja_name" : "クロアチア共和国",
@@ -1142,12 +1101,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_188.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/croatia/index.html",
          "position" : [
-            "45.1",
-            "15.2"
+            "45.81",
+            "15.96"
          ],
          "stanag" : "HRV",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -1159,8 +1117,8 @@
       "138" : {
          "code" : "DZ",
          "code3" : "DZA",
-         "en_name" : "The People's Democratic Republic of Algeria",
-         "en_short_name" : "Algeria",
+         "en_name" : "Algeria",
+         "en_short_name" : "DZ",
          "gec" : "AG",
          "iso3166_numeric" : "012",
          "ja_name" : "アルジェリア民主人民共和国",
@@ -1169,12 +1127,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_091.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/algeria/index.html",
          "position" : [
-            "28.033886",
-            "1.659626"
+            "36.75",
+            "3.04"
          ],
          "stanag" : "DZA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 15,
@@ -1186,8 +1143,8 @@
       "139" : {
          "code" : "JO",
          "code3" : "JOR",
-         "en_name" : "The Hashemite Kingdom of Jordan",
-         "en_short_name" : "Jordan",
+         "en_name" : "Jordan",
+         "en_short_name" : "JO",
          "gec" : "JO",
          "iso3166_numeric" : "400",
          "ja_name" : "ヨルダン・ハシェミット王国",
@@ -1196,12 +1153,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_054.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/jordan/index.html",
          "position" : [
-            "30.585164",
-            "36.238414"
+            "31.95",
+            "35.93"
          ],
          "stanag" : "JOR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -1214,7 +1170,7 @@
          "code" : "JM",
          "code3" : "JAM",
          "en_name" : "Jamaica",
-         "en_short_name" : "Jamaica",
+         "en_short_name" : "JM",
          "gec" : "JM",
          "iso3166_numeric" : "388",
          "ja_name" : "ジャマイカ",
@@ -1223,12 +1179,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_249.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/jamaica/index.html",
          "position" : [
-            "18.109581",
-            "-77.297508"
+            "17.98",
+            "-76.8"
          ],
          "stanag" : "JAM",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
@@ -1238,8 +1193,8 @@
          "wref_ja" : "ジャマイカ"
       },
       "140" : {
-         "en_name" : "The Republic of Kosovo",
-         "en_short_name" : "Kosovo",
+         "en_name" : "Kosovo",
+         "en_short_name" : "XK",
          "gec" : "KV",
          "ja_name" : "コソボ共和国",
          "ja_short_name" : "コソボ",
@@ -1249,7 +1204,6 @@
             "21.17"
          ],
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/kv.html"
@@ -1257,8 +1211,8 @@
       "141" : {
          "code" : "TG",
          "code3" : "TGO",
-         "en_name" : "The Togolese Republic",
-         "en_short_name" : "Togo",
+         "en_name" : "Togo",
+         "en_short_name" : "TG",
          "gec" : "TO",
          "iso3166_numeric" : "768",
          "ja_name" : "トーゴ共和国",
@@ -1267,12 +1221,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_114.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/togo/index.html",
          "position" : [
-            "8.619543",
-            "0.824782"
+            "6.12",
+            "1.23"
          ],
          "stanag" : "TGO",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -1284,8 +1237,8 @@
       "142" : {
          "code" : "PG",
          "code3" : "PNG",
-         "en_name" : "The Independent State of Papua New Guinea",
-         "en_short_name" : "Papua New Guinea",
+         "en_name" : "Papua New Guinea",
+         "en_short_name" : "PG",
          "gec" : "PP",
          "iso3166_numeric" : "598",
          "ja_name" : "パプアニューギニア独立国",
@@ -1294,12 +1247,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_075.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/png/index.html",
          "position" : [
-            "-6.314993",
-            "143.95555"
+            "-9.48",
+            "147.19"
          ],
          "stanag" : "PNG",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 54,
@@ -1311,8 +1263,8 @@
       "143" : {
          "code" : "AO",
          "code3" : "AGO",
-         "en_name" : "The Republic of Angola",
-         "en_short_name" : "Angola",
+         "en_name" : "Angola",
+         "en_short_name" : "AO",
          "gec" : "AO",
          "iso3166_numeric" : "024",
          "ja_name" : "アンゴラ共和国",
@@ -1321,12 +1273,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_092.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/angola/index.html",
          "position" : [
-            "-11.202692",
-            "17.873887"
+            "-8.81",
+            "13.24"
          ],
          "stanag" : "AGO",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
@@ -1338,8 +1289,8 @@
       "144" : {
          "code" : "BI",
          "code3" : "BDI",
-         "en_name" : "The Republic of Burundi",
-         "en_short_name" : "Burundi",
+         "en_name" : "Burundi",
+         "en_short_name" : "BI",
          "gec" : "BY",
          "iso3166_numeric" : "108",
          "ja_name" : "ブルンジ共和国",
@@ -1348,12 +1299,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_127.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/brundi/index.html",
          "position" : [
-            "-3.373056",
-            "29.918886"
+            "-3.38",
+            "29.36"
          ],
          "stanag" : "BDI",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -1365,8 +1315,8 @@
       "145" : {
          "code" : "LR",
          "code3" : "LBR",
-         "en_name" : "The Republic of Liberia",
-         "en_short_name" : "Liberia",
+         "en_name" : "Liberia",
+         "en_short_name" : "LR",
          "gec" : "LI",
          "iso3166_numeric" : "430",
          "ja_name" : "リベリア共和国",
@@ -1375,12 +1325,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_126.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/liberia/index.html",
          "position" : [
-            "6.428055",
-            "-9.429499"
+            "6.3",
+            "-10.8"
          ],
          "stanag" : "LBR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -1392,8 +1341,8 @@
       "146" : {
          "code" : "RU",
          "code3" : "RUS",
-         "en_name" : "The Russian Federation",
-         "en_short_name" : "Russia",
+         "en_name" : "Russian Federation",
+         "en_short_name" : "RU",
          "gec" : "RS",
          "iso3166_numeric" : "643",
          "ja_name" : "ロシア連邦",
@@ -1402,12 +1351,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_178.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/russia/index.html",
          "position" : [
-            "61.52401",
-            "105.318756"
+            "55.76",
+            "37.62"
          ],
          "stanag" : "RUS",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
@@ -1419,8 +1367,8 @@
       "147" : {
          "code" : "DK",
          "code3" : "DNK",
-         "en_name" : "The Kingdom of Denmark",
-         "en_short_name" : "Denmark",
+         "en_name" : "Denmark",
+         "en_short_name" : "DK",
          "gec" : "DA",
          "iso3166_numeric" : "208",
          "ja_name" : "デンマーク王国",
@@ -1429,12 +1377,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_164.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/denmark/index.html",
          "position" : [
-            "56.26392",
-            "9.501785"
+            "55.68",
+            "12.57"
          ],
          "stanag" : "DNK",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
@@ -1446,8 +1393,8 @@
       "148" : {
          "code" : "BD",
          "code3" : "BGD",
-         "en_name" : "The People's Republic of Bangladesh",
-         "en_short_name" : "Bangladesh",
+         "en_name" : "Bangladesh",
+         "en_short_name" : "BD",
          "gec" : "BG",
          "iso3166_numeric" : "050",
          "ja_name" : "バングラデシュ人民共和国",
@@ -1456,12 +1403,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_012.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bangladesh/index.html",
          "position" : [
-            "23.684994",
-            "90.356331"
+            "23.71",
+            "90.41"
          ],
          "stanag" : "BGD",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
@@ -1473,8 +1419,8 @@
       "149" : {
          "code" : "IR",
          "code3" : "IRN",
-         "en_name" : "The Islamic Republic of Iran",
-         "en_short_name" : "Iran",
+         "en_name" : "Islamic Republic of Iran",
+         "en_short_name" : "IR",
          "gec" : "IR",
          "iso3166_numeric" : "364",
          "ja_name" : "イラン・イスラム共和国",
@@ -1483,12 +1429,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_046.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/iran/index.html",
          "position" : [
-            "32.427908",
-            "53.688046"
+            "35.7",
+            "51.42"
          ],
          "stanag" : "IRN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
@@ -1500,8 +1445,8 @@
       "15" : {
          "code" : "LV",
          "code3" : "LVA",
-         "en_name" : "The Republic of Latvia",
-         "en_short_name" : "Latvia",
+         "en_name" : "Latvia",
+         "en_short_name" : "LV",
          "gec" : "LG",
          "iso3166_numeric" : "428",
          "ja_name" : "ラトビア共和国",
@@ -1510,12 +1455,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_186.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/latvia/index.html",
          "position" : [
-            "56.879635",
-            "24.603189"
+            "56.95",
+            "24.09"
          ],
          "stanag" : "LVA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
@@ -1527,8 +1471,8 @@
       "150" : {
          "code" : "LS",
          "code3" : "LSO",
-         "en_name" : "The Kingdom of Lesotho",
-         "en_short_name" : "Lesotho",
+         "en_name" : "Lesotho",
+         "en_short_name" : "LS",
          "gec" : "LT",
          "iso3166_numeric" : "426",
          "ja_name" : "レソト王国",
@@ -1537,12 +1481,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_130.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/lesotho/index.html",
          "position" : [
-            "-29.609988",
-            "28.233608"
+            "-29.31",
+            "27.49"
          ],
          "stanag" : "LSO",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 18,
@@ -1554,8 +1497,8 @@
       "151" : {
          "code" : "MZ",
          "code3" : "MOZ",
-         "en_name" : "The Republic of Mozambique",
-         "en_short_name" : "Mozambique",
+         "en_name" : "Mozambique",
+         "en_short_name" : "MZ",
          "gec" : "MZ",
          "iso3166_numeric" : "508",
          "ja_name" : "モザンビーク共和国",
@@ -1564,12 +1507,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_123.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mozambique/index.html",
          "position" : [
-            "-18.665695",
-            "35.529562"
+            "-25.97",
+            "32.57"
          ],
          "stanag" : "MOZ",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -1581,8 +1523,8 @@
       "152" : {
          "code" : "ZA",
          "code3" : "ZAF",
-         "en_name" : "The Republic of South Africa",
-         "en_short_name" : "South Africa",
+         "en_name" : "South Africa",
+         "en_short_name" : "ZA",
          "gec" : "SF",
          "iso3166_numeric" : "710",
          "ja_name" : "南アフリカ共和国",
@@ -1591,12 +1533,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_122.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/s_africa/index.html",
          "position" : [
-            "-30.559482",
-            "22.937506"
+            "-25.73",
+            "28.22"
          ],
          "stanag" : "ZAF",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 18,
@@ -1608,8 +1549,8 @@
       "153" : {
          "code" : "MU",
          "code3" : "MUS",
-         "en_name" : "The Republic of Mauritius",
-         "en_short_name" : "Mauritius",
+         "en_name" : "Mauritius",
+         "en_short_name" : "MU",
          "gec" : "MP",
          "iso3166_numeric" : "480",
          "ja_name" : "モーリシャス共和国",
@@ -1618,12 +1559,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_279.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mauritius/index.html",
          "position" : [
-            "-20.348404",
-            "57.552152"
+            "-20.17",
+            "57.5"
          ],
          "stanag" : "MUS",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -1635,8 +1575,8 @@
       "154" : {
          "code" : "AD",
          "code3" : "AND",
-         "en_name" : "The Principality of Andorra",
-         "en_short_name" : "Andorra",
+         "en_name" : "Andorra",
+         "en_short_name" : "AD",
          "gec" : "AN",
          "iso3166_numeric" : "020",
          "ja_name" : "アンドラ公国",
@@ -1645,12 +1585,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_297.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/andorra/index.html",
          "position" : [
-            "42.546245",
-            "1.601554"
+            "42.5",
+            "1.52"
          ],
          "stanag" : "AND",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -1662,8 +1601,8 @@
       "155" : {
          "code" : "AR",
          "code3" : "ARG",
-         "en_name" : "The Argentine Republic",
-         "en_short_name" : "Argentina",
+         "en_name" : "Argentina",
+         "en_short_name" : "AR",
          "gec" : "AR",
          "iso3166_numeric" : "032",
          "ja_name" : "アルゼンチン共和国",
@@ -1672,12 +1611,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_241.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/argentine/index.html",
          "position" : [
-            "-38.416097",
-            "-63.616672"
+            "-34.61",
+            "-58.42"
          ],
          "stanag" : "ARG",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
@@ -1689,8 +1627,8 @@
       "156" : {
          "code" : "VE",
          "code3" : "VEN",
-         "en_name" : "The Bolivarian Republic of Venezuela",
-         "en_short_name" : "Venezuela",
+         "en_name" : "Venezuela",
+         "en_short_name" : "VE",
          "gec" : "VE",
          "iso3166_numeric" : "862",
          "ja_name" : "ベネズエラ・ボリバル共和国",
@@ -1699,12 +1637,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_260.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/venezuela/index.html",
          "position" : [
-            "6.42375",
-            "-66.58973"
+            "10.49",
+            "-66.9"
          ],
          "stanag" : "VEN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
@@ -1716,8 +1653,8 @@
       "157" : {
          "code" : "LT",
          "code3" : "LTU",
-         "en_name" : "The Republic of Lithuania",
-         "en_short_name" : "Lithuania",
+         "en_name" : "Lithuania",
+         "en_short_name" : "LT",
          "gec" : "LH",
          "iso3166_numeric" : "440",
          "ja_name" : "リトアニア共和国",
@@ -1726,12 +1663,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_192.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/lithuania/index.html",
          "position" : [
-            "55.169438",
-            "23.881275"
+            "54.68",
+            "25.28"
          ],
          "stanag" : "LTU",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
@@ -1744,7 +1680,7 @@
          "code" : "MY",
          "code3" : "MYS",
          "en_name" : "Malaysia",
-         "en_short_name" : "Malaysia",
+         "en_short_name" : "MY",
          "gec" : "MY",
          "iso3166_numeric" : "458",
          "ja_name" : "マレーシア",
@@ -1753,12 +1689,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_017.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/malaysia/index.html",
          "position" : [
-            "4.210484",
-            "101.975766"
+            "3.15",
+            "101.71"
          ],
          "stanag" : "MYS",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
@@ -1770,8 +1705,8 @@
       "159" : {
          "code" : "KI",
          "code3" : "KIR",
-         "en_name" : "The Republic of Kiribati",
-         "en_short_name" : "Kiribati",
+         "en_name" : "Kiribati",
+         "en_short_name" : "KI",
          "gec" : "KR",
          "iso3166_numeric" : "296",
          "ja_name" : "キリバス共和国",
@@ -1780,12 +1715,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_268.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kiribati/index.html",
          "position" : [
-            "-3.370417",
-            "-168.734039"
+            "1.47",
+            "173.03"
          ],
          "stanag" : "KIR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 57,
@@ -1797,8 +1731,8 @@
       "16" : {
          "code" : "SA",
          "code3" : "SAU",
-         "en_name" : "The Kingdom of Saudi Arabia",
-         "en_short_name" : "Saudi Arabia",
+         "en_name" : "Saudi Arabia",
+         "en_short_name" : "SA",
          "gec" : "SA",
          "iso3166_numeric" : "682",
          "ja_name" : "サウジアラビア王国",
@@ -1807,12 +1741,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_050.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/saudi/index.html",
          "position" : [
-            "23.885942",
-            "45.079162"
+            "24.64",
+            "46.72"
          ],
          "stanag" : "SAU",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -1851,8 +1784,8 @@
       "161" : {
          "code" : "EC",
          "code3" : "ECU",
-         "en_name" : "The Republic of Ecuador",
-         "en_short_name" : "Ecuador",
+         "en_name" : "Ecuador",
+         "en_short_name" : "EC",
          "gec" : "EC",
          "iso3166_numeric" : "218",
          "ja_name" : "エクアドル共和国",
@@ -1861,12 +1794,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_243.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ecuador/index.html",
          "position" : [
-            "-1.831239",
-            "-78.183406"
+            "-0.15",
+            "-78.35"
          ],
          "stanag" : "ECU",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
@@ -1878,8 +1810,8 @@
       "162" : {
          "code" : "NE",
          "code3" : "NER",
-         "en_name" : "The Republic of Niger",
-         "en_short_name" : "Niger",
+         "en_name" : "Niger",
+         "en_short_name" : "NE",
          "gec" : "NG",
          "iso3166_numeric" : "562",
          "ja_name" : "ニジェール共和国",
@@ -1888,12 +1820,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_116.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/niger/index.html",
          "position" : [
-            "17.607789",
-            "8.081666"
+            "13.52",
+            "2.12"
          ],
          "stanag" : "NER",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -1905,8 +1836,8 @@
       "163" : {
          "code" : "YE",
          "code3" : "YEM",
-         "en_name" : "The Republic of Yemen",
-         "en_short_name" : "Yemen",
+         "en_name" : "Yemen",
+         "en_short_name" : "YE",
          "gec" : "YM",
          "iso3166_numeric" : "887",
          "ja_name" : "イエメン共和国",
@@ -1915,12 +1846,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_043.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/yemen/index.html",
          "position" : [
-            "15.552727",
-            "48.516388"
+            "15.8",
+            "47.9"
          ],
          "stanag" : "YEM",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -1932,8 +1862,8 @@
       "164" : {
          "code" : "MV",
          "code3" : "MDV",
-         "en_name" : "The Republic of Maldives",
-         "en_short_name" : "Maldives",
+         "en_name" : "Maldives",
+         "en_short_name" : "MV",
          "gec" : "MV",
          "iso3166_numeric" : "462",
          "ja_name" : "モルディブ共和国",
@@ -1942,12 +1872,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_024.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/maldives/index.html",
          "position" : [
-            "3.202778",
-            "73.22068"
+            "4.17",
+            "73.51"
          ],
          "stanag" : "MDV",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
@@ -1959,8 +1888,8 @@
       "165" : {
          "code" : "ER",
          "code3" : "ERI",
-         "en_name" : "The State of Eritrea",
-         "en_short_name" : "Eritrea",
+         "en_name" : "Eritrea",
+         "en_short_name" : "ER",
          "gec" : "ER",
          "iso3166_numeric" : "232",
          "ja_name" : "エリトリア国",
@@ -1969,12 +1898,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_139.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/eritrea/index.html",
          "position" : [
-            "15.179384",
-            "39.782334"
+            "15.33",
+            "38.93"
          ],
          "stanag" : "ERI",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -1986,8 +1914,8 @@
       "166" : {
          "code" : "TW",
          "code3" : "TWN",
-         "en_name" : "The Republic of China",
-         "en_short_name" : "Taiwan",
+         "en_name" : "Taiwan, Province of China",
+         "en_short_name" : "Taiwan, Province of China",
          "gec" : "TW",
          "iso3166_numeric" : "158",
          "ja_name" : "中華民国",
@@ -1996,12 +1924,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_008.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/taiwan/index.html",
          "position" : [
-            "23.69781",
-            "120.960515"
+            "25.04",
+            "121.50"
          ],
          "stanag" : "TWN",
          "status" : {
-            "gb" : "other",
             "jp" : "other"
          },
          "submacroregion" : 30,
@@ -2013,8 +1940,8 @@
       "167" : {
          "code" : "IS",
          "code3" : "ISL",
-         "en_name" : "The Republic of Iceland",
-         "en_short_name" : "Iceland",
+         "en_name" : "Iceland",
+         "en_short_name" : "IS",
          "gec" : "IC",
          "iso3166_numeric" : "352",
          "ja_name" : "アイスランド共和国",
@@ -2023,12 +1950,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_282.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/iceland/index.html",
          "position" : [
-            "64.963051",
-            "-19.020835"
+            "64.14",
+            "-21.9"
          ],
          "stanag" : "ISL",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
@@ -2040,8 +1966,8 @@
       "168" : {
          "code" : "BG",
          "code3" : "BGR",
-         "en_name" : "The Republic of Bulgaria",
-         "en_short_name" : "Bulgaria",
+         "en_name" : "Bulgaria",
+         "en_short_name" : "BG",
          "gec" : "BU",
          "iso3166_numeric" : "100",
          "ja_name" : "ブルガリア共和国",
@@ -2050,12 +1976,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_171.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bulgaria/index.html",
          "position" : [
-            "42.733883",
-            "25.48583"
+            "42.71",
+            "23.32"
          ],
          "stanag" : "BGR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
@@ -2067,8 +1992,8 @@
       "169" : {
          "code" : "DO",
          "code3" : "DOM",
-         "en_name" : "The Dominican Republic",
-         "en_short_name" : "Dominican Republic",
+         "en_name" : "Dominican Republic",
+         "en_short_name" : "DO",
          "gec" : "DR",
          "iso3166_numeric" : "214",
          "ja_name" : "ドミニカ共和国",
@@ -2077,12 +2002,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_252.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/dominican_r/index.html",
          "position" : [
-            "18.735693",
-            "-70.162651"
+            "18.48",
+            "-69.92"
          ],
          "stanag" : "DOM",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
@@ -2095,7 +2019,7 @@
          "code" : "TV",
          "code3" : "TUV",
          "en_name" : "Tuvalu",
-         "en_short_name" : "Tuvalu",
+         "en_short_name" : "TV",
          "gec" : "TV",
          "iso3166_numeric" : "798",
          "ja_name" : "ツバル",
@@ -2104,12 +2028,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_274.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tuvalu/index.html",
          "position" : [
-            "-7.109535",
-            "177.64933"
+            "-8.51",
+            "179.18"
          ],
          "stanag" : "TUV",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 61,
@@ -2121,8 +2044,8 @@
       "170" : {
          "code" : "US",
          "code3" : "USA",
-         "en_name" : "The United States of America",
-         "en_short_name" : "United States",
+         "en_name" : "United States",
+         "en_short_name" : "US",
          "gec" : "US",
          "iso3166_numeric" : "840",
          "ja_name" : "アメリカ合衆国",
@@ -2131,12 +2054,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_221.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/usa/index.html",
          "position" : [
-            "37.09024",
-            "-95.712891"
+            "38.88",
+            "-77.03"
          ],
          "stanag" : "USA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 21,
@@ -2148,8 +2070,8 @@
       "171" : {
          "code" : "BT",
          "code3" : "BTN",
-         "en_name" : "The Kingdom of Bhutan",
-         "en_short_name" : "Bhutan",
+         "en_name" : "Bhutan",
+         "en_short_name" : "BT",
          "gec" : "BT",
          "iso3166_numeric" : "064",
          "ja_name" : "ブータン王国",
@@ -2158,12 +2080,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_039.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bhutan/index.html",
          "position" : [
-            "27.514162",
-            "90.433601"
+            "27.44",
+            "89.67"
          ],
          "stanag" : "BTN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
@@ -2175,8 +2096,8 @@
       "172" : {
          "code" : "EE",
          "code3" : "EST",
-         "en_name" : "The Republic of Estonia",
-         "en_short_name" : "Estonia",
+         "en_name" : "Estonia",
+         "en_short_name" : "EE",
          "gec" : "EN",
          "iso3166_numeric" : "233",
          "ja_name" : "エストニア共和国",
@@ -2185,12 +2106,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_155.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/estonia/index.html",
          "position" : [
-            "58.595272",
-            "25.013607"
+            "59.43",
+            "24.73"
          ],
          "stanag" : "EST",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
@@ -2202,8 +2122,8 @@
       "173" : {
          "code" : "UG",
          "code3" : "UGA",
-         "en_name" : "The Republic of Uganda",
-         "en_short_name" : "Uganda",
+         "en_name" : "Uganda",
+         "en_short_name" : "UG",
          "gec" : "UG",
          "iso3166_numeric" : "800",
          "ja_name" : "ウガンダ共和国",
@@ -2212,12 +2132,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_093.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uganda/index.html",
          "position" : [
-            "1.373333",
-            "32.290275"
+            "0.31",
+            "32.57"
          ],
          "stanag" : "UGA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -2229,8 +2148,8 @@
       "174" : {
          "code" : "CI",
          "code3" : "CIV",
-         "en_name" : "The Republic of Cote D'Ivoire",
-         "en_short_name" : "Ivory Coast",
+         "en_name" : "Côte d'Ivoire",
+         "en_short_name" : "CI",
          "gec" : "IV",
          "iso3166_numeric" : "384",
          "ja_name" : "コートジボワール共和国",
@@ -2239,12 +2158,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_101.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cote_d/index.html",
          "position" : [
-            "7.539989",
-            "-5.54708"
+            "6.82",
+            "-5.28"
          ],
          "stanag" : "CIV",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -2282,8 +2200,8 @@
       "176" : {
          "code" : "AM",
          "code3" : "ARM",
-         "en_name" : "The Republic of Armenia",
-         "en_short_name" : "Armenia",
+         "en_name" : "Armenia",
+         "en_short_name" : "AM",
          "gec" : "AM",
          "iso3166_numeric" : "051",
          "ja_name" : "アルメニア共和国",
@@ -2292,12 +2210,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_199.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/armenia/index.html",
          "position" : [
-            "40.069099",
-            "45.038189"
+            "40.16",
+            "44.51"
          ],
          "stanag" : "ARM",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -2309,8 +2226,8 @@
       "177" : {
          "code" : "PK",
          "code3" : "PAK",
-         "en_name" : "The Islamic Republic of Pakistan",
-         "en_short_name" : "Pakistan",
+         "en_name" : "Pakistan",
+         "en_short_name" : "PK",
          "gec" : "PK",
          "iso3166_numeric" : "586",
          "ja_name" : "パキスタン・イスラム共和国",
@@ -2319,12 +2236,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_011.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/pakistan/index.html",
          "position" : [
-            "30.375321",
-            "69.345116"
+            "33.72",
+            "73.06"
          ],
          "stanag" : "PAK",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
@@ -2336,8 +2252,8 @@
       "178" : {
          "code" : "AL",
          "code3" : "ALB",
-         "en_name" : "The Republic of Albania",
-         "en_short_name" : "Albania",
+         "en_name" : "Albania",
+         "en_short_name" : "AL",
          "gec" : "AL",
          "iso3166_numeric" : "008",
          "ja_name" : "アルバニア共和国",
@@ -2346,12 +2262,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_196.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/albania/index.html",
          "position" : [
-            "41.153332",
-            "20.168331"
+            "41.33",
+            "19.83"
          ],
          "stanag" : "ALB",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -2363,8 +2278,8 @@
       "179" : {
          "code" : "FI",
          "code3" : "FIN",
-         "en_name" : "The Republic of Finland",
-         "en_short_name" : "Finland",
+         "en_name" : "Finland",
+         "en_short_name" : "FI",
          "gec" : "FI",
          "iso3166_numeric" : "246",
          "ja_name" : "フィンランド共和国",
@@ -2373,12 +2288,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_169.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/finland/index.html",
          "position" : [
-            "61.92411",
-            "25.748151"
+            "60.16",
+            "24.95"
          ],
          "stanag" : "FIN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
@@ -2390,8 +2304,8 @@
       "18" : {
          "code" : "BJ",
          "code3" : "BEN",
-         "en_name" : "The Republic of Benin",
-         "en_short_name" : "Benin",
+         "en_name" : "Benin",
+         "en_short_name" : "BJ",
          "gec" : "BN",
          "iso3166_numeric" : "204",
          "ja_name" : "ベナン共和国",
@@ -2400,12 +2314,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_118.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/benin/index.html",
          "position" : [
-            "9.30769",
-            "2.315834"
+            "6.48",
+            "2.63"
          ],
          "stanag" : "BEN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -2418,7 +2331,7 @@
          "code" : "LY",
          "code3" : "LBY",
          "en_name" : "Libya",
-         "en_short_name" : "Libya",
+         "en_short_name" : "LY",
          "gec" : "LY",
          "iso3166_numeric" : "434",
          "ja_name" : "リビア",
@@ -2427,12 +2340,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_125.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/libya/index.html",
          "position" : [
-            "26.3351",
-            "17.228331"
+            "32.88",
+            "13.19"
          ],
          "stanag" : "LBY",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 15,
@@ -2444,8 +2356,8 @@
       "181" : {
          "code" : "DE",
          "code3" : "DEU",
-         "en_name" : "The Federal Republic of Germany",
-         "en_short_name" : "Germany",
+         "en_name" : "Germany",
+         "en_short_name" : "DE",
          "gec" : "GM",
          "iso3166_numeric" : "276",
          "ja_name" : "ドイツ連邦共和国",
@@ -2454,12 +2366,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_165.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/germany/index.html",
          "position" : [
-            "51.165691",
-            "10.451526"
+            "52.52",
+            "13.41"
          ],
          "stanag" : "DEU",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
@@ -2471,8 +2382,8 @@
       "182" : {
          "code" : "NR",
          "code3" : "NRU",
-         "en_name" : "The Republic of Nauru",
-         "en_short_name" : "Nauru",
+         "en_name" : "Nauru",
+         "en_short_name" : "NR",
          "gec" : "NR",
          "iso3166_numeric" : "520",
          "ja_name" : "ナウル共和国",
@@ -2481,12 +2392,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_271.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nauru/index.html",
          "position" : [
-            "-0.522778",
-            "166.931503"
+            "-0.53",
+            "166.92"
          ],
          "stanag" : "NRU",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 57,
@@ -2498,8 +2408,8 @@
       "183" : {
          "code" : "KN",
          "code3" : "KNA",
-         "en_name" : "The Federation of Saint Christopher and Nevis",
-         "en_short_name" : "St Kitts and Nevis",
+         "en_name" : "Saint Kitts and Nevis",
+         "en_short_name" : "KN",
          "gec" : "SC",
          "iso3166_numeric" : "659",
          "ja_name" : "セントクリストファー・ネーヴィス",
@@ -2508,12 +2418,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_291.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/scn/index.html",
          "position" : [
-            "17.357822",
-            "-62.782998"
+            "17.3",
+            "-62.73"
          ],
          "stanag" : "KNA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
@@ -2526,7 +2435,7 @@
          "code" : "NZ",
          "code3" : "NZL",
          "en_name" : "New Zealand",
-         "en_short_name" : "New Zealand",
+         "en_short_name" : "NZ",
          "gec" : "NZ",
          "iso3166_numeric" : "554",
          "ja_name" : "ニュージーランド",
@@ -2535,12 +2444,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_074.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nz/index.html",
          "position" : [
-            "-40.900557",
-            "174.885971"
+            "-41.32",
+            "174.78"
          ],
          "stanag" : "NZL",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 53,
@@ -2553,7 +2461,7 @@
          "code" : "BN",
          "code3" : "BRN",
          "en_name" : "Brunei Darussalam",
-         "en_short_name" : "Brunei",
+         "en_short_name" : "BN",
          "gec" : "BX",
          "iso3166_numeric" : "096",
          "ja_name" : "ブルネイ・ダルサラーム国",
@@ -2562,12 +2470,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_014.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/brunei/index.html",
          "position" : [
-            "4.535277",
-            "114.727669"
+            "4.94",
+            "114.95"
          ],
          "stanag" : "BRN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
@@ -2579,8 +2486,8 @@
       "186" : {
          "code" : "GT",
          "code3" : "GTM",
-         "en_name" : "The Republic of Guatemala",
-         "en_short_name" : "Guatemala",
+         "en_name" : "Guatemala",
+         "en_short_name" : "GT",
          "gec" : "GT",
          "iso3166_numeric" : "320",
          "ja_name" : "グアテマラ共和国",
@@ -2589,12 +2496,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_246.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guatemala/index.html",
          "position" : [
-            "15.783471",
-            "-90.230759"
+            "14.63",
+            "-90.5"
          ],
          "stanag" : "GTM",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
@@ -2606,8 +2512,8 @@
       "187" : {
          "code" : "BS",
          "code3" : "BHS",
-         "en_name" : "The Commonwealth of The Bahamas",
-         "en_short_name" : "Bahamas, The",
+         "en_name" : "Bahamas",
+         "en_short_name" : "BS",
          "gec" : "BF",
          "iso3166_numeric" : "044",
          "ja_name" : "バハマ国",
@@ -2616,12 +2522,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_257.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bahama/index.html",
          "position" : [
-            "25.03428",
-            "-77.39628"
+            "25.07",
+            "-77.34"
          ],
          "stanag" : "BHS",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
@@ -2633,8 +2538,8 @@
       "188" : {
          "code" : "MM",
          "code3" : "MMR",
-         "en_name" : "The Republic of the Union of Myanmar",
-         "en_short_name" : "Burma",
+         "en_name" : "Myanmar",
+         "en_short_name" : "MM",
          "gec" : "BM",
          "iso3166_numeric" : "104",
          "ja_name" : "ミャンマー連邦共和国",
@@ -2643,12 +2548,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_018.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/myanmar/index.html",
          "position" : [
-            "21.913965",
-            "95.956223"
+            "16.78",
+            "96.16"
          ],
          "stanag" : "MMR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
@@ -2660,8 +2564,8 @@
       "189" : {
          "code" : "ST",
          "code3" : "STP",
-         "en_name" : "The Democratic Republic of Sao Tome and Principe",
-         "en_short_name" : "Sao Tome and Principe",
+         "en_name" : "Sao Tome and Principe",
+         "en_short_name" : "ST",
          "gec" : "TP",
          "iso3166_numeric" : "678",
          "ja_name" : "サントメ・プリンシペ民主共和国",
@@ -2670,12 +2574,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_280.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/stp/index.html",
          "position" : [
-            "0.18636",
-            "6.613081"
+            "0.34",
+            "6.73"
          ],
          "stanag" : "STP",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
@@ -2687,8 +2590,8 @@
       "19" : {
          "code" : "NL",
          "code3" : "NLD",
-         "en_name" : "The Kingdom of the Netherlands",
-         "en_short_name" : "Netherlands",
+         "en_name" : "Netherlands",
+         "en_short_name" : "NL",
          "gec" : "NL",
          "iso3166_numeric" : "528",
          "ja_name" : "オランダ王国",
@@ -2697,12 +2600,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_157.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/netherlands/index.html",
          "position" : [
-            "52.132633",
-            "5.291266"
+            "52.37",
+            "4.89"
          ],
          "stanag" : "NLD",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
@@ -2715,7 +2617,7 @@
          "code" : "MN",
          "code3" : "MNG",
          "en_name" : "Mongolia",
-         "en_short_name" : "Mongolia",
+         "en_short_name" : "MN",
          "gec" : "MG",
          "iso3166_numeric" : "496",
          "ja_name" : "モンゴル国",
@@ -2724,12 +2626,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_019.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mongolia/index.html",
          "position" : [
-            "46.862496",
-            "103.846656"
+            "47.9",
+            "106.92"
          ],
          "stanag" : "MNG",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 30,
@@ -2741,8 +2642,8 @@
       "191" : {
          "code" : "TO",
          "code3" : "TON",
-         "en_name" : "The Kingdom of Tonga",
-         "en_short_name" : "Tonga",
+         "en_name" : "Tonga",
+         "en_short_name" : "TO",
          "gec" : "TN",
          "iso3166_numeric" : "776",
          "ja_name" : "トンガ王国",
@@ -2751,12 +2652,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_273.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tonga/index.html",
          "position" : [
-            "-21.178986",
-            "-175.198242"
+            "-21.14",
+            "-175.22"
          ],
          "stanag" : "TON",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 61,
@@ -2768,8 +2668,8 @@
       "192" : {
          "code" : "SE",
          "code3" : "SWE",
-         "en_name" : "The Kingdom of Sweden",
-         "en_short_name" : "Sweden",
+         "en_name" : "Sweden",
+         "en_short_name" : "SE",
          "gec" : "SW",
          "iso3166_numeric" : "752",
          "ja_name" : "スウェーデン王国",
@@ -2778,12 +2678,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_160.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/sweden/index.html",
          "position" : [
-            "60.128161",
-            "18.643501"
+            "59.33",
+            "18.06"
          ],
          "stanag" : "SWE",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
@@ -2795,8 +2694,8 @@
       "193" : {
          "code" : "GQ",
          "code3" : "GNQ",
-         "en_name" : "The Republic of Equatorial Guinea",
-         "en_short_name" : "Equatorial Guinea",
+         "en_name" : "Equatorial Guinea",
+         "en_short_name" : "GQ",
          "gec" : "EK",
          "iso3166_numeric" : "226",
          "ja_name" : "赤道ギニア共和国",
@@ -2805,12 +2704,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_276.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/eq_guinea/index.html",
          "position" : [
-            "1.650801",
-            "10.267895"
+            "3.75",
+            "8.78"
          ],
          "stanag" : "GNQ",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
@@ -2822,8 +2720,8 @@
       "194" : {
          "code" : "SN",
          "code3" : "SEN",
-         "en_name" : "The Republic of Senegal",
-         "en_short_name" : "Senegal",
+         "en_name" : "Senegal",
+         "en_short_name" : "SN",
          "gec" : "SG",
          "iso3166_numeric" : "686",
          "ja_name" : "セネガル共和国",
@@ -2832,12 +2730,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_109.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/senegal/index.html",
          "position" : [
-            "14.497401",
-            "-14.452362"
+            "14.69",
+            "-17.45"
          ],
          "stanag" : "SEN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -2849,8 +2746,8 @@
       "195" : {
          "code" : "NG",
          "code3" : "NGA",
-         "en_name" : "The Federal Republic of Nigeria",
-         "en_short_name" : "Nigerian",
+         "en_name" : "Nigeria",
+         "en_short_name" : "NG",
          "gec" : "NI",
          "iso3166_numeric" : "566",
          "ja_name" : "ナイジェリア連邦共和国",
@@ -2859,12 +2756,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_115.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nigeria/index.html",
          "position" : [
-            "9.081999",
-            "8.675277"
+            "9.19",
+            "7.18"
          ],
          "stanag" : "NGA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -2876,8 +2772,8 @@
       "196" : {
          "code" : "GR",
          "code3" : "GRC",
-         "en_name" : "The Hellenic Republic",
-         "en_short_name" : "Greece",
+         "en_name" : "Greece",
+         "en_short_name" : "GR",
          "gec" : "GR",
          "iso3166_numeric" : "300",
          "ja_name" : "ギリシャ共和国",
@@ -2886,12 +2782,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_158.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/greece/index.html",
          "position" : [
-            "39.074208",
-            "21.824312"
+            "37.98",
+            "23.72"
          ],
          "stanag" : "GRC",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -2903,8 +2798,8 @@
       "197" : {
          "code" : "OM",
          "code3" : "OMN",
-         "en_name" : "The Sultanate of Oman",
-         "en_short_name" : "Oman",
+         "en_name" : "Oman",
+         "en_short_name" : "OM",
          "gec" : "MU",
          "iso3166_numeric" : "512",
          "ja_name" : "オマーン国",
@@ -2913,12 +2808,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_047.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/oman/index.html",
          "position" : [
-            "21.512583",
-            "55.923255"
+            "23.61",
+            "58.59"
          ],
          "stanag" : "OMN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -2930,8 +2824,8 @@
       "198" : {
          "code" : "SL",
          "code3" : "SLE",
-         "en_name" : "The Republic of Sierra Leone",
-         "en_short_name" : "Sierra Leone",
+         "en_name" : "Sierra Leone",
+         "en_short_name" : "SL",
          "gec" : "SL",
          "iso3166_numeric" : "694",
          "ja_name" : "シエラレオネ共和国",
@@ -2940,12 +2834,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_105.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/s_leone/index.html",
          "position" : [
-            "8.460555",
-            "-11.779889"
+            "8.48",
+            "-13.23"
          ],
          "stanag" : "SLE",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -2957,8 +2850,8 @@
       "199" : {
          "code" : "AE",
          "code3" : "ARE",
-         "en_name" : "The United Arab Emirates",
-         "en_short_name" : "United Arab Emirates",
+         "en_name" : "United Arab Emirates",
+         "en_short_name" : "AE",
          "gec" : "AE",
          "iso3166_numeric" : "784",
          "ja_name" : "アラブ首長国連邦",
@@ -2967,12 +2860,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_042.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uae/index.html",
          "position" : [
-            "23.424076",
-            "53.847818"
+            "24.48",
+            "54.37"
          ],
          "stanag" : "ARE",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -2984,8 +2876,8 @@
       "2" : {
          "code" : "KG",
          "code3" : "KGZ",
-         "en_name" : "The Kyrgyz Republic",
-         "en_short_name" : "Kyrgyzstan",
+         "en_name" : "Kyrgyzstan",
+         "en_short_name" : "KG",
          "gec" : "KG",
          "iso3166_numeric" : "417",
          "ja_name" : "キルギス共和国",
@@ -2994,12 +2886,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_265.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kyrgyz/index.html",
          "position" : [
-            "41.20438",
-            "74.766098"
+            "42.87",
+            "74.59"
          ],
          "stanag" : "KGZ",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 143,
@@ -3011,8 +2902,8 @@
       "20" : {
          "code" : "BE",
          "code3" : "BEL",
-         "en_name" : "The Kingdom of Belgium",
-         "en_short_name" : "Belgium",
+         "en_name" : "Belgium",
+         "en_short_name" : "BE",
          "gec" : "BE",
          "iso3166_numeric" : "056",
          "ja_name" : "ベルギー王国",
@@ -3021,12 +2912,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_172.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/belgium/index.html",
          "position" : [
-            "50.503887",
-            "4.469936"
+            "50.84",
+            "4.37"
          ],
          "stanag" : "BEL",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
@@ -3038,8 +2928,8 @@
       "200" : {
          "code" : "ES",
          "code3" : "ESP",
-         "en_name" : "The Kingdom of Spain",
-         "en_short_name" : "Spain",
+         "en_name" : "Spain",
+         "en_short_name" : "ES",
          "gec" : "SP",
          "iso3166_numeric" : "724",
          "ja_name" : "スペイン",
@@ -3048,12 +2938,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_161.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/spain/index.html",
          "position" : [
-            "40.463667",
-            "-3.74922"
+            "40.42",
+            "-3.7"
          ],
          "stanag" : "ESP",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -3065,7 +2954,7 @@
       "201" : {
          "code" : "KP",
          "code3" : "PRK",
-         "en_name" : "The Democratic People's Republic of Korea",
+         "en_name" : "Democratic People's Republic of Korea",
          "en_short_name" : "North Korea",
          "gec" : "KN",
          "iso3166_numeric" : "408",
@@ -3075,12 +2964,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_035.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/n_korea/index.html",
          "position" : [
-            "40.339852",
-            "127.510093"
+            "39.03",
+            "125.75"
          ],
          "stanag" : "PRK",
          "status" : {
-            "gb" : "country",
             "jp" : "other"
          },
          "submacroregion" : 30,
@@ -3093,18 +2981,11 @@
          "code" : "AI",
          "code3" : "AIA",
          "en_name" : "Anguilla",
-         "en_short_name" : "Anguilla",
+         "en_short_name" : "AI",
          "gec" : "AV",
          "iso3166_numeric" : "660",
          "macroregion" : 19,
-         "position" : [
-            "18.220554",
-            "-63.068615"
-         ],
          "stanag" : "AIA",
-         "status" : {
-            "gb" : "other"
-         },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Anguilla.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/av.html",
@@ -3115,18 +2996,11 @@
          "code" : "BM",
          "code3" : "BMU",
          "en_name" : "Bermuda",
-         "en_short_name" : "Bermuda",
+         "en_short_name" : "BM",
          "gec" : "BD",
          "iso3166_numeric" : "060",
          "macroregion" : 19,
-         "position" : [
-            "32.321384",
-            "-64.75737"
-         ],
          "stanag" : "BMU",
-         "status" : {
-            "gb" : "other"
-         },
          "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_Bermuda.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bd.html",
@@ -3136,19 +3010,12 @@
       "207" : {
          "code" : "IO",
          "code3" : "IOT",
-         "en_name" : "The British Indian Ocean Territory",
-         "en_short_name" : "British Indian Ocean Territory",
+         "en_name" : "British Indian Ocean Territory",
+         "en_short_name" : "IO",
          "gec" : "IO",
          "iso3166_numeric" : "086",
          "macroregion" : 2,
-         "position" : [
-            "-6.343194",
-            "71.876519"
-         ],
          "stanag" : "IOT",
-         "status" : {
-            "gb" : "other"
-         },
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_the_British_Indian_Ocean_Territory.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/io.html",
@@ -3158,19 +3025,12 @@
       "208" : {
          "code" : "VG",
          "code3" : "VGB",
-         "en_name" : "The Virgin Islands",
-         "en_short_name" : "British Virgin Islands",
+         "en_name" : "British Virgin Islands",
+         "en_short_name" : "VG",
          "gec" : "VI",
          "iso3166_numeric" : "092",
          "macroregion" : 19,
-         "position" : [
-            "18.420695",
-            "-64.639968"
-         ],
          "stanag" : "VGB",
-         "status" : {
-            "gb" : "other"
-         },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_British_Virgin_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/vi.html",
@@ -3181,18 +3041,11 @@
          "code" : "KY",
          "code3" : "CYM",
          "en_name" : "Cayman Islands",
-         "en_short_name" : "Cayman Islands",
+         "en_short_name" : "KY",
          "gec" : "CJ",
          "iso3166_numeric" : "136",
          "macroregion" : 19,
-         "position" : [
-            "19.513469",
-            "-80.566956"
-         ],
          "stanag" : "CYM",
-         "status" : {
-            "gb" : "other"
-         },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Cayman_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cj.html",
@@ -3202,8 +3055,8 @@
       "21" : {
          "code" : "AF",
          "code3" : "AFG",
-         "en_name" : "The Islamic Republic of Afghanistan",
-         "en_short_name" : "Afghanistan",
+         "en_name" : "Afghanistan",
+         "en_short_name" : "AF",
          "gec" : "AF",
          "iso3166_numeric" : "004",
          "ja_name" : "アフガニスタン・イスラム共和国",
@@ -3212,12 +3065,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_041.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/afghanistan/index.html",
          "position" : [
-            "33.93911",
-            "67.709953"
+            "34.53",
+            "69.17"
          ],
          "stanag" : "AFG",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
@@ -3229,19 +3081,12 @@
       "210" : {
          "code" : "FK",
          "code3" : "FLK",
-         "en_name" : "Falkland Islands",
-         "en_short_name" : "Falkland Islands",
+         "en_name" : "Falkland Islands (Malvinas)",
+         "en_short_name" : "FK",
          "gec" : "FK",
          "iso3166_numeric" : "238",
          "macroregion" : 19,
-         "position" : [
-            "-51.796253",
-            "-59.523613"
-         ],
          "stanag" : "FLK",
-         "status" : {
-            "gb" : "other"
-         },
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Falkland_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fk.html",
@@ -3252,21 +3097,14 @@
          "code" : "GI",
          "code3" : "GIB",
          "en_name" : "Gibraltar",
-         "en_short_name" : "Gibraltar",
+         "en_short_name" : "GI",
          "gec" : "GI",
          "iso3166_numeric" : "292",
          "ja_name" : "ジブラルタル",
          "ja_short_name" : "ジブラルタル",
          "macroregion" : 150,
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_197.html",
-         "position" : [
-            "36.137741",
-            "-5.345374"
-         ],
          "stanag" : "GIB",
-         "status" : {
-            "gb" : "other"
-         },
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Gibraltar.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gi.html",
@@ -3277,18 +3115,11 @@
          "code" : "MS",
          "code3" : "MSR",
          "en_name" : "Montserrat",
-         "en_short_name" : "Montserrat",
+         "en_short_name" : "MS",
          "gec" : "MH",
          "iso3166_numeric" : "500",
          "macroregion" : 19,
-         "position" : [
-            "16.742498",
-            "-62.187366"
-         ],
          "stanag" : "MSR",
-         "status" : {
-            "gb" : "other"
-         },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Montserrat.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mh.html",
@@ -3298,19 +3129,12 @@
       "213" : {
          "code" : "PN",
          "code3" : "PCN",
-         "en_name" : "Pitcairn, Henderson, Ducie and Oeno Islands",
-         "en_short_name" : "Pitcairn, Henderson, Ducie and Oeno Islands",
+         "en_name" : "Pitcairn",
+         "en_short_name" : "PN",
          "gec" : "PC",
          "iso3166_numeric" : "612",
          "macroregion" : 9,
-         "position" : [
-            "-24.703615",
-            "-127.439308"
-         ],
          "stanag" : "PCN",
-         "status" : {
-            "gb" : "other"
-         },
          "submacroregion" : 61,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Pitcairn_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/pc.html",
@@ -3320,19 +3144,12 @@
       "214" : {
          "code" : "SH",
          "code3" : "SHN",
-         "en_name" : "St Helena, Ascension and Tristan da Cunha",
-         "en_short_name" : "St Helena, Ascension and Tristan da Cunha",
+         "en_name" : "Saint Helena, Ascension and Tristan da Cunha",
+         "en_short_name" : "SH",
          "gec" : "SH",
          "iso3166_numeric" : "654",
          "macroregion" : 2,
-         "position" : [
-            "-24.143474",
-            "-10.030696"
-         ],
          "stanag" : "SHN",
-         "status" : {
-            "gb" : "other"
-         },
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Saint_Helena.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sh.html",
@@ -3343,19 +3160,10 @@
          "code" : "GS",
          "code3" : "SGS",
          "en_name" : "South Georgia and the South Sandwich Islands",
-         "en_short_name" : "South Georgia and South Sandwich Islands",
+         "en_short_name" : "GS",
          "gec" : "SX",
          "iso3166_numeric" : "239",
-         "macroregion" : 19,
-         "position" : [
-            "-54.429579",
-            "-36.587909"
-         ],
          "stanag" : "SGS",
-         "status" : {
-            "gb" : "other"
-         },
-         "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sx.html",
          "wref_en" : "South_Georgia_and_the_South_Sandwich_Islands",
@@ -3365,18 +3173,11 @@
          "code" : "TC",
          "code3" : "TCA",
          "en_name" : "Turks and Caicos Islands",
-         "en_short_name" : "Turks and Caicos Islands",
+         "en_short_name" : "TC",
          "gec" : "TK",
          "iso3166_numeric" : "796",
          "macroregion" : 19,
-         "position" : [
-            "21.694025",
-            "-71.797928"
-         ],
          "stanag" : "TCA",
-         "status" : {
-            "gb" : "other"
-         },
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Turks_and_Caicos_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tk.html",
@@ -3387,17 +3188,9 @@
          "en_name" : "Akrotiri",
          "en_short_name" : "Akrotiri",
          "gec" : "AX",
-         "status" : {
-            "gb" : "other"
-         },
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ax.html"
       },
       "219" : {
-         "en_name" : "British Antarctic Territory",
-         "en_short_name" : "British Antarctic Territory",
-         "status" : {
-            "gb" : "other"
-         },
          "wref_en" : "British_Antarctic_Territory",
          "wref_ja" : "イギリス領南極地域"
       },
@@ -3405,7 +3198,7 @@
          "code" : "BF",
          "code3" : "BFA",
          "en_name" : "Burkina Faso",
-         "en_short_name" : "Burkina",
+         "en_short_name" : "BF",
          "gec" : "UV",
          "iso3166_numeric" : "854",
          "ja_name" : "ブルキナファソ",
@@ -3414,12 +3207,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_117.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/burkina/index.html",
          "position" : [
-            "12.238333",
-            "-1.561593"
+            "12.36",
+            "-1.54"
          ],
          "stanag" : "BFA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -3432,9 +3224,6 @@
          "en_name" : "Dhekelia",
          "en_short_name" : "Dhekelia",
          "gec" : "DX",
-         "status" : {
-            "gb" : "other"
-         },
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/dx.html"
       },
       "222" : {
@@ -3514,7 +3303,7 @@
          "code" : "CA",
          "code3" : "CAN",
          "en_name" : "Canada",
-         "en_short_name" : "Canada",
+         "en_short_name" : "CA",
          "gec" : "CA",
          "iso3166_numeric" : "124",
          "ja_name" : "カナダ",
@@ -3523,12 +3312,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_222.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/canada/index.html",
          "position" : [
-            "56.130366",
-            "-106.346771"
+            "45.42",
+            "-75.69"
          ],
          "stanag" : "CAN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 21,
@@ -3588,8 +3376,8 @@
       "24" : {
          "code" : "GM",
          "code3" : "GMB",
-         "en_name" : "The Republic of the Gambia",
-         "en_short_name" : "Gambia, The",
+         "en_name" : "Gambia",
+         "en_short_name" : "GM",
          "gec" : "GA",
          "iso3166_numeric" : "270",
          "ja_name" : "ガンビア共和国",
@@ -3598,12 +3386,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_277.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/gambia/index.html",
          "position" : [
-            "13.443182",
-            "-15.310139"
+            "13.45",
+            "-16.59"
          ],
          "stanag" : "GMB",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -3697,8 +3484,8 @@
       "25" : {
          "code" : "SV",
          "code3" : "SLV",
-         "en_name" : "The Republic of El Salvador",
-         "en_short_name" : "El Salvador",
+         "en_name" : "El Salvador",
+         "en_short_name" : "SV",
          "gec" : "ES",
          "iso3166_numeric" : "222",
          "ja_name" : "エルサルバドル共和国",
@@ -3707,12 +3494,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_244.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/elsalvador/index.html",
          "position" : [
-            "13.794185",
-            "-88.89653"
+            "13.71",
+            "-89.2"
          ],
          "stanag" : "SLV",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
@@ -3779,8 +3565,8 @@
       "26" : {
          "code" : "BW",
          "code3" : "BWA",
-         "en_name" : "The Republic of Botswana",
-         "en_short_name" : "Botswana",
+         "en_name" : "Botswana",
+         "en_short_name" : "BW",
          "gec" : "BC",
          "iso3166_numeric" : "072",
          "ja_name" : "ボツワナ共和国",
@@ -3789,12 +3575,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_296.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/botswana/index.html",
          "position" : [
-            "-22.328474",
-            "24.684866"
+            "-24.67",
+            "25.92"
          ],
          "stanag" : "BWA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 18,
@@ -3869,8 +3654,8 @@
       "27" : {
          "code" : "VU",
          "code3" : "VUT",
-         "en_name" : "The Republic of Vanuatu",
-         "en_short_name" : "Vanuatu",
+         "en_name" : "Vanuatu",
+         "en_short_name" : "VU",
          "gec" : "NH",
          "iso3166_numeric" : "548",
          "ja_name" : "バヌアツ共和国",
@@ -3879,12 +3664,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_078.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/vanuatu/index.html",
          "position" : [
-            "-15.376706",
-            "166.959158"
+            "-17.74",
+            "168.32"
          ],
          "stanag" : "VUT",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 54,
@@ -3971,8 +3755,8 @@
       "28" : {
          "code" : "FJ",
          "code3" : "FJI",
-         "en_name" : "The Republic of Fiji",
-         "en_short_name" : "Fiji",
+         "en_name" : "Fiji",
+         "en_short_name" : "FJ",
          "gec" : "FJ",
          "iso3166_numeric" : "242",
          "ja_name" : "フィジー共和国",
@@ -3981,12 +3765,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_076.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/fiji/index.html",
          "position" : [
-            "-16.578193",
-            "179.414413"
+            "-18.14",
+            "178.43"
          ],
          "stanag" : "FJI",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 54,
@@ -4057,8 +3840,8 @@
       "29" : {
          "code" : "BR",
          "code3" : "BRA",
-         "en_name" : "The Federative Republic of Brazil",
-         "en_short_name" : "Brazil",
+         "en_name" : "Brazil",
+         "en_short_name" : "BR",
          "gec" : "BR",
          "iso3166_numeric" : "076",
          "ja_name" : "ブラジル連邦共和国",
@@ -4067,12 +3850,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_259.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/brazil/index.html",
          "position" : [
-            "-14.235004",
-            "-51.92528"
+            "-15.79",
+            "-47.9"
          ],
          "stanag" : "BRA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
@@ -4146,8 +3928,8 @@
       "3" : {
          "code" : "CU",
          "code3" : "CUB",
-         "en_name" : "The Republic of Cuba",
-         "en_short_name" : "Cuba",
+         "en_name" : "Cuba",
+         "en_short_name" : "CU",
          "gec" : "CU",
          "iso3166_numeric" : "192",
          "ja_name" : "キューバ共和国",
@@ -4156,12 +3938,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_245.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cuba/index.html",
          "position" : [
-            "21.521757",
-            "-77.781167"
+            "23.12",
+            "-82.39"
          ],
          "stanag" : "CUB",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
@@ -4173,8 +3954,8 @@
       "30" : {
          "code" : "RW",
          "code3" : "RWA",
-         "en_name" : "The Republic of Rwanda",
-         "en_short_name" : "Rwanda",
+         "en_name" : "Rwanda",
+         "en_short_name" : "RW",
          "gec" : "RW",
          "iso3166_numeric" : "646",
          "ja_name" : "ルワンダ共和国",
@@ -4183,12 +3964,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_131.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/rwanda/index.html",
          "position" : [
-            "-1.940278",
-            "29.873888"
+            "-1.95",
+            "30.06"
          ],
          "stanag" : "RWA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -4276,8 +4056,8 @@
       "31" : {
          "code" : "ET",
          "code3" : "ETH",
-         "en_name" : "The Federal Democratic Republic of Ethiopia",
-         "en_short_name" : "Ethiopia",
+         "en_name" : "Ethiopia",
+         "en_short_name" : "ET",
          "gec" : "ET",
          "iso3166_numeric" : "231",
          "ja_name" : "エチオピア連邦民主共和国",
@@ -4286,12 +4066,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_095.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ethiopia/index.html",
          "position" : [
-            "9.145",
-            "40.489673"
+            "9.02",
+            "38.75"
          ],
          "stanag" : "ETH",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -4363,8 +4142,8 @@
       "32" : {
          "code" : "FR",
          "code3" : "FRA",
-         "en_name" : "The French Republic",
-         "en_short_name" : "France",
+         "en_name" : "France",
+         "en_short_name" : "FR",
          "gec" : "FR",
          "iso3166_numeric" : "250",
          "ja_name" : "フランス共和国",
@@ -4373,12 +4152,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_170.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/france/index.html",
          "position" : [
-            "46.227638",
-            "2.213749"
+            "48.86",
+            "2.35"
          ],
          "stanag" : "FRA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
@@ -4442,8 +4220,8 @@
       "33" : {
          "code" : "MD",
          "code3" : "MDA",
-         "en_name" : "The Republic of Moldova",
-         "en_short_name" : "Moldova",
+         "en_name" : "Moldova",
+         "en_short_name" : "MD",
          "gec" : "MD",
          "iso3166_numeric" : "498",
          "ja_name" : "モルドバ共和国",
@@ -4452,12 +4230,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_198.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/moldova/index.html",
          "position" : [
-            "47.411631",
-            "28.369885"
+            "47",
+            "28.92"
          ],
          "stanag" : "MDA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
@@ -4476,8 +4253,8 @@
       "34" : {
          "code" : "MH",
          "code3" : "MHL",
-         "en_name" : "The Republic of the Marshall Islands",
-         "en_short_name" : "Marshall Islands",
+         "en_name" : "Marshall Islands",
+         "en_short_name" : "MH",
          "gec" : "RM",
          "iso3166_numeric" : "584",
          "ja_name" : "マーシャル諸島共和国",
@@ -4486,12 +4263,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_269.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/marshall/index.html",
          "position" : [
-            "7.131474",
-            "171.184478"
+            "7.12",
+            "171.07"
          ],
          "stanag" : "MHL",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 57,
@@ -4503,8 +4279,8 @@
       "35" : {
          "code" : "NO",
          "code3" : "NOR",
-         "en_name" : "The Kingdom of Norway",
-         "en_short_name" : "Norway",
+         "en_name" : "Norway",
+         "en_short_name" : "NO",
          "gec" : "NO",
          "iso3166_numeric" : "578",
          "ja_name" : "ノルウェー王国",
@@ -4513,12 +4289,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_166.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/norway/index.html",
          "position" : [
-            "60.472024",
-            "8.468946"
+            "59.91",
+            "10.74"
          ],
          "stanag" : "NOR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
@@ -4530,8 +4305,8 @@
       "36" : {
          "code" : "SI",
          "code3" : "SVN",
-         "en_name" : "The Republic of Slovenia",
-         "en_short_name" : "Slovenia",
+         "en_name" : "Slovenia",
+         "en_short_name" : "SI",
          "gec" : "SI",
          "iso3166_numeric" : "705",
          "ja_name" : "スロベニア共和国",
@@ -4540,12 +4315,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_162.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/slovenia/index.html",
          "position" : [
-            "46.151241",
-            "14.995463"
+            "46.06",
+            "14.5"
          ],
          "stanag" : "SVN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -4557,8 +4331,8 @@
       "37" : {
          "code" : "IQ",
          "code3" : "IRQ",
-         "en_name" : "The Republic of Iraq",
-         "en_short_name" : "Iraq",
+         "en_name" : "Iraq",
+         "en_short_name" : "IQ",
          "gec" : "IZ",
          "iso3166_numeric" : "368",
          "ja_name" : "イラク共和国",
@@ -4567,12 +4341,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_045.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/iraq/index.html",
          "position" : [
-            "33.223191",
-            "43.679291"
+            "33.33",
+            "44.42"
          ],
          "stanag" : "IRQ",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -4584,8 +4357,8 @@
       "38" : {
          "code" : "DJ",
          "code3" : "DJI",
-         "en_name" : "The Republic of Djibouti",
-         "en_short_name" : "Djibouti",
+         "en_name" : "Djibouti",
+         "en_short_name" : "DJ",
          "gec" : "DJ",
          "iso3166_numeric" : "262",
          "ja_name" : "ジブチ共和国",
@@ -4594,12 +4367,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_141.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/djibouti/index.html",
          "position" : [
-            "11.825138",
-            "42.590275"
+            "11.99",
+            "42.52"
          ],
          "stanag" : "DJI",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -4611,8 +4383,8 @@
       "39" : {
          "code" : "IT",
          "code3" : "ITA",
-         "en_name" : "The Italian Republic",
-         "en_short_name" : "Italy",
+         "en_name" : "Italy",
+         "en_short_name" : "IT",
          "gec" : "IT",
          "iso3166_numeric" : "380",
          "ja_name" : "イタリア共和国",
@@ -4621,12 +4393,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_153.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/italy/index.html",
          "position" : [
-            "41.87194",
-            "12.56738"
+            "41.9",
+            "12.48"
          ],
          "stanag" : "ITA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 39,
@@ -4638,8 +4409,8 @@
       "4" : {
          "code" : "ML",
          "code3" : "MLI",
-         "en_name" : "The Republic of Mali",
-         "en_short_name" : "Mali",
+         "en_name" : "Mali",
+         "en_short_name" : "ML",
          "gec" : "ML",
          "iso3166_numeric" : "466",
          "ja_name" : "マリ共和国",
@@ -4648,12 +4419,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_121.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mali/index.html",
          "position" : [
-            "17.570692",
-            "-3.996166"
+            "12.65",
+            "-7.99"
          ],
          "stanag" : "MLI",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -4665,8 +4435,8 @@
       "40" : {
          "code" : "UY",
          "code3" : "URY",
-         "en_name" : "The Oriental Republic of Uruguay",
-         "en_short_name" : "Uruguay",
+         "en_name" : "Uruguay",
+         "en_short_name" : "UY",
          "gec" : "UY",
          "iso3166_numeric" : "858",
          "ja_name" : "ウルグアイ東方共和国",
@@ -4675,12 +4445,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_242.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uruguay/index.html",
          "position" : [
-            "-32.522779",
-            "-55.765835"
+            "-34.89",
+            "-56.16"
          ],
          "stanag" : "URY",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
@@ -4692,8 +4461,8 @@
       "41" : {
          "code" : "SD",
          "code3" : "SDN",
-         "en_name" : "The Republic of the Sudan",
-         "en_short_name" : "Sudan",
+         "en_name" : "Sudan",
+         "en_short_name" : "SD",
          "gec" : "SU",
          "iso3166_numeric" : "729",
          "ja_name" : "スーダン共和国",
@@ -4702,12 +4471,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_107.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/sudan/index.html",
          "position" : [
-            "12.862807",
-            "30.217636"
+            "15.55",
+            "32.53"
          ],
          "stanag" : "SDN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 15,
@@ -4719,8 +4487,8 @@
       "42" : {
          "code" : "TH",
          "code3" : "THA",
-         "en_name" : "The Kingdom of Thailand",
-         "en_short_name" : "Thailand",
+         "en_name" : "Thailand",
+         "en_short_name" : "TH",
          "gec" : "TH",
          "iso3166_numeric" : "764",
          "ja_name" : "タイ王国",
@@ -4729,12 +4497,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_007.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/thailand/index.html",
          "position" : [
-            "15.870032",
-            "100.992541"
+            "13.73",
+            "100.52"
          ],
          "stanag" : "THA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
@@ -4746,8 +4513,8 @@
       "43" : {
          "code" : "DM",
          "code3" : "DMA",
-         "en_name" : "The Commonwealth of Dominica",
-         "en_short_name" : "Dominica",
+         "en_name" : "Dominica",
+         "en_short_name" : "DM",
          "gec" : "DO",
          "iso3166_numeric" : "212",
          "ja_name" : "ドミニカ国",
@@ -4756,12 +4523,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_289.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/c_dominica/index.html",
          "position" : [
-            "15.414999",
-            "-61.370976"
+            "15.3",
+            "-61.39"
          ],
          "stanag" : "DMA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
@@ -4777,14 +4543,27 @@
          "ja_short_name" : "ハワイ",
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_226.html"
       },
+      "432" : {
+         "code" : "UN",
+         "en_name" : "United Nations",
+         "en_short_name" : "United Nations"
+      },
+      "433" : {
+         "code" : "EZ",
+         "en_name" : "Eurozone",
+         "en_short_name" : "Eurozone"
+      },
       "436" : {
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/plo/index.html"
+      },
+      "437" : {
+         "en_short_name" : "Not applicable"
       },
       "44" : {
          "code" : "IN",
          "code3" : "IND",
-         "en_name" : "The Republic of India",
-         "en_short_name" : "India",
+         "en_name" : "India",
+         "en_short_name" : "IN",
          "gec" : "IN",
          "iso3166_numeric" : "356",
          "ja_name" : "インド",
@@ -4793,12 +4572,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_001.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/india/index.html",
          "position" : [
-            "20.593684",
-            "78.96288"
+            "28.61",
+            "77.18"
          ],
          "stanag" : "IND",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
@@ -4837,7 +4615,7 @@
          "code" : "TM",
          "code3" : "TKM",
          "en_name" : "Turkmenistan",
-         "en_short_name" : "Turkmenistan",
+         "en_short_name" : "TM",
          "gec" : "TX",
          "iso3166_numeric" : "795",
          "ja_name" : "トルクメニスタン",
@@ -4846,12 +4624,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_202.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/turkmenistan/index.html",
          "position" : [
-            "38.969719",
-            "59.556278"
+            "37.97",
+            "58.33"
          ],
          "stanag" : "TKM",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 143,
@@ -4863,8 +4640,8 @@
       "47" : {
          "code" : "CF",
          "code3" : "CAF",
-         "en_name" : "The Central African Republic",
-         "en_short_name" : "Central African Republic",
+         "en_name" : "Central African Republic",
+         "en_short_name" : "CF",
          "gec" : "CT",
          "iso3166_numeric" : "140",
          "ja_name" : "中央アフリカ共和国",
@@ -4873,12 +4650,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_112.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/car/index.html",
          "position" : [
-            "6.611111",
-            "20.939444"
+            "4.36",
+            "18.56"
          ],
          "stanag" : "CAF",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
@@ -4890,8 +4666,8 @@
       "48" : {
          "code" : "EG",
          "code3" : "EGY",
-         "en_name" : "The Arab Republic of Egypt",
-         "en_short_name" : "Egypt",
+         "en_name" : "Egypt",
+         "en_short_name" : "EG",
          "gec" : "EG",
          "iso3166_numeric" : "818",
          "ja_name" : "エジプト・アラブ共和国",
@@ -4900,12 +4676,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_094.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/egypt/index.html",
          "position" : [
-            "26.820553",
-            "30.802498"
+            "30.06",
+            "31.25"
          ],
          "stanag" : "EGY",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 15,
@@ -4917,8 +4692,8 @@
       "49" : {
          "code" : "PH",
          "code3" : "PHL",
-         "en_name" : "The Republic of the Philippines",
-         "en_short_name" : "Philippines",
+         "en_name" : "Philippines",
+         "en_short_name" : "PH",
          "gec" : "RP",
          "iso3166_numeric" : "608",
          "ja_name" : "フィリピン共和国",
@@ -4927,12 +4702,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_013.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/philippines/index.html",
          "position" : [
-            "12.879721",
-            "121.774017"
+            "14.6",
+            "120.98"
          ],
          "stanag" : "PHL",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
@@ -4944,8 +4718,8 @@
       "5" : {
          "code" : "PL",
          "code3" : "POL",
-         "en_name" : "The Republic of Poland",
-         "en_short_name" : "Poland",
+         "en_name" : "Poland",
+         "en_short_name" : "PL",
          "gec" : "PL",
          "iso3166_numeric" : "616",
          "ja_name" : "ポーランド共和国",
@@ -4954,12 +4728,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_173.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/poland/index.html",
          "position" : [
-            "51.919438",
-            "19.145136"
+            "52.24",
+            "21.01"
          ],
          "stanag" : "POL",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
@@ -4972,7 +4745,7 @@
          "code" : "LC",
          "code3" : "LCA",
          "en_name" : "Saint Lucia",
-         "en_short_name" : "St Lucia",
+         "en_short_name" : "LC",
          "gec" : "ST",
          "iso3166_numeric" : "662",
          "ja_name" : "セントルシア",
@@ -4981,12 +4754,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_292.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/s_lucia/index.html",
          "position" : [
-            "13.909444",
-            "-60.978893"
+            "14",
+            "-60.98"
          ],
          "stanag" : "LCA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
@@ -4998,8 +4770,8 @@
       "51" : {
          "code" : "TZ",
          "code3" : "TZA",
-         "en_name" : "The United Republic of Tanzania",
-         "en_short_name" : "Tanzania",
+         "en_name" : "United Republic of Tanzania",
+         "en_short_name" : "TZ",
          "gec" : "TZ",
          "iso3166_numeric" : "834",
          "ja_name" : "タンザニア連合共和国",
@@ -5008,12 +4780,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_111.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tanzania/index.html",
          "position" : [
-            "-6.369028",
-            "34.888822"
+            "-6.82",
+            "39.27"
          ],
          "stanag" : "TZA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -5025,8 +4796,8 @@
       "52" : {
          "code" : "KM",
          "code3" : "COM",
-         "en_name" : "The Union of the Comoros",
-         "en_short_name" : "Comoros",
+         "en_name" : "Comoros",
+         "en_short_name" : "KM",
          "gec" : "CN",
          "iso3166_numeric" : "174",
          "ja_name" : "コモロ連合",
@@ -5035,12 +4806,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_135.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/comoros/index.html",
          "position" : [
-            "-11.875001",
-            "43.872219"
+            "-11.7",
+            "43.24"
          ],
          "stanag" : "COM",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -5053,7 +4823,7 @@
          "code" : "GD",
          "code3" : "GRD",
          "en_name" : "Grenada",
-         "en_short_name" : "Grenada",
+         "en_short_name" : "GD",
          "gec" : "GJ",
          "iso3166_numeric" : "308",
          "ja_name" : "グレナダ",
@@ -5062,12 +4832,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_290.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/grenada/index.html",
          "position" : [
-            "12.262776",
-            "-61.604171"
+            "12.07",
+            "-61.74"
          ],
          "stanag" : "GRD",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
@@ -5079,8 +4848,8 @@
       "54" : {
          "code" : "KE",
          "code3" : "KEN",
-         "en_name" : "The Republic of Kenya",
-         "en_short_name" : "Kenya",
+         "en_name" : "Kenya",
+         "en_short_name" : "KE",
          "gec" : "KE",
          "iso3166_numeric" : "404",
          "ja_name" : "ケニア共和国",
@@ -5089,12 +4858,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_100.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kenya/index.html",
          "position" : [
-            "-0.023559",
-            "37.906193"
+            "-1.27",
+            "36.81"
          ],
          "stanag" : "KEN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -5106,8 +4874,8 @@
       "55" : {
          "code" : "MA",
          "code3" : "MAR",
-         "en_name" : "The Kingdom of Morocco",
-         "en_short_name" : "Morocco",
+         "en_name" : "Morocco",
+         "en_short_name" : "MA",
          "gec" : "MO",
          "iso3166_numeric" : "504",
          "ja_name" : "モロッコ王国",
@@ -5116,12 +4884,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_124.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/morocco/index.html",
          "position" : [
-            "31.791702",
-            "-7.09262"
+            "34.02",
+            "-6.83"
          ],
          "stanag" : "MAR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 15,
@@ -5134,7 +4901,7 @@
          "code" : "BZ",
          "code3" : "BLZ",
          "en_name" : "Belize",
-         "en_short_name" : "Belize",
+         "en_short_name" : "BZ",
          "gec" : "BH",
          "iso3166_numeric" : "084",
          "ja_name" : "ベリーズ",
@@ -5143,12 +4910,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_288.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/belize/index.html",
          "position" : [
-            "17.189877",
-            "-88.49765"
+            "17.26",
+            "-88.78"
          ],
          "stanag" : "BLZ",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
@@ -5161,19 +4927,18 @@
          "code" : "JP",
          "code3" : "JPN",
          "en_name" : "Japan",
-         "en_short_name" : "Japan",
+         "en_short_name" : "JP",
          "gec" : "JA",
          "iso3166_numeric" : "392",
          "ja_name" : "日本国",
          "ja_short_name" : "日本",
          "macroregion" : 142,
          "position" : [
-            "36.204824",
-            "138.252924"
+            "35.69",
+            "139.65"
          ],
          "stanag" : "JPN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 30,
@@ -5185,8 +4950,8 @@
       "58" : {
          "code" : "CL",
          "code3" : "CHL",
-         "en_name" : "The Republic of Chile",
-         "en_short_name" : "Chile",
+         "en_name" : "Chile",
+         "en_short_name" : "CL",
          "gec" : "CI",
          "iso3166_numeric" : "152",
          "ja_name" : "チリ共和国",
@@ -5195,12 +4960,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_251.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/chile/index.html",
          "position" : [
-            "-35.675147",
-            "-71.542969"
+            "-33.47",
+            "-70.64"
          ],
          "stanag" : "CHL",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
@@ -5212,8 +4976,8 @@
       "59" : {
          "code" : "IL",
          "code3" : "ISR",
-         "en_name" : "The State of Israel",
-         "en_short_name" : "Israel",
+         "en_name" : "Israel",
+         "en_short_name" : "IL",
          "gec" : "IS",
          "iso3166_numeric" : "376",
          "ja_name" : "イスラエル国",
@@ -5222,12 +4986,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_044.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/israel/index.html",
          "position" : [
-            "31.046051",
-            "34.851612"
+            "31.77",
+            "35.23"
          ],
          "stanag" : "ISR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -5239,8 +5002,8 @@
       "6" : {
          "code" : "MG",
          "code3" : "MDG",
-         "en_name" : "The Republic of Madagascar",
-         "en_short_name" : "Madagascar",
+         "en_name" : "Madagascar",
+         "en_short_name" : "MG",
          "gec" : "MA",
          "iso3166_numeric" : "450",
          "ja_name" : "マダガスカル共和国",
@@ -5249,12 +5012,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_119.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/madagascar/index.html",
          "position" : [
-            "-18.766947",
-            "46.869107"
+            "-18.91",
+            "47.53"
          ],
          "stanag" : "MDG",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -5266,7 +5028,7 @@
       "60" : {
          "code" : "KR",
          "code3" : "KOR",
-         "en_name" : "The Republic of Korea",
+         "en_name" : "Republic of Korea",
          "en_short_name" : "South Korea",
          "gec" : "KS",
          "iso3166_numeric" : "410",
@@ -5276,12 +5038,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_003.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/korea/index.html",
          "position" : [
-            "35.907757",
-            "127.766922"
+            "37.53",
+            "126.96"
          ],
          "stanag" : "KOR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 30,
@@ -5293,8 +5054,8 @@
       "61" : {
          "code" : "KH",
          "code3" : "KHM",
-         "en_name" : "The Kingdom of Cambodia",
-         "en_short_name" : "Cambodia",
+         "en_name" : "Cambodia",
+         "en_short_name" : "KH",
          "gec" : "CB",
          "iso3166_numeric" : "116",
          "ja_name" : "カンボジア王国",
@@ -5303,12 +5064,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_004.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cambodia/index.html",
          "position" : [
-            "12.565679",
-            "104.990963"
+            "11.56",
+            "104.92"
          ],
          "stanag" : "KHM",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
@@ -5321,7 +5081,7 @@
          "code" : "GE",
          "code3" : "GEO",
          "en_name" : "Georgia",
-         "en_short_name" : "Georgia",
+         "en_short_name" : "GE",
          "gec" : "GG",
          "iso3166_numeric" : "268",
          "ja_name" : "グルジア",
@@ -5330,12 +5090,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_200.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/georgia/index.html",
          "position" : [
-            "42.315407",
-            "43.356892"
+            "41.71",
+            "44.79"
          ],
          "stanag" : "GEO",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -5348,7 +5107,7 @@
          "code" : "IE",
          "code3" : "IRL",
          "en_name" : "Ireland",
-         "en_short_name" : "Ireland",
+         "en_short_name" : "IE",
          "gec" : "EI",
          "iso3166_numeric" : "372",
          "ja_name" : "アイルランド",
@@ -5357,12 +5116,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_151.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ireland/index.html",
          "position" : [
-            "53.41291",
-            "-8.24389"
+            "53.34",
+            "-6.27"
          ],
          "stanag" : "IRL",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 154,
@@ -5374,8 +5132,8 @@
       "64" : {
          "code" : "LK",
          "code3" : "LKA",
-         "en_name" : "The Democratic Socialist Republic of Sri Lanka",
-         "en_short_name" : "Sri Lanka",
+         "en_name" : "Sri Lanka",
+         "en_short_name" : "LK",
          "gec" : "CE",
          "iso3166_numeric" : "144",
          "ja_name" : "スリランカ民主社会主義共和国",
@@ -5384,12 +5142,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_006.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/srilanka/index.html",
          "position" : [
-            "7.873054",
-            "80.771797"
+            "6.9",
+            "79.9"
          ],
          "stanag" : "LKA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 34,
@@ -5401,8 +5158,8 @@
       "65" : {
          "code" : "PE",
          "code3" : "PER",
-         "en_name" : "The Republic of Peru",
-         "en_short_name" : "Peru",
+         "en_name" : "Peru",
+         "en_short_name" : "PE",
          "gec" : "PE",
          "iso3166_numeric" : "604",
          "ja_name" : "ペルー共和国",
@@ -5411,12 +5168,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_261.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/peru/index.html",
          "position" : [
-            "-9.189967",
-            "-75.015152"
+            "-12.09",
+            "-77.05"
          ],
          "stanag" : "PER",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
@@ -5428,8 +5184,8 @@
       "66" : {
          "code" : "TT",
          "code3" : "TTO",
-         "en_name" : "The Republic of Trinidad and Tobago",
-         "en_short_name" : "Trinidad and Tobago",
+         "en_name" : "Trinidad and Tobago",
+         "en_short_name" : "TT",
          "gec" : "TD",
          "iso3166_numeric" : "780",
          "ja_name" : "トリニダード・トバゴ共和国",
@@ -5438,12 +5194,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_253.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/trinidad/index.html",
          "position" : [
-            "10.691803",
-            "-61.222503"
+            "10.66",
+            "-61.48"
          ],
          "stanag" : "TTO",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
@@ -5456,7 +5211,7 @@
          "code" : "VC",
          "code3" : "VCT",
          "en_name" : "Saint Vincent and the Grenadines",
-         "en_short_name" : "St Vincent",
+         "en_short_name" : "VC",
          "gec" : "VC",
          "iso3166_numeric" : "670",
          "ja_name" : "セントビンセント及びグレナディーン諸島",
@@ -5465,12 +5220,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_293.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/svg/index.html",
          "position" : [
-            "12.984305",
-            "-61.287228"
+            "13.2",
+            "-61.27"
          ],
          "stanag" : "VCT",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
@@ -5482,8 +5236,8 @@
       "68" : {
          "code" : "MW",
          "code3" : "MWI",
-         "en_name" : "The Republic of Malawi",
-         "en_short_name" : "Malawi",
+         "en_name" : "Malawi",
+         "en_short_name" : "MW",
          "gec" : "MI",
          "iso3166_numeric" : "454",
          "ja_name" : "マラウイ共和国",
@@ -5492,12 +5246,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_120.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/malawi/index.html",
          "position" : [
-            "-13.254308",
-            "34.301525"
+            "-13.98",
+            "33.77"
          ],
          "stanag" : "MWI",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -5510,7 +5263,7 @@
          "code" : "CD",
          "code3" : "COD",
          "en_name" : "The Democratic Republic of the Congo",
-         "en_short_name" : "Congo (Democratic Republic)",
+         "en_short_name" : "CD",
          "gec" : "CG",
          "iso3166_numeric" : "180",
          "ja_name" : "コンゴ民主共和国",
@@ -5519,12 +5272,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_103.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/congomin/index.html",
          "position" : [
-            "-4.038333",
-            "21.758664"
+            "-4.33",
+            "15.32"
          ],
          "stanag" : "COD",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
@@ -5536,8 +5288,8 @@
       "7" : {
          "code" : "TR",
          "code3" : "TUR",
-         "en_name" : "The Republic of Turkey",
-         "en_short_name" : "Turkey",
+         "en_name" : "Turkey",
+         "en_short_name" : "TR",
          "gec" : "TU",
          "iso3166_numeric" : "792",
          "ja_name" : "トルコ共和国",
@@ -5546,12 +5298,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_052.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/turkey/index.html",
          "position" : [
-            "38.963745",
-            "35.243322"
+            "39.94",
+            "32.85"
          ],
          "stanag" : "TUR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -5563,8 +5314,8 @@
       "70" : {
          "code" : "SZ",
          "code3" : "SWZ",
-         "en_name" : "The Kingdom of Swaziland",
-         "en_short_name" : "Swaziland",
+         "en_name" : "Swaziland",
+         "en_short_name" : "SZ",
          "gec" : "WZ",
          "iso3166_numeric" : "748",
          "ja_name" : "スワジランド王国",
@@ -5573,12 +5324,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_281.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/swaziland/index.html",
          "position" : [
-            "-26.522503",
-            "31.465866"
+            "-26.32",
+            "31.14"
          ],
          "stanag" : "SWZ",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 18,
@@ -5590,8 +5340,8 @@
       "71" : {
          "code" : "GA",
          "code3" : "GAB",
-         "en_name" : "The Gabonese Republic",
-         "en_short_name" : "Gabon",
+         "en_name" : "Gabon",
+         "en_short_name" : "GA",
          "gec" : "GB",
          "iso3166_numeric" : "266",
          "ja_name" : "ガボン共和国",
@@ -5600,12 +5350,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_097.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/gabon/index.html",
          "position" : [
-            "-0.803689",
-            "11.609444"
+            "0.39",
+            "9.45"
          ],
          "stanag" : "GAB",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
@@ -5617,8 +5366,8 @@
       "72" : {
          "code" : "GY",
          "code3" : "GUY",
-         "en_name" : "The Co-operative Republic of Guyana",
-         "en_short_name" : "Guyana",
+         "en_name" : "Guyana",
+         "en_short_name" : "GY",
          "gec" : "GY",
          "iso3166_numeric" : "328",
          "ja_name" : "ガイアナ共和国",
@@ -5627,12 +5376,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_294.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guyana/index.html",
          "position" : [
-            "4.860416",
-            "-58.93018"
+            "6.8",
+            "-58.15"
          ],
          "stanag" : "GUY",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
@@ -5644,8 +5392,8 @@
       "73" : {
          "code" : "LU",
          "code3" : "LUX",
-         "en_name" : "The Grand Duchy of Luxembourg",
-         "en_short_name" : "Luxembourg",
+         "en_name" : "Luxembourg",
+         "en_short_name" : "LU",
          "gec" : "LU",
          "iso3166_numeric" : "442",
          "ja_name" : "ルクセンブルク大公国",
@@ -5654,12 +5402,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_176.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/luxembourg/index.html",
          "position" : [
-            "49.815273",
-            "6.129583"
+            "49.83",
+            "6.06"
          ],
          "stanag" : "LUX",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
@@ -5671,8 +5418,8 @@
       "74" : {
          "code" : "BH",
          "code3" : "BHR",
-         "en_name" : "The Kingdom of Bahrain",
-         "en_short_name" : "Bahrain",
+         "en_name" : "Bahrain",
+         "en_short_name" : "BH",
          "gec" : "BA",
          "iso3166_numeric" : "048",
          "ja_name" : "バーレーン王国",
@@ -5681,12 +5428,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_053.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bahrain/index.html",
          "position" : [
-            "25.930414",
-            "50.637772"
+            "26.22",
+            "50.58"
          ],
          "stanag" : "BHR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -5698,8 +5444,8 @@
       "75" : {
          "code" : "MX",
          "code3" : "MEX",
-         "en_name" : "The United Mexican States",
-         "en_short_name" : "Mexico",
+         "en_name" : "Mexico",
+         "en_short_name" : "MX",
          "gec" : "MX",
          "iso3166_numeric" : "484",
          "ja_name" : "メキシコ合衆国",
@@ -5708,15 +5454,14 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_264.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mexico/index.html",
          "position" : [
-            "23.634501",
-            "-102.552784"
+            "19.41",
+            "-99.13"
          ],
          "stanag" : "MEX",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 13,
+         "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_Mexico.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mx.html",
          "wref_en" : "Mexico",
@@ -5725,8 +5470,8 @@
       "76" : {
          "code" : "CH",
          "code3" : "CHE",
-         "en_name" : "The Swiss Confederation",
-         "en_short_name" : "Switzerland",
+         "en_name" : "Switzerland",
+         "en_short_name" : "CH",
          "gec" : "SZ",
          "iso3166_numeric" : "756",
          "ja_name" : "スイス連邦",
@@ -5735,12 +5480,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_159.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/switzerland/index.html",
          "position" : [
-            "46.818188",
-            "8.227512"
+            "46.95",
+            "7.45"
          ],
          "stanag" : "CHE",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
@@ -5752,8 +5496,8 @@
       "77" : {
          "code" : "HN",
          "code3" : "HND",
-         "en_name" : "The Republic of Honduras",
-         "en_short_name" : "Honduras",
+         "en_name" : "Honduras",
+         "en_short_name" : "HN",
          "gec" : "HO",
          "iso3166_numeric" : "340",
          "ja_name" : "ホンジュラス共和国",
@@ -5762,12 +5506,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_263.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/honduras/index.html",
          "position" : [
-            "15.199999",
-            "-86.241905"
+            "14.1",
+            "-87.21"
          ],
          "stanag" : "HND",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
@@ -5779,8 +5522,8 @@
       "78" : {
          "code" : "HT",
          "code3" : "HTI",
-         "en_name" : "The Republic of Haiti",
-         "en_short_name" : "Haiti",
+         "en_name" : "Haiti",
+         "en_short_name" : "HT",
          "gec" : "HA",
          "iso3166_numeric" : "332",
          "ja_name" : "ハイチ共和国",
@@ -5789,12 +5532,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_255.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/haiti/index.html",
          "position" : [
-            "18.971187",
-            "-72.285215"
+            "18.54",
+            "-72.33"
          ],
          "stanag" : "HTI",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
@@ -5806,8 +5548,8 @@
       "79" : {
          "code" : "WS",
          "code3" : "WSM",
-         "en_name" : "The Independent State of Samoa",
-         "en_short_name" : "Samoa",
+         "en_name" : "Samoa",
+         "en_short_name" : "WS",
          "gec" : "WS",
          "iso3166_numeric" : "882",
          "ja_name" : "サモア独立国",
@@ -5816,12 +5558,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_073.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/samoa/index.html",
          "position" : [
-            "-13.759029",
-            "-172.104629"
+            "-13.83",
+            "-171.75"
          ],
          "stanag" : "WSM",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 61,
@@ -5833,8 +5574,8 @@
       "8" : {
          "code" : "KW",
          "code3" : "KWT",
-         "en_name" : "The State of Kuwait",
-         "en_short_name" : "Kuwait",
+         "en_name" : "Kuwait",
+         "en_short_name" : "KW",
          "gec" : "KU",
          "iso3166_numeric" : "414",
          "ja_name" : "クウェート国",
@@ -5843,12 +5584,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_049.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kuwait/index.html",
          "position" : [
-            "29.31166",
-            "47.481766"
+            "29.66",
+            "47.55"
          ],
          "stanag" : "KWT",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -5860,8 +5600,8 @@
       "80" : {
          "code" : "SK",
          "code3" : "SVK",
-         "en_name" : "The Slovak Republic",
-         "en_short_name" : "Slovakia",
+         "en_name" : "Slovakia",
+         "en_short_name" : "SK",
          "gec" : "LO",
          "iso3166_numeric" : "703",
          "ja_name" : "スロバキア共和国",
@@ -5870,15 +5610,13 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_184.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/slovak/index.html",
          "position" : [
-            "48.669026",
-            "19.699024"
+            "48.15",
+            "17.13"
          ],
          "stanag" : "SVK",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
-         "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_Slovakia.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/lo.html",
          "wref_en" : "Slovakia",
@@ -5887,8 +5625,8 @@
       "81" : {
          "code" : "CG",
          "code3" : "COG",
-         "en_name" : "The Republic of the Congo",
-         "en_short_name" : "Congo",
+         "en_name" : "Congo",
+         "en_short_name" : "CG",
          "gec" : "CF",
          "iso3166_numeric" : "178",
          "ja_name" : "コンゴ共和国",
@@ -5897,12 +5635,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_102.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/congokyo/index.html",
          "position" : [
-            "-0.228021",
-            "15.827659"
+            "-4.27",
+            "15.28"
          ],
          "stanag" : "COG",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
@@ -5914,8 +5651,8 @@
       "82" : {
          "code" : "CZ",
          "code3" : "CZE",
-         "en_name" : "The Czech Republic",
-         "en_short_name" : "Czech Republic",
+         "en_name" : "Czechia",
+         "en_short_name" : "CZ",
          "gec" : "EZ",
          "iso3166_numeric" : "203",
          "ja_name" : "チェコ共和国",
@@ -5924,12 +5661,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_163.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/czech/index.html",
          "position" : [
-            "49.817492",
-            "15.472962"
+            "50.08",
+            "14.44"
          ],
          "stanag" : "CZE",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
@@ -5941,8 +5677,8 @@
       "83" : {
          "code" : "AT",
          "code3" : "AUT",
-         "en_name" : "The Republic of Austria",
-         "en_short_name" : "Austria",
+         "en_name" : "Austria",
+         "en_short_name" : "AT",
          "gec" : "AU",
          "iso3166_numeric" : "040",
          "ja_name" : "オーストリア共和国",
@@ -5951,12 +5687,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_156.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/austria/index.html",
          "position" : [
-            "47.516231",
-            "14.550072"
+            "48.2",
+            "16.36"
          ],
          "stanag" : "AUT",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
@@ -5968,8 +5703,8 @@
       "84" : {
          "code" : "ZW",
          "code3" : "ZWE",
-         "en_name" : "The Republic of Zimbabwe",
-         "en_short_name" : "Zimbabwe",
+         "en_name" : "Zimbabwe",
+         "en_short_name" : "ZW",
          "gec" : "ZI",
          "iso3166_numeric" : "716",
          "ja_name" : "ジンバブエ共和国",
@@ -5978,12 +5713,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_106.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/zimbabwe/index.html",
          "position" : [
-            "-19.015438",
-            "29.154857"
+            "-17.83",
+            "31.05"
          ],
          "stanag" : "ZWE",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -5996,7 +5730,7 @@
          "code" : "RO",
          "code3" : "ROU",
          "en_name" : "Romania",
-         "en_short_name" : "Romania",
+         "en_short_name" : "RO",
          "gec" : "RO",
          "iso3166_numeric" : "642",
          "ja_name" : "ルーマニア",
@@ -6005,12 +5739,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_177.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/romania/index.html",
          "position" : [
-            "45.943161",
-            "24.96676"
+            "44.45",
+            "26.1"
          ],
          "stanag" : "ROU",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
@@ -6022,8 +5755,8 @@
       "86" : {
          "code" : "TJ",
          "code3" : "TJK",
-         "en_name" : "The Republic of Tajikistan",
-         "en_short_name" : "Tajikistan",
+         "en_name" : "Tajikistan",
+         "en_short_name" : "TJ",
          "gec" : "TI",
          "iso3166_numeric" : "762",
          "ja_name" : "タジキスタン共和国",
@@ -6032,12 +5765,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_201.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tajikistan/index.html",
          "position" : [
-            "38.861034",
-            "71.276093"
+            "38.57",
+            "68.78"
          ],
          "stanag" : "TJK",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 143,
@@ -6049,8 +5781,8 @@
       "87" : {
          "code" : "AZ",
          "code3" : "AZE",
-         "en_name" : "The Republic of Azerbaijan",
-         "en_short_name" : "Azerbaijan",
+         "en_name" : "Azerbaijan",
+         "en_short_name" : "AZ",
          "gec" : "AJ",
          "iso3166_numeric" : "031",
          "ja_name" : "アゼルバイジャン共和国",
@@ -6059,12 +5791,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_152.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/azerbaijan/index.html",
          "position" : [
-            "40.143105",
-            "47.576927"
+            "40.38",
+            "49.89"
          ],
          "stanag" : "AZE",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 145,
@@ -6076,8 +5807,8 @@
       "88" : {
          "code" : "KZ",
          "code3" : "KAZ",
-         "en_name" : "The Republic of Kazakhstan",
-         "en_short_name" : "Kazakhstan",
+         "en_name" : "Kazakhstan",
+         "en_short_name" : "KZ",
          "gec" : "KZ",
          "iso3166_numeric" : "398",
          "ja_name" : "カザフスタン共和国",
@@ -6086,12 +5817,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_187.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kazakhstan/index.html",
          "position" : [
-            "48.019573",
-            "66.923684"
+            "51.18",
+            "71.45"
          ],
          "stanag" : "KAZ",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 143,
@@ -6103,8 +5833,8 @@
       "89" : {
          "code" : "TD",
          "code3" : "TCD",
-         "en_name" : "The Republic of Chad",
-         "en_short_name" : "Chad",
+         "en_name" : "Chad",
+         "en_short_name" : "TD",
          "gec" : "CD",
          "iso3166_numeric" : "148",
          "ja_name" : "チャド共和国",
@@ -6113,12 +5843,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_137.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/chad/index.html",
          "position" : [
-            "15.454166",
-            "18.732207"
+            "12.1",
+            "15.03"
          ],
          "stanag" : "TCD",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 17,
@@ -6130,8 +5859,8 @@
       "9" : {
          "code" : "PA",
          "code3" : "PAN",
-         "en_name" : "The Republic of Panama",
-         "en_short_name" : "Panama",
+         "en_name" : "Panama",
+         "en_short_name" : "PA",
          "gec" : "PM",
          "iso3166_numeric" : "591",
          "ja_name" : "パナマ共和国",
@@ -6140,12 +5869,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_256.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/panama/index.html",
          "position" : [
-            "8.537981",
-            "-80.782127"
+            "8.97",
+            "-79.53"
          ],
          "stanag" : "PAN",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
@@ -6182,8 +5910,8 @@
       "91" : {
          "code" : "SR",
          "code3" : "SUR",
-         "en_name" : "The Republic of Suriname",
-         "en_short_name" : "Suriname",
+         "en_name" : "Suriname",
+         "en_short_name" : "SR",
          "gec" : "NS",
          "iso3166_numeric" : "740",
          "ja_name" : "スリナム共和国",
@@ -6192,12 +5920,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_250.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/suriname/index.html",
          "position" : [
-            "3.919305",
-            "-56.027783"
+            "5.82",
+            "-55.17"
          ],
          "stanag" : "SUR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 5,
@@ -6209,8 +5936,8 @@
       "92" : {
          "code" : "GH",
          "code3" : "GHA",
-         "en_name" : "The Republic of Ghana",
-         "en_short_name" : "Ghana",
+         "en_name" : "Ghana",
+         "en_short_name" : "GH",
          "gec" : "GH",
          "iso3166_numeric" : "288",
          "ja_name" : "ガーナ共和国",
@@ -6219,12 +5946,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_096.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ghana/index.html",
          "position" : [
-            "7.946527",
-            "-1.023194"
+            "5.56",
+            "-0.2"
          ],
          "stanag" : "GHA",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -6236,8 +5962,8 @@
       "93" : {
          "code" : "BY",
          "code3" : "BLR",
-         "en_name" : "The Republic of Belarus",
-         "en_short_name" : "Belarus",
+         "en_name" : "Belarus",
+         "en_short_name" : "BY",
          "gec" : "BO",
          "iso3166_numeric" : "112",
          "ja_name" : "ベラルーシ共和国",
@@ -6246,12 +5972,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_185.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/belarus/index.html",
          "position" : [
-            "53.709807",
-            "27.953389"
+            "53.9",
+            "27.58"
          ],
          "stanag" : "BLR",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 151,
@@ -6263,8 +5988,8 @@
       "94" : {
          "code" : "GW",
          "code3" : "GNB",
-         "en_name" : "The Republic of Guinea-Bissau",
-         "en_short_name" : "Guinea-Bissau",
+         "en_name" : "Guinea-Bissau",
+         "en_short_name" : "GW",
          "gec" : "PU",
          "iso3166_numeric" : "624",
          "ja_name" : "ギニアビサウ共和国",
@@ -6273,12 +5998,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_140.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guinea_b/index.html",
          "position" : [
-            "11.803749",
-            "-15.180413"
+            "11.86",
+            "-15.6"
          ],
          "stanag" : "GNB",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 11,
@@ -6291,7 +6015,7 @@
          "code" : "BB",
          "code3" : "BRB",
          "en_name" : "Barbados",
-         "en_short_name" : "Barbados",
+         "en_short_name" : "BB",
          "gec" : "BB",
          "iso3166_numeric" : "052",
          "ja_name" : "バルバドス",
@@ -6300,12 +6024,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_287.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/barbados/index.html",
          "position" : [
-            "13.193887",
-            "-59.543198"
+            "13.09",
+            "-59.61"
          ],
          "stanag" : "BRB",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 29,
@@ -6317,8 +6040,8 @@
       "96" : {
          "code" : "SO",
          "code3" : "SOM",
-         "en_name" : "Federal Republic of Somalia",
-         "en_short_name" : "Somalia",
+         "en_name" : "Somalia",
+         "en_short_name" : "SO",
          "gec" : "SO",
          "iso3166_numeric" : "706",
          "ja_name" : "ソマリア共和国",
@@ -6327,12 +6050,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_110.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/somali/index.html",
          "position" : [
-            "5.152149",
-            "46.199616"
+            "2.08",
+            "45.33"
          ],
          "stanag" : "SOM",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 14,
@@ -6344,8 +6066,8 @@
       "97" : {
          "code" : "CR",
          "code3" : "CRI",
-         "en_name" : "The Republic of Costa Rica",
-         "en_short_name" : "Costa Rica",
+         "en_name" : "Costa Rica",
+         "en_short_name" : "CR",
          "gec" : "CS",
          "iso3166_numeric" : "188",
          "ja_name" : "コスタリカ共和国",
@@ -6354,12 +6076,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_247.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/costarica/index.html",
          "position" : [
-            "9.748917",
-            "-83.753428"
+            "9.93",
+            "-84.08"
          ],
          "stanag" : "CRI",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 13,
@@ -6371,8 +6092,8 @@
       "98" : {
          "code" : "LI",
          "code3" : "LIE",
-         "en_name" : "The Principality of Liechtenstein",
-         "en_short_name" : "Liechtenstein",
+         "en_name" : "Liechtenstein",
+         "en_short_name" : "LI",
          "gec" : "LS",
          "iso3166_numeric" : "438",
          "ja_name" : "リヒテンシュタイン公国",
@@ -6381,12 +6102,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_283.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/liechtenstein/index.html",
          "position" : [
-            "47.166",
-            "9.555373"
+            "47.15",
+            "9.53"
          ],
          "stanag" : "LIE",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 155,
@@ -6398,8 +6118,8 @@
       "99" : {
          "code" : "TL",
          "code3" : "TLS",
-         "en_name" : "The Democratic Republic of Timor-Leste",
-         "en_short_name" : "East Timor",
+         "en_name" : "Timor-Leste",
+         "en_short_name" : "TL",
          "gec" : "TT",
          "iso3166_numeric" : "626",
          "ja_name" : "東ティモール民主共和国",
@@ -6408,12 +6128,11 @@
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_295.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/easttimor/index.html",
          "position" : [
-            "-8.874217",
-            "125.727539"
+            "-8.57",
+            "125.57"
          ],
          "stanag" : "TLS",
          "status" : {
-            "gb" : "country",
             "jp" : "country"
          },
          "submacroregion" : 35,
