@@ -10,7 +10,6 @@
          "ja_name" : "アンティグア・バーブーダ",
          "ja_short_name" : "アンティグア・バーブーダ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/antigua/index.html",
          "position" : [
             "17.12",
             "-61.85"
@@ -35,7 +34,6 @@
          "ja_name" : "カタール国",
          "ja_short_name" : "カタール",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/quatar/index.html",
          "position" : [
             "25.28",
             "51.52"
@@ -60,7 +58,6 @@
          "ja_name" : "セルビア共和国",
          "ja_short_name" : "セルビア",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/serbia/index.html",
          "position" : [
             "44.8",
             "20.48"
@@ -84,7 +81,6 @@
          "ja_name" : "ウズベキスタン共和国",
          "ja_short_name" : "ウズベキスタン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uzbekistan/index.html",
          "position" : [
             "41.31",
             "69.27"
@@ -109,7 +105,6 @@
          "ja_name" : "ニカラグア共和国",
          "ja_short_name" : "ニカラグア",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nicaragua/index.html",
          "position" : [
             "12.15",
             "-86.27"
@@ -134,7 +129,6 @@
          "ja_name" : "カメルーン共和国",
          "ja_short_name" : "カメルーン",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cameroon/index.html",
          "position" : [
             "3.87",
             "11.52"
@@ -159,7 +153,6 @@
          "ja_name" : "ザンビア共和国",
          "ja_short_name" : "ザンビア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/zambia/index.html",
          "position" : [
             "-15.41",
             "28.29"
@@ -184,7 +177,6 @@
          "ja_name" : "マルタ共和国",
          "ja_short_name" : "マルタ",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/malta/index.html",
          "position" : [
             "35.9",
             "14.52"
@@ -209,7 +201,6 @@
          "ja_name" : "シリア・アラブ共和国",
          "ja_short_name" : "シリア",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/syria/index.html",
          "position" : [
             "33.52",
             "36.31"
@@ -221,7 +212,7 @@
          "submacroregion" : 145,
          "wikipedia_flag_file_name" : "File:Flag_of_Syria.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html",
-         "wref_en" : "Syrian_Arab_Republic",
+         "wref_en" : "Syria",
          "wref_ja" : "シリア"
       },
       "107" : {
@@ -234,7 +225,6 @@
          "ja_name" : "ポルトガル共和国",
          "ja_short_name" : "ポルトガル",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/portugal/index.html",
          "position" : [
             "38.71",
             "-9.14"
@@ -259,7 +249,6 @@
          "ja_name" : "チュニジア共和国",
          "ja_short_name" : "チュニジア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tunisia/index.html",
          "position" : [
             "36.82",
             "10.17"
@@ -284,7 +273,6 @@
          "ja_name" : "レバノン共和国",
          "ja_short_name" : "レバノン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/lebanon/index.html",
          "position" : [
             "33.89",
             "35.51"
@@ -309,7 +297,6 @@
          "ja_name" : "ベトナム社会主義共和国",
          "ja_short_name" : "ベトナム",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/vietnam/index.html",
          "position" : [
             "21.02",
             "105.85"
@@ -321,7 +308,7 @@
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_Vietnam.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/vm.html",
-         "wref_en" : "Viet_Nam",
+         "wref_en" : "Vietnam",
          "wref_ja" : "ベトナム"
       },
       "110" : {
@@ -334,7 +321,6 @@
          "ja_name" : "パラオ共和国",
          "ja_short_name" : "パラオ",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/palau/index.html",
          "position" : [
             "7.34",
             "134.48"
@@ -359,7 +345,6 @@
          "ja_name" : "モナコ公国",
          "ja_short_name" : "モナコ",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/monaco/index.html",
          "position" : [
             "43.75",
             "7.42"
@@ -384,7 +369,6 @@
          "ja_name" : "コロンビア共和国",
          "ja_short_name" : "コロンビア",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/colombia/index.html",
          "position" : [
             "4.61",
             "-74.08"
@@ -409,7 +393,6 @@
          "ja_name" : "中華人民共和国",
          "ja_short_name" : "中国",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/china/index.html",
          "position" : [
             "39.91",
             "116.4"
@@ -434,7 +417,6 @@
          "ja_name" : "ラオス人民民主共和国",
          "ja_short_name" : "ラオス",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/laos/index.html",
          "position" : [
             "17.96",
             "102.61"
@@ -446,7 +428,7 @@
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_Laos.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/la.html",
-         "wref_en" : "Lao_People's_Democratic_Republic",
+         "wref_en" : "Laos",
          "wref_ja" : "ラオス"
       },
       "115" : {
@@ -459,7 +441,6 @@
          "ja_name" : "キプロス共和国",
          "ja_short_name" : "キプロス",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cyprus/index.html",
          "position" : [
             "35.17",
             "33.37"
@@ -484,7 +465,6 @@
          "ja_name" : "ソロモン諸島",
          "ja_short_name" : "ソロモン諸島",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/solomon/index.html",
          "position" : [
             "-9.43",
             "159.95"
@@ -509,7 +489,6 @@
          "ja_name" : "オーストラリア連邦",
          "ja_short_name" : "オーストラリア",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/australia/index.html",
          "position" : [
             "-35.33",
             "149.08"
@@ -534,7 +513,6 @@
          "ja_name" : "セーシェル共和国",
          "ja_short_name" : "セーシェル",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/seychelles/index.html",
          "position" : [
             "-4.61",
             "55.44"
@@ -559,7 +537,6 @@
          "ja_name" : "シンガポール共和国",
          "ja_short_name" : "シンガポール",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/singapore/index.html",
          "position" : [
             "1.29",
             "103.85"
@@ -584,7 +561,6 @@
          "ja_name" : "モンテネグロ",
          "ja_short_name" : "モンテネグロ",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/montenegro/index.html",
          "position" : [
             "42.44",
             "19.27"
@@ -609,7 +585,6 @@
          "ja_name" : "ウクライナ",
          "ja_short_name" : "ウクライナ",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ukraine/index.html",
          "position" : [
             "50.45",
             "30.5"
@@ -634,7 +609,6 @@
          "ja_name" : "ボリビア多民族国",
          "ja_short_name" : "ボリビア",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bolivia/index.html",
          "position" : [
             "-16.5",
             "-68.15"
@@ -646,7 +620,7 @@
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Bolivia.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bl.html",
-         "wref_en" : "Bolivia_(Plurinational_State_of)",
+         "wref_en" : "Bolivia",
          "wref_ja" : "ボリビア"
       },
       "122" : {
@@ -659,7 +633,6 @@
          "ja_name" : "香港",
          "ja_short_name" : "香港",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/hongkong/index.html",
          "position" : [
             "22.38",
             "114.16"
@@ -684,7 +657,6 @@
          "ja_name" : "ナミビア共和国",
          "ja_short_name" : "ナミビア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/namibia/index.html",
          "position" : [
             "-22.57",
             "17.07"
@@ -709,7 +681,6 @@
          "ja_name" : "ミクロネシア連邦",
          "ja_short_name" : "ミクロネシア",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/micronesia/index.html",
          "position" : [
             "6.92",
             "158.19"
@@ -721,7 +692,7 @@
          "submacroregion" : 57,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Federated_States_of_Micronesia.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fm.html",
-         "wref_en" : "Micronesia_(Federated_States_of)",
+         "wref_en" : "Federated_States_of_Micronesia",
          "wref_ja" : "ミクロネシア連邦"
       },
       "125" : {
@@ -734,7 +705,6 @@
          "ja_name" : "ハンガリー",
          "ja_short_name" : "ハンガリー",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/hungary/index.html",
          "position" : [
             "47.5",
             "19.04"
@@ -759,7 +729,6 @@
          "ja_name" : "インドネシア共和国",
          "ja_short_name" : "インドネシア",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/indonesia/index.html",
          "position" : [
             "-6.21",
             "106.85"
@@ -808,7 +777,6 @@
          "ja_name" : "ボスニア・ヘルツェゴビナ",
          "ja_short_name" : "ボスニア・ヘルツェゴビナ",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bosnia_h/index.html",
          "position" : [
             "43.86",
             "18.41"
@@ -833,7 +801,6 @@
          "ja_name" : "ネパール連邦民主共和国",
          "ja_short_name" : "ネパール",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nepal/index.html",
          "position" : [
             "27.7",
             "85.32"
@@ -858,7 +825,6 @@
          "ja_name" : "バチカン市国",
          "ja_short_name" : "バチカン",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/vatican/index.html",
          "position" : [
             "41.9",
             "12.45"
@@ -870,7 +836,7 @@
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Vatican_City.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/vt.html",
-         "wref_en" : "Vatican_City_State",
+         "wref_en" : "Vatican_City",
          "wref_ja" : "バチカン"
       },
       "130" : {
@@ -883,7 +849,6 @@
          "ja_name" : "マケドニア旧ユーゴスラビア共和国",
          "ja_short_name" : "マケドニア",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/macedonia/index.html",
          "position" : [
             "42",
             "21.45"
@@ -908,7 +873,6 @@
          "ja_name" : "サンマリノ共和国",
          "ja_short_name" : "サンマリノ",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/sanmarino_r/index.html",
          "position" : [
             "43.96",
             "12.46"
@@ -933,7 +897,6 @@
          "ja_name" : "モーリタニア・イスラム共和国",
          "ja_short_name" : "モーリタニア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mauritania/index.html",
          "position" : [
             "18.08",
             "-15.98"
@@ -958,7 +921,6 @@
          "ja_name" : "ギニア共和国",
          "ja_short_name" : "ギニア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guinea/index.html",
          "position" : [
             "9.54",
             "-13.68"
@@ -983,7 +945,6 @@
          "ja_name" : "カーボヴェルデ共和国",
          "ja_short_name" : "カーボヴェルデ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/capeverde/index.html",
          "position" : [
             "14.92",
             "-23.52"
@@ -995,7 +956,7 @@
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Cape_Verde.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cv.html",
-         "wref_en" : "Cabo_Verde",
+         "wref_en" : "Cape_Verde",
          "wref_ja" : "カーボベルデ"
       },
       "135" : {
@@ -1008,7 +969,6 @@
          "ja_name" : "南スーダン共和国",
          "ja_short_name" : "南スーダン",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/s_sudan/index.html",
          "position" : [
             "4.85",
             "31.60"
@@ -1032,7 +992,6 @@
          "ja_name" : "パラグアイ共和国",
          "ja_short_name" : "パラグアイ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/paraguay/index.html",
          "position" : [
             "-25.3",
             "-57.64"
@@ -1057,7 +1016,6 @@
          "ja_name" : "クロアチア共和国",
          "ja_short_name" : "クロアチア",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/croatia/index.html",
          "position" : [
             "45.81",
             "15.96"
@@ -1082,7 +1040,6 @@
          "ja_name" : "アルジェリア民主人民共和国",
          "ja_short_name" : "アルジェリア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/algeria/index.html",
          "position" : [
             "36.75",
             "3.04"
@@ -1107,7 +1064,6 @@
          "ja_name" : "ヨルダン・ハシェミット王国",
          "ja_short_name" : "ヨルダン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/jordan/index.html",
          "position" : [
             "31.95",
             "35.93"
@@ -1132,7 +1088,6 @@
          "ja_name" : "ジャマイカ",
          "ja_short_name" : "ジャマイカ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/jamaica/index.html",
          "position" : [
             "17.98",
             "-76.8"
@@ -1153,7 +1108,6 @@
          "gec" : "KV",
          "ja_name" : "コソボ共和国",
          "ja_short_name" : "コソボ",
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kosovo/index.html",
          "position" : [
             "42.65",
             "21.17"
@@ -1173,7 +1127,6 @@
          "ja_name" : "トーゴ共和国",
          "ja_short_name" : "トーゴ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/togo/index.html",
          "position" : [
             "6.12",
             "1.23"
@@ -1198,7 +1151,6 @@
          "ja_name" : "パプアニューギニア独立国",
          "ja_short_name" : "パプアニューギニア",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/png/index.html",
          "position" : [
             "-9.48",
             "147.19"
@@ -1223,7 +1175,6 @@
          "ja_name" : "アンゴラ共和国",
          "ja_short_name" : "アンゴラ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/angola/index.html",
          "position" : [
             "-8.81",
             "13.24"
@@ -1248,7 +1199,6 @@
          "ja_name" : "ブルンジ共和国",
          "ja_short_name" : "ブルンジ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/brundi/index.html",
          "position" : [
             "-3.38",
             "29.36"
@@ -1273,7 +1223,6 @@
          "ja_name" : "リベリア共和国",
          "ja_short_name" : "リベリア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/liberia/index.html",
          "position" : [
             "6.3",
             "-10.8"
@@ -1298,7 +1247,6 @@
          "ja_name" : "ロシア連邦",
          "ja_short_name" : "ロシア",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/russia/index.html",
          "position" : [
             "55.76",
             "37.62"
@@ -1310,7 +1258,7 @@
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_Russia.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/rs.html",
-         "wref_en" : "Russian_Federation",
+         "wref_en" : "Russia",
          "wref_ja" : "ロシア"
       },
       "147" : {
@@ -1323,7 +1271,6 @@
          "ja_name" : "デンマーク王国",
          "ja_short_name" : "デンマーク",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/denmark/index.html",
          "position" : [
             "55.68",
             "12.57"
@@ -1348,7 +1295,6 @@
          "ja_name" : "バングラデシュ人民共和国",
          "ja_short_name" : "バングラデシュ",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bangladesh/index.html",
          "position" : [
             "23.71",
             "90.41"
@@ -1373,7 +1319,6 @@
          "ja_name" : "イラン・イスラム共和国",
          "ja_short_name" : "イラン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/iran/index.html",
          "position" : [
             "35.7",
             "51.42"
@@ -1385,7 +1330,7 @@
          "submacroregion" : 34,
          "wikipedia_flag_file_name" : "File:Flag_of_Iran.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html",
-         "wref_en" : "Iran_(Islamic_Republic_of)",
+         "wref_en" : "Iran",
          "wref_ja" : "イラン"
       },
       "15" : {
@@ -1398,7 +1343,6 @@
          "ja_name" : "ラトビア共和国",
          "ja_short_name" : "ラトビア",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/latvia/index.html",
          "position" : [
             "56.95",
             "24.09"
@@ -1423,7 +1367,6 @@
          "ja_name" : "レソト王国",
          "ja_short_name" : "レソト",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/lesotho/index.html",
          "position" : [
             "-29.31",
             "27.49"
@@ -1448,7 +1391,6 @@
          "ja_name" : "モザンビーク共和国",
          "ja_short_name" : "モザンビーク",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mozambique/index.html",
          "position" : [
             "-25.97",
             "32.57"
@@ -1473,7 +1415,6 @@
          "ja_name" : "南アフリカ共和国",
          "ja_short_name" : "南アフリカ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/s_africa/index.html",
          "position" : [
             "-25.73",
             "28.22"
@@ -1498,7 +1439,6 @@
          "ja_name" : "モーリシャス共和国",
          "ja_short_name" : "モーリシャス",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mauritius/index.html",
          "position" : [
             "-20.17",
             "57.5"
@@ -1523,7 +1463,6 @@
          "ja_name" : "アンドラ公国",
          "ja_short_name" : "アンドラ",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/andorra/index.html",
          "position" : [
             "42.5",
             "1.52"
@@ -1548,7 +1487,6 @@
          "ja_name" : "アルゼンチン共和国",
          "ja_short_name" : "アルゼンチン",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/argentine/index.html",
          "position" : [
             "-34.61",
             "-58.42"
@@ -1573,7 +1511,6 @@
          "ja_name" : "ベネズエラ・ボリバル共和国",
          "ja_short_name" : "ベネズエラ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/venezuela/index.html",
          "position" : [
             "10.49",
             "-66.9"
@@ -1585,7 +1522,7 @@
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_Venezuela_(state).svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ve.html",
-         "wref_en" : "Venezuela_(Bolivarian_Republic_of)",
+         "wref_en" : "Venezuela",
          "wref_ja" : "ベネズエラ"
       },
       "157" : {
@@ -1598,7 +1535,6 @@
          "ja_name" : "リトアニア共和国",
          "ja_short_name" : "リトアニア",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/lithuania/index.html",
          "position" : [
             "54.68",
             "25.28"
@@ -1623,7 +1559,6 @@
          "ja_name" : "マレーシア",
          "ja_short_name" : "マレーシア",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/malaysia/index.html",
          "position" : [
             "3.15",
             "101.71"
@@ -1648,7 +1583,6 @@
          "ja_name" : "キリバス共和国",
          "ja_short_name" : "キリバス",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kiribati/index.html",
          "position" : [
             "1.47",
             "173.03"
@@ -1673,7 +1607,6 @@
          "ja_name" : "サウジアラビア王国",
          "ja_short_name" : "サウジアラビア",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/saudi/index.html",
          "position" : [
             "24.64",
             "46.72"
@@ -1698,7 +1631,6 @@
          "ja_name" : "グレートブリテン及び北アイルランド連合王国",
          "ja_short_name" : "英国",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uk/index.html",
          "position" : [
             "55.378051",
             "-3.435973"
@@ -1711,7 +1643,7 @@
          "submacroregion" : 154,
          "wikipedia_flag_file_name" : "File:Flag_of_the_United_Kingdom.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/uk.html",
-         "wref_en" : "United_Kingdom_of_Great_Britain_and_Northern_Ireland",
+         "wref_en" : "United_Kingdom",
          "wref_ja" : "イギリス"
       },
       "161" : {
@@ -1724,7 +1656,6 @@
          "ja_name" : "エクアドル共和国",
          "ja_short_name" : "エクアドル",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ecuador/index.html",
          "position" : [
             "-0.15",
             "-78.35"
@@ -1749,7 +1680,6 @@
          "ja_name" : "ニジェール共和国",
          "ja_short_name" : "ニジェール",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/niger/index.html",
          "position" : [
             "13.52",
             "2.12"
@@ -1774,7 +1704,6 @@
          "ja_name" : "イエメン共和国",
          "ja_short_name" : "イエメン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/yemen/index.html",
          "position" : [
             "15.8",
             "47.9"
@@ -1799,7 +1728,6 @@
          "ja_name" : "モルディブ共和国",
          "ja_short_name" : "モルディブ",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/maldives/index.html",
          "position" : [
             "4.17",
             "73.51"
@@ -1824,7 +1752,6 @@
          "ja_name" : "エリトリア国",
          "ja_short_name" : "エリトリア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/eritrea/index.html",
          "position" : [
             "15.33",
             "38.93"
@@ -1849,7 +1776,6 @@
          "ja_name" : "中華民国",
          "ja_short_name" : "台湾",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/taiwan/index.html",
          "position" : [
             "25.04",
             "121.50"
@@ -1861,8 +1787,8 @@
          "submacroregion" : 30,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Republic_of_China.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tw.html",
-         "wref_en" : "Taiwan,_Province_of_China",
-         "wref_ja" : "台湾"
+         "wref_en" : "Taiwan",
+         "wref_ja" : "台湾省_(中華人民共和国)"
       },
       "167" : {
          "code" : "IS",
@@ -1874,7 +1800,6 @@
          "ja_name" : "アイスランド共和国",
          "ja_short_name" : "アイスランド",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/iceland/index.html",
          "position" : [
             "64.14",
             "-21.9"
@@ -1899,7 +1824,6 @@
          "ja_name" : "ブルガリア共和国",
          "ja_short_name" : "ブルガリア",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bulgaria/index.html",
          "position" : [
             "42.71",
             "23.32"
@@ -1924,7 +1848,6 @@
          "ja_name" : "ドミニカ共和国",
          "ja_short_name" : "ドミニカ共和国",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/dominican_r/index.html",
          "position" : [
             "18.48",
             "-69.92"
@@ -1949,7 +1872,6 @@
          "ja_name" : "ツバル",
          "ja_short_name" : "ツバル",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tuvalu/index.html",
          "position" : [
             "-8.51",
             "179.18"
@@ -1974,7 +1896,6 @@
          "ja_name" : "アメリカ合衆国",
          "ja_short_name" : "アメリカ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/usa/index.html",
          "position" : [
             "38.88",
             "-77.03"
@@ -1983,7 +1904,6 @@
          "status" : {
             "jp" : "country"
          },
-         "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_the_United_States.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/us.html",
          "wref_en" : "United_States",
@@ -1999,7 +1919,6 @@
          "ja_name" : "ブータン王国",
          "ja_short_name" : "ブータン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bhutan/index.html",
          "position" : [
             "27.44",
             "89.67"
@@ -2024,7 +1943,6 @@
          "ja_name" : "エストニア共和国",
          "ja_short_name" : "エストニア",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/estonia/index.html",
          "position" : [
             "59.43",
             "24.73"
@@ -2049,7 +1967,6 @@
          "ja_name" : "ウガンダ共和国",
          "ja_short_name" : "ウガンダ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uganda/index.html",
          "position" : [
             "0.31",
             "32.57"
@@ -2074,7 +1991,6 @@
          "ja_name" : "コートジボワール共和国",
          "ja_short_name" : "コートジボワール",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cote_d/index.html",
          "position" : [
             "6.82",
             "-5.28"
@@ -2086,7 +2002,7 @@
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_Côte_d'Ivoire.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/iv.html",
-         "wref_en" : "Côte_d'Ivoire",
+         "wref_en" : "Ivory_Coast",
          "wref_ja" : "コートジボワール"
       },
       "175" : {
@@ -2099,7 +2015,6 @@
          "ja_name" : "マカオ",
          "ja_short_name" : "マカオ",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/macao/index.html",
          "position" : [
             "22.19",
             "113.54"
@@ -2111,7 +2026,7 @@
          "submacroregion" : 30,
          "wikipedia_flag_file_name" : "File:Flag_of_Macau.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mc.html",
-         "wref_en" : "Macao",
+         "wref_en" : "Macau",
          "wref_ja" : "マカオ"
       },
       "176" : {
@@ -2124,7 +2039,6 @@
          "ja_name" : "アルメニア共和国",
          "ja_short_name" : "アルメニア",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/armenia/index.html",
          "position" : [
             "40.16",
             "44.51"
@@ -2149,7 +2063,6 @@
          "ja_name" : "パキスタン・イスラム共和国",
          "ja_short_name" : "パキスタン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/pakistan/index.html",
          "position" : [
             "33.72",
             "73.06"
@@ -2174,7 +2087,6 @@
          "ja_name" : "アルバニア共和国",
          "ja_short_name" : "アルバニア",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/albania/index.html",
          "position" : [
             "41.33",
             "19.83"
@@ -2199,7 +2111,6 @@
          "ja_name" : "フィンランド共和国",
          "ja_short_name" : "フィンランド",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/finland/index.html",
          "position" : [
             "60.16",
             "24.95"
@@ -2224,7 +2135,6 @@
          "ja_name" : "ベナン共和国",
          "ja_short_name" : "ベナン",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/benin/index.html",
          "position" : [
             "6.48",
             "2.63"
@@ -2249,7 +2159,6 @@
          "ja_name" : "リビア",
          "ja_short_name" : "リビア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/libya/index.html",
          "position" : [
             "32.88",
             "13.19"
@@ -2274,7 +2183,6 @@
          "ja_name" : "ドイツ連邦共和国",
          "ja_short_name" : "ドイツ",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/germany/index.html",
          "position" : [
             "52.52",
             "13.41"
@@ -2299,7 +2207,6 @@
          "ja_name" : "ナウル共和国",
          "ja_short_name" : "ナウル",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nauru/index.html",
          "position" : [
             "-0.53",
             "166.92"
@@ -2324,7 +2231,6 @@
          "ja_name" : "セントクリストファー・ネーヴィス",
          "ja_short_name" : "セントクリストファー・ネーヴィス",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/scn/index.html",
          "position" : [
             "17.3",
             "-62.73"
@@ -2349,7 +2255,6 @@
          "ja_name" : "ニュージーランド",
          "ja_short_name" : "ニュージーランド",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nz/index.html",
          "position" : [
             "-41.32",
             "174.78"
@@ -2374,7 +2279,6 @@
          "ja_name" : "ブルネイ・ダルサラーム国",
          "ja_short_name" : "ブルネイ",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/brunei/index.html",
          "position" : [
             "4.94",
             "114.95"
@@ -2386,7 +2290,7 @@
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_Brunei.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bx.html",
-         "wref_en" : "Brunei_Darussalam",
+         "wref_en" : "Brunei",
          "wref_ja" : "ブルネイ"
       },
       "186" : {
@@ -2399,7 +2303,6 @@
          "ja_name" : "グアテマラ共和国",
          "ja_short_name" : "グアテマラ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guatemala/index.html",
          "position" : [
             "14.63",
             "-90.5"
@@ -2424,7 +2327,6 @@
          "ja_name" : "バハマ国",
          "ja_short_name" : "バハマ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bahama/index.html",
          "position" : [
             "25.07",
             "-77.34"
@@ -2436,7 +2338,7 @@
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Bahamas.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bf.html",
-         "wref_en" : "Bahamas",
+         "wref_en" : "The_Bahamas",
          "wref_ja" : "バハマ"
       },
       "188" : {
@@ -2449,7 +2351,6 @@
          "ja_name" : "ミャンマー連邦共和国",
          "ja_short_name" : "ミャンマー",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/myanmar/index.html",
          "position" : [
             "16.78",
             "96.16"
@@ -2474,7 +2375,6 @@
          "ja_name" : "サントメ・プリンシペ民主共和国",
          "ja_short_name" : "サントメ・プリンシペ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/stp/index.html",
          "position" : [
             "0.34",
             "6.73"
@@ -2486,7 +2386,7 @@
          "submacroregion" : 17,
          "wikipedia_flag_file_name" : "File:Flag_of_Sao_Tome_and_Principe.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tp.html",
-         "wref_en" : "Sao_Tome_and_Principe",
+         "wref_en" : "São_Tomé_and_Príncipe",
          "wref_ja" : "サントメ・プリンシペ"
       },
       "19" : {
@@ -2499,7 +2399,6 @@
          "ja_name" : "オランダ王国",
          "ja_short_name" : "オランダ",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/netherlands/index.html",
          "position" : [
             "52.37",
             "4.89"
@@ -2524,7 +2423,6 @@
          "ja_name" : "モンゴル国",
          "ja_short_name" : "モンゴル",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mongolia/index.html",
          "position" : [
             "47.9",
             "106.92"
@@ -2549,7 +2447,6 @@
          "ja_name" : "トンガ王国",
          "ja_short_name" : "トンガ",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tonga/index.html",
          "position" : [
             "-21.14",
             "-175.22"
@@ -2574,7 +2471,6 @@
          "ja_name" : "スウェーデン王国",
          "ja_short_name" : "スウェーデン",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/sweden/index.html",
          "position" : [
             "59.33",
             "18.06"
@@ -2599,7 +2495,6 @@
          "ja_name" : "赤道ギニア共和国",
          "ja_short_name" : "赤道ギニア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/eq_guinea/index.html",
          "position" : [
             "3.75",
             "8.78"
@@ -2624,7 +2519,6 @@
          "ja_name" : "セネガル共和国",
          "ja_short_name" : "セネガル",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/senegal/index.html",
          "position" : [
             "14.69",
             "-17.45"
@@ -2649,7 +2543,6 @@
          "ja_name" : "ナイジェリア連邦共和国",
          "ja_short_name" : "ナイジェリア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nigeria/index.html",
          "position" : [
             "9.19",
             "7.18"
@@ -2674,7 +2567,6 @@
          "ja_name" : "ギリシャ共和国",
          "ja_short_name" : "ギリシャ",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/greece/index.html",
          "position" : [
             "37.98",
             "23.72"
@@ -2699,7 +2591,6 @@
          "ja_name" : "オマーン国",
          "ja_short_name" : "オマーン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/oman/index.html",
          "position" : [
             "23.61",
             "58.59"
@@ -2724,7 +2615,6 @@
          "ja_name" : "シエラレオネ共和国",
          "ja_short_name" : "シエラレオネ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/s_leone/index.html",
          "position" : [
             "8.48",
             "-13.23"
@@ -2749,7 +2639,6 @@
          "ja_name" : "アラブ首長国連邦",
          "ja_short_name" : "アラブ首長国連邦",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uae/index.html",
          "position" : [
             "24.48",
             "54.37"
@@ -2774,7 +2663,6 @@
          "ja_name" : "キルギス共和国",
          "ja_short_name" : "キルギス",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kyrgyz/index.html",
          "position" : [
             "42.87",
             "74.59"
@@ -2799,7 +2687,6 @@
          "ja_name" : "ベルギー王国",
          "ja_short_name" : "ベルギー",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/belgium/index.html",
          "position" : [
             "50.84",
             "4.37"
@@ -2824,7 +2711,6 @@
          "ja_name" : "スペイン",
          "ja_short_name" : "スペイン",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/spain/index.html",
          "position" : [
             "40.42",
             "-3.7"
@@ -2849,7 +2735,6 @@
          "ja_name" : "朝鮮民主主義人民共和国",
          "ja_short_name" : "北朝鮮",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/n_korea/index.html",
          "position" : [
             "39.03",
             "125.75"
@@ -2888,7 +2773,6 @@
          "iso3166_numeric" : "060",
          "macroregion" : 19,
          "stanag" : "BMU",
-         "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_Bermuda.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/bd.html",
          "wref_en" : "Bermuda",
@@ -2949,7 +2833,6 @@
          "ja_name" : "アフガニスタン・イスラム共和国",
          "ja_short_name" : "アフガニスタン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/afghanistan/index.html",
          "position" : [
             "34.53",
             "69.17"
@@ -2976,7 +2859,7 @@
          "submacroregion" : 5,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Falkland_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fk.html",
-         "wref_en" : "Falkland_Islands_(Malvinas)",
+         "wref_en" : "Falkland_Islands",
          "wref_ja" : "フォークランド諸島"
       },
       "211" : {
@@ -3021,7 +2904,7 @@
          "submacroregion" : 61,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Pitcairn_Islands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/pc.html",
-         "wref_en" : "Pitcairn",
+         "wref_en" : "Pitcairn_Islands",
          "wref_ja" : "ピトケアン諸島"
       },
       "214" : {
@@ -3087,7 +2970,6 @@
          "ja_name" : "ブルキナファソ",
          "ja_short_name" : "ブルキナファソ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/burkina/index.html",
          "position" : [
             "12.36",
             "-1.54"
@@ -3147,7 +3029,6 @@
          "iso3166_numeric" : "304",
          "macroregion" : 19,
          "stanag" : "GRL",
-         "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_Greenland.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/gl.html",
          "wref_en" : "Greenland",
@@ -3191,7 +3072,6 @@
          "ja_name" : "カナダ",
          "ja_short_name" : "カナダ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/canada/index.html",
          "position" : [
             "45.42",
             "-75.69"
@@ -3200,7 +3080,6 @@
          "status" : {
             "jp" : "country"
          },
-         "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_Canada.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html",
          "wref_en" : "Canada",
@@ -3216,7 +3095,7 @@
          "stanag" : "ATF",
          "wikipedia_flag_file_name" : "File:Flag_of_the_French_Southern_and_Antarctic_Lands.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/fs.html",
-         "wref_en" : "French_Southern_Territories",
+         "wref_en" : "French_Southern_and_Antarctic_Lands",
          "wref_ja" : "フランス領南方・南極地域"
       },
       "234" : {
@@ -3264,7 +3143,6 @@
          "ja_name" : "ガンビア共和国",
          "ja_short_name" : "ガンビア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/gambia/index.html",
          "position" : [
             "13.45",
             "-16.59"
@@ -3276,7 +3154,7 @@
          "submacroregion" : 11,
          "wikipedia_flag_file_name" : "File:Flag_of_The_Gambia.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ga.html",
-         "wref_en" : "Gambia",
+         "wref_en" : "The_Gambia",
          "wref_ja" : "ガンビア"
       },
       "240" : {
@@ -3368,7 +3246,6 @@
          "ja_name" : "エルサルバドル共和国",
          "ja_short_name" : "エルサルバドル",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/elsalvador/index.html",
          "position" : [
             "13.71",
             "-89.2"
@@ -3445,7 +3322,6 @@
          "ja_name" : "ボツワナ共和国",
          "ja_short_name" : "ボツワナ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/botswana/index.html",
          "position" : [
             "-24.67",
             "25.92"
@@ -3486,7 +3362,7 @@
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_Sint_Maarten.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/nn.html",
-         "wref_en" : "Sint_Maarten_(Dutch_part)",
+         "wref_en" : "Sint_Maarten",
          "wref_ja" : "シント・マールテン"
       },
       "264" : {
@@ -3533,7 +3409,6 @@
          "ja_name" : "バヌアツ共和国",
          "ja_short_name" : "バヌアツ",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/vanuatu/index.html",
          "position" : [
             "-17.74",
             "168.32"
@@ -3571,7 +3446,7 @@
          "gec" : "AY",
          "iso3166_numeric" : "010",
          "stanag" : "ATA",
-         "wikipedia_flag_file_name" : "File:Flag_of_Antarctica.svg",
+         "wikipedia_flag_file_name" : "File:Proposed_flag_of_Antarctica_(Graham_Bartram).svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ay.html",
          "wref_en" : "Antarctica",
          "wref_ja" : "南極"
@@ -3629,7 +3504,6 @@
          "ja_name" : "フィジー共和国",
          "ja_short_name" : "フィジー",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/fiji/index.html",
          "position" : [
             "-18.14",
             "178.43"
@@ -3651,7 +3525,6 @@
          "en_short_name" : "United States Minor Outlying Islands",
          "iso3166_numeric" : "581",
          "macroregion" : 19,
-         "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_the_United_States.svg",
          "wref_en" : "United_States_Minor_Outlying_Islands",
          "wref_ja" : "合衆国領有小離島"
@@ -3670,7 +3543,6 @@
          "iso3166_numeric" : "666",
          "macroregion" : 19,
          "stanag" : "SPM",
-         "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_Saint-Pierre_and_Miquelon.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/sb.html",
          "wref_en" : "Saint_Pierre_and_Miquelon",
@@ -3685,7 +3557,7 @@
          "macroregion" : 19,
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Netherlands.svg",
-         "wref_en" : "Bonaire,_Sint_Eustatius_and_Saba",
+         "wref_en" : "Caribbean_Netherlands",
          "wref_ja" : "BES諸島"
       },
       "288" : {
@@ -3713,7 +3585,6 @@
          "ja_name" : "ブラジル連邦共和国",
          "ja_short_name" : "ブラジル",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/brazil/index.html",
          "position" : [
             "-15.79",
             "-47.9"
@@ -3739,7 +3610,7 @@
          "submacroregion" : 29,
          "wikipedia_flag_file_name" : "File:Flag_of_France.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/rn.html",
-         "wref_en" : "Saint_Martin_(French_part)",
+         "wref_en" : "Collectivity_of_Saint_Martin",
          "wref_ja" : "サン・マルタン_(西インド諸島)"
       },
       "294" : {
@@ -3797,7 +3668,6 @@
          "ja_name" : "キューバ共和国",
          "ja_short_name" : "キューバ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cuba/index.html",
          "position" : [
             "23.12",
             "-82.39"
@@ -3822,7 +3692,6 @@
          "ja_name" : "ルワンダ共和国",
          "ja_short_name" : "ルワンダ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/rwanda/index.html",
          "position" : [
             "-1.95",
             "30.06"
@@ -3923,7 +3792,6 @@
          "ja_name" : "エチオピア連邦民主共和国",
          "ja_short_name" : "エチオピア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ethiopia/index.html",
          "position" : [
             "9.02",
             "38.75"
@@ -4008,7 +3876,6 @@
          "ja_name" : "フランス共和国",
          "ja_short_name" : "フランス",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/france/index.html",
          "position" : [
             "48.86",
             "2.35"
@@ -4085,7 +3952,6 @@
          "ja_name" : "モルドバ共和国",
          "ja_short_name" : "モルドバ",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/moldova/index.html",
          "position" : [
             "47",
             "28.92"
@@ -4097,7 +3963,7 @@
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_Moldova.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/md.html",
-         "wref_en" : "Moldova_(Republic_of)",
+         "wref_en" : "Moldova",
          "wref_ja" : "モルドバ"
       },
       "332" : {
@@ -4117,7 +3983,6 @@
          "ja_name" : "マーシャル諸島共和国",
          "ja_short_name" : "マーシャル諸島",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/marshall/index.html",
          "position" : [
             "7.12",
             "171.07"
@@ -4142,7 +4007,6 @@
          "ja_name" : "ノルウェー王国",
          "ja_short_name" : "ノルウェー",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/norway/index.html",
          "position" : [
             "59.91",
             "10.74"
@@ -4167,7 +4031,6 @@
          "ja_name" : "スロベニア共和国",
          "ja_short_name" : "スロベニア",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/slovenia/index.html",
          "position" : [
             "46.06",
             "14.5"
@@ -4192,7 +4055,6 @@
          "ja_name" : "イラク共和国",
          "ja_short_name" : "イラク",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/iraq/index.html",
          "position" : [
             "33.33",
             "44.42"
@@ -4217,7 +4079,6 @@
          "ja_name" : "ジブチ共和国",
          "ja_short_name" : "ジブチ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/djibouti/index.html",
          "position" : [
             "11.99",
             "42.52"
@@ -4242,7 +4103,6 @@
          "ja_name" : "イタリア共和国",
          "ja_short_name" : "イタリア",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/italy/index.html",
          "position" : [
             "41.9",
             "12.48"
@@ -4267,7 +4127,6 @@
          "ja_name" : "マリ共和国",
          "ja_short_name" : "マリ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mali/index.html",
          "position" : [
             "12.65",
             "-7.99"
@@ -4292,7 +4151,6 @@
          "ja_name" : "ウルグアイ東方共和国",
          "ja_short_name" : "ウルグアイ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uruguay/index.html",
          "position" : [
             "-34.89",
             "-56.16"
@@ -4317,7 +4175,6 @@
          "ja_name" : "スーダン共和国",
          "ja_short_name" : "スーダン",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/sudan/index.html",
          "position" : [
             "15.55",
             "32.53"
@@ -4342,7 +4199,6 @@
          "ja_name" : "タイ王国",
          "ja_short_name" : "タイ",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/thailand/index.html",
          "position" : [
             "13.73",
             "100.52"
@@ -4367,7 +4223,6 @@
          "ja_name" : "ドミニカ国",
          "ja_short_name" : "ドミニカ国",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/c_dominica/index.html",
          "position" : [
             "15.3",
             "-61.39"
@@ -4396,9 +4251,6 @@
          "en_name" : "Eurozone",
          "en_short_name" : "Eurozone"
       },
-      "436" : {
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/plo/index.html"
-      },
       "437" : {
          "en_short_name" : "Not applicable"
       },
@@ -4412,7 +4264,6 @@
          "ja_name" : "インド",
          "ja_short_name" : "インド",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/india/index.html",
          "position" : [
             "28.61",
             "77.18"
@@ -4437,7 +4288,6 @@
          "ja_name" : "クック諸島",
          "ja_short_name" : "クック諸島",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cook/index.html",
          "position" : [
             "-21.20",
             "-159.77"
@@ -4462,7 +4312,6 @@
          "ja_name" : "トルクメニスタン",
          "ja_short_name" : "トルクメニスタン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/turkmenistan/index.html",
          "position" : [
             "37.97",
             "58.33"
@@ -4487,7 +4336,6 @@
          "ja_name" : "中央アフリカ共和国",
          "ja_short_name" : "中央アフリカ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/car/index.html",
          "position" : [
             "4.36",
             "18.56"
@@ -4512,7 +4360,6 @@
          "ja_name" : "エジプト・アラブ共和国",
          "ja_short_name" : "エジプト",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/egypt/index.html",
          "position" : [
             "30.06",
             "31.25"
@@ -4537,7 +4384,6 @@
          "ja_name" : "フィリピン共和国",
          "ja_short_name" : "フィリピン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/philippines/index.html",
          "position" : [
             "14.6",
             "120.98"
@@ -4562,7 +4408,6 @@
          "ja_name" : "ポーランド共和国",
          "ja_short_name" : "ポーランド",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/poland/index.html",
          "position" : [
             "52.24",
             "21.01"
@@ -4587,7 +4432,6 @@
          "ja_name" : "セントルシア",
          "ja_short_name" : "セントルシア",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/s_lucia/index.html",
          "position" : [
             "14",
             "-60.98"
@@ -4612,7 +4456,6 @@
          "ja_name" : "タンザニア連合共和国",
          "ja_short_name" : "タンザニア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tanzania/index.html",
          "position" : [
             "-6.82",
             "39.27"
@@ -4624,7 +4467,7 @@
          "submacroregion" : 14,
          "wikipedia_flag_file_name" : "File:Flag_of_Tanzania.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tz.html",
-         "wref_en" : "Tanzania,_United_Republic_of",
+         "wref_en" : "Tanzania",
          "wref_ja" : "タンザニア"
       },
       "52" : {
@@ -4637,7 +4480,6 @@
          "ja_name" : "コモロ連合",
          "ja_short_name" : "コモロ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/comoros/index.html",
          "position" : [
             "-11.7",
             "43.24"
@@ -4662,7 +4504,6 @@
          "ja_name" : "グレナダ",
          "ja_short_name" : "グレナダ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/grenada/index.html",
          "position" : [
             "12.07",
             "-61.74"
@@ -4687,7 +4528,6 @@
          "ja_name" : "ケニア共和国",
          "ja_short_name" : "ケニア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kenya/index.html",
          "position" : [
             "-1.27",
             "36.81"
@@ -4712,7 +4552,6 @@
          "ja_name" : "モロッコ王国",
          "ja_short_name" : "モロッコ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/morocco/index.html",
          "position" : [
             "34.02",
             "-6.83"
@@ -4737,7 +4576,6 @@
          "ja_name" : "ベリーズ",
          "ja_short_name" : "ベリーズ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/belize/index.html",
          "position" : [
             "17.26",
             "-88.78"
@@ -4786,7 +4624,6 @@
          "ja_name" : "チリ共和国",
          "ja_short_name" : "チリ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/chile/index.html",
          "position" : [
             "-33.47",
             "-70.64"
@@ -4811,7 +4648,6 @@
          "ja_name" : "イスラエル国",
          "ja_short_name" : "イスラエル",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/israel/index.html",
          "position" : [
             "31.77",
             "35.23"
@@ -4836,7 +4672,6 @@
          "ja_name" : "マダガスカル共和国",
          "ja_short_name" : "マダガスカル",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/madagascar/index.html",
          "position" : [
             "-18.91",
             "47.53"
@@ -4861,7 +4696,6 @@
          "ja_name" : "大韓民国",
          "ja_short_name" : "韓国",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/korea/index.html",
          "position" : [
             "37.53",
             "126.96"
@@ -4873,7 +4707,7 @@
          "submacroregion" : 30,
          "wikipedia_flag_file_name" : "File:Flag_of_South_Korea.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ks.html",
-         "wref_en" : "Korea_(Republic_of)",
+         "wref_en" : "South_Korea",
          "wref_ja" : "大韓民国"
       },
       "61" : {
@@ -4886,7 +4720,6 @@
          "ja_name" : "カンボジア王国",
          "ja_short_name" : "カンボジア",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cambodia/index.html",
          "position" : [
             "11.56",
             "104.92"
@@ -4911,7 +4744,6 @@
          "ja_name" : "グルジア",
          "ja_short_name" : "グルジア",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/georgia/index.html",
          "position" : [
             "41.71",
             "44.79"
@@ -4936,7 +4768,6 @@
          "ja_name" : "アイルランド",
          "ja_short_name" : "アイルランド",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ireland/index.html",
          "position" : [
             "53.34",
             "-6.27"
@@ -4961,7 +4792,6 @@
          "ja_name" : "スリランカ民主社会主義共和国",
          "ja_short_name" : "スリランカ",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/srilanka/index.html",
          "position" : [
             "6.9",
             "79.9"
@@ -4986,7 +4816,6 @@
          "ja_name" : "ペルー共和国",
          "ja_short_name" : "ペルー",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/peru/index.html",
          "position" : [
             "-12.09",
             "-77.05"
@@ -5011,7 +4840,6 @@
          "ja_name" : "トリニダード・トバゴ共和国",
          "ja_short_name" : "トリニダード・トバゴ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/trinidad/index.html",
          "position" : [
             "10.66",
             "-61.48"
@@ -5036,7 +4864,6 @@
          "ja_name" : "セントビンセント及びグレナディーン諸島",
          "ja_short_name" : "セントビンセント及びグレナディーン諸島",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/svg/index.html",
          "position" : [
             "13.2",
             "-61.27"
@@ -5061,7 +4888,6 @@
          "ja_name" : "マラウイ共和国",
          "ja_short_name" : "マラウイ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/malawi/index.html",
          "position" : [
             "-13.98",
             "33.77"
@@ -5086,7 +4912,6 @@
          "ja_name" : "コンゴ民主共和国",
          "ja_short_name" : "コンゴ民主共和国",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/congomin/index.html",
          "position" : [
             "-4.33",
             "15.32"
@@ -5098,7 +4923,7 @@
          "submacroregion" : 17,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Democratic_Republic_of_the_Congo.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/cg.html",
-         "wref_en" : "Congo_(Democratic_Republic_of_the)",
+         "wref_en" : "Democratic_Republic_of_the_Congo",
          "wref_ja" : "コンゴ民主共和国"
       },
       "7" : {
@@ -5111,7 +4936,6 @@
          "ja_name" : "トルコ共和国",
          "ja_short_name" : "トルコ",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/turkey/index.html",
          "position" : [
             "39.94",
             "32.85"
@@ -5129,14 +4953,13 @@
       "70" : {
          "code" : "SZ",
          "code3" : "SWZ",
-         "en_name" : "Swaziland",
+         "en_name" : "Eswatini",
          "en_short_name" : "SZ",
          "gec" : "WZ",
          "iso3166_numeric" : "748",
          "ja_name" : "スワジランド王国",
          "ja_short_name" : "スワジランド",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/swaziland/index.html",
          "position" : [
             "-26.32",
             "31.14"
@@ -5148,7 +4971,7 @@
          "submacroregion" : 18,
          "wikipedia_flag_file_name" : "File:Flag_of_Swaziland.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/wz.html",
-         "wref_en" : "Swaziland",
+         "wref_en" : "Eswatini",
          "wref_ja" : "スワジランド"
       },
       "71" : {
@@ -5161,7 +4984,6 @@
          "ja_name" : "ガボン共和国",
          "ja_short_name" : "ガボン",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/gabon/index.html",
          "position" : [
             "0.39",
             "9.45"
@@ -5186,7 +5008,6 @@
          "ja_name" : "ガイアナ共和国",
          "ja_short_name" : "ガイアナ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guyana/index.html",
          "position" : [
             "6.8",
             "-58.15"
@@ -5211,7 +5032,6 @@
          "ja_name" : "ルクセンブルク大公国",
          "ja_short_name" : "ルクセンブルク",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/luxembourg/index.html",
          "position" : [
             "49.83",
             "6.06"
@@ -5236,7 +5056,6 @@
          "ja_name" : "バーレーン王国",
          "ja_short_name" : "バーレーン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bahrain/index.html",
          "position" : [
             "26.22",
             "50.58"
@@ -5261,7 +5080,6 @@
          "ja_name" : "メキシコ合衆国",
          "ja_short_name" : "メキシコ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mexico/index.html",
          "position" : [
             "19.41",
             "-99.13"
@@ -5270,7 +5088,6 @@
          "status" : {
             "jp" : "country"
          },
-         "submacroregion" : 21,
          "wikipedia_flag_file_name" : "File:Flag_of_Mexico.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/mx.html",
          "wref_en" : "Mexico",
@@ -5286,7 +5103,6 @@
          "ja_name" : "スイス連邦",
          "ja_short_name" : "スイス",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/switzerland/index.html",
          "position" : [
             "46.95",
             "7.45"
@@ -5311,7 +5127,6 @@
          "ja_name" : "ホンジュラス共和国",
          "ja_short_name" : "ホンジュラス",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/honduras/index.html",
          "position" : [
             "14.1",
             "-87.21"
@@ -5336,7 +5151,6 @@
          "ja_name" : "ハイチ共和国",
          "ja_short_name" : "ハイチ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/haiti/index.html",
          "position" : [
             "18.54",
             "-72.33"
@@ -5361,7 +5175,6 @@
          "ja_name" : "サモア独立国",
          "ja_short_name" : "サモア",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/samoa/index.html",
          "position" : [
             "-13.83",
             "-171.75"
@@ -5386,7 +5199,6 @@
          "ja_name" : "クウェート国",
          "ja_short_name" : "クウェート",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kuwait/index.html",
          "position" : [
             "29.66",
             "47.55"
@@ -5411,7 +5223,6 @@
          "ja_name" : "スロバキア共和国",
          "ja_short_name" : "スロバキア",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/slovak/index.html",
          "position" : [
             "48.15",
             "17.13"
@@ -5435,7 +5246,6 @@
          "ja_name" : "コンゴ共和国",
          "ja_short_name" : "コンゴ共和国",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/congokyo/index.html",
          "position" : [
             "-4.27",
             "15.28"
@@ -5460,7 +5270,6 @@
          "ja_name" : "チェコ共和国",
          "ja_short_name" : "チェコ",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/czech/index.html",
          "position" : [
             "50.08",
             "14.44"
@@ -5472,7 +5281,7 @@
          "submacroregion" : 151,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Czech_Republic.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/ez.html",
-         "wref_en" : "Czechia",
+         "wref_en" : "Czech_Republic",
          "wref_ja" : "チェコ"
       },
       "83" : {
@@ -5485,7 +5294,6 @@
          "ja_name" : "オーストリア共和国",
          "ja_short_name" : "オーストリア",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/austria/index.html",
          "position" : [
             "48.2",
             "16.36"
@@ -5510,7 +5318,6 @@
          "ja_name" : "ジンバブエ共和国",
          "ja_short_name" : "ジンバブエ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/zimbabwe/index.html",
          "position" : [
             "-17.83",
             "31.05"
@@ -5535,7 +5342,6 @@
          "ja_name" : "ルーマニア",
          "ja_short_name" : "ルーマニア",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/romania/index.html",
          "position" : [
             "44.45",
             "26.1"
@@ -5560,7 +5366,6 @@
          "ja_name" : "タジキスタン共和国",
          "ja_short_name" : "タジキスタン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tajikistan/index.html",
          "position" : [
             "38.57",
             "68.78"
@@ -5585,7 +5390,6 @@
          "ja_name" : "アゼルバイジャン共和国",
          "ja_short_name" : "アゼルバイジャン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/azerbaijan/index.html",
          "position" : [
             "40.38",
             "49.89"
@@ -5610,7 +5414,6 @@
          "ja_name" : "カザフスタン共和国",
          "ja_short_name" : "カザフスタン",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kazakhstan/index.html",
          "position" : [
             "51.18",
             "71.45"
@@ -5635,7 +5438,6 @@
          "ja_name" : "チャド共和国",
          "ja_short_name" : "チャド",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/chad/index.html",
          "position" : [
             "12.1",
             "15.03"
@@ -5660,7 +5462,6 @@
          "ja_name" : "パナマ共和国",
          "ja_short_name" : "パナマ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/panama/index.html",
          "position" : [
             "8.97",
             "-79.53"
@@ -5685,7 +5486,6 @@
          "ja_name" : "ニウエ",
          "ja_short_name" : "ニウエ",
          "macroregion" : 9,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/niue/index.html",
          "position" : [
             "-19.01",
             "-169.92"
@@ -5710,7 +5510,6 @@
          "ja_name" : "スリナム共和国",
          "ja_short_name" : "スリナム",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/suriname/index.html",
          "position" : [
             "5.82",
             "-55.17"
@@ -5735,7 +5534,6 @@
          "ja_name" : "ガーナ共和国",
          "ja_short_name" : "ガーナ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ghana/index.html",
          "position" : [
             "5.56",
             "-0.2"
@@ -5760,7 +5558,6 @@
          "ja_name" : "ベラルーシ共和国",
          "ja_short_name" : "ベラルーシ",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/belarus/index.html",
          "position" : [
             "53.9",
             "27.58"
@@ -5785,7 +5582,6 @@
          "ja_name" : "ギニアビサウ共和国",
          "ja_short_name" : "ギニアビサウ",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guinea_b/index.html",
          "position" : [
             "11.86",
             "-15.6"
@@ -5810,7 +5606,6 @@
          "ja_name" : "バルバドス",
          "ja_short_name" : "バルバドス",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/barbados/index.html",
          "position" : [
             "13.09",
             "-59.61"
@@ -5835,7 +5630,6 @@
          "ja_name" : "ソマリア共和国",
          "ja_short_name" : "ソマリア",
          "macroregion" : 2,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/somali/index.html",
          "position" : [
             "2.08",
             "45.33"
@@ -5860,7 +5654,6 @@
          "ja_name" : "コスタリカ共和国",
          "ja_short_name" : "コスタリカ",
          "macroregion" : 19,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/costarica/index.html",
          "position" : [
             "9.93",
             "-84.08"
@@ -5885,7 +5678,6 @@
          "ja_name" : "リヒテンシュタイン公国",
          "ja_short_name" : "リヒテンシュタイン",
          "macroregion" : 150,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/liechtenstein/index.html",
          "position" : [
             "47.15",
             "9.53"
@@ -5910,7 +5702,6 @@
          "ja_name" : "東ティモール民主共和国",
          "ja_short_name" : "東ティモール",
          "macroregion" : 142,
-         "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/easttimor/index.html",
          "position" : [
             "-8.57",
             "125.57"
@@ -5922,7 +5713,7 @@
          "submacroregion" : 35,
          "wikipedia_flag_file_name" : "File:Flag_of_East_Timor.svg",
          "world_factbook_url" : "https://www.cia.gov/library/publications/the-world-factbook/geos/tt.html",
-         "wref_en" : "Timor-Leste",
+         "wref_en" : "East_Timor",
          "wref_ja" : "東ティモール"
       }
    }
