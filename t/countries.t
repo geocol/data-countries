@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "1..14"
+echo "1..15"
 basedir=`dirname $0`/..
 jq=$basedir/local/bin/jq
 
@@ -19,5 +19,6 @@ test 9 '.areas["140"].gec == "KV"'
 test 10 '.areas["140"].code != "XK"'
 test 11 '.areas["140"].world_factbook_url == "https://www.cia.gov/library/publications/the-world-factbook/geos/kv.html"'
 test 12 '.areas["296"].ja_name == "北マリアナ諸島"'
-test 13 '.areas["296"].mofa_anzen_url == "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_223.html"'
-test 14 '.areas["122"].mofa_area_url == "http://www.mofa.go.jp/mofaj/area/hongkong/index.html"'
+test 13 '.areas["296"].mofa_anzen_url == "https://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_223.html"'
+test 14 '.areas["122"].mofa_area_url == "https://www.mofa.go.jp/mofaj/area/hongkong/index.html"'
+test 15 '.areas["62"].ja_name == "ジョージア"'
