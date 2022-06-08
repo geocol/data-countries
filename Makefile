@@ -31,7 +31,7 @@ git-submodules:
 
 local/bin/pmbp.pl:
 	mkdir -p local/bin
-	$(WGET) -O $@ https://raw.github.com/wakaba/perl-setupenv/master/bin/pmbp.pl
+	$(WGET) -O $@ https://raw.githubusercontent.com/wakaba/perl-setupenv/master/bin/pmbp.pl
 pmbp-upgrade: local/bin/pmbp.pl
 	perl local/bin/pmbp.pl --update-pmbp-pl
 pmbp-update: git-submodules pmbp-upgrade
@@ -117,11 +117,11 @@ local/cia-list.json: local/cia-list.html bin/cia-list.pl
 	$(PERL) bin/cia-list.pl $< > $@
 
 local/mofa-anzen.html:
-	$(CURL) http://www.anzen.mofa.go.jp/travel/ > $@
+	$(CURL) https://www.anzen.mofa.go.jp/travel/ > $@
 local/mofa-anzen.json: local/mofa-anzen.html bin/mofa-anzen.pl
 	$(PERL) bin/mofa-anzen.pl $< > $@
 local/mofa-area.html:
-	$(CURL) http://www.mofa.go.jp/mofaj/area/ > $@
+	$(CURL) https://www.mofa.go.jp/mofaj/area/ > $@
 local/mofa-area.json: local/mofa-area.html bin/mofa-area.pl
 	$(PERL) bin/mofa-area.pl $< > $@
 
@@ -148,3 +148,5 @@ test-deps: deps local/bin/jq
 
 test-main:
 	$(PROVE) t/*.t
+
+## License: Public Domain.
