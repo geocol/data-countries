@@ -4777,6 +4777,16 @@
          "ja_short_name" : "ハワイ",
          "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_226.html"
       },
+      "432" : {
+         "code" : "UN",
+         "en_name" : "United Nations",
+         "en_short_name" : "United Nations"
+      },
+      "433" : {
+         "code" : "EZ",
+         "en_name" : "Eurozone",
+         "en_short_name" : "Eurozone"
+      },
       "436" : {
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/plo/index.html"
       },
