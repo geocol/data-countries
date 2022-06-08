@@ -10,6 +10,7 @@
          "ja_name" : "アンティグア・バーブーダ",
          "ja_short_name" : "アンティグア・バーブーダ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_286.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/antigua/index.html",
          "position" : [
             "17.12",
@@ -35,6 +36,7 @@
          "ja_name" : "カタール国",
          "ja_short_name" : "カタール",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_048.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/quatar/index.html",
          "position" : [
             "25.28",
@@ -60,6 +62,7 @@
          "ja_name" : "セルビア共和国",
          "ja_short_name" : "セルビア",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_175.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/serbia/index.html",
          "position" : [
             "44.8",
@@ -84,6 +87,7 @@
          "ja_name" : "ウズベキスタン共和国",
          "ja_short_name" : "ウズベキスタン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_183.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uzbekistan/index.html",
          "position" : [
             "41.31",
@@ -109,6 +113,7 @@
          "ja_name" : "ニカラグア共和国",
          "ja_short_name" : "ニカラグア",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_254.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nicaragua/index.html",
          "position" : [
             "12.15",
@@ -134,6 +139,7 @@
          "ja_name" : "カメルーン共和国",
          "ja_short_name" : "カメルーン",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_098.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cameroon/index.html",
          "position" : [
             "3.87",
@@ -159,6 +165,7 @@
          "ja_name" : "ザンビア共和国",
          "ja_short_name" : "ザンビア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_104.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/zambia/index.html",
          "position" : [
             "-15.41",
@@ -184,6 +191,7 @@
          "ja_name" : "マルタ共和国",
          "ja_short_name" : "マルタ",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_195.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/malta/index.html",
          "position" : [
             "35.9",
@@ -209,6 +217,7 @@
          "ja_name" : "シリア・アラブ共和国",
          "ja_short_name" : "シリア",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_051.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/syria/index.html",
          "position" : [
             "33.52",
@@ -234,6 +243,7 @@
          "ja_name" : "ポルトガル共和国",
          "ja_short_name" : "ポルトガル",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_174.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/portugal/index.html",
          "position" : [
             "38.71",
@@ -259,6 +269,7 @@
          "ja_name" : "チュニジア共和国",
          "ja_short_name" : "チュニジア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_113.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tunisia/index.html",
          "position" : [
             "36.82",
@@ -284,6 +295,7 @@
          "ja_name" : "レバノン共和国",
          "ja_short_name" : "レバノン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_055.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/lebanon/index.html",
          "position" : [
             "33.89",
@@ -309,6 +321,7 @@
          "ja_name" : "ベトナム社会主義共和国",
          "ja_short_name" : "ベトナム",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_015.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/vietnam/index.html",
          "position" : [
             "21.02",
@@ -334,6 +347,7 @@
          "ja_name" : "パラオ共和国",
          "ja_short_name" : "パラオ",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_272.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/palau/index.html",
          "position" : [
             "7.34",
@@ -359,6 +373,7 @@
          "ja_name" : "モナコ公国",
          "ja_short_name" : "モナコ",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_284.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/monaco/index.html",
          "position" : [
             "43.75",
@@ -384,6 +399,7 @@
          "ja_name" : "コロンビア共和国",
          "ja_short_name" : "コロンビア",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_248.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/colombia/index.html",
          "position" : [
             "4.61",
@@ -409,6 +425,7 @@
          "ja_name" : "中華人民共和国",
          "ja_short_name" : "中国",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_009.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/china/index.html",
          "position" : [
             "39.91",
@@ -434,6 +451,7 @@
          "ja_name" : "ラオス人民民主共和国",
          "ja_short_name" : "ラオス",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_020.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/laos/index.html",
          "position" : [
             "17.96",
@@ -459,6 +477,7 @@
          "ja_name" : "キプロス共和国",
          "ja_short_name" : "キプロス",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_193.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cyprus/index.html",
          "position" : [
             "35.17",
@@ -484,6 +503,7 @@
          "ja_name" : "ソロモン諸島",
          "ja_short_name" : "ソロモン諸島",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_072.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/solomon/index.html",
          "position" : [
             "-9.43",
@@ -509,6 +529,7 @@
          "ja_name" : "オーストラリア連邦",
          "ja_short_name" : "オーストラリア",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_071.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/australia/index.html",
          "position" : [
             "-35.33",
@@ -534,6 +555,7 @@
          "ja_name" : "セーシェル共和国",
          "ja_short_name" : "セーシェル",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_108.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/seychelles/index.html",
          "position" : [
             "-4.61",
@@ -559,6 +581,7 @@
          "ja_name" : "シンガポール共和国",
          "ja_short_name" : "シンガポール",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_005.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/singapore/index.html",
          "position" : [
             "1.29",
@@ -584,6 +607,7 @@
          "ja_name" : "モンテネグロ",
          "ja_short_name" : "モンテネグロ",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_179.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/montenegro/index.html",
          "position" : [
             "42.44",
@@ -609,6 +633,7 @@
          "ja_name" : "ウクライナ",
          "ja_short_name" : "ウクライナ",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_182.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ukraine/index.html",
          "position" : [
             "50.45",
@@ -634,6 +659,7 @@
          "ja_name" : "ボリビア多民族国",
          "ja_short_name" : "ボリビア",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_262.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bolivia/index.html",
          "position" : [
             "-16.5",
@@ -659,6 +685,7 @@
          "ja_name" : "香港",
          "ja_short_name" : "香港",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_016.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/hongkong/index.html",
          "position" : [
             "22.38",
@@ -684,6 +711,7 @@
          "ja_name" : "ナミビア共和国",
          "ja_short_name" : "ナミビア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_143.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/namibia/index.html",
          "position" : [
             "-22.57",
@@ -709,6 +737,7 @@
          "ja_name" : "ミクロネシア連邦",
          "ja_short_name" : "ミクロネシア",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_270.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/micronesia/index.html",
          "position" : [
             "6.92",
@@ -734,6 +763,7 @@
          "ja_name" : "ハンガリー",
          "ja_short_name" : "ハンガリー",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_168.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/hungary/index.html",
          "position" : [
             "47.5",
@@ -759,6 +789,7 @@
          "ja_name" : "インドネシア共和国",
          "ja_short_name" : "インドネシア",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_002.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/indonesia/index.html",
          "position" : [
             "-6.21",
@@ -808,6 +839,7 @@
          "ja_name" : "ボスニア・ヘルツェゴビナ",
          "ja_short_name" : "ボスニア・ヘルツェゴビナ",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_191.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bosnia_h/index.html",
          "position" : [
             "43.86",
@@ -833,6 +865,7 @@
          "ja_name" : "ネパール連邦民主共和国",
          "ja_short_name" : "ネパール",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_010.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nepal/index.html",
          "position" : [
             "27.7",
@@ -858,6 +891,7 @@
          "ja_name" : "バチカン市国",
          "ja_short_name" : "バチカン",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_167.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/vatican/index.html",
          "position" : [
             "41.9",
@@ -883,6 +917,7 @@
          "ja_name" : "マケドニア旧ユーゴスラビア共和国",
          "ja_short_name" : "マケドニア",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_205.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/macedonia/index.html",
          "position" : [
             "42",
@@ -908,6 +943,7 @@
          "ja_name" : "サンマリノ共和国",
          "ja_short_name" : "サンマリノ",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_285.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/sanmarino_r/index.html",
          "position" : [
             "43.96",
@@ -933,6 +969,7 @@
          "ja_name" : "モーリタニア・イスラム共和国",
          "ja_short_name" : "モーリタニア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_278.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mauritania/index.html",
          "position" : [
             "18.08",
@@ -958,6 +995,7 @@
          "ja_name" : "ギニア共和国",
          "ja_short_name" : "ギニア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_099.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guinea/index.html",
          "position" : [
             "9.54",
@@ -983,6 +1021,7 @@
          "ja_name" : "カーボヴェルデ共和国",
          "ja_short_name" : "カーボヴェルデ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_275.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/capeverde/index.html",
          "position" : [
             "14.92",
@@ -1008,6 +1047,7 @@
          "ja_name" : "南スーダン共和国",
          "ja_short_name" : "南スーダン",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_301.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/s_sudan/index.html",
          "position" : [
             "4.85",
@@ -1032,6 +1072,7 @@
          "ja_name" : "パラグアイ共和国",
          "ja_short_name" : "パラグアイ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_258.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/paraguay/index.html",
          "position" : [
             "-25.3",
@@ -1057,6 +1098,7 @@
          "ja_name" : "クロアチア共和国",
          "ja_short_name" : "クロアチア",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_188.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/croatia/index.html",
          "position" : [
             "45.81",
@@ -1082,6 +1124,7 @@
          "ja_name" : "アルジェリア民主人民共和国",
          "ja_short_name" : "アルジェリア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_091.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/algeria/index.html",
          "position" : [
             "36.75",
@@ -1107,6 +1150,7 @@
          "ja_name" : "ヨルダン・ハシェミット王国",
          "ja_short_name" : "ヨルダン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_054.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/jordan/index.html",
          "position" : [
             "31.95",
@@ -1132,6 +1176,7 @@
          "ja_name" : "ジャマイカ",
          "ja_short_name" : "ジャマイカ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_249.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/jamaica/index.html",
          "position" : [
             "17.98",
@@ -1173,6 +1218,7 @@
          "ja_name" : "トーゴ共和国",
          "ja_short_name" : "トーゴ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_114.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/togo/index.html",
          "position" : [
             "6.12",
@@ -1198,6 +1244,7 @@
          "ja_name" : "パプアニューギニア独立国",
          "ja_short_name" : "パプアニューギニア",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_075.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/png/index.html",
          "position" : [
             "-9.48",
@@ -1223,6 +1270,7 @@
          "ja_name" : "アンゴラ共和国",
          "ja_short_name" : "アンゴラ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_092.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/angola/index.html",
          "position" : [
             "-8.81",
@@ -1248,6 +1296,7 @@
          "ja_name" : "ブルンジ共和国",
          "ja_short_name" : "ブルンジ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_127.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/brundi/index.html",
          "position" : [
             "-3.38",
@@ -1273,6 +1322,7 @@
          "ja_name" : "リベリア共和国",
          "ja_short_name" : "リベリア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_126.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/liberia/index.html",
          "position" : [
             "6.3",
@@ -1298,6 +1348,7 @@
          "ja_name" : "ロシア連邦",
          "ja_short_name" : "ロシア",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_178.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/russia/index.html",
          "position" : [
             "55.76",
@@ -1323,6 +1374,7 @@
          "ja_name" : "デンマーク王国",
          "ja_short_name" : "デンマーク",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_164.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/denmark/index.html",
          "position" : [
             "55.68",
@@ -1348,6 +1400,7 @@
          "ja_name" : "バングラデシュ人民共和国",
          "ja_short_name" : "バングラデシュ",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_012.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bangladesh/index.html",
          "position" : [
             "23.71",
@@ -1373,6 +1426,7 @@
          "ja_name" : "イラン・イスラム共和国",
          "ja_short_name" : "イラン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_046.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/iran/index.html",
          "position" : [
             "35.7",
@@ -1398,6 +1452,7 @@
          "ja_name" : "ラトビア共和国",
          "ja_short_name" : "ラトビア",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_186.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/latvia/index.html",
          "position" : [
             "56.95",
@@ -1423,6 +1478,7 @@
          "ja_name" : "レソト王国",
          "ja_short_name" : "レソト",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_130.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/lesotho/index.html",
          "position" : [
             "-29.31",
@@ -1448,6 +1504,7 @@
          "ja_name" : "モザンビーク共和国",
          "ja_short_name" : "モザンビーク",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_123.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mozambique/index.html",
          "position" : [
             "-25.97",
@@ -1473,6 +1530,7 @@
          "ja_name" : "南アフリカ共和国",
          "ja_short_name" : "南アフリカ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_122.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/s_africa/index.html",
          "position" : [
             "-25.73",
@@ -1498,6 +1556,7 @@
          "ja_name" : "モーリシャス共和国",
          "ja_short_name" : "モーリシャス",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_279.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mauritius/index.html",
          "position" : [
             "-20.17",
@@ -1523,6 +1582,7 @@
          "ja_name" : "アンドラ公国",
          "ja_short_name" : "アンドラ",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_297.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/andorra/index.html",
          "position" : [
             "42.5",
@@ -1548,6 +1608,7 @@
          "ja_name" : "アルゼンチン共和国",
          "ja_short_name" : "アルゼンチン",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_241.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/argentine/index.html",
          "position" : [
             "-34.61",
@@ -1573,6 +1634,7 @@
          "ja_name" : "ベネズエラ・ボリバル共和国",
          "ja_short_name" : "ベネズエラ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_260.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/venezuela/index.html",
          "position" : [
             "10.49",
@@ -1598,6 +1660,7 @@
          "ja_name" : "リトアニア共和国",
          "ja_short_name" : "リトアニア",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_192.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/lithuania/index.html",
          "position" : [
             "54.68",
@@ -1623,6 +1686,7 @@
          "ja_name" : "マレーシア",
          "ja_short_name" : "マレーシア",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_017.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/malaysia/index.html",
          "position" : [
             "3.15",
@@ -1648,6 +1712,7 @@
          "ja_name" : "キリバス共和国",
          "ja_short_name" : "キリバス",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_268.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kiribati/index.html",
          "position" : [
             "1.47",
@@ -1673,6 +1738,7 @@
          "ja_name" : "サウジアラビア王国",
          "ja_short_name" : "サウジアラビア",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_050.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/saudi/index.html",
          "position" : [
             "24.64",
@@ -1698,6 +1764,7 @@
          "ja_name" : "グレートブリテン及び北アイルランド連合王国",
          "ja_short_name" : "英国",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_154.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uk/index.html",
          "position" : [
             "55.378051",
@@ -1724,6 +1791,7 @@
          "ja_name" : "エクアドル共和国",
          "ja_short_name" : "エクアドル",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_243.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ecuador/index.html",
          "position" : [
             "-0.15",
@@ -1749,6 +1817,7 @@
          "ja_name" : "ニジェール共和国",
          "ja_short_name" : "ニジェール",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_116.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/niger/index.html",
          "position" : [
             "13.52",
@@ -1774,6 +1843,7 @@
          "ja_name" : "イエメン共和国",
          "ja_short_name" : "イエメン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_043.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/yemen/index.html",
          "position" : [
             "15.8",
@@ -1799,6 +1869,7 @@
          "ja_name" : "モルディブ共和国",
          "ja_short_name" : "モルディブ",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_024.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/maldives/index.html",
          "position" : [
             "4.17",
@@ -1824,6 +1895,7 @@
          "ja_name" : "エリトリア国",
          "ja_short_name" : "エリトリア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_139.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/eritrea/index.html",
          "position" : [
             "15.33",
@@ -1849,6 +1921,7 @@
          "ja_name" : "中華民国",
          "ja_short_name" : "台湾",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_008.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/taiwan/index.html",
          "position" : [
             "25.04",
@@ -1874,6 +1947,7 @@
          "ja_name" : "アイスランド共和国",
          "ja_short_name" : "アイスランド",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_282.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/iceland/index.html",
          "position" : [
             "64.14",
@@ -1899,6 +1973,7 @@
          "ja_name" : "ブルガリア共和国",
          "ja_short_name" : "ブルガリア",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_171.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bulgaria/index.html",
          "position" : [
             "42.71",
@@ -1924,6 +1999,7 @@
          "ja_name" : "ドミニカ共和国",
          "ja_short_name" : "ドミニカ共和国",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_252.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/dominican_r/index.html",
          "position" : [
             "18.48",
@@ -1949,6 +2025,7 @@
          "ja_name" : "ツバル",
          "ja_short_name" : "ツバル",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_274.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tuvalu/index.html",
          "position" : [
             "-8.51",
@@ -1974,6 +2051,7 @@
          "ja_name" : "アメリカ合衆国",
          "ja_short_name" : "アメリカ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_221.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/usa/index.html",
          "position" : [
             "38.88",
@@ -1999,6 +2077,7 @@
          "ja_name" : "ブータン王国",
          "ja_short_name" : "ブータン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_039.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bhutan/index.html",
          "position" : [
             "27.44",
@@ -2024,6 +2103,7 @@
          "ja_name" : "エストニア共和国",
          "ja_short_name" : "エストニア",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_155.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/estonia/index.html",
          "position" : [
             "59.43",
@@ -2049,6 +2129,7 @@
          "ja_name" : "ウガンダ共和国",
          "ja_short_name" : "ウガンダ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_093.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uganda/index.html",
          "position" : [
             "0.31",
@@ -2074,6 +2155,7 @@
          "ja_name" : "コートジボワール共和国",
          "ja_short_name" : "コートジボワール",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_101.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cote_d/index.html",
          "position" : [
             "6.82",
@@ -2099,6 +2181,7 @@
          "ja_name" : "マカオ",
          "ja_short_name" : "マカオ",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_036.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/macao/index.html",
          "position" : [
             "22.19",
@@ -2124,6 +2207,7 @@
          "ja_name" : "アルメニア共和国",
          "ja_short_name" : "アルメニア",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_199.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/armenia/index.html",
          "position" : [
             "40.16",
@@ -2149,6 +2233,7 @@
          "ja_name" : "パキスタン・イスラム共和国",
          "ja_short_name" : "パキスタン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_011.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/pakistan/index.html",
          "position" : [
             "33.72",
@@ -2174,6 +2259,7 @@
          "ja_name" : "アルバニア共和国",
          "ja_short_name" : "アルバニア",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_196.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/albania/index.html",
          "position" : [
             "41.33",
@@ -2199,6 +2285,7 @@
          "ja_name" : "フィンランド共和国",
          "ja_short_name" : "フィンランド",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_169.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/finland/index.html",
          "position" : [
             "60.16",
@@ -2224,6 +2311,7 @@
          "ja_name" : "ベナン共和国",
          "ja_short_name" : "ベナン",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_118.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/benin/index.html",
          "position" : [
             "6.48",
@@ -2249,6 +2337,7 @@
          "ja_name" : "リビア",
          "ja_short_name" : "リビア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_125.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/libya/index.html",
          "position" : [
             "32.88",
@@ -2274,6 +2363,7 @@
          "ja_name" : "ドイツ連邦共和国",
          "ja_short_name" : "ドイツ",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_165.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/germany/index.html",
          "position" : [
             "52.52",
@@ -2299,6 +2389,7 @@
          "ja_name" : "ナウル共和国",
          "ja_short_name" : "ナウル",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_271.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nauru/index.html",
          "position" : [
             "-0.53",
@@ -2324,6 +2415,7 @@
          "ja_name" : "セントクリストファー・ネーヴィス",
          "ja_short_name" : "セントクリストファー・ネーヴィス",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_291.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/scn/index.html",
          "position" : [
             "17.3",
@@ -2349,6 +2441,7 @@
          "ja_name" : "ニュージーランド",
          "ja_short_name" : "ニュージーランド",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_074.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nz/index.html",
          "position" : [
             "-41.32",
@@ -2374,6 +2467,7 @@
          "ja_name" : "ブルネイ・ダルサラーム国",
          "ja_short_name" : "ブルネイ",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_014.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/brunei/index.html",
          "position" : [
             "4.94",
@@ -2399,6 +2493,7 @@
          "ja_name" : "グアテマラ共和国",
          "ja_short_name" : "グアテマラ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_246.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guatemala/index.html",
          "position" : [
             "14.63",
@@ -2424,6 +2519,7 @@
          "ja_name" : "バハマ国",
          "ja_short_name" : "バハマ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_257.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bahama/index.html",
          "position" : [
             "25.07",
@@ -2449,6 +2545,7 @@
          "ja_name" : "ミャンマー連邦共和国",
          "ja_short_name" : "ミャンマー",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_018.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/myanmar/index.html",
          "position" : [
             "16.78",
@@ -2474,6 +2571,7 @@
          "ja_name" : "サントメ・プリンシペ民主共和国",
          "ja_short_name" : "サントメ・プリンシペ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_280.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/stp/index.html",
          "position" : [
             "0.34",
@@ -2499,6 +2597,7 @@
          "ja_name" : "オランダ王国",
          "ja_short_name" : "オランダ",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_157.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/netherlands/index.html",
          "position" : [
             "52.37",
@@ -2524,6 +2623,7 @@
          "ja_name" : "モンゴル国",
          "ja_short_name" : "モンゴル",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_019.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mongolia/index.html",
          "position" : [
             "47.9",
@@ -2549,6 +2649,7 @@
          "ja_name" : "トンガ王国",
          "ja_short_name" : "トンガ",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_273.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tonga/index.html",
          "position" : [
             "-21.14",
@@ -2574,6 +2675,7 @@
          "ja_name" : "スウェーデン王国",
          "ja_short_name" : "スウェーデン",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_160.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/sweden/index.html",
          "position" : [
             "59.33",
@@ -2599,6 +2701,7 @@
          "ja_name" : "赤道ギニア共和国",
          "ja_short_name" : "赤道ギニア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_276.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/eq_guinea/index.html",
          "position" : [
             "3.75",
@@ -2624,6 +2727,7 @@
          "ja_name" : "セネガル共和国",
          "ja_short_name" : "セネガル",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_109.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/senegal/index.html",
          "position" : [
             "14.69",
@@ -2649,6 +2753,7 @@
          "ja_name" : "ナイジェリア連邦共和国",
          "ja_short_name" : "ナイジェリア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_115.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/nigeria/index.html",
          "position" : [
             "9.19",
@@ -2674,6 +2779,7 @@
          "ja_name" : "ギリシャ共和国",
          "ja_short_name" : "ギリシャ",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_158.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/greece/index.html",
          "position" : [
             "37.98",
@@ -2699,6 +2805,7 @@
          "ja_name" : "オマーン国",
          "ja_short_name" : "オマーン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_047.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/oman/index.html",
          "position" : [
             "23.61",
@@ -2724,6 +2831,7 @@
          "ja_name" : "シエラレオネ共和国",
          "ja_short_name" : "シエラレオネ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_105.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/s_leone/index.html",
          "position" : [
             "8.48",
@@ -2749,6 +2857,7 @@
          "ja_name" : "アラブ首長国連邦",
          "ja_short_name" : "アラブ首長国連邦",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_042.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uae/index.html",
          "position" : [
             "24.48",
@@ -2774,6 +2883,7 @@
          "ja_name" : "キルギス共和国",
          "ja_short_name" : "キルギス",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_265.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kyrgyz/index.html",
          "position" : [
             "42.87",
@@ -2799,6 +2909,7 @@
          "ja_name" : "ベルギー王国",
          "ja_short_name" : "ベルギー",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_172.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/belgium/index.html",
          "position" : [
             "50.84",
@@ -2824,6 +2935,7 @@
          "ja_name" : "スペイン",
          "ja_short_name" : "スペイン",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_161.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/spain/index.html",
          "position" : [
             "40.42",
@@ -2849,6 +2961,7 @@
          "ja_name" : "朝鮮民主主義人民共和国",
          "ja_short_name" : "北朝鮮",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_035.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/n_korea/index.html",
          "position" : [
             "39.03",
@@ -2949,6 +3062,7 @@
          "ja_name" : "アフガニスタン・イスラム共和国",
          "ja_short_name" : "アフガニスタン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_041.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/afghanistan/index.html",
          "position" : [
             "34.53",
@@ -2986,7 +3100,10 @@
          "en_short_name" : "GI",
          "gec" : "GI",
          "iso3166_numeric" : "292",
+         "ja_name" : "ジブラルタル",
+         "ja_short_name" : "ジブラルタル",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_197.html",
          "stanag" : "GIB",
          "submacroregion" : 39,
          "wikipedia_flag_file_name" : "File:Flag_of_Gibraltar.svg",
@@ -3087,6 +3204,7 @@
          "ja_name" : "ブルキナファソ",
          "ja_short_name" : "ブルキナファソ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_117.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/burkina/index.html",
          "position" : [
             "12.36",
@@ -3191,6 +3309,7 @@
          "ja_name" : "カナダ",
          "ja_short_name" : "カナダ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_222.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/canada/index.html",
          "position" : [
             "45.42",
@@ -3264,6 +3383,7 @@
          "ja_name" : "ガンビア共和国",
          "ja_short_name" : "ガンビア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_277.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/gambia/index.html",
          "position" : [
             "13.45",
@@ -3331,7 +3451,10 @@
          "en_short_name" : "Western Sahara",
          "gec" : "WI",
          "iso3166_numeric" : "732",
+         "ja_name" : "西サハラ",
+         "ja_short_name" : "西サハラ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_142.html",
          "stanag" : "ESH",
          "submacroregion" : 15,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
@@ -3368,6 +3491,7 @@
          "ja_name" : "エルサルバドル共和国",
          "ja_short_name" : "エルサルバドル",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_244.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/elsalvador/index.html",
          "position" : [
             "13.71",
@@ -3390,7 +3514,10 @@
          "en_short_name" : "Guam",
          "gec" : "GQ",
          "iso3166_numeric" : "316",
+         "ja_name" : "グアム",
+         "ja_short_name" : "グアム",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_224.html",
          "stanag" : "GUM",
          "submacroregion" : 57,
          "wikipedia_flag_file_name" : "File:Flag_of_Guam.svg",
@@ -3445,6 +3572,7 @@
          "ja_name" : "ボツワナ共和国",
          "ja_short_name" : "ボツワナ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_296.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/botswana/index.html",
          "position" : [
             "-24.67",
@@ -3533,6 +3661,7 @@
          "ja_name" : "バヌアツ共和国",
          "ja_short_name" : "バヌアツ",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_078.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/vanuatu/index.html",
          "position" : [
             "-17.74",
@@ -3555,7 +3684,10 @@
          "en_short_name" : "New Caledonia",
          "gec" : "NC",
          "iso3166_numeric" : "540",
+         "ja_name" : "ニューカレドニア",
+         "ja_short_name" : "ニューカレドニア",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_299.html",
          "stanag" : "NCL",
          "submacroregion" : 54,
          "wikipedia_flag_file_name" : "File:Flags_of_New_Caledonia.svg",
@@ -3612,6 +3744,7 @@
          "gec" : "FP",
          "iso3166_numeric" : "258",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_079.html",
          "stanag" : "PYF",
          "submacroregion" : 61,
          "wikipedia_flag_file_name" : "File:Flag_of_French_Polynesia.svg",
@@ -3629,6 +3762,7 @@
          "ja_name" : "フィジー共和国",
          "ja_short_name" : "フィジー",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_076.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/fiji/index.html",
          "position" : [
             "-18.14",
@@ -3713,6 +3847,7 @@
          "ja_name" : "ブラジル連邦共和国",
          "ja_short_name" : "ブラジル",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_259.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/brazil/index.html",
          "position" : [
             "-15.79",
@@ -3779,7 +3914,10 @@
          "en_short_name" : "Northern Mariana Islands",
          "gec" : "CQ",
          "iso3166_numeric" : "580",
+         "ja_name" : "北マリアナ諸島",
+         "ja_short_name" : "北マリアナ諸島",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_223.html",
          "stanag" : "MNP",
          "submacroregion" : 57,
          "wikipedia_flag_file_name" : "File:Flag_of_the_Northern_Mariana_Islands.svg",
@@ -3797,6 +3935,7 @@
          "ja_name" : "キューバ共和国",
          "ja_short_name" : "キューバ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_245.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cuba/index.html",
          "position" : [
             "23.12",
@@ -3822,6 +3961,7 @@
          "ja_name" : "ルワンダ共和国",
          "ja_short_name" : "ルワンダ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_131.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/rwanda/index.html",
          "position" : [
             "-1.95",
@@ -3923,6 +4063,7 @@
          "ja_name" : "エチオピア連邦民主共和国",
          "ja_short_name" : "エチオピア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_095.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ethiopia/index.html",
          "position" : [
             "9.02",
@@ -4008,6 +4149,7 @@
          "ja_name" : "フランス共和国",
          "ja_short_name" : "フランス",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_170.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/france/index.html",
          "position" : [
             "48.86",
@@ -4085,6 +4227,7 @@
          "ja_name" : "モルドバ共和国",
          "ja_short_name" : "モルドバ",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_198.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/moldova/index.html",
          "position" : [
             "47",
@@ -4117,6 +4260,7 @@
          "ja_name" : "マーシャル諸島共和国",
          "ja_short_name" : "マーシャル諸島",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_269.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/marshall/index.html",
          "position" : [
             "7.12",
@@ -4142,6 +4286,7 @@
          "ja_name" : "ノルウェー王国",
          "ja_short_name" : "ノルウェー",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_166.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/norway/index.html",
          "position" : [
             "59.91",
@@ -4167,6 +4312,7 @@
          "ja_name" : "スロベニア共和国",
          "ja_short_name" : "スロベニア",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_162.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/slovenia/index.html",
          "position" : [
             "46.06",
@@ -4192,6 +4338,7 @@
          "ja_name" : "イラク共和国",
          "ja_short_name" : "イラク",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_045.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/iraq/index.html",
          "position" : [
             "33.33",
@@ -4217,6 +4364,7 @@
          "ja_name" : "ジブチ共和国",
          "ja_short_name" : "ジブチ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_141.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/djibouti/index.html",
          "position" : [
             "11.99",
@@ -4242,6 +4390,7 @@
          "ja_name" : "イタリア共和国",
          "ja_short_name" : "イタリア",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_153.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/italy/index.html",
          "position" : [
             "41.9",
@@ -4267,6 +4416,7 @@
          "ja_name" : "マリ共和国",
          "ja_short_name" : "マリ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_121.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mali/index.html",
          "position" : [
             "12.65",
@@ -4292,6 +4442,7 @@
          "ja_name" : "ウルグアイ東方共和国",
          "ja_short_name" : "ウルグアイ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_242.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/uruguay/index.html",
          "position" : [
             "-34.89",
@@ -4317,6 +4468,7 @@
          "ja_name" : "スーダン共和国",
          "ja_short_name" : "スーダン",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_107.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/sudan/index.html",
          "position" : [
             "15.55",
@@ -4342,6 +4494,7 @@
          "ja_name" : "タイ王国",
          "ja_short_name" : "タイ",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_007.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/thailand/index.html",
          "position" : [
             "13.73",
@@ -4367,6 +4520,7 @@
          "ja_name" : "ドミニカ国",
          "ja_short_name" : "ドミニカ国",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_289.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/c_dominica/index.html",
          "position" : [
             "15.3",
@@ -4384,7 +4538,10 @@
       },
       "431" : {
          "en_name" : "Hawaii",
-         "en_short_name" : "Hawaii"
+         "en_short_name" : "Hawaii",
+         "ja_name" : "ハワイ",
+         "ja_short_name" : "ハワイ",
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_226.html"
       },
       "432" : {
          "code" : "UN",
@@ -4412,6 +4569,7 @@
          "ja_name" : "インド",
          "ja_short_name" : "インド",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_001.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/india/index.html",
          "position" : [
             "28.61",
@@ -4437,6 +4595,7 @@
          "ja_name" : "クック諸島",
          "ja_short_name" : "クック諸島",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_300.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cook/index.html",
          "position" : [
             "-21.20",
@@ -4462,6 +4621,7 @@
          "ja_name" : "トルクメニスタン",
          "ja_short_name" : "トルクメニスタン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_202.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/turkmenistan/index.html",
          "position" : [
             "37.97",
@@ -4487,6 +4647,7 @@
          "ja_name" : "中央アフリカ共和国",
          "ja_short_name" : "中央アフリカ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_112.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/car/index.html",
          "position" : [
             "4.36",
@@ -4512,6 +4673,7 @@
          "ja_name" : "エジプト・アラブ共和国",
          "ja_short_name" : "エジプト",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_094.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/egypt/index.html",
          "position" : [
             "30.06",
@@ -4537,6 +4699,7 @@
          "ja_name" : "フィリピン共和国",
          "ja_short_name" : "フィリピン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_013.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/philippines/index.html",
          "position" : [
             "14.6",
@@ -4562,6 +4725,7 @@
          "ja_name" : "ポーランド共和国",
          "ja_short_name" : "ポーランド",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_173.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/poland/index.html",
          "position" : [
             "52.24",
@@ -4587,6 +4751,7 @@
          "ja_name" : "セントルシア",
          "ja_short_name" : "セントルシア",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_292.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/s_lucia/index.html",
          "position" : [
             "14",
@@ -4612,6 +4777,7 @@
          "ja_name" : "タンザニア連合共和国",
          "ja_short_name" : "タンザニア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_111.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tanzania/index.html",
          "position" : [
             "-6.82",
@@ -4637,6 +4803,7 @@
          "ja_name" : "コモロ連合",
          "ja_short_name" : "コモロ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_135.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/comoros/index.html",
          "position" : [
             "-11.7",
@@ -4662,6 +4829,7 @@
          "ja_name" : "グレナダ",
          "ja_short_name" : "グレナダ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_290.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/grenada/index.html",
          "position" : [
             "12.07",
@@ -4687,6 +4855,7 @@
          "ja_name" : "ケニア共和国",
          "ja_short_name" : "ケニア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_100.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kenya/index.html",
          "position" : [
             "-1.27",
@@ -4712,6 +4881,7 @@
          "ja_name" : "モロッコ王国",
          "ja_short_name" : "モロッコ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_124.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/morocco/index.html",
          "position" : [
             "34.02",
@@ -4737,6 +4907,7 @@
          "ja_name" : "ベリーズ",
          "ja_short_name" : "ベリーズ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_288.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/belize/index.html",
          "position" : [
             "17.26",
@@ -4786,6 +4957,7 @@
          "ja_name" : "チリ共和国",
          "ja_short_name" : "チリ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_251.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/chile/index.html",
          "position" : [
             "-33.47",
@@ -4811,6 +4983,7 @@
          "ja_name" : "イスラエル国",
          "ja_short_name" : "イスラエル",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_044.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/israel/index.html",
          "position" : [
             "31.77",
@@ -4836,6 +5009,7 @@
          "ja_name" : "マダガスカル共和国",
          "ja_short_name" : "マダガスカル",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_119.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/madagascar/index.html",
          "position" : [
             "-18.91",
@@ -4861,6 +5035,7 @@
          "ja_name" : "大韓民国",
          "ja_short_name" : "韓国",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_003.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/korea/index.html",
          "position" : [
             "37.53",
@@ -4886,6 +5061,7 @@
          "ja_name" : "カンボジア王国",
          "ja_short_name" : "カンボジア",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_004.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/cambodia/index.html",
          "position" : [
             "11.56",
@@ -4911,6 +5087,7 @@
          "ja_name" : "グルジア",
          "ja_short_name" : "グルジア",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_200.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/georgia/index.html",
          "position" : [
             "41.71",
@@ -4936,6 +5113,7 @@
          "ja_name" : "アイルランド",
          "ja_short_name" : "アイルランド",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_151.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ireland/index.html",
          "position" : [
             "53.34",
@@ -4961,6 +5139,7 @@
          "ja_name" : "スリランカ民主社会主義共和国",
          "ja_short_name" : "スリランカ",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_006.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/srilanka/index.html",
          "position" : [
             "6.9",
@@ -4986,6 +5165,7 @@
          "ja_name" : "ペルー共和国",
          "ja_short_name" : "ペルー",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_261.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/peru/index.html",
          "position" : [
             "-12.09",
@@ -5011,6 +5191,7 @@
          "ja_name" : "トリニダード・トバゴ共和国",
          "ja_short_name" : "トリニダード・トバゴ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_253.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/trinidad/index.html",
          "position" : [
             "10.66",
@@ -5036,6 +5217,7 @@
          "ja_name" : "セントビンセント及びグレナディーン諸島",
          "ja_short_name" : "セントビンセント及びグレナディーン諸島",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_293.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/svg/index.html",
          "position" : [
             "13.2",
@@ -5061,6 +5243,7 @@
          "ja_name" : "マラウイ共和国",
          "ja_short_name" : "マラウイ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_120.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/malawi/index.html",
          "position" : [
             "-13.98",
@@ -5086,6 +5269,7 @@
          "ja_name" : "コンゴ民主共和国",
          "ja_short_name" : "コンゴ民主共和国",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_103.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/congomin/index.html",
          "position" : [
             "-4.33",
@@ -5111,6 +5295,7 @@
          "ja_name" : "トルコ共和国",
          "ja_short_name" : "トルコ",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_052.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/turkey/index.html",
          "position" : [
             "39.94",
@@ -5136,6 +5321,7 @@
          "ja_name" : "スワジランド王国",
          "ja_short_name" : "スワジランド",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_281.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/swaziland/index.html",
          "position" : [
             "-26.32",
@@ -5161,6 +5347,7 @@
          "ja_name" : "ガボン共和国",
          "ja_short_name" : "ガボン",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_097.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/gabon/index.html",
          "position" : [
             "0.39",
@@ -5186,6 +5373,7 @@
          "ja_name" : "ガイアナ共和国",
          "ja_short_name" : "ガイアナ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_294.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guyana/index.html",
          "position" : [
             "6.8",
@@ -5211,6 +5399,7 @@
          "ja_name" : "ルクセンブルク大公国",
          "ja_short_name" : "ルクセンブルク",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_176.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/luxembourg/index.html",
          "position" : [
             "49.83",
@@ -5236,6 +5425,7 @@
          "ja_name" : "バーレーン王国",
          "ja_short_name" : "バーレーン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_053.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/bahrain/index.html",
          "position" : [
             "26.22",
@@ -5261,6 +5451,7 @@
          "ja_name" : "メキシコ合衆国",
          "ja_short_name" : "メキシコ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_264.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/mexico/index.html",
          "position" : [
             "19.41",
@@ -5286,6 +5477,7 @@
          "ja_name" : "スイス連邦",
          "ja_short_name" : "スイス",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_159.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/switzerland/index.html",
          "position" : [
             "46.95",
@@ -5311,6 +5503,7 @@
          "ja_name" : "ホンジュラス共和国",
          "ja_short_name" : "ホンジュラス",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_263.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/honduras/index.html",
          "position" : [
             "14.1",
@@ -5336,6 +5529,7 @@
          "ja_name" : "ハイチ共和国",
          "ja_short_name" : "ハイチ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_255.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/haiti/index.html",
          "position" : [
             "18.54",
@@ -5361,6 +5555,7 @@
          "ja_name" : "サモア独立国",
          "ja_short_name" : "サモア",
          "macroregion" : 9,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_073.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/samoa/index.html",
          "position" : [
             "-13.83",
@@ -5386,6 +5581,7 @@
          "ja_name" : "クウェート国",
          "ja_short_name" : "クウェート",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_049.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kuwait/index.html",
          "position" : [
             "29.66",
@@ -5411,6 +5607,7 @@
          "ja_name" : "スロバキア共和国",
          "ja_short_name" : "スロバキア",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_184.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/slovak/index.html",
          "position" : [
             "48.15",
@@ -5435,6 +5632,7 @@
          "ja_name" : "コンゴ共和国",
          "ja_short_name" : "コンゴ共和国",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_102.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/congokyo/index.html",
          "position" : [
             "-4.27",
@@ -5460,6 +5658,7 @@
          "ja_name" : "チェコ共和国",
          "ja_short_name" : "チェコ",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_163.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/czech/index.html",
          "position" : [
             "50.08",
@@ -5485,6 +5684,7 @@
          "ja_name" : "オーストリア共和国",
          "ja_short_name" : "オーストリア",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_156.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/austria/index.html",
          "position" : [
             "48.2",
@@ -5510,6 +5710,7 @@
          "ja_name" : "ジンバブエ共和国",
          "ja_short_name" : "ジンバブエ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_106.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/zimbabwe/index.html",
          "position" : [
             "-17.83",
@@ -5535,6 +5736,7 @@
          "ja_name" : "ルーマニア",
          "ja_short_name" : "ルーマニア",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_177.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/romania/index.html",
          "position" : [
             "44.45",
@@ -5560,6 +5762,7 @@
          "ja_name" : "タジキスタン共和国",
          "ja_short_name" : "タジキスタン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_201.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/tajikistan/index.html",
          "position" : [
             "38.57",
@@ -5585,6 +5788,7 @@
          "ja_name" : "アゼルバイジャン共和国",
          "ja_short_name" : "アゼルバイジャン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_152.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/azerbaijan/index.html",
          "position" : [
             "40.38",
@@ -5610,6 +5814,7 @@
          "ja_name" : "カザフスタン共和国",
          "ja_short_name" : "カザフスタン",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_187.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/kazakhstan/index.html",
          "position" : [
             "51.18",
@@ -5635,6 +5840,7 @@
          "ja_name" : "チャド共和国",
          "ja_short_name" : "チャド",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_137.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/chad/index.html",
          "position" : [
             "12.1",
@@ -5660,6 +5866,7 @@
          "ja_name" : "パナマ共和国",
          "ja_short_name" : "パナマ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_256.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/panama/index.html",
          "position" : [
             "8.97",
@@ -5710,6 +5917,7 @@
          "ja_name" : "スリナム共和国",
          "ja_short_name" : "スリナム",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_250.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/suriname/index.html",
          "position" : [
             "5.82",
@@ -5735,6 +5943,7 @@
          "ja_name" : "ガーナ共和国",
          "ja_short_name" : "ガーナ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_096.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/ghana/index.html",
          "position" : [
             "5.56",
@@ -5760,6 +5969,7 @@
          "ja_name" : "ベラルーシ共和国",
          "ja_short_name" : "ベラルーシ",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_185.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/belarus/index.html",
          "position" : [
             "53.9",
@@ -5785,6 +5995,7 @@
          "ja_name" : "ギニアビサウ共和国",
          "ja_short_name" : "ギニアビサウ",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_140.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/guinea_b/index.html",
          "position" : [
             "11.86",
@@ -5810,6 +6021,7 @@
          "ja_name" : "バルバドス",
          "ja_short_name" : "バルバドス",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_287.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/barbados/index.html",
          "position" : [
             "13.09",
@@ -5835,6 +6047,7 @@
          "ja_name" : "ソマリア共和国",
          "ja_short_name" : "ソマリア",
          "macroregion" : 2,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_110.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/somali/index.html",
          "position" : [
             "2.08",
@@ -5860,6 +6073,7 @@
          "ja_name" : "コスタリカ共和国",
          "ja_short_name" : "コスタリカ",
          "macroregion" : 19,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_247.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/costarica/index.html",
          "position" : [
             "9.93",
@@ -5885,6 +6099,7 @@
          "ja_name" : "リヒテンシュタイン公国",
          "ja_short_name" : "リヒテンシュタイン",
          "macroregion" : 150,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_283.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/liechtenstein/index.html",
          "position" : [
             "47.15",
@@ -5910,6 +6125,7 @@
          "ja_name" : "東ティモール民主共和国",
          "ja_short_name" : "東ティモール",
          "macroregion" : 142,
+         "mofa_anzen_url" : "http://www.anzen.mofa.go.jp/info/pcinfectionspothazardinfo_295.html",
          "mofa_area_url" : "http://www.mofa.go.jp/mofaj/area/easttimor/index.html",
          "position" : [
             "-8.57",
